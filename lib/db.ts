@@ -4,16 +4,24 @@ import fs from "node:fs";
 
 const DB_PATH = path.join(process.cwd(), "data", "hwarex.db");
 
+// On Vercel the function filesystem is read-only and the DB is bundled in via
+// next.config's outputFileTracingIncludes. Skip schema init + WAL pragmas there.
+const READONLY = !!process.env.VERCEL;
+
 let _db: Database.Database | null = null;
 
 export function db(): Database.Database {
   if (_db) return _db;
-  fs.mkdirSync(path.dirname(DB_PATH), { recursive: true });
-  _db = new Database(DB_PATH);
-  _db.pragma("journal_mode = WAL");
-  _db.pragma("synchronous = NORMAL");
-  _db.pragma("foreign_keys = ON");
-  init(_db);
+  if (!READONLY) fs.mkdirSync(path.dirname(DB_PATH), { recursive: true });
+  _db = new Database(DB_PATH, READONLY ? { readonly: true, fileMustExist: true } : {});
+  if (!READONLY) {
+    _db.pragma("journal_mode = WAL");
+    _db.pragma("synchronous = NORMAL");
+    _db.pragma("foreign_keys = ON");
+    init(_db);
+  } else {
+    _db.pragma("query_only = ON");
+  }
   return _db;
 }
 

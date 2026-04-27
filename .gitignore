@@ -27,8 +27,7 @@ SPGlobal_Export*.xlsx
 SPGlobal_Export*.xls
 SPGlobal_Export*.csv
 
-# SQLite database (rebuilt from the xlsx) — bring your own
-data/*.db
+# SQLite WAL / SHM are transient — only commit the main .db file
 data/*.db-shm
 data/*.db-wal
 data/*.db-journal
