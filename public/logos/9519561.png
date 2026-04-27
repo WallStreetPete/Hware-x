@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>广脉科技股份有限公司</title>
+    <meta name="keywords" content="广脉科技股份有限公司"/>
+    <meta name="description" content="广脉科技股份有限公司是一家致力于提供信息通信技术（简称“ICT”）的综合解决方案提供商。公司立足信息通信产业，依托核心技术，把握5G、物联网、云计算、大数据和人工智能等技术发展新趋势，为通信运营商、政府等行业客户提供技术先进、安全可靠的“产品+服务”的整体解决方案，在5G通信各种场景下提供全面的行业应用。"/>
+    <link href="/static/index/zh-cn/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/index/zh-cn/css/swiper.css">
+    <link rel="stylesheet" href="/static/index/zh-cn/css/owl.carousel.css">
+    <link rel="stylesheet" href="/static/index/zh-cn/css/owl.theme.css">
+    <link href="/static/index/zh-cn/css/basic.css" rel="stylesheet">
+    <link href="/static/index/zh-cn/css/style.css" rel="stylesheet">
+    <link href="/static/index/zh-cn/css/animate.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/index/zh-cn/css/util.css">
+    <!-- <link rel="stylesheet" type="text/css" href="/static/index/zh-cn/css/normalize.css" /> -->
+    <!-- <link rel="stylesheet" type="text/css" href="/static/index/zh-cn/css/zoomio.css"> -->
+    <script src="/static/index/zh-cn/js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="/static/index/zh-cn/js/bootstrap.js" type="text/javascript"></script>
+    <script src="/static/index/zh-cn/js/swiper.min.js" type="text/javascript"></script>
+    <script src="/static/index/zh-cn/js/owl.carousel.js" type="text/javascript"></script>
+    <script src="/static/index/zh-cn/js/common.js" type="text/javascript"></script>
+    <script src="/static/index/zh-cn/js/wow.js"></script>
+    <script src="/static/index/zh-cn/layer/layer.js"></script>
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))){
+            new WOW().init();
+        };
+    </script>
+    
+</head>
+
+<body>
+<!--头部-->
+<header>
+    <div class="container">
+        <div class="header-top">
+            <div class="headertop-left clearfix">
+                <!-- logo -->
+               <a href="/" class="logo wow fadeInDown">
+                    <img src="/upload/admin/info/20220507/a3064e29321148fabd5507acdb1255f6.png" alt="广脉科技股份有限公司">
+                </a>
+                <div class="gupiao">
+                    <h5>股票代码</h5>
+                    <span>920924</span>
+                </div>
+            </div>
+            <!-- 搜索 -->
+            <div class="headertop-center">
+                <form action="/index/search/search.html" class="search-form" method="post">
+                    <input name="keyword" type="text" class="search-txt" placeholder="" >
+                    <input type="submit" class="search-btn" value="搜索">
+                </form>
+            </div>
+            <div class="header-tel wow fadeInDown" data-wow-delay=".2s">
+                <img src="/static/index/zh-cn/img/header_tel_icon.png" alt="">
+                <span>0571-85088000</span>
+            </div>
+            <!-- 手机导航 -->
+            <a id="navToggle"><span>Mobile menu</span></a>
+        </div>
+    </div>
+    <!-- nav -->
+    <div class="nav wow fadeInUp1">
+        <div class="container nav-box">
+            <ul class="nav-ul clearfix">
+                <li ><a href="/index/about/index.html">关于广脉</a>
+                    <div class="nav-sub">
+                        <dl>
+                                                        <dd><a href="/index/about/index/mid/AHwh0.html">公司简介</a></dd>
+                                                        <dd><a href="/index/about/index/mid/9u-gi.html">企业文化</a></dd>
+                                                        <dd><a href="/index/about/index/mid/JFOsA.html">荣誉资质</a></dd>
+                                                        <dd><a href="/index/about/index/mid/FGM64.html">研发质量</a></dd>
+                                                        <dd><a href="/index/about/index/mid/kiqOZ.html">服务理念</a></dd>
+                                                        <dd><a href="/index/about/index/mid/%253DBD7w.html">合作伙伴</a></dd>
+                                                    </dl>
+                    </div>
+                </li>
+                <li ><a href="/index/solution/index.html">解决方案</a>
+                    <div class="nav-sub">
+                        <dl>
+                                                    <dd><a href="/index/cases/index/mid/bIQrS.html">5G新基建</a></dd>
+                                                    <dd><a href="/index/cases/index/mid/ur2EQ.html">ICT及行业应用</a></dd>
+                                                    <dd><a href="/index/cases/index/mid/Q-o6%253D.html">高铁信息化</a></dd>
+                                                    <dd><a href="/index/cases/index/mid/UZb50.html">算力服务</a></dd>
+                                                </dl>
+                    </div>
+                </li>
+                <li ><a href="/index/cases/index.html">案例中心</a>
+                    <div class="nav-sub">
+                        <dl>
+                                                    <dd><a href="/index/cases/index/mid/bIQrS.html">5G新基建</a></dd>
+                                                    <dd><a href="/index/cases/index/mid/ur2EQ.html">ICT及行业应用</a></dd>
+                                                    <dd><a href="/index/cases/index/mid/Q-o6%253D.html">高铁信息化</a></dd>
+                                                    <dd><a href="/index/cases/index/mid/UZb50.html">算力服务</a></dd>
+                                                </dl>
+                    </div>
+                </li>
+                <li ><a href="/index/news/index.html">新闻中心</a>
+                    <div class="nav-sub">
+                        <dl>
+                                                    <dd><a href="/index/news/index/mid/yzMuS.html">公司新闻</a></dd>
+                                                    <dd><a href="/index/news/index/mid/-8Dry.html">行业新闻</a></dd>
+                                                </dl>
+                    </div>
+                </li>
+                <li ><a href="/index/investor/index.html">投资者关系</a>
+                    <div class="nav-sub">
+                        <dl>
+                            <dd ><a href="http://www.gcomtechnology.com/1.html" target="_blank" >企业公示</a></dd>
+                            <!--<dd><a href="/index/investor/index.html">互动交流</a></dd>-->
+                            <dd><a href="https://ir.p5w.net/c/920924" target="_blank">互动交流</a></dd>
+                        </dl>
+                    </div>
+                </li>
+                <li ><a href="/index/join/index.html">人才招聘</a>
+                    <div class="nav-sub">
+                        <dl>
+                            <dd><a href="/index/join/index.html">用人理念</a></dd>
+                            <dd><a href="/index/join/index.html#job">招聘信息</a></dd>
+                        </dl>
+                    </div>
+                </li>
+                <li ><a href="/index/contact/index.html">联系我们</a></li>
+            </ul>
+            <div class="nav-mask"></div>
+        </div>
+    </div>
+</header>
+
+
+<!--banner-->
+<div id="banner" class="swiper-container banner-swiper">
+    <div class="swiper-wrapper">
+                <div class="swiper-slide">
+            <a href=""><img src="/upload/admin/banner/20200627/c559eadad8e87ff0306a45496660595b.jpg" alt=""></a>
+        </div>
+                <div class="swiper-slide">
+            <a href=""><img src="/upload/admin/banner/20200627/614e558bf6e8ce6c6c4f9d2314db83c0.jpg" alt=""></a>
+        </div>
+                <div class="swiper-slide">
+            <a href="/"><img src="/upload/admin/banner/20200713/95a4431ffa88cfff94e3a8c8d2b421d1.jpg" alt=""></a>
+        </div>
+            </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+</div>
+
+
+<!-- 解决方案 -->
+<div class="home-solution">
+    <div class="container">
+        <div class="public-title wow fadeInUp1">
+            <h2>SOLUTION</h2>
+            <span>解决方案</span>
+        </div>
+        <div class="hsolution-main clearfix">
+            <div class="hsolution-left">
+                <!-- 上面列表 -->
+                <ul class="hsolution-ul">
+                                        <li class="on">
+                        <a href="##">
+                            <span>5G新基建</span>
+                            <img src="/upload/admin/img1/20200624/8cb961933d19019142be4b78862c0bb8.png" alt="5G新基建图标">
+                        </a>
+                    </li>
+                                        <li >
+                        <a href="##">
+                            <span>ICT 及行业应用</span>
+                            <img src="/upload/admin/img1/20200624/04e1aa71d768aef7779a7d89ed375fd9.png" alt="ICT 及行业应用图标">
+                        </a>
+                    </li>
+                                        <li >
+                        <a href="##">
+                            <span>高铁信息化</span>
+                            <img src="/upload/admin/img1/20200624/2518292117a7dc82e8f104a273187eff.png" alt="高铁信息化图标">
+                        </a>
+                    </li>
+                                        <li >
+                        <a href="##">
+                            <span>算力服务</span>
+                            <img src="/upload/admin/img1/20200624/150e72945907dfc7064645210b568a41.png" alt="算力服务图标">
+                        </a>
+                    </li>
+                                    </ul>
+                <!-- 底下文字 -->
+                <div class="hsolutxt-list">
+                                        <div class="hsolutxt-item hsolutxt-show">
+                        <div class="hsolution-txt">
+                            <p>在国家以5G、数据中心、工业互联网、人工智能等为基础的新基建战略部署引领下，以及“后疫情时代”政府加大力度提升社区治理等战略机会下，公司四大板块业务将迎来非常广阔的发展前景。</p>
+                        </div>
+                        <ul class="hsolutxt-ul fadeInUp">
+                          <li>传输管线</li><li>驻地网及集客专线</li><li>设备安装</li><li>室内分布</li><li>基站站址</li>                        </ul>
+                    </div>
+                                        <div class="hsolutxt-item ">
+                        <div class="hsolution-txt">
+                            <p>在国家以5G、数据中心、工业互联网、人工智能等为基础的新基建战略部署引领下，以及“后疫情时代”政府加大力度提升社区治理等战略机会下，公司四大板块业务将迎来非常广阔的发展前景。</p>
+                        </div>
+                        <ul class="hsolutxt-ul fadeInUp">
+                          <li>平安城市</li><li>未来社区</li><li>智慧教育</li><li>信创业务</li><li>信息安全<br/></li>                        </ul>
+                    </div>
+                                        <div class="hsolutxt-item ">
+                        <div class="hsolution-txt">
+                            <p>在国家以5G、数据中心、工业互联网、人工智能等为基础的新基建战略部署引领下，以及“后疫情时代”政府加大力度提升社区治理等战略机会下，公司四大板块业务将迎来非常广阔的发展前景。</p>
+                        </div>
+                        <ul class="hsolutxt-ul fadeInUp">
+                          <li>高铁公网</li><li>高铁专网</li><li>高铁信息化集成及产品</li>                        </ul>
+                    </div>
+                                        <div class="hsolutxt-item ">
+                        <div class="hsolution-txt">
+                            <p>在国家以5G、数据中心、工业互联网、人工智能等为基础的新基建战略部署引领下，以及“后疫情时代”政府加大力度提升社区治理等战略机会下，公司四大板块业务将迎来非常广阔的发展前景。</p>
+                        </div>
+                        <ul class="hsolutxt-ul fadeInUp">
+                          <li>算力基建</li><li>算力运营</li><li>AI应用</li>                        </ul>
+                    </div>
+                                    </div>
+            </div>
+            <div class="hsolution-right">
+                                <div class="hsolution-img fadeInRight hsolutionimg-show">
+                    <img src="/upload/admin/img2/20200624/d52d83eb43fc6976fd640b8df0501080.png" alt="5G新基建">
+                </div>
+                                <div class="hsolution-img fadeInRight ">
+                    <img src="/upload/admin/img2/20200715/863bc3e6b76d30ee065d3ae2be6f9d01.png" alt="ICT 及行业应用">
+                </div>
+                                <div class="hsolution-img fadeInRight ">
+                    <img src="/upload/admin/img2/20200715/98f549d659ee18aa2129d3a156844766.png" alt="高铁信息化">
+                </div>
+                                <div class="hsolution-img fadeInRight ">
+                    <img src="/upload/admin/img2/20200715/b4cbfe4e02af5e3113802a2c2b8b57a1.png" alt="算力服务">
+                </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<!-- 关于广脉 -->
+<div class="habout-us">
+    <!-- 背景动画 -->
+    <div class="demo-1">
+        <div class="content">
+            <div id="large-header" class="large-header" style="height: 800px;">
+                <canvas id="demo-canvas"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="habout-left">
+        <div class="habout-img wow fadeInLeft1">
+            <img src="/upload/admin/otherimg/20200627/bac01c6309e3260075fae156e49dfc36.jpg" alt="">
+        </div>
+        <div class="habout-main" id="habout-main">
+            <div class="public-title">
+                <h2>About US</h2>
+                <span>关于广脉</span>
+            </div>
+            <div class="habout-txt habout-txt1">广脉科技股份有限公司成立于2012年3月， 总部位于杭州国家高新技术产业开发区（滨江），2016年8月挂牌新三板，2017年5月进入创新层，2018年入围杭州市首批83家重点拟上市企业，2019、2020连续二年入选“杭州准独角兽企业榜单，2020年荣获滨江区政府质量奖，是浙江省5G产业联盟会员单位、省级疫情防控重点保障企业。</div><div class="habout-txt habout-txt2">公司主营业务包括通信系统集成、ICT及行业应用、资产运营服务、数字内容服务四大产品线，主要客户为通信运营商及政府、企业。公司立足信息通信产业，依托核心技术，把握5G、物联网、云计算、大数据和人工智能等技术发展新趋势，为通信运营商、政府等行业客户提供技术先进、安全可靠的“产品+服务”的整体解决方案，在5G通信各种场景下提供全面的行业应用。</div>            <a href="/index/about/index.html" class="habout-more">了解更多</a>
+        </div>
+    </div>
+    <ul class="habout-list wow fadeInRight1">
+                <li>
+            <a href="/index/about/index/mid/AHwh0.html">
+                <h3>公司简介</h3>
+                <span>Company Profile</span>
+            </a>
+        </li>
+                <li>
+            <a href="/index/about/index/mid/9u-gi.html">
+                <h3>企业文化</h3>
+                <span>company culture</span>
+            </a>
+        </li>
+                <li>
+            <a href="/index/about/index/mid/JFOsA.html">
+                <h3>荣誉资质</h3>
+                <span>honor</span>
+            </a>
+        </li>
+                <li>
+            <a href="/index/about/index/mid/FGM64.html">
+                <h3>研发质量</h3>
+                <span>R & D quality</span>
+            </a>
+        </li>
+                <li>
+            <a href="/index/about/index/mid/kiqOZ.html">
+                <h3>服务理念</h3>
+                <span>Service philosophy</span>
+            </a>
+        </li>
+                <li>
+            <a href="/index/about/index/mid/%253DBD7w.html">
+                <h3>合作伙伴</h3>
+                <span>Partner</span>
+            </a>
+        </li>
+            </ul>
+</div>
+<!-- 案例中心 -->
+<div class="home-case">
+    <div class="container">
+        <div class="public-title">
+            <h2>case Center</h2>
+            <span>案例中心</span>
+        </div>
+        <div class="hcase-main">
+            <div class="hcase-left hcase-img wow fadeInUp1">
+                <a href="/index/cases/info/id/qpA0E.html">
+                    <img src="/upload/admin/cases/20250113/bb8591902dbaeff450285c2fcd5e4cf7.jpg" alt="杭州第19届亚运会">
+                    <div class="hcase-mask">
+                        <p>杭州第19届亚运会</p>
+                    </div>
+                </a>
+            </div>
+            <div class="hcase-center hcase-img wow fadeInUp1" data-wow-delay=".2s">
+                <a href="/index/cases/info/id/iUG%253DE.html">
+                    <img src="/upload/admin/cases/20200708/bcc639d554a2ec9812f36855cd46f884.jpg" alt="萧山国际机场">
+                    <div class="hcase-mask">
+                        <p>萧山国际机场</p>
+                    </div>
+                </a>
+            </div>
+            <div class="hcase-left hcase-right">
+                <div class="hcase-item hcase-img wow fadeInUp1" data-wow-delay=".4s">
+                    <a href="/index/cases/info/id/XLQAO.html">
+                        <img src="/upload/admin/cases/20200708/d886dfc85c68f78e9c4809e2b69c1d5f.jpg" alt="铁塔三方租赁项目">
+                        <div class="hcase-mask">
+                            <p>铁塔三方租赁项目</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="hcase-item hcase-img wow fadeInUp1" data-wow-delay=".6s">
+                    <a href="/index/cases/info/id/%252B-Hoi.html">
+                        <img src="/upload/admin/cases/20200708/06237d7542777bc2ce75dd7e677c5be1.jpg" alt="杭州电子科技大学青山湖校区智慧校园项目">
+                        <div class="hcase-mask">
+                            <p>杭州电子科技大学青山湖校区智慧校园项目</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <a href="/index/cases/index.html" class="look-more">更多案例</a>
+    </div>
+</div>
+<!-- 新闻中心 -->
+<div class="home-news">
+    <div class="container">
+        <div class="public-title">
+            <h2>NEWS</h2>
+            <span>新闻中心</span>
+        </div>
+        <div class="hnews-main">
+            <div class="hnews-left wow fadeInRight1">
+                <div class="swiper-container hnews-swiper">
+                    <div class="swiper-wrapper">
+                                                <div class="swiper-slide">
+                            <div class="hnews-img">
+                                <a href="/index/news/info/id/bIwPD.html"><img src="/upload/admin/otherimg/20251014/798b0fb61a645478b313bab1feb71424.png" alt=""></a>
+                                <div class="hnews-mask">
+                                    <span>2025-10-13</span>
+                                    <p>广脉科技董事长赵国民荣膺 清华企业家协会（TEEC）创业成就奖</p>
+                                </div>
+                            </div>
+                        </div>
+                                                <div class="swiper-slide">
+                            <div class="hnews-img">
+                                <a href="/index/news/info/id/0zgVR.html"><img src="/upload/admin/otherimg/20251014/33af805e583d171226f80d9b799d9ae3.png" alt=""></a>
+                                <div class="hnews-mask">
+                                    <span>2025-10-09</span>
+                                    <p>证券代码焕新｜广脉科技正式切换“920924”新代码</p>
+                                </div>
+                            </div>
+                        </div>
+                                                <div class="swiper-slide">
+                            <div class="hnews-img">
+                                <a href="/index/news/info/id/UZr5r.html"><img src="/upload/admin/otherimg/20250913/c96d9598c8a440d76601a61e161d2f70.jpg" alt=""></a>
+                                <div class="hnews-mask">
+                                    <span>2025-09-10</span>
+                                    <p>杭州移动副总经理傅升红一行莅临广脉科技指导交流</p>
+                                </div>
+                            </div>
+                        </div>
+                                            </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+            <div class="hnews-right wow fadeInRight1" data-wow-delay=".2s">
+                <ul class="hnews-ul">
+                                        <li class="clearfix">
+                        <a href="/index/news/info/id/bIwPD.html">
+                            <div class="hnews-date">
+                                <strong>13</strong>
+                                <span>2025-10</span>
+                            </div>
+                            <div class="hnews-info">
+                                <h2>广脉科技董事长赵国民荣膺 清华企业家协会（TEEC）创业成就奖</h2>
+                                <p>近日，以“百舸争流湘江畔，清风徐来又一程”为主题的清华企业家协会（以下简称TEEC）&nbsp;2025年会在长沙成功举办。超过500位来自全球的TEEC会员、各领域企业家、投资人及学者齐聚湘江之滨，共襄盛会。广脉科技董...</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="clearfix">
+                        <a href="/index/news/info/id/0zgVR.html">
+                            <div class="hnews-date">
+                                <strong>09</strong>
+                                <span>2025-10</span>
+                            </div>
+                            <div class="hnews-info">
+                                <h2>证券代码焕新｜广脉科技正式切换“920924”新代码</h2>
+                                <p>2025年10月9日起，广脉科技股份有限公司（以下简称“公司”）正式启用北京证券交易所（以下简称“北交所”）统一证券代码号段“920”。根据北交所统一部署，公司证券代码由原“838924”切换为“920924”，证券简称“...</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="clearfix">
+                        <a href="/index/news/info/id/UZr5r.html">
+                            <div class="hnews-date">
+                                <strong>10</strong>
+                                <span>2025-09</span>
+                            </div>
+                            <div class="hnews-info">
+                                <h2>杭州移动副总经理傅升红一行莅临广脉科技指导交流</h2>
+                                <p>9月10日，中国移动通信集团浙江有限公司杭州分公司（以下简称“杭州移动”）副总经理傅升红一行莅临广脉科技股份有限公司（以下简称“广脉科技”）指导交流。广脉科技董事长赵国民携公司管理团队热情接待。在公司管...</p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 合作客户 -->
+<div class="partner">
+    <div class="container">
+        <h2 class="partner-title">合作客户</h2>
+        <div id="owl-partners" class="owl-carousel clearfix wow fadeInUp1">
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20200627/c7a7c2b85656338bedd1aa6aba942262.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20200627/a1b45d7c62e0934938a4410795eca8fd.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20200627/d627cc7394c1f4a7b5f724f7ce471a1a.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20200812/c650472ae2129d5c21d3b04957a091dd.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20250113/d572f0d1c620667ce86067f87f214e29.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20200627/64f8b6dd68d6ea76c0f940200b4d227f.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20250113/5b18bfe8684c5ee20ddda6509daf5295.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20250113/937cfdecf74f26e4ef4ce2866b11cbef.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20200713/80b4cb9b3380dc8a726b3bd169bca2d0.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20200713/c9cb0ee088bd426b6cf0f25e5f92d82f.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20200713/c00333ceed5a9b854efd74a54c4e7514.jpg" alt="">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="partners-img">
+                    <img src="/upload/admin/proimg/20250113/852f45cf5ce95b7b5909076a471d17dc.jpg" alt="">
+                </div>
+            </div>
+                    </div>
+        <!-- <ul class="partner-list wow fadeInUp1">
+                        <li><img src="/upload/admin/proimg/20200627/c7a7c2b85656338bedd1aa6aba942262.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20200627/a1b45d7c62e0934938a4410795eca8fd.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20200627/d627cc7394c1f4a7b5f724f7ce471a1a.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20200812/c650472ae2129d5c21d3b04957a091dd.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20250113/d572f0d1c620667ce86067f87f214e29.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20200627/64f8b6dd68d6ea76c0f940200b4d227f.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20250113/5b18bfe8684c5ee20ddda6509daf5295.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20250113/937cfdecf74f26e4ef4ce2866b11cbef.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20200713/80b4cb9b3380dc8a726b3bd169bca2d0.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20200713/c9cb0ee088bd426b6cf0f25e5f92d82f.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20200713/c00333ceed5a9b854efd74a54c4e7514.jpg" alt=""></li>
+                        <li><img src="/upload/admin/proimg/20250113/852f45cf5ce95b7b5909076a471d17dc.jpg" alt=""></li>
+                    </ul> -->
+    </div>
+</div>
+
+
+<!-- 底部 -->
+<div id="footer">
+    <div class="container footer-main">
+        <div class="footer-top">
+            <ul class="footer-nav wow fadeInUp1">
+                <li>
+                    <h2><a href="/index/about/index.html">关于广脉</a></h2>
+                    <dl>
+                                                <dd><a href="/index/about/index/mid/AHwh0.html">公司简介</a></dd>
+                                                <dd><a href="/index/about/index/mid/9u-gi.html">企业文化</a></dd>
+                                                <dd><a href="/index/about/index/mid/JFOsA.html">荣誉资质</a></dd>
+                                                <dd><a href="/index/about/index/mid/FGM64.html">研发质量</a></dd>
+                                                <dd><a href="/index/about/index/mid/kiqOZ.html">服务理念</a></dd>
+                                                <dd><a href="/index/about/index/mid/%253DBD7w.html">合作伙伴</a></dd>
+                                            </dl>
+                </li>
+                <li>
+                    <h2><a href="/index/solution/index.html">解决方案</a></h2>
+                    <dl>
+                                                <dd><a href="/index/cases/index/mid/bIQrS.html">5G新基建</a></dd>
+                                                <dd><a href="/index/cases/index/mid/ur2EQ.html">ICT及行业应用</a></dd>
+                                                <dd><a href="/index/cases/index/mid/Q-o6%253D.html">高铁信息化</a></dd>
+                                                <dd><a href="/index/cases/index/mid/UZb50.html">算力服务</a></dd>
+                                            </dl>
+                </li>
+                <li>
+                    <h2><a href="/index/cases/index.html">案例中心</a></h2>
+                    <dl>
+                                                <dd><a href="/index/cases/index/mid/bIQrS.html">5G新基建</a></dd>
+                                                <dd><a href="/index/cases/index/mid/ur2EQ.html">ICT及行业应用</a></dd>
+                                                <dd><a href="/index/cases/index/mid/Q-o6%253D.html">高铁信息化</a></dd>
+                                                <dd><a href="/index/cases/index/mid/UZb50.html">算力服务</a></dd>
+                                            </dl>
+                </li>
+                <li>
+                    <h2><a href="/index/news/index.html">新闻中心</a></h2>
+                    <dl>
+                                                <dd><a href="/index/news/index/mid/yzMuS.html">公司新闻</a></dd>
+                                                <dd><a href="/index/news/index/mid/-8Dry.html">行业新闻</a></dd>
+                                            </dl>
+                </li>
+                <li>
+                    <h2><a href="/index/investor/index.html">投资者关系</a></h2>
+                    <dl>
+                        <dd ><a href="http://www.gcomtechnology.com/1.html" target="_blank" >企业公示</a></dd>
+                        <dd><a href="https://ir.p5w.net/c/838924.shtml" target="_blank">互动交流</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <h2><a href="/index/join/index.html">人才招聘</a></h2>
+                    <dl>
+                        <dd><a href="/index/join/index.html">用人理念</a></dd>
+                        <dd><a href="/index/join/index.html#job">招聘信息</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <h2><a href="/index/contact/index.html">联系我们</a></h2>
+                    <dl>
+                        <dd><a href="/index/contact/index.html">联系方式</a></dd>
+                    </dl>
+                </li>
+            </ul>
+            <div class="footer-other clearfix">
+              <a href="/" class="footer-logo wow fadeInLeft1">
+                    <img src="/upload/admin/otherimg/20220507/7c0f139ef470a61315bfe2fb4882f068.png" alt="">
+                </a>
+                <div class="xg-link wow fadeInRight1">
+                    <!-- <input type="text" placeholder="相关链接"> -->
+                    <select>
+                        <option value ="volvo">相关链接</option>
+                                            </select>
+                </div>
+            </div>
+        </div>
+        <div class="copy">
+            <p style="text-align: center;">COPYRIGHT © 2025 广脉科技股份有限公司 &nbsp;版权所有&nbsp; 部分图片素材来源于网络，如有侵权请联系立即删除&nbsp;&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank"><span style="color: rgb(125, 125, 125);">浙ICP备18003047号-1</span></a>&nbsp; <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010802012409" target="_blank" style="color: rgb(125, 125, 125);"><img src="/ueditor/php/upload/image/20220527/1653612845103043.png" title="1653612845103043.png" alt="beian.png"/>浙公网安备 33010802012409号</a>&nbsp;</span>        </div>
+    </div>
+</div>
+<!-- 手机导航 -->
+<nav id="mobileMenu">
+    <div class="hello">
+        <h3>网站导航</h3>
+        <div class="cha"></div>
+    </div>
+    <ul class="menu">
+        <li class="menu_li">
+            <a href="javascript:;">关于广脉</a>
+            <div class="menu_dl">
+                <dl>
+                                        <dd><a href="/index/about/index/mid/AHwh0.html">公司简介</a></dd>
+                                        <dd><a href="/index/about/index/mid/9u-gi.html">企业文化</a></dd>
+                                        <dd><a href="/index/about/index/mid/JFOsA.html">荣誉资质</a></dd>
+                                        <dd><a href="/index/about/index/mid/FGM64.html">研发质量</a></dd>
+                                        <dd><a href="/index/about/index/mid/kiqOZ.html">服务理念</a></dd>
+                                        <dd><a href="/index/about/index/mid/%253DBD7w.html">合作伙伴</a></dd>
+                                    </dl>
+            </div>
+        </li>
+        <li class="menu_li">
+            <a href="javascript:;">解决方案</a>
+            <div class="menu_dl">
+                <dl>
+                    <dd><a href="/index/solution/index.html">解决方案</a></dd>
+                                        <dd><a href="/index/cases/index/mid/bIQrS.html">5G新基建</a></dd>
+                                        <dd><a href="/index/cases/index/mid/ur2EQ.html">ICT及行业应用</a></dd>
+                                        <dd><a href="/index/cases/index/mid/Q-o6%253D.html">高铁信息化</a></dd>
+                                        <dd><a href="/index/cases/index/mid/UZb50.html">算力服务</a></dd>
+                                    </dl>
+            </div>
+        </li>
+        <li class="menu_li">
+            <a href="javascript:;">案例中心</a>
+            <div class="menu_dl">
+                <dl>
+                    <dd><a href="/index/cases/index.html">全部案例</a></dd>
+                                        <dd><a href="/index/cases/index/mid/bIQrS.html">5G新基建</a></dd>
+                                        <dd><a href="/index/cases/index/mid/ur2EQ.html">ICT及行业应用</a></dd>
+                                        <dd><a href="/index/cases/index/mid/Q-o6%253D.html">高铁信息化</a></dd>
+                                        <dd><a href="/index/cases/index/mid/UZb50.html">算力服务</a></dd>
+                                    </dl>
+            </div>
+        </li>
+        <li class="menu_li">
+            <a href="javascript:;">新闻中心</a>
+            <div class="menu_dl">
+                <dl>
+                    <dd><a href="/index/cases/index.html">全部新闻</a></dd>
+                                        <dd><a href="/index/news/index/mid/yzMuS.html">公司新闻</a></dd>
+                                        <dd><a href="/index/news/index/mid/-8Dry.html">行业新闻</a></dd>
+                                    </dl>
+            </div>
+        </li>
+        <li class="menu_li">
+            <a href="javascript:;">投资者关系</a>
+            <div class="menu_dl">
+                <dl>
+                    <dd><a href="/index/investor/index.html" >投资者关系</a></dd>
+                    <dd><a href="http://www.gcomtechnology.com/1.html" target="_blank">企业公示</a></dd>
+                     <dd><a href="https://ir.p5w.net/c/838924.shtml" target="_blank">互动交流</a></dd>
+                </dl>
+            </div>
+        </li>
+        <li class="menu_li">
+            <a href="javascript:;">人才招聘</a>
+            <div class="menu_dl">
+                <dl>
+                    <dd><a href="/index/join/index.html">用人理念</a></dd>
+                    <dd><a href="/index/join/index.html#job">招聘信息</a></dd>
+                </dl>
+            </div>
+        </li>
+        <li><a href="/index/contact/index.html">联系我们</a></li>
+    </ul>
+</nav>
+
+
+<script src="/static/index/zh-cn/js/three.min.js"></script>
+<script src="/static/index/zh-cn/js/TweenLite.min.js"></script>
+<script src="/static/index/zh-cn/js/EasePack.min.js"></script>
+<script src="/static/index/zh-cn/js/rAF.js"></script>
+<script src="/static/index/zh-cn/js/demo-1.js"></script>
+
+
+</body>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="/static/index/zh-cn/js/html5shiv.min.js"></script>
+<script src="/static/index/zh-cn/js/respond.min.js"></script>
+<script>
+    alert("您的浏览器版本过低请升级！");
+    location.href = "http://outdatedbrowser.com/zh-cn";
+</script>
+<![endif]-->
+
+</html>

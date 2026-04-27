@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Abalance</title>
+<meta name="description" content="Abalance（株）は、太陽光パネル製造事業及びグリーンエネルギー事業を主力事業とし、国内外で太陽光発電や蓄電池を中心に事業を展開しています。「再生可能エネルギーの中核的グローバル企業」として、社会的ニーズに応える価値を創出し、持続可能な社会の実現を目指しています。">
+
+<meta name="copyright" content="Copyright © 2025 Abalance Inc.">
+<meta name="author" content="Abalance Inc.">
+<meta name="Targeted Geographic Area" content="Japan">
+<meta name="coverage" content="Japan">
+<meta name="rating" content="general">
+<meta name="content-language" content="ja">
+<meta name="format-detection" content="telephone=no">
+<link rel="canonical" href="https://www.abalance.jp/">
+
+<meta property="og:site_name" content="Abalance">
+<meta property="og:title" content="Abalance">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.abalance.jp/">
+<meta property="og:image" content="https://www.abalance.jp/wp-content/themes/abalance/assets/img/ogp.png">
+<meta property="og:description" content="Abalance（株）は、太陽光パネル製造事業及びグリーンエネルギー事業を主力事業とし、国内外で太陽光発電や蓄電池を中心に事業を展開しています。「再生可能エネルギーの中核的グローバル企業」として、社会的ニーズに応える価値を創出し、持続可能な社会の実現を目指しています。">
+
+<link rel="stylesheet" href="https://www.abalance.jp/wp-content/themes/abalance/assets/css/vendor.min.css?20250923192058">
+<link rel="stylesheet" href="https://www.abalance.jp/wp-content/themes/abalance/assets/css/common.min.css?2026041092602">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PXHT79XF');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body>
+	<!-- tag_manager -->
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXHT79XF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<!-- /tag_manager -->
+
+	<!-- wrapper -->
+	<div id="wrapper">
+
+		<!-- innerWrapper -->
+		<div id="innerWrapper" class="ctTop">
+
+			<!-- header -->
+			<header id="header">
+    <div id="headArea">
+        <h1 class="logo">
+            <a href="https://www.abalance.jp">
+                <span>logo</span>
+                <img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/logo.png" alt="Abalance" width="492" height="163">
+            </a>
+        </h1>
+        <div class="hamburgerOpen">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="mainNavPC">
+            <ul class="navList">
+                <li class="navItem" data-nav="one">
+                    <a href="/welcome/">初めての方へ</a>
+                </li>
+                <li class="navItem" data-nav="two">
+                    <a href="/v1/aboutus/">会社概要</a>
+                </li>
+                <li class="navItem" data-nav="three">
+                    <a href="/v1/business/">事業紹介</a>
+                </li>
+                <li class="navItem" data-nav="four">
+                    <a href="/v1/ir/">株主・投資家情報</a>
+                </li>
+                <li class="navItem" data-nav="five">
+                    <a href="/v1/recruit/">採用情報</a>
+                </li>
+                <li class="navItem" data-nav="six">
+                    <a href="/v1/csr/">ESG・SDGsへの取組み</a>
+                </li>
+            </ul>
+            <a href="/v1/contact/" class="contact">お問い合わせ</a>
+            <div class="language">
+                <a href="https://www.abalance.jp" class="jp active">
+                    <img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/jp.png" alt="jp" width="26" height="31">
+                    <img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/jp_hov.png" alt="jp_hov" width="26" height="31">
+                </a>
+                <span></span>
+                <a href="/v1/en/" class="en">
+                    <img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/en.png" alt="en" width="34" height="30">
+                    <img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/en_hov.png" alt="en_hov" width="34" height="30">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="navArea">
+        <div class="hamburgerClose">
+            <span></span>
+            <span></span>
+        </div>
+        <div class="navLogo">
+            <a href="https://www.abalance.jp">
+                <img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/logo_white.png" alt="Abalance" width="243" height="85">
+            </a>
+        </div>
+        <p class="navLink spOnly">
+            <a href="/welcome/">初めての方へ</a>
+        </p>
+        <dl>
+            <dt>会社概要</dt>
+            <dd>
+                <div class="dropMenu" data-nav="two">
+                    <div class="dropMenuInner">
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/aboutus/#greeting">トップメッセージ</a>
+                            </div>
+                        </div>
+                        <div class="col wide">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/aboutus/#group">グループ会社概要</a>
+                            </div>
+                            <div class="innerRow">
+                                <div class="innerCol">
+                                    <p class="boldLink">
+                                        ホールディングス
+                                    </p>
+                                    <ul class="linkList">
+                                        <li>
+                                            <a href="/v1/aboutus/abalance/" class="link">Abalance株式会社</a>
+                                        </li>
+                                    </ul>
+                                    <p class="boldLink">
+                                        太陽光パネル製造事業
+                                    </p>
+                                    <ul class="linkList">
+                                        <li>
+                                            <a href="/v1/aboutus/fujisolar/" class="link">FUJI SOLAR株式会社</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.vsun-solar.com/" target="_blank" class="link">Vietnam Sunergy Joint Stock Company</a>
+                                        </li>
+                                        <li>
+                                            <a href="/v1/aboutus/toyo/" class="link">TOYO Company Limited</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="innerCol">
+                                    <p class="boldLink">
+                                        グリーンエネルギー事業
+                                    </p>
+                                    <ul class="linkList">
+                                        <li>
+                                            <a href="/v1/aboutus/wwb/" class="link">WWB株式会社</a>
+                                        </li>
+                                        <li>
+                                            <a href="/v1/aboutus/valors/" class="link">株式会社バローズ</a>
+                                        </li>
+                                        <li>
+                                            <a href="/v1/aboutus/pvr/" class="link">PV Repower株式会社</a>
+                                        </li>
+                                    </ul>
+                                    <p class="boldLink">
+                                        その他事業
+                                    </p>
+                                    <ul class="linkList">
+                                        <li>
+                                            <a href="/v1/aboutus/jphoc/" class="link">日本光触媒センター株式会社</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/aboutus/#philosophy">企業理念</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/aboutus/#vision">ビジョン</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/aboutus/#governance">コーポレート・ガバナンス</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </dd>
+        </dl>
+        <dl>
+            <dt>事業紹介</dt>
+            <dd>
+                <div class="dropMenu" data-nav="three">
+                    <div class="dropMenuInner">
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/business/solar/">太陽光パネル製造事業</a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/business/green/">グリーンエネルギー事業</a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/business/other/">その他事業</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </dd>
+        </dl>
+        <dl>
+            <dt>株主・投資家情報</dt>
+            <dd>
+                <div class="dropMenu" data-nav="four">
+                    <div class="dropMenuInner">
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/#topix">IR新着情報</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/mail/">IRメール配信サービス</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/#report">IR資料室</a>
+                            </div>
+                            <ul class="linkList">
+                                <li>
+                                    <a href="/v1/report/" class="link">有価証券報告書</a>
+                                </li>
+                                <li>
+                                    <a href="/v1/results/" class="link">決算短信</a>
+                                </li>
+                                <li>
+                                    <a href="/v1/presentation/" class="link">プレゼンテーション</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/#movie">動画説明</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/#highlight">財務ハイライト</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/#stock">株式の概況</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/#calendar">IRカレンダー</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/faq">IRよくある質問</a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/#notice">電子公告</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/ir/#disclosure">ディスクロージャーポリシー</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/individual_investors/">個人投資家の皆様へ</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </dd>
+        </dl>
+        <dl>
+            <dt>採用情報</dt>
+            <dd>
+                <div class="dropMenu" data-nav="five">
+                    <div class="dropMenuInner">
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/recruit/#message">メッセージ</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/recruit/#greeting">社長メッセージ</a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/recruit/#recruitment_schedule">新卒採用の日程について</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/recruit/#person_new">新卒採用社員紹介</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/recruit/#person_mid">中途採用社員紹介</a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/recruit/#recruitment">新卒採用募集要項</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/recruit/#entry">新卒採用エントリー</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/recruit/#midcareer">中途採用エントリー</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </dd>
+        </dl>
+        <dl>
+            <dt>ESG・SDGsへの取組み</dt>
+            <dd>
+                <div class="dropMenu" data-nav="six">
+                    <div class="dropMenuInner">
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#green">グリーンエネルギー事業</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#governance">コーポレートガバナンスの概要</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#co2">CO₂削減・地球温暖化防止</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#cooperation">東南アジアのインフラ整備、被災地域への協力・支援</a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#solar">ソーラーシェアリング</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#healthcare">光触媒事業</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#disclosure">情報開示の充実・強化</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#training">グリーンエネルギー教育・研修</a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#work">人的資本及び多様性について</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#partnership">関連団体等の交流を通じた情報交換の促進</a>
+                            </div>
+                            <div class="dropMenuTtl">
+                                <a href="/v1/csr/#sdgs">持続可能な開発目標（SDGs）とは</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </dd>
+        </dl>
+        <div class="navInfo spOnly">
+            <p class="infoTtl">
+                <a href="/v1/contact/">お問い合わせ</a>
+            </p>
+            <ul class="navInfoList">
+                <li>
+                    <a href="/v1/policy/">サイトポリシー</a>
+                </li>
+                <li>
+                    <a href="/sitemap/">サイトマップ</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+			<!-- /header -->
+
+			<!-- ctArea -->
+			<div id="ctArea">
+				<!-- bannerBlock -->
+				<div class="bannerBlock">
+					<div class="bannerTtl" data-aos="custom-fade-up">
+						<div class="bannerTxt">
+							<figure>
+								<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/banner_img_ttl1.svg" alt="The Earth Deserves better 太陽を味方に" width="484" height="116">
+							</figure>
+						</div>
+						<div class="bannerTtlImg">
+							<figure>
+								<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/banner_img_ttl2.svg" alt="Best Value" width="598" height="157">
+							</figure>
+						</div>
+					</div>
+					<figure data-aos="custom-fade-up">
+						<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/banner_img.png" class="pcOnly" alt="メインビジュアル" width="2880" height="1352">
+						<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/banner_img_sp.png" class="spOnly" alt="メインビジュアル" width="786" height="451">
+					</figure>
+					<div class="twoCol" data-aos="custom-fade-up">
+						<a href="/welcome/" class="lineTxt">
+							<span class="lineTxtJa">初めての方へ</span>
+							<span class="lineTxtEn">For First Time Users</span>
+						</a>
+						<a href="/v1/ir/" class="lineTxt">
+							<span class="lineTxtJa">株主・投資家の皆様へ</span>
+							<span class="lineTxtEn">To Our Shareholders and Investors</span>
+						</a>
+					</div>
+				</div>
+				<!-- /bannerBlock -->
+
+				<div class="bgYellow">
+					<!-- newsBlock -->
+					<div class="newsBlock" id="news">
+						<div class="ctInner">
+							<h2 class="leadTitle" data-aos="custom-fade-up">
+								<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/ttl_news.svg" alt="News" width="207" height="101">
+								<span>ニュース</span>
+							</h2>
+							<div class="tabs" data-aos="custom-fade-up">
+								<div class="tabList">
+									<a href="#" class="lineTxt tabLink active" data-tab="tab1"><span>新着情報</span></a>
+									<a href="#" class="lineTxt tabLink" data-tab="tab2"><span>IR情報</span></a>
+									<a href="#" class="lineTxt tabLink" data-tab="tab3"><span>お知らせ・PR</span></a>
+								</div>
+								<div class="tabContent active" id="tab1">
+									<!-- 新着情報表示領域 - JavaScriptで動的に生成されます -->
+								</div>
+								<div class="tabContent" id="tab2">
+									<!-- IR News表示領域 - JavaScriptで動的に生成されます -->
+								</div>
+								<div class="tabContent" id="tab3">
+																		<a href="/v1/http://information/8566">
+										<dl>
+											<dt>
+												<span class="date">2025年12月22日</span>
+																								<span class="category lightGreen">お知らせ</span>
+																							</dt>
+											<dd>年末年始のお知らせ</dd>
+										</dl>
+									</a>
+										<a href="/v1//information/7747">
+										<dl>
+											<dt>
+												<span class="date">2025年06月11日</span>
+																								<span class="category lightGreen">お知らせ</span>
+																							</dt>
+											<dd>2026年度新卒新入社員募集終了のお知らせ</dd>
+										</dl>
+									</a>
+										<a href="/v1//information/7297">
+										<dl>
+											<dt>
+												<span class="date">2024年12月27日</span>
+																								<span class="category lightGreen">お知らせ</span>
+																							</dt>
+											<dd>年末年始のお知らせ</dd>
+										</dl>
+									</a>
+										<a href="/v1//information/4655">
+										<dl>
+											<dt>
+												<span class="date">2023年12月22日</span>
+																								<span class="category lightGreen">お知らせ</span>
+																							</dt>
+											<dd>年末年始についてのお知らせ</dd>
+										</dl>
+									</a>
+										<a href="/v1//information/1255">
+										<dl>
+											<dt>
+												<span class="date">2022年02月04日</span>
+																								<span class="category lightGreen">お知らせ</span>
+																							</dt>
+											<dd>採用情報：2023年4月入社 新卒募集要項・エントリーシート掲載のお知らせ</dd>
+										</dl>
+									</a>
+										<a href="/v1//information/1249">
+										<dl>
+											<dt>
+												<span class="date">2022年01月05日</span>
+																								<span class="category lightGreen">お知らせ</span>
+																							</dt>
+											<dd>Abalanceグループ 新年のご挨拶</dd>
+										</dl>
+									</a>
+										<a href="/v1//information/1246">
+										<dl>
+											<dt>
+												<span class="date">2021年12月03日</span>
+																								<span class="category lightGreen">お知らせ</span>
+																							</dt>
+											<dd>年末年始についてのお知らせ</dd>
+										</dl>
+									</a>
+										<a href="/v1//information/1210">
+										<dl>
+											<dt>
+												<span class="date">2021年07月07日</span>
+																								<span class="category lightYellow">PR</span>
+																							</dt>
+											<dd>福島県本宮市 「楽でんくん」寄贈のお知らせ</dd>
+										</dl>
+									</a>
+									</div>
+							</div>
+							<div class="twoCol" data-aos="custom-fade-up">
+								<a href="/v1/ir/#topix" class="lineTxt">
+									<span>IR情報 一覧</span>
+								</a>
+								<a href="/v1/information/" class="lineTxt">
+									<span>お知らせ・PR 一覧</span>
+								</a>
+							</div>
+						</div>
+					</div>
+					<!-- /newsBlock -->
+
+					<!-- messageBlock -->
+					<div class="messageBlock" id="message">
+						<div class="ctInner">
+							<h2 class="leadTitle" data-aos="custom-fade-up">
+								<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/ttl_message.svg" alt="Top Message" width="229" height="70">
+								<span>トップメッセージ</span>
+							</h2>
+							<div class="twoCol" data-aos="custom-fade-up">
+								<figure class="imgCol">
+                                    <img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/message_img1.jpg" alt="トップメッセージ画像" width="546" height="736">
+                                </figure>
+								<div class="txtCol">
+									<p class="ttl">みなさまから認められる<br>未来ある再生エネルギー企業への道</p>
+									<p class="text">当社は、ガバナンス体制の不備及び役職員のコンプライアンス意識の欠如等により、2026年1月に特別注意銘柄に指定され、シェアホルダーを始め、関係者のみなさまに多大なご迷惑をおかけしました。衷心よりお詫びします。 <br>今後は、関係当局の指導をいただきながら、第三者委員会及び検証委員会の報告を踏まえて、早急に経営体制を整備してまいります。その進捗状況に関しましては、適宜開示を行うと同時に、6月の定時株主総会で株主のみなさまにご説明できるよう社内をあげて対応してまいります。 <br>Abalanceグループは、再生可能エネルギーを軸とする多様な事業を通じて、持続可能な社会の実現に貢献することを使命としてまいりました。これからの私たちは、脱炭素という人類共通の課題に真摯に向き合いながら、企業としての存在意義をより明確に発信し、社会から必要とされ続けるグループでありたいと考えております。 </p>
+									<p class="date">代表取締役社長<br>
+									柳瀬　重人<br>2026年4月吉日</p>
+								</div>
+                             
+                            </div>
+						</div>
+					</div>
+
+					<!-- messageBlock -->
+				</div>
+
+				<!-- businessBlock -->
+				<div class="businessBlock" id="business">
+					<div class="ctInner">
+						<h2 class="leadTitle" data-aos="custom-fade-up">
+							<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/ttl_business.svg" alt="Our Business" width="482" height="116">
+							<span>事業紹介</span>
+						</h2>
+						<div class="threeCol" data-aos="custom-fade-up">
+							<div class="col">
+								<p class="lineTxt">
+									<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/icon_business1.png" alt="太陽光パネル製造事業" width="192" height="193">
+									<span>太陽光パネル製造事業</span>
+								</p>
+								<p class="text">太陽光パネル製造事業は売上高の大部分を占める当社グループの重要な経営の柱となる事業であり、自社製造として、インゴット・ウエハからセル、そしてモジュール（パネル）の垂直統合を前提に、グローバル市場でのサプライチェーンを構築しています。当事業は主に海外において、連結子会社であるVietnam Sunergy Joint Stock Company (VSUN)及び米国ナスダックに上場しているTOYO Co.Ltd.（TOYO） を中心に展開しています。VSUNはベトナム国にて、インゴット・ウエハ及びモジュール（パネル）を製造し、TOYOはベトナム国とエチオピア国でセル、米国でモジュール（パネル）を製造し、世界中の太陽光発電関連企業への製品供給を行うことで、世界的な脱炭素社会の実現に貢献しています。</p>
+							</div>
+							<div class="col">
+								<p class="lineTxt">
+									<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/icon_business2.png" alt="グリーンエネルギー事業" width="192" height="193">
+									<span>グリーンエネルギー事業</span>
+								</p>
+								<p class="text">グリーンエネルギー事業では、WWB株式会社及び株式会社バローズを中心に、太陽光発電所の販売のほか、太陽光パネル、PCS（パワーコンディショナ）、産業用及び住宅用蓄電池等の太陽光発電設備に係る部材販売をフロー型ビジネスとして行いつつ、売電収入を原資とする安定収入体制の構築のため、完工後も発電所を継続して保有・管理するストック型ビジネスを推進しています。<br>国内市場のみならず、海外展開に取り組むほか、将来的に太陽光パネルの廃棄問題が懸念される状況に対し、社会問題解決の観点からも、太陽光パネルのリユース事業への取り組みも展開しています。また、電力の需給調整や停電時などに備えて、安定的な電力供給を可能とする系統蓄電池事業も強化しています。
+								</p>
+							</div>
+							<div class="col">
+								<p class="lineTxt">
+									<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/icon_business3.png" alt="その他事業" width="192" height="193">
+									<span>その他事業</span>
+								</p>
+								<p class="text">その他事業には、ＩＴ事業、光触媒事業及びスマート・モビリティ事業（旧建機販売事業）等があります。<br>
+								IT事業は、主力製品「Knowledge Market」の新規のお客様への導入、マイクロソフト関連事業におけるライセンス販売、SI、運用保守などを行っております。<br>
+								光触媒事業は、連結子会社である日本光触媒センター株式会社において、チタンコーティング剤とそれを利用した製品の製造販売などを行っております。<br>
+								スマート・モビリティ事業は、連結子会社であるWWB株式会社において、スマート・モビリティ（旧建設機械）を国内及び海外に販売を行っております。
+								</p>
+ 							</div>
+ 						</div>
+ 					</div>
+				</div>
+				<!-- /businessBlock -->
+
+
+				<!-- featuresBlock -->
+				<div class="featuresBlock" id="features">
+					<div class="ctInner">
+						<h2 class="leadTitle" data-aos="custom-fade-up">
+							<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/ttl_features.svg" alt="Strengths and Features" width="817" height="159">
+							<span>Abalanceグループの強み・特色</span>
+						</h2>
+						<div data-aos="custom-fade-up">
+							<p class="subTitle">海外に生産拠点を持つメーカー<br class="spOnly">としての信頼性</p>
+							<div class="threeCol">
+								<div class="col">
+									<p class="lineTxt">
+										<span>日系トップクラスの<br>垂直統合型太陽電池メーカー</span>
+									</p>
+									<p class="text">当社は海外子会社の拠点を活用し、「VSUN」「TOYO SOLAR」ブランドで高品質な太陽光パネルとセルを世界に供給しています。ベトナムVSUNは米国の評価機関でTier1に認定された日系最大級のパネルメーカーです。TOYOは2025年に米国とエチオピアに新工場を新設。一貫生産体制と厳格な品質管理により、太陽光発電市場での信頼性と競争力を高めています。</p>
+									<a href="#modal1" class="lineTxt plus modal">
+										<span>外部評価による信頼性</span>
+									</a>
+									<div id="modal1" class="modalContent">
+										<div class="reliability">
+											<button class="close">
+												<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/icon_cross.png" alt="閉じるボタン" width="43" height="43">
+											</button>
+											<p class="lineTxt">
+												<span>外部評価による信頼性</span>
+											</p>
+											<div class="threeCol">
+												<div class="col">
+													<figure>
+														<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/bloomberg.png" alt="BNEF Tier 1 Solar Manufacturer" width="496" height="440">
+													</figure>
+													<p class="imgTitle">BNEF Tier 1<br>Solar Manufacturer</p>
+													<p class="para">太陽光発電所開発プロジェクトの資金<br>調達能力（ノンリコース）評価<br>６四半期連続<sup>※</sup>「Tier１」を認定</p>
+													<p class="date">(※2024/2Q-2025/3Q)</p>
+												</div>
+												<div class="col">
+													<figure>
+														<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/ecovadis.png" alt="Bronze Award EcoVadis 2024" width="308" height="308">
+													</figure>
+													<p class="imgTitle">Bronze Award<br>EcoVadis 2024</p>
+													<p class="para">グローバル CSR 評価<br>４年連続「ブロンズ」を獲得</p>
+												</div>
+												<div class="col">
+													<figure>
+														<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/kiwa.png" alt="Top Performer PVEL 2025" width="420" height="384">
+													</figure>
+													<p class="imgTitle">Top Performer<br>PVEL 2025</p>
+													<p class="para">PVモジュール（パネル）信頼性<br>スコアカード５年連続<br>「トップパフォーマー」を認定</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col">
+									<p class="lineTxt">
+										<span>グローバルな<br>サプライチェーンを構築</span>
+									</p>
+									<p class="text">アジア・アフリカ・北米に太陽光パネル製造拠点を持ち、世界規模のサプライチェーンで地政学リスクや供給不安を低減しています。インゴット・ウエハやセルなど上流工程を担える企業は限られており、当社は太陽光発電市場で独自の立ち位置と競争優位性を確立しています。</p>
+									<a href="#modal2" class="lineTxt plus modal">
+										<span>世界での事業展開</span>
+									</a>
+									<div id="modal2" class="modalContent">
+										<div class="businessExpansion">
+											<button class="close">
+												<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/icon_cross.png" alt="閉じるボタン" width="43" height="43">
+											</button>
+											<p class="lineTxt">
+												<span>世界での事業展開</span>
+											</p>
+											<p class="text">2025/7/17 時点</p>
+											<div class="globalProduction">
+												<table >
+													<thead>
+														<tr>
+															<th class="companyName">会社名</th>
+															<th class="products">生産品目</th>
+															<th class="address">住所</th>
+															<th class="country">国</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td>Vietnam Sunergy Joint Stock Company</td>
+															<td>Module(Panel)</td>
+															<td>Lot III - Dong Vang, Dinh Tram Industrial Park,<br>Nenh Town, Bac Giang Province, Vietnam.</td>
+															<td class="countryCell"><img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/vietnam_flag.png" alt="ベトナム" class="flag"><span>ベトナム</span></td>
+														</tr>
+														<tr>
+															<td>VIETNAM SUNERGY (BAC NINH) COMPANY LIMITED</td>
+															<td>Module(Panel)</td>
+															<td>Lot CN 09.01, Thuan Thanh II Industrial Park,<br>Mao Dien Town, Bac Ninh Province, Vietnam.	</td>
+															<td class="countryCell"><img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/vietnam_flag.png" alt="ベトナム" class="flag"><span>ベトナム</span></td>
+														</tr>
+														<tr>
+															<td>VIETNAM SUNERGY (BAC NINH) COMPANY LIMITED</td>
+															<td>Module(Panel)</td>
+															<td>Lot CN-53, Thuan Thanh II Industrial Park, <br>Mao Dien Town, Bac Ninh Province, Vietnam.</td>
+															<td class="countryCell"><img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/vietnam_flag.png" alt="ベトナム" class="flag"><span>ベトナム</span></td>
+														</tr>
+														<tr>
+															<td>Vietnam Sunergy Wafer Co., Ltd.</td>
+															<td>Ingot&Wafer</td>
+															<td>Lot CN 3-12, Minh Quang Industrial Park, <br>Thuong Hong Ward, Hung Yen Province, Vietnam</td>
+															<td class="countryCell"><img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/vietnam_flag.png" alt="ベトナム" class="flag"><span>ベトナム</span></td>
+														</tr>
+														<tr>
+															<td>TOYO SOLAR Company Limited</td>
+															<td>Cell</td>
+															<td>Lot CN02, Cam Khe Industrial Park, <br>Cam Khe Commune, Phu Tho Province, Vietnam</td>
+															<td class="countryCell"><img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/vietnam_flag.png" alt="ベトナム" class="flag"><span>ベトナム</span></td>
+														</tr>
+														<tr>
+															<td>TOYO SOLAR MANUFACTURING ONE MEMBER PLC</td>
+															<td>Cell</td>
+															<td>House 5/6, Hawassa Industry Park, <br>Hawassa City, Sidama, Ethiopia</td>
+															<td class="countryCell"><img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/ethiopia_flag.png" alt="エチオピア" class="flag"><span>エチオピア</span></td>
+														</tr>
+														<tr>
+															<td>TOYO SOLAR TEXAS LLC</td>
+															<td>Module(Panel)</td>
+															<td>6115 Greens Rd, Humble, TX 77396, USA</td>
+															<td class="countryCell"><img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/usa_flag.png" alt="米国" class="flag"><span>米国</span></td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+											<div class="logo">
+												<figure>
+													<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo4.png" alt="VSUN Innovative & Smart" width="257" height="88">
+												</figure>
+												<figure>
+													<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo8.png" alt="TOYO SOLAR" width="364" height="52">
+												</figure>
+											</div>
+											<figure class="mapImg">
+												<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/modal2_img2.png" alt="地図画像" width="2222" height="1062">
+											</figure>
+										</div>
+									</div>
+								</div>
+								<div class="col">
+									<p class="lineTxt">
+										<span>上場企業としての信頼と責任</span>
+									</p>
+									<p class="text">当社は上場企業として、コンプライアンスの徹底と透明性の高いガバナンス体制の確立に努めています。持株会社としてグループを統括し、経営の効率性と健全性を両立。太陽光パネル製造の中核を担うTOYO Co., Ltd.は2024年7月に米国ナスダック市場へ上場し、グローバルな信頼性と資金調達基盤を強化しています。</p>
+								</div>
+							</div>
+						</div>
+						<div data-aos="custom-fade-up">
+							<p class="subTitle">国内で再エネ発電所の<br class="spOnly">運営・支援会社としての信頼性</p>
+							<div class="twoCol">
+								<div class="col">
+									<p class="lineTxt">
+										<span>再エネ発電所の運営を<br class="spOnly">トータルサポート</span>
+									</p>
+									<p class="text">太陽光・風力発電所の企画・設計から設備調達、建設、O&M、さらに事業終了後のパネル再利用まで一貫支援できる体制が当社の強みです。開発した発電所は投資家や事業会社向けに販売も支援。国内の豊富な実績を基に、アジアを中心に海外展開を進めています。</p>
+									<a href="#modal3" class="lineTxt plus modal">
+										<span>一気通貫型の対応力</span>
+									</a>
+									<div id="modal3" class="modalContent">
+										<div class="circulationDiagram">
+											<div class="circulation">
+												<button class="close">
+													<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/icon_cross.png" alt="閉じるボタン" width="43" height="43">
+												</button>
+												<p class="lineTxt">
+													<span>一気通貫型の対応力</span>
+												</p>
+												<figure class="chartImg">
+													<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/welcome/modal2_img1.png" alt="一気通貫型の対応力" width="1738" height="1186">
+												</figure>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col">
+									<p class="lineTxt">
+										<span>グリーンエネルギー事業の二本柱</span>
+									</p>
+									<p class="text">太陽光パネル製造と並ぶ中核事業が、グリーンエネルギー分野の発電事業です。発電所の保有による売電収入（ストック型）と、販売用発電所や関連機器の提供による事業収入（フロー型）の二本柱で構成。ストック型が安定収益を支え、フロー型では系統用蓄電池やパネルリユースなど新分野に取り組み、成長と安定を両立しています。</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /featuresBlock -->
+
+				<!-- profileBlock -->
+				<div class="profileBlock" id="profile">
+					<div class="twoCol">
+						<div class="videoCol">
+							<h2 class="leadTitle" data-aos="custom-fade-up">
+								<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/ttl_profile.svg" alt="Company Profile Video" width="516" height="48">
+								<span>会社案内動画</span>
+							</h2>
+							<div class="ytVideo" data-aos="custom-fade-up">
+								<div class="videoBox">
+									<iframe src="https://www.youtube.com/embed/-TxphXCUgV8?si=bVZldW-8v2IrrG76" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+								</div>
+								<p class="caption pcOnly">Toyo Solor動画</p>
+							</div>
+						</div>
+						<div class="txtCol">
+							<figure data-aos="custom-fade-up">
+								<img src="https://deliverable.stockweather.co.jp/board/image?product=631" alt="株価情報" width="850" height="1101">
+							</figure>
+                            <a href="https://parts.stockweather.co.jp/stocks/ir/contents/guide/closingprice.html" target="_blank" class="link">免責事項</a>
+						</div>
+					</div>
+				</div>
+				<!-- /profileBlock -->
+
+				<!-- reportBlock -->
+				<div class="reportBlock" id="report">
+					<div class="ctInner">
+						<div class="twoCol" data-aos="custom-fade-up">
+							<div class="leftCol">
+								<a href="/v1/ir/" class="lineTxt">
+									<span>IRトップ</span>
+								</a>
+								<a href="/v1/ir/#movie" class="lineTxt">
+									<span class="lineTxtJa">決算説明会動画</span>
+								</a>
+								<a href="/individual_investors/" class="lineTxt">
+									<span class="lineTxtJa">個人投資家の皆様へ</span>
+								</a>
+							</div>
+
+						</div>
+					</div>
+				</div>
+				<!-- /reportBlock -->
+
+				<!-- companyBlock -->
+				<div class="companyBlock" id="company">
+					<div class="ctInner">
+						<h2 class="leadTitle" data-aos="custom-fade-up">
+							<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/top/ttl_companies.svg" alt="Group Companies" width="633" height="149">
+							<span>グループ会社</span>
+						</h2>
+						<div class="energy" data-aos="custom-fade-up">
+							<p class="lineTxt">
+								<span class="lineTxtJa">グリーンエネルギー事業関連</span>
+							</p>
+							<div class="logo">
+								<a href="/v1/aboutus/wwb/" class="imgWrapper">
+									<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo1.png" alt="WWB 株式会社 WWB Coporation" width="754" height="169">
+								</a>
+								<a href="/v1/aboutus/valors/" class="imgWrapper">
+									<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo2.png" alt="VALORS" width="754" height="169">
+								</a>
+								<a href="/v1/aboutus/pvr/" class="imgWrapper">
+									<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo3.png" alt="PV REPOWER" width="754" height="169">
+								</a>
+							</div>
+						</div>
+						<div class="bottomArea" data-aos="custom-fade-up">
+							<div class="solar">
+								<p class="lineTxt">
+									<span class="lineTxtJa">太陽光パネル製造事業</span>
+								</p>
+								<div class="logo">
+									<a href="https://www.vsun-solar.com/" target="_blank" class="imgWrapper">
+										<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo4.png" alt="VSUN Innovative & Smart" width="546" height="170">
+									</a>
+									<a href="/v1/aboutus/toyo/" class="imgWrapper">
+										<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo5.png" alt="TOYO SOLAR 米国NASDAQ上場" width="546" height="170">
+									</a>
+								</div>
+							</div>
+							<div class="business">
+								<p class="lineTxt">
+									<span class="lineTxtJa">その他事業</span>
+								</p>
+								<div class="logo">
+									<a href="/v1/aboutus/jphoc/" class="imgWrapper">
+										<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo6.png" alt="日本光触媒センター株式会社" width="546" height="170">
+									</a>
+								</div>
+							</div>
+							<div class="equity">
+								<p class="lineTxt">
+									<span class="lineTxtJa">持分法適用関連会社</span>
+								</p>
+								<div class="logo">
+									<a href="https://www.meiji-kikai.co.jp/" target="_blank" class="imgWrapper">
+										<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/company_logo7.png" alt="明治械株式会社東証スタンダード上場" width="546" height="170">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /companyBlock -->
+
+				<!-- infoBlock -->
+				<div class="infoBlock" data-aos="custom-fade-up" id="info">
+					<div class="ctInner">
+						<a href="/v1/recruit/" class="lineTxt">
+							<span>採用情報</span>
+						</a>
+						<a href="/v1/csr/" class="lineTxt">
+							<span>ESG／SDGs</span>
+						</a>
+						<a href="/v1/contact/" class="lineTxt">
+							<span>問い合わせ</span>
+						</a>
+					</div>
+				</div>
+				<!-- /infoBlock -->
+			</div>
+			<!-- /ctArea -->
+
+			<!-- footer -->
+			<footer>
+    <div class="ctInner">
+		<div class="ftArea">
+			<div class="logoArea">
+				<figure>
+					<img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/logo_white.png" alt="Abalance" width="248" height="85">
+				</figure>
+				<p class="address">〒140-0002<br>東京都品川区東品川2-2-4 天王洲<br class="pcOnly">ファーストタワー16階</p>
+				<p class="notice">IRに関しまして、お電話でのお問い合わせについては承っておりません。ご了承ください。</p>
+			</div>
+			<div class="linkArea">
+				<div class="col">
+					<a href="/welcome/" class="lineTxt">
+						<span class="lineTxtJa">初めての方へ</span>
+					</a>
+					<a href="/v1/aboutus/" class="lineTxt">
+						<span class="lineTxtJa">会社概要</span>
+					</a>
+					<ul class="menu">
+						<li><a href="/v1/aboutus/#greeting">トップメッセージ</a></li>
+						<li><a href="/v1/aboutus/#group">グループ会社概要</a>
+							<ul>
+								<li><a href="/v1/aboutus/abalance/">Abalance株式会社</a></li>
+								<li><a href="/v1/aboutus/fujisolar/">FUJI SOLAR株式会社</a></li>
+								<li><a href="https://www.vsun-solar.com/" target="_blank">Vietnam Sunergy Joint Stock Company</a></li>
+								<li><a href="/v1/aboutus/toyo/">TOYO Company Limited</a></li>
+								<li><a href="/v1/aboutus/wwb/">WWB株式会社</a></li>
+								<li><a href="/v1/aboutus/valors/">株式会社バローズ</a></li>
+								<li><a href="/v1/aboutus/pvr/">PV Repower株式会社</a></li>
+								<li><a href="/v1/aboutus/jphoc/">日本光触媒センター株式会社</a></li>
+							</ul>
+						</li>
+						<li><a href="/v1/aboutus/#philosophy">企業理念</a></li>
+						<li><a href="/v1/aboutus/#vision">ビジョン</a></li>
+						<li><a href="/v1/aboutus/#governance">コーポレート・ガバナンス</a></li>
+					</ul>
+				</div>
+				<div class="col">
+					<a href="/v1/business/" class="lineTxt">
+						<span class="lineTxtJa">事業紹介</span>
+					</a>
+					<ul class="menu">
+						<li><a href="/v1/business/solar/">太陽光パネル製造事業</a></li>
+						<li><a href="/v1/business/green/">グリーンエネルギー事業</a></li>
+						<li><a href="/v1/business/other/">その他事業</a></li>
+					</ul>
+				</div>
+				<div class="col">
+					<a href="/v1/ir/" class="lineTxt">
+						<span class="lineTxtJa">株主・投資家情報</span>
+					</a>
+					<ul class="menu">
+						<li><a href="/v1/ir/#topix">IR新着情報</a></li>
+						<li><a href="/v1/mail/">IRメール配信サービス</a></li>
+						<li><a href="/v1/ir/#report">IR資料室</a>
+							<ul>
+								<li><a href="/v1/report/">有価証券報告書</a></li>
+								<li><a href="/v1/results/">決算短信</a></li>
+								<li><a href="/v1/presentation/">プレゼンテーション</a></li>
+							</ul>
+						</li>
+						<li><a href="/v1/ir/#movie">動画説明</a></li>
+						<li><a href="/v1/ir/#highlight">財務ハイライト</a></li>
+						<li><a href="/v1/ir/#calendar">IRカレンダー</a></li>
+						<li><a href="/v1/ir/faq/">IRよくある質問</a></li>
+						<li><a href="/v1/ir/#notice">電子公告</a></li>
+						<li><a href="/v1/ir/#disclosure">ディスクロージャーポリシー</a></li>
+						<li><a href="/individual_investors/">個人投資家の皆様へ</a></li>
+					</ul>
+				</div>
+				<div class="col">
+					<a href="/v1/csr/" class="lineTxt">
+						<span class="lineTxtJa">ESG・SDGsへの取組み</span>
+					</a>
+					<a href="/v1/recruit/" class="lineTxt">
+						<span class="lineTxtJa">採用情報</span>
+					</a>
+					<a href="/v1/contact/" class="lineTxt">
+						<span class="lineTxtJa">お問い合わせ</span>
+					</a>
+					<ul class="sitemapLink">
+						<li><a href="/v1/policy/">サイトポリシー</a></li>
+						<li><a href="/sitemap/">サイトマップ</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+    </div>
+	<p class="copyRight">©Abalance Group. All Rights Reserved.</p>
+    <div class="pageTop" id="returnTop">
+        <img src="https://www.abalance.jp/wp-content/themes/abalance/assets/img/page_top.png" alt="PAGE TOP" width="22" height="144">
+    </div>
+</footer>			<!-- /footer -->
+
+		</div>
+		<!-- / innerWrap -->
+
+	</div>
+	<!-- / wrapper -->
+
+    <script src="https://www.abalance.jp/wp-content/themes/abalance/assets/js/vendor.min.js?2025092125331"></script>
+<script src="https://www.abalance.jp/wp-content/themes/abalance/assets/js/common.min.js?2025122395004"></script>
+</body>
+</html>

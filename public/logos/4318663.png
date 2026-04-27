@@ -1,0 +1,1001 @@
+<!DOCTYPE HTML>
+
+<html lang="ja" class="static">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="format-detection" content="telephone=no,email=no,address=no">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/themes/hioki/common/images/ogp.png">
+
+  
+
+      <link rel="canonical" href="https://www.hioki.com/jp-ja/" />
+    
+
+      <link rel="alternate" href="https://www.hioki.com/global/" hreflang="x-default" />
+    <link rel="alternate" href="https://www.hioki.com/us-en/" hreflang="en-US" />
+    <link rel="alternate" href="https://www.hioki.com/in-en/" hreflang="en-IN" />
+    <link rel="alternate" href="https://www.hioki.com/sg-en/" hreflang="en-SG" />
+    <link rel="alternate" href="https://www.hioki.com/sg-en/" hreflang="en-MY" />
+    <link rel="alternate" href="https://www.hioki.com/sg-en/" hreflang="en-PH" />
+    <link rel="alternate" href="https://www.hioki.com/sg-en/" hreflang="en-AU" />
+    <link rel="alternate" href="https://www.hioki.com/sg-en/" hreflang="en-NZ" />
+    <link rel="alternate" href="https://www.hioki.com/sg-en/" hreflang="en-BD" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-AL" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-AD" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-AM" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-AT" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="de-AT" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-AZ" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-BY" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-BE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="fr-BE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="de-BE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="nl-NL" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-BA" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-BG" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-HR" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-CY" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-CZ" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-DK" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-EE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-FI" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-FR" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="fr-FR" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-GE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-DE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="de-DE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-GR" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-HU" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-IS" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-IE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-IT" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="it-IT" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-KZ" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-LV" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-LI" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="de-LI" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-LT" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-LU" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="fr-LU" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="de-LU" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-MT" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-MD" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-MC" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="fr-MC" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-ME" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-NL" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="nl-NL" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-MK" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-NO" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-PL" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-PT" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="pt-PT" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-RO" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-RU" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-SM" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="it-SM" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-RS" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-SK" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-SI" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-ES" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="es-ES" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-SE" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-CH" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="fr-CH" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="it-CH" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="de-CH" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-TR" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-UA" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-GB" />
+    <link rel="alternate" href="https://www.hioki.com/euro-en/" hreflang="en-VA" />
+    <link rel="alternate" href="https://www.hioki.com/jp-ja/" hreflang="ja-JP" />
+        <meta charset="utf-8" />
+<meta name="description" content="HIOKIは、創業90年以上の電気計測器メーカーです。エネルギー、モビリティ、バッテリー、インフラ、電子部品など多様な分野で、お客様の課題解決に貢献する計測ソリューションを提供しています。" />
+<link rel="shortlink" href="https://www.hioki.com/jp-ja" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/hioki/favicon.ico" type="image/vnd.microsoft.icon" />
+
+      <title>HIOKI – 日置電機株式会社｜製品・サービス</title>
+        <link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/align.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/fieldgroup.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/container-inline.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/clearfix.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/details.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/hidden.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/item-list.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/js.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/nowrap.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/position-container.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/reset-appearance.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/resize.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-counter.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-counters.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-general-info.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/tablesort.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/views/views.module.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/modules/contrib/whatsapp_bubble/css/whatsapp_bubble.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/action-links.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/breadcrumb.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/button.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/collapse-processed.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/container-inline.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/details.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/exposed-filters.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/field.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/form.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/icons.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/inline-form.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/item-list.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/link.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/links.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/menu.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/more-link.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/pager.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabledrag.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tableselect.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tablesort.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabs.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/textarea.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/ui-dialog.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/messages.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/hioki/common/css/admin.css?tdie8j" />
+<link rel="stylesheet" media="all" href="/themes/hioki/common/css/master.css?tdie8j" />
+
+            <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"jp-ja\/","currentPath":"node\/406","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"jp-ja"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"user":{"uid":0,"permissionsHash":"cb2d15c1326bb7f0b770130987d80f0422c6a28c3cc3941d6d8c5a675c48860e"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1" data-cookieconsent="ignore"></script>
+<script src="/sites/default/files/languages/jp-ja_tkTPNlNWf8yRzFYymmg0OLoSk2OqGygXjF9eBmb-47k.js?tdie8j"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.3.14" data-cookieconsent="ignore"></script>
+<script src="/core/misc/drupal.js?v=10.3.14" data-cookieconsent="ignore"></script>
+<script src="/core/misc/drupal.init.js?v=10.3.14" data-cookieconsent="ignore"></script>
+<script src="/themes/hioki/common/js/run.js?v=1.0.37"></script>
+
+
+                <!-- Google Consent Mode -->
+                <script data-cookieconsent="ignore">
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag() {
+                    dataLayer.push(arguments)
+                  }
+                  gtag("consent", "default", {
+                    ad_storage: "denied",
+                    analytics_storage: "denied",
+                    functionality_storage: "denied",
+                    personalization_storage: "denied",
+                    security_storage: "granted",
+                    wait_for_update: 500
+                  });
+                  gtag("set", "ads_data_redaction", true);
+                  gtag("set", "url_passthrough", false);
+                </script>
+                <!-- End Google Consent Mode-->
+
+                <!-- Google Tag Manager -->
+                <script data-cookieconsent="ignore">
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','GTM-5LQM83');
+                </script>
+                <!-- End Google Tag Manager -->
+
+                
+                <!-- Cookiebot CMP-->
+                <script
+                  id="Cookiebot"
+                  src="https://consent.cookiebot.com/uc.js"
+                  data-cbid="26cf126a-afaa-49b1-861c-7eb2a1667915"
+                  data-blockingmode="auto"
+                  type="text/javascript"
+                ></script>
+                <!-- End Cookiebot CMP -->
+
+                <link rel="apple-touch-icon" href="/themes/hioki/common/images/apple-touch-icon.png">
+
+                
+                                <style>
+                    .messages--warning {
+                        display: none !important;
+                    }
+                </style>
+
+</head>
+
+<body class="path-frontpage page-node-type-frontpage">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+        Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page">
+      <!-- checker jp-ja -->
+  <!-- 製品日本語  -->
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LQM83"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header id="header" class="product">
+  <div class="inner">
+
+    <div class="header-inner">
+      <p id="logo-01"><a href="/jp-ja"><img src="/themes/hioki/common/images/logo-01.png" alt="HIOKI Products & Services"><span>製品・サービス</span></a></p>
+
+      <button type="button" id="search-open-btn" aria-expanded="false" aria-controls="header-search"><span>Search Open</span></button>
+      <button type="button" id="sp-menu" aria-expanded="false" aria-controls="menu-inner"><span>MENU</span></button>
+      <!-- / .header-inner --></div>
+
+    <div id="menu-inner">
+      <nav id="global-menu">
+        <ul class="item">
+          <li><a href="/jp-ja/products">製品</a>
+            <div class="menu-local">
+              <div class="menu-local-inner">
+                <div class="menu-local-box">
+                  <div class="child col3">
+                    <ul>
+                      <li class="hdg-01"><b>記録計・ロガー</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/data-acquisition">データアクイジション (DAQ) | メモリハイコーダ | 記録計 | 差動プローブ</a></li>
+                          <li><a href="/jp-ja/products/multichannel-data-loggers">データロガー | 多チャネル</a></li>
+                          <li><a href="/jp-ja/products/compact-data-loggers">小型データロガー</a></li>
+                        </ul></li>
+                      <li class="hdg-01"><b>LCRメータ・抵抗計</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/lcr-meters">LCRメータ | インピーダンスアナライザ</a></li>
+                          <li><a href="/jp-ja/products/resistance-meters">抵抗計 | バッテリーテスター</a></li>
+                          <li><a href="/jp-ja/products/electrometers">超絶縁計 | 高抵抗計 | ピコアンメータ | エレクトロメータ</a></li>
+                          <li><a href="/jp-ja/products/benchtop-dmm">高確度 デジタルマルチメータ</a></li>
+                        </ul></li>
+                      <li class="hdg-01"><b>安全規格測定器</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/electrical-safety-testers">安全関連試験器 | 絶縁・耐電圧試験器</a></li>
+                          <li><a href="/jp-ja/products/signal-generators-calibrators">キャリブレータ | 任意波形発生器 | ファンクションジェネレータ</a></li>
+                        </ul></li>
+                    </ul>
+                    <ul>
+                      <li class="hdg-01"><b>電力計</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/power-meters">パワーメータ | パワーアナライザ | 電力計</a></li>
+                          <li><a href="/jp-ja/products/pqa">電源品質アナライザ | クランプ電力計 | 電力ロガー</a></li>
+                        </ul></li>
+                      <li class="hdg-01"><b>プローブ</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/current-probes">電流センサー | 電流プローブ | 非接触CANセンサー</a></li>
+                        </ul></li>
+                      <li class="hdg-01"><b>PV・通信</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/rgb-laser">通信用測定器</a></li>
+                          <li><a href="/jp-ja/products/pv">太陽光パネル | 発電  | PVメンテナンス測定器</a></li>
+                        </ul></li>
+                      <li class="hdg-01"><b>環境測定器</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/field-measuring">磁界測定器 | 温度計 | 照度計</a></li>
+                        </ul></li>
+                    </ul>
+                    <ul>
+                      <li class="hdg-01"><b>DMM・テスタ・現場測定器</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/testers">テスター | デジタルマルチメータ</a></li>
+                          <li><a href="/jp-ja/products/insulation-testers">絶縁抵抗計</a></li>
+                          <li><a href="/jp-ja/products/clamp-meters">クランプメーター | クランプ電流計</a></li>
+                          <li><a href="/jp-ja/products/ground-testers">接地抵抗計 | 検相器 | 検電器</a></li>
+                        </ul></li>
+                      <li class="hdg-01"><b>IoT・計測ソリューション</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/specialized-solutions">IoT | 新技術</a></li>
+                        </ul></li>
+                      <li class="hdg-01"><b>ベアボード検査・実装基板検査</b>
+                        <ul>
+                          <li><a href="/jp-ja/products/bare-board">ベアボード検査 | パッケージ検査 | 実装基板検査（インサーキットテスト）</a></li>
+                        </ul></li>
+                      <li class="line-02"><a href="/jp-ja/products/new">新製品</a></li>
+                      <li class="line-02"><a href="/jp-ja/support/discontinued">廃止代替製品一覧</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- / .menu-local-inner --></div>
+              <button class="local-close"><span>Close</span></button>
+              <!-- / .menu-local --></div>
+          </li>
+          <li><a href="/jp-ja/industries-solutions">業種・ソリューション</a>
+            <div class="menu-local">
+              <div class="menu-local-inner">
+                <div class="menu-local-box">
+                  <div class="child col2">
+                    <ul>
+                      <li class="hdg-01"><b>業種</b>
+                        <ul>
+                          <li><a href="/jp-ja/industries-solutions/mobility">モビリティ</a></li>
+                          <li><a href="/jp-ja/industries-solutions/battery">バッテリー</a></li>
+                          <li><a href="/jp-ja/industries-solutions/motor">モーター</a></li>
+                          <li><a href="/jp-ja/industries-solutions/energy">エネルギー</a></li>
+                          <li><a href="/jp-ja/industries-solutions/electronic-components">電子部品</a></li>
+                          <li><a href="/jp-ja/industries-solutions/infrastructure">インフラ</a></li>
+                        </ul></li>
+                    </ul>
+                    <ul>
+                      <li class="hdg-01"><b>ソリューション</b>
+                        <ul>
+                          <li><a href="/jp-ja/industries-solutions/testing">研究開発・解析</a></li>
+                          <li><a href="/jp-ja/industries-solutions/manufacturing">製造・検査</a></li>
+                          <li><a href="/jp-ja/industries-solutions/facilities">設備メンテナンス</a></li>
+                        </ul></li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- / .menu-local-inner --></div>
+              <button class="local-close"><span>Close</span></button>
+              <!-- / .menu-local --></div>
+          </li>
+          <li><a href="/jp-ja/learning">計測知識</a>
+            <div class="menu-local">
+              <div class="menu-local-inner">
+                <div class="menu-local-box">
+                  <div class="child col3">
+                    <ul>
+                      <li><a href="/jp-ja/learning/electricity">電気の基礎</a></li>
+                      <li><a href="/jp-ja/learning/methods">測定方法</a></li>
+                      <li><a href="/jp-ja/learning/test-tools">測定器を知る</a></li>
+                    </ul>
+                    <ul>
+                      <li><a href="/jp-ja/learning/how-to">測定器の使い方</a></li>
+                      <li><a href="/jp-ja/learning/common-devices">ターゲット別試験</a></li>
+                    </ul>
+                    <ul>
+                      <li><a href="/jp-ja/learning/applications">アプリケーションノート</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- / .menu-local-inner --></div>
+              <button class="local-close"><span>Close</span></button>
+              <!-- / .menu-local --></div>
+          </li>
+          <li><a href="/jp-ja/support">サービス・サポート</a>
+            <div class="menu-local">
+              <div class="menu-local-inner">
+                <div class="menu-local-box">
+                  <div class="child col3">
+                    <ul>
+                      <li><a href="/jp-ja/support/myhioki">my HIOKI</a></li>
+                      <li><a href="/jp-ja/support/download">ダウンロード</a></li>
+                      <li><a href="https://hiokisupport.zendesk.com/hc/ja" target="_blank">FAQ<img src="/themes/hioki/common/images/icon-blank-01.png" alt="別ウィンドウで表示する" class="icon-link-01"></a></li>
+                    </ul>
+                    <ul>
+                      <li><a href="/jp-ja/support/service">アフターサービス</a></li>
+                      <li><a href="/jp-ja/support/warranty">製品保証</a></li>
+                      <li><a href="/jp-ja/support/network">販売店・レンタル・EC</a></li>
+                    </ul>
+                    <ul>
+                      <li><a href="/jp-ja/support/discontinued">廃止代替製品一覧</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- / .menu-local-inner --></div>
+              <button class="local-close"><span>Close</span></button>
+              <!-- / .menu-local --></div>
+          </li>
+          <li class="site link"><a href="/ja/" target="_blank">コーポレート・IR<img src="/themes/hioki/common/images/icon-blank-03.png" alt="別ウィンドウで表示する" class="icon-link-01"></a></li>
+        </ul>
+      </nav>
+
+
+      <ul class="header-utility">
+        <li class="lang">
+          <div>
+            <a href="#worldwide-site" class="js-modal-01 is-disable-lay"><span>日本語</span></a>
+          </div>
+        </li>
+        <li class="my"><a href="/jp-ja/support/myhioki"><span>ログイン</span></a></li>
+        <li class="contact js-hover-01"><a href="https://hiokisupport.zendesk.com/hc/ja/requests/new" target="_blank"><span>お問い合わせ<img src="/themes/hioki/common/images/icon-blank-03.png" alt="別ウィンドウで表示する" class="icon-link-01"></span></a></li>
+      </ul>
+      <!-- / .menu-inner --></div>
+
+    <div id="header-search">
+      <div class="search-box">
+        <form method="get" action="/jp-ja/search">
+          <input type="text" class="header-search-input" name="keyword" value="" placeholder="製品検索">
+          <input type="submit" class="header-search-submit" value="Search">
+        </form>
+        <!-- / .search-box --></div>
+      <!-- / .header-search --></div>
+    <!-- / .inner --></div>
+  <!-- / #header --></header>
+
+  <!-- /global = / = jp-ja -->
+
+<div class="modal-02 js-modal-item js-save-data" id="worldwide-site">
+  <div class="modal-inner">
+    <div class="modal-box">
+      <h2 class="modal-hdg-02">Select your region & language</h2>
+      <div class="column col3">
+        <div class="col">
+          <h3 class="modal-hdg-01" wovn-ignore>Americas</h3>
+          <ul class="link-list-01">
+            <li wovn-ignore><a href="/us-en/" target="_blank">English<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="/us-es/" target="_blank">Español / LATAM<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="/br-pt/" target="_blank">Português / Brasil<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3 class="modal-hdg-01" wovn-ignore>Europe</h3>
+          <ul class="link-list-01">
+            <li wovn-ignore><a href="/euro-en/" target="_blank">English<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3 class="modal-hdg-01" wovn-ignore>East Asia</h3>
+          <ul class="link-list-01">
+            <li wovn-ignore><a href="/ja/" target="_blank">日本語 / コーポレート・IR<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="/jp-ja/" target="_blank">日本語 / 製品・サービス<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="https://www.hioki.cn/" target="_blank">简体中文<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="http://www.hiokikorea.com/" target="_blank">한국어<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="https://hioki.tw/" target="_blank">繁體中文<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3 class="modal-hdg-01" wovn-ignore>Southeast Asia, Oceania</h3>
+          <ul class="link-list-01">
+            <li wovn-ignore><a href="/sg-en/" target="_blank">English<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="/th-th/" target="_blank">ภาษาไทย / ประเทศไทย<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="/vn-vi/" target="_blank">Tiếng Việt / Việt Nam<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="/id-id/" target="_blank">Bahasa Indonesia<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3 class="modal-hdg-01" wovn-ignore>India</h3>
+          <ul class="link-list-01">
+            <li wovn-ignore><a href="/in-en/" target="_blank">English<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3 class="modal-hdg-01" wovn-ignore>Worldwide</h3>
+          <ul class="link-list-01">
+            <li wovn-ignore><a href="/" target="_blank">Corporate & IR / Global<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+            <li wovn-ignore><a href="/global/" target="_blank">Products & Services / Global<img src="/themes/hioki/common/images/icon-blank-01.png" alt="Open new window" class="icon-link-01"></a></li>
+          </ul>
+        </div>
+      </div>
+      <!-- / .column --></div>
+  </div>
+  <!-- / #worldwide-site --></div>
+
+
+
+<aside class="cta-01">
+  <ul class="cta-btn">
+    <li class="contact"><a href="https://hiokisupport.zendesk.com/hc/ja/requests/new" target="_blank"><span>お問い合わせ</span></a></li>
+    <li class="login"><a href="/jp-ja/support/myhioki"><span>ログイン</span></a></li>
+    <li class="downloads"><a href="/jp-ja/support/download"><span>資料<br>ダウンロード</span></a></li>
+  </ul>
+</aside>
+
+
+  
+    
+                  <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/44826694.js"></script>
+<!-- End of HubSpot Embed Code -->
+      
+  
+
+
+    <main class="region region-content main">
+    <div data-drupal-messages-fallback class="hidden"></div>  
+    
+        <div class="region region-emergency">
+      
+    
+                  <div class="area-important-01">
+<div class="box">
+<ul class="link-list-01">
+ <li><a href="/jp-ja/news/detail/id_n1269392">e-友マイページ会員様へお知らせ</a></li>
+</ul>
+</div>
+<!-- / .area-important-01 --></div>
+      
+  
+  </div>
+
+
+       <div class="swiper-container-top-businesses-visual">
+       <ul class="swiper-wrapper">
+                           <li class="swiper-slide text">
+      <div class="img"><img src="/system/files/2026-04/CT6847A.jpg" alt=""></div>
+      <div class="visual-box-01"><p class="lead-01">EVの大電流を<br />
+確かな波形で捉える</p><p class="data-01">急速充電時や高負荷動作時に発生する大電流を、<br />
+信頼できる測定データで可視化<br />
+<br />
+AC/DCカレントプローブ CT6847A</p><p class="btn-01"><a href="https://www.hioki.com/jp-ja/news/detail/id_n1387636">詳しくはこちら</a></p></div>
+    </li>
+  
+                <li class="swiper-slide text">
+      <div class="img"><img src="/system/files/2026-03/banner_ALDAS-E_0.jpg" alt=""></div>
+      <div class="visual-box-01"><p class="lead-01">水電解と燃料電池の<br />
+社会実装を加速させる</p><p class="data-01">kW～MWクラスのEC/FCを実稼働中にEIS測定<br />
+<br />
+EIS測定システム ALDAS-E</p><p class="btn-01"><a href="https://www.hioki.com/jp-ja/news/detail/id_n1387262">詳しくはこちら</a></p></div>
+    </li>
+  
+                <li class="swiper-slide text white">
+      <div class="img"><img src="/system/files/2026-03/banner_U8557_LR8537-02.jpg" alt=""></div>
+      <div class="visual-box-01"><p class="lead-01">どんなサーミスタでも温度値に変換</p><p class="data-01">データロガーによる多点温度測定<br />
+ワイヤレスデータ収集にも対応<br />
+<br />
+サーミスターモジュール U8557<br />
+ワイヤレスサーミスターモジュール LR8537</p><p class="btn-01"><a href="https://www.hioki.com/jp-ja/news/detail/id_n1386654">詳しくはこちら</a></p></div>
+    </li>
+  
+                <li class="swiper-slide text">
+      <div class="img"><img src="/system/files/2026-03/GENNECT_Space_SF4300.jpg" alt=""></div>
+      <div class="visual-box-01"><p class="lead-01">計測データ<br />
+統合プラットフォーム</p><p class="data-01">高速計測データと動画を一つのワークスペースに<br />
+<br />
+GENNECT Space SF4300</p><p class="btn-01"><a href="https://www.hioki.com/jp-ja/news/detail/id_n1386491">詳しくはこちら</a></p></div>
+    </li>
+  
+                <li class="swiper-slide text white">
+      <div class="img"><img src="/system/files/2025-12/banner_RM3546.jpg" alt=""></div>
+      <div class="visual-box-01"><p class="lead-01">溶接の品質検査を<br />
+新たに定義</p><p class="data-01">急激な温度変化中でも測定可能<br />
+バッテリーバスバーの溶接検査に最適<br />
+次世代の検査が安全な未来を作る<br />
+<br />
+抵抗計 RM3546</p><p class="btn-01"><a href="https://www.hioki.com/jp-ja/news/detail/id_n1383473">詳しくはこちら</a></p></div>
+    </li>
+  
+      
+       </ul>
+     </div>
+ 
+  <div class="content" id="global-top">
+
+                  
+                        <div class="inner">
+
+  <div class="area-03">
+    <h2 class="hdg2-01">業種・ソリューション</h2>
+    <p class="txt-lead-02">計測課題に寄り添うソリューションをご提案します。</p>
+    <h3 class="hdg3-01 top-unique">業種</h3>
+    <ul class="nav-index-02 col3 sp-col2">
+      <li><a href="/jp-ja/industries-solutions/mobility/"><div class="img"><img src="/themes/hioki/images/global/index-img-03.png" width="440" height="274" alt=""></div><div class="data"><p>モビリティ</p></div></a></li>
+      <li><a href="/jp-ja/industries-solutions/battery/"><div class="img"><img src="/system/files/image/2024-03/img_index_batt.jpg" width="746" height="464" alt=""></div><div class="data"><p>バッテリー</p></div></a></li>
+      <li><a href="/jp-ja/industries-solutions/motor/"><div class="img"><img src="/themes/hioki/images/global/index-img-11.png" width="746" height="464" alt=""></div><div class="data"><p>モーター</p></div></a></li>
+      <li><a href="/jp-ja/industries-solutions/energy/"><div class="img"><img src="/themes/hioki/images/global/index-img-05.png" width="440" height="274" alt=""></div><div class="data"><p>エネルギー</p></div></a></li>
+      <li><a href="/jp-ja/industries-solutions/electronic-components/"><div class="img"><img src="/themes/hioki/images/global/index-img-06.png" width="440" height="274" alt=""></div><div class="data"><p>電子部品</p></div></a></li>
+      <li><a href="/jp-ja/industries-solutions/infrastructure/"><div class="img"><img src="/themes/hioki/images/global/index-img-07.png" width="440" height="274" alt=""></div><div class="data"><p>インフラ</p></div></a></li>
+      <!-- / .nav-index-02 --></ul>
+
+    <h3 class="hdg3-01 top-unique">ソリューション</h3>
+    <ul class="nav-index-02 col3 sp-col2">
+      <li><a href="/jp-ja/industries-solutions/testing/"><div class="img"><img src="/themes/hioki/images/global/index-img-08.png" width="768" height="478" alt=""></div><div class="data"><p>研究開発・解析</p></div></a></li>
+      <li><a href="/jp-ja/industries-solutions/manufacturing/"><div class="img"><img src="/themes/hioki/images/global/index-img-09.png" width="768" height="478" alt=""></div><div class="data"><p>製造・検査</p></div></a></li>
+      <li><a href="/jp-ja/industries-solutions/facilities/"><div class="img"><img src="/themes/hioki/images/global/index-img-10.png" width="768" height="478" alt=""></div><div class="data"><p>設備メンテナンス</p></div></a></li>
+      <!-- / .nav-index-02 --></ul>
+    <!-- / .area-03 --></div>
+
+  <h2 class="hdg2-01">注目製品</h2>
+
+  <ul class="top-businesses-index-01">
+      <li>
+    <a href="/jp-ja/products/power-meters/power-analyzer/id_412384"><img src="/system/files/image/2023-07/PW8001_compress.png" alt="パワーアナライザ PW8001"><b>パワーアナライザ PW8001</b>
+    </a>
+        <p class="data-catch_list"><ul class="list-01">
+<li>SiC, GaNインバーターとリアクトル/トランスの損失を測定 (U7005)</li>
+<li>高効率IGBTと太陽光発電用インバータを測定 (U7001)</li>
+<!-- / .list-01 --></ul></p>
+      </li>
+  <li>
+    <a href="/jp-ja/products/lcr-meters/10-mhz/id_6057"><img src="/sites/default/files/2021-04/product_image5824.png" alt="LCRメータ IM3536"><b>LCRメータ IM3536</b>
+    </a>
+        <p class="data-catch_list"><ul class="list-01"> 			
+<li>業界標準のLCRメータで、幅広い用途に対応</li> 			
+<!-- / .list-01 --></ul></p>
+      </li>
+  <li>
+    <a href="/jp-ja/products/multichannel-data-loggers/multichannel/id_6768"><img src="/system/files/image/2021-06/LR8450E_set1_3_1.png" alt="メモリハイロガー LR8450-01 (無線LAN搭載モデル)"><b>メモリハイロガー LR8450-01 (無線LAN搭載モデル)</b>
+    </a>
+        <p class="data-catch_list"><ul class="list-01">
+<li>最大330チャネルまで拡張可能なポータブルデータロガー</li>
+ <li>直結ユニット・無線ユニットが選べる</li>
+<!-- / .list-01 --></ul></p>
+      </li>
+  <li>
+    <a href="/jp-ja/products/pqa/power-quality/id_6735"><img src="/sites/default/files/2021-04/product_image6503.png" alt="電源品質アナライザ PQ3198"><b>電源品質アナライザ PQ3198</b>
+    </a>
+        <p class="data-catch_list"><ul class="list-01">
+<li>国際規格 IEC61000-4-30 Ed.3 Class A対応</li>
+<li>電源品質を監視・記録</li>
+<!-- / .list-01 --></ul></p>
+      </li>
+
+    <!-- / .top-businesses-index-01 --></ul>
+  <!-- / .inner --></div>
+<div class="top-businesses-area-01">
+  <div class="inner-01">
+    <div class="title">
+      <h2 class="hdg2-01">製品</h2>
+    </div>
+
+    <div class="js-top-more-01">
+      <ul class="panel-01">
+        <li><a href="/jp-ja/products/data-acquisition/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-01.png" width="160" height="114" alt=""></div><b>データアクイジション (DAQ) | メモリハイコーダ | 記録計 | 差動プローブ</b></a></li>
+        <li><a href="/jp-ja/products/multichannel-data-loggers/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-02.png" width="160" height="114" alt=""></div><b>データロガー | 多チャネル</b></a></li>
+        <li><a href="/jp-ja/products/compact-data-loggers/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-03.png" width="160" height="114" alt=""></div><b>小型データロガー</b></a></li>
+        <li><a href="/jp-ja/products/lcr-meters/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-04.png" width="160" height="114" alt=""></div><b>LCRメータ | インピーダンスアナライザ</b></a></li>
+        <li><a href="/jp-ja/products/resistance-meters/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-05.png" width="160" height="114" alt=""></div><b>抵抗計 | バッテリーテスター</b></a></li>
+        <li><a href="/jp-ja/products/electrometers/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-06.png" width="160" height="114" alt=""></div><b>超絶縁計 | 高抵抗計 | ピコアンメータ | エレクトロメータ</b></a></li>
+        <li><a href="/jp-ja/products/benchtop-dmm/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-07.png" width="160" height="114" alt=""></div><b>高確度 デジタルマルチメータ</b></a></li>
+        <li><a href="/jp-ja/products/electrical-safety-testers/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-08.png" width="160" height="114" alt=""></div><b>安全関連試験器 | 絶縁・耐電圧試験器</b></a></li>
+        <li><a href="/jp-ja/products/signal-generators-calibrators/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-09.png" width="160" height="114" alt=""></div><b>キャリブレータ | 任意波形発生器 | ファンクションジェネレータ</b></a></li>
+        <li><a href="/jp-ja/products/power-meters/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-10.png" width="160" height="114" alt=""></div><b>パワーメータ | パワーアナライザ | 電力計 </b></a></li>
+        <li><a href="/jp-ja/products/pqa/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-11.png" width="160" height="114" alt=""></div><b>電源品質アナライザ | クランプ電力計 | 電力ロガー</b></a></li>
+        <li><a href="/jp-ja/products/current-probes/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-12.png" width="160" height="114" alt=""></div><b>電流センサー | 電流プローブ | 非接触CANセンサー</b></a></li>
+        <li><a href="/jp-ja/products/rgb-laser/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-13.png" width="160" height="114" alt=""></div><b>通信用測定器</b></a></li>
+        <li><a href="/jp-ja/products/pv/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-14.png" width="160" height="114" alt=""></div><b>太陽光パネル | 発電 | PVメンテナンス測定器</b></a></li>
+        <li><a href="/jp-ja/products/field-measuring/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-15.png" width="160" height="114" alt=""></div><b>磁界測定器 | 温度計 | 照度計</b></a></li>
+        <li><a href="/jp-ja/products/testers/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-16.png" width="160" height="114" alt=""></div><b>テスター | デジタルマルチメータ</b></a></li>
+        <li><a href="/jp-ja/products/insulation-testers/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-17.png" width="160" height="114" alt=""></div><b>絶縁抵抗計</b></a></li>
+        <li><a href="/jp-ja/products/clamp-meters/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-18.png" width="160" height="114" alt=""></div><b>クランプメーター | クランプ電流計</b></a></li>
+        <li><a href="/jp-ja/products/ground-testers/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-19.png" width="160" height="114" alt=""></div><b>接地抵抗計 | 検相器 | 検電器</b></a></li>
+        <li><a href="/jp-ja/products/specialized-solutions/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-20.png" width="160" height="114" alt=""></div><b>IoT | 新技術</b></a></li>
+        <li><a href="/jp-ja/products/bare-board/"><div class="img"><img src="/themes/hioki/images/global/products/index-img-22.png" width="160" height="114" alt=""></div><b>ベアボード検査 | パッケージ検査 | 実装基板検査（インサーキットテスト）</b></a></li>
+        <li><a href="/jp-ja/support/discontinued/">廃止代替製品</a></li>
+      </ul>
+    </div>
+    <!-- / .inner-01 --></div>
+  <!-- / .top-businesses-area-01 --></div>
+<div class="inner">
+
+  <div class="top-news-01 js-tab-01">
+    <ul class="nav js-tab-ui">
+      <li><a href="#news" class="no-scroll">お知らせ</a></li>
+      <li><a href="#events" class="no-scroll">イベント</a></li>
+    </ul>
+
+    
+    <div id="news" class="item js-tab-item">
+      <ul class="list-news-01 col4">
+        
+          
+
+
+    
+<li><a href="/jp-ja/news/detail/id_n1388326">
+    <span class="txt">校正書類ダウンロードサービス対象製品追加のご案内
+                </span>
+    <span class="data"><span class="day">2026.04.20</span>
+            <span class="label-02">トピックス</span>
+        </span>
+  </a></li>
+  
+
+
+    
+<li><a href="/jp-ja/news/detail/id_n1388426">
+    <span class="txt">ゴールデンウィーク休業のお知らせ
+                </span>
+    <span class="data"><span class="day">2026.04.20</span>
+            <span class="label-02">トピックス</span>
+        </span>
+  </a></li>
+  
+
+
+    
+<li><a href="/jp-ja/news/detail/id_n1387636">
+    <span class="txt">大型電動車両の大電流測定向けに、従来サイズでDC 2000 Aに対応したクランプ型電流センサー 「AC/DCカレントプローブ CT6847A」を発売
+                </span>
+    <span class="data"><span class="day">2026.04.09</span>
+            <span class="label-02">製品・技術</span>
+        </span>
+  </a></li>
+  
+
+
+    
+<li><a href="/jp-ja/news/detail/id_n1387706">
+    <span class="txt">名古屋テクニカルセンターが 4 月 1 日より本格稼働　東海地域で顧客とのさらなる協創を目指す
+                </span>
+    <span class="data"><span class="day">2026.04.01</span>
+            <span class="label-02">トピックス</span>
+        </span>
+  </a></li>
+
+    
+
+      </ul>
+
+      <div class="top-flex">
+        <p class="btn-01 t-center"><a href="/jp-ja/news/">もっと見る</a></p>
+        <ul class="link-list-01 t-right type1">
+          <li><a href="/jp-ja/important/">重要なお知らせ</a></li>
+        </ul>
+      </div>
+      <!-- / #news .js-tab-item --></div>
+    <div id="events" class="item js-tab-item">
+      <ul class="list-news-01 col4">
+        
+          
+
+      
+
+
+<li><a href="/jp-ja/news/events/detail/id_1387825.html">
+        <span class="label-01">            登録受付中
+      </span>
+        <span class="txt">【技術講座】超実践！パワーアナライザ徹底活用「その効率のふらつきは本物？」
+            </span>
+    <span class="data">
+      <span class="day">
+        2026.04.23
+         - 2026.04.23      </span>
+
+              <span class="label-02">イベント</span>
+      
+
+    </span>
+  </a></li>
+  
+
+      
+
+
+<li><a href="/jp-ja/news/events/detail/id_1386245.html">
+        <span class="label-01">            終了
+      </span>
+        <span class="txt">「H2&amp;FC EXPO  水素・燃料電池展2026」に出展いたします。
+            </span>
+    <span class="data">
+      <span class="day">
+        2026.03.17
+         - 2026.03.19      </span>
+
+              <span class="label-02">展示会</span>
+      
+
+    </span>
+  </a></li>
+  
+
+      
+
+
+<li><a href="/jp-ja/news/events/detail/id_1386655.html">
+        <span class="label-01">            終了
+      </span>
+        <span class="txt">【動画セミナー】太陽光発電 使用前自己確認 攻略ガイド
+            </span>
+    <span class="data">
+      <span class="day">
+        2026.03.12
+         - 2026.03.25      </span>
+
+              <span class="label-02">イベント</span>
+      
+
+    </span>
+  </a></li>
+  
+
+      
+
+
+<li><a href="/jp-ja/news/events/detail/id_1385521.html">
+        <span class="label-01">            終了
+      </span>
+        <span class="txt">【計測技術セミナー】高度なスラリー分析によるリチウムイオン電池性能の向上
+            </span>
+    <span class="data">
+      <span class="day">
+        2026.02.26
+         - 2026.02.26      </span>
+
+              <span class="label-02">イベント</span>
+      
+
+    </span>
+  </a></li>
+
+    
+
+      </ul>
+
+      <div class="top-flex">
+        <p class="btn-01 t-center"><a href="/jp-ja/news/events/">もっと見る</a></p>
+        <ul class="link-list-01 t-right type1">
+          <li><a href="/jp-ja/important/">重要なお知らせ</a></li>
+        </ul>
+      </div>
+      <!-- / #events .js-tab-item --></div>
+    <!-- / .top-news-01 --></div>
+  <!-- / .inner --></div>
+<div class="area-top-businesses-02">
+  <div class="box">
+    <h2 class="hdg2-01">計測知識</h2>
+    <p>電気の基礎知識、測定器の使い方やターゲット別の試験方法、アプリケーションノートをご紹介します。</p>
+    <p class="btn-01"><a href="/jp-ja/learning/">詳しくはこちら</a></p>
+  </div>
+  <!-- / .area-top-02 --></div>
+<div class="inner">
+<h2 class="hdg2-01">サービス・サポート</h2>
+<div class="column col3 height">
+<div class="col">
+<div class="box-01">
+<h3 class="box-hdg-02"><span>FAQ</span></h3>
+<dl class="list-des-01">
+<div>
+<dt>お困りの際は、まずこちらをチェック</dt>
+<dd>製品や計測に関する「よくある質問とその回答」を確認できます。</dd>
+</div>
+</dl>
+<p class="btn-01 t-center"><a href="https://hiokisupport.zendesk.com/hc/ja" target="_blank"><span>もっと見る <img src="/themes/hioki/common/images/icon-blank-02.png" alt="別ウィンドウで表示する" class="icon-link-01"></span></a></p>
+</div>
+</div>
+
+<div class="col">
+<div class="box-01">
+<h3 class="box-hdg-02 download"><span>資料ダウンロード</span></h3>
+<dl class="list-des-01">
+<div>
+<dt>計測の課題を解決</dt>
+<dd>製品カタログはもちろん、取扱説明書や技術資料などの各種資料と、ソフトウェア&amp;ファームウェアをダウンロードできます。</dd>
+</div>
+</dl>
+<p class="btn-01 t-center"><a href="/jp-ja/support/download/">今すぐダウンロード</a></p>
+</div>
+</div>
+<div class="col">
+<div class="box-01">
+<h3 class="box-hdg-02 hioki"><span>my HIOKI</span></h3>
+<ul class="list-01">
+<li>
+<dl class="list-des-01">
+<div>
+<dt>会員限定特典</dt>
+<dd>製品外観図やソフトウェアのダウンロードなど、多彩なサービスをご利用いただけます。</dd>
+</div>
+</dl>
+</li>
+<li>
+<dl class="list-des-01">
+<div>
+<dt>各種資料の閲覧・ダウンロード</dt>
+<dd>製品外観図、他会員限定資料のダウンロード</dd>
+</div>
+</dl>
+</li>
+</ul>
+<p class="btn-01 t-center"><a href="/jp-ja/support/myhioki/">無料登録する</a></p>
+</div>
+</div>
+<!-- / .column col3 --></div>
+
+
+<ul class="link-bnr-01">
+<li><a href="https://hioki-partner.zendesk.com/" target="_blank"><img src="/themes/hioki/images/jp-ja/top/index-bnr-01.png" width="383" height="110" alt="D-site"></a></li>
+
+<!-- ★メモ：2027/1に復活。製品下取りサービスを非表示にすること★
+<li><a href="https://www.hioki.com/j/products/design/" target="_blank"><img src="/themes/hioki/images/top/index-bnr-02.png" width="383" height="110" alt="Hioki Design"></a></li>
+-->
+
+<li><a href="/ja/corporate/technical-center.html" target="_blank"><img src="/system/files/image/2026-03/technical-center_banner_383-110.jpg" width="383" height="110" alt="テクニカルセンター"></a></li>
+
+<li><a href="/jp-ja/support/network/trade-in.html" target="_blank"><img src="/system/files/image/2026-03/trade-in_ja_banner.jpg" width="383" height="110" alt="HIOKI 製品下取りサービス"></a></li>
+
+
+</ul>
+<!-- / .inner --></div>
+      
+      
+      
+
+    <!-- / .content --></div>
+
+  
+</main>
+
+
+      <!-- checker jp-ja -->
+  <!-- 製品日本語  -->
+  <footer id="footer">
+  <p id="pagetop"><a href="#page"><span>Page top</span></a></p>
+
+  <div id="footer-menu">
+    <nav class="sitemap js-toggle-01">
+      <h2 class="title-01 js-toggle-ui">コンテンツメニュー</h2>
+      <div class="js-toggle-content">
+        <ul class="item-01">
+          <li><a href="/jp-ja/products"><span>製品</span></a>
+            <ul>
+              <li class="line-02"><a href="/jp-ja/products/new">新製品</a></li>
+              <li><a href="/jp-ja/support/discontinued">廃止代替製品一覧</a></li>
+            </ul></li>
+          <li><a href="/jp-ja/industries-solutions"><span>業種・ソリューション</span></a>
+            <ul>
+              <li><a href="/jp-ja/industries-solutions/mobility">モビリティ</a></li>
+              <li><a href="/jp-ja/industries-solutions/battery">バッテリー</a></li>
+              <li><a href="/jp-ja/industries-solutions/motor">モーター</a></li>
+              <li><a href="/jp-ja/industries-solutions/energy">エネルギー</a></li>
+              <li><a href="/jp-ja/industries-solutions/electronic-components">電子部品</a></li>
+              <li><a href="/jp-ja/industries-solutions/infrastructure">インフラ</a></li>
+              <li><a href="/jp-ja/industries-solutions/testing">研究開発・解析</a></li>
+              <li><a href="/jp-ja/industries-solutions/manufacturing">製造・検査</a></li>
+              <li><a href="/jp-ja/industries-solutions/facilities">設備メンテナンス</a></li>
+            </ul></li>
+          <li><a href="/jp-ja/learning"><span>計測知識</span></a>
+            <ul>
+              <li><a href="/jp-ja/learning/electricity">電気の基礎</a></li>
+              <li><a href="/jp-ja/learning/methods">測定方法</a></li>
+              <li><a href="/jp-ja/learning/common-devices">測定器を知る</a></li>
+              <li><a href="/jp-ja/learning/how-to">測定器の使い方</a></li>
+              <li><a href="/jp-ja/learning/test-tools">ターゲット別試験</a></li>
+              <li><a href="/jp-ja/learning/applications">アプリケーションノート</a></li>
+            </ul></li>
+          <li><a href="/jp-ja/support"><span>サービス・サポート</span></a>
+            <ul>
+              <li><a href="/jp-ja/support/myhioki">my HIOKI</a></li>
+              <li><a href="/jp-ja/support/download">ダウンロード</a></li>
+              <li><a href="https://hiokisupport.zendesk.com/hc/ja" target="_blank">FAQ<img src="/themes/hioki/common/images/icon-blank-01.png" alt="別ウィンドウで表示する" class="icon-link-01"></a></li>
+              <li><a href="/jp-ja/support/service">アフターサービス</a></li>
+              <li><a href="/jp-ja/support/warranty">製品保証</a></li>
+              <li><a href="/jp-ja/support/network">販売店・レンタル・EC</a></li>
+            </ul></li>
+        </ul>
+        <div class="box-01">
+          <ul class="item-01">
+            <li><a href="/jp-ja/news"><span>お知らせ</span></a></li>
+            <li><a href="/jp-ja/important"><span>重要なお知らせ</span></a></li>
+          </ul>
+          <ul class="item-02">
+            <li class="type1 js-roll-01"><a href="/ja/" target="_blank"><span>コーポレート・IR<img src="/themes/hioki/common/images/icon-blank-02.png" alt="別ウィンドウで表示する" class="icon-link-01"></span></a></li>
+          </ul>
+          <!-- / .box-01 --></div>
+      </div>
+    </nav>
+    <!-- / #footer-menu --></div>
+
+  <div id="footer-utility">
+    <div class="inner">
+      <div class="box">
+        <ul class="utility-link-01">
+          <li><a href="/ja/privacy-policy/">プライバシーポリシー</a></li>
+          <li><a href="/ja/terms-of-use/">ウェブサイト利用規約</a></li>
+          <li><a href="/ja/user-agreement/">会員規約</a></li>
+          <li><a href="/ja/information-security-policy/">情報セキュリティポリシー</a></li>
+          <li><a href="/ja/cookie-policy/">クッキー（Cookie）ポリシー</a></li>
+          <li><a href="/ja/sitemap/">サイトマップ</a></li>
+        </ul>
+        <ul class="sns-link-01">
+          <li><a href="https://www.youtube.com/@HIOKIJapan" target="_blank" rel="noopener"><img src="/themes/hioki/common/images/icon-yt-01.png" alt="youtube"></a></li>
+          <li><a href="https://www.facebook.com/hioki.co.jp/" target="_blank" rel="noopener"><img src="/themes/hioki/common/images/icon-fb-01.png" alt="facebook"></a></li>
+          <li><a href="https://www.instagram.com/hiokijapan/" target="_blank" rel="noopener"><img src="/themes/hioki/common/images/icon-ig-01.png" alt="instagram"></a></li>
+        </ul>
+        <!-- / .box --></div>
+      <p class="copy"><small>© 2025 HIOKI E.E. CORPORATION</small></p>
+      <!-- / .inner --></div>
+    <!-- / .utility --></div>
+
+  <!-- / #footer --></footer>
+
+
+
+<!-- / #page --></div>
+
+  </div>
+
+    <!-- whatsapp template -->
+<!-- language jp-ja -->
+
+
+    <script src="/modules/custom/hioki_auth/js/login_check.js?v=1.0.2"></script>
+
+        </body>
+
+</html>

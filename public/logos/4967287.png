@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <title>404-</title>
+        <base href="https://www.co-tech.com/">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
+    <link rel="canonical" href="https://www.co-tech.com/favicon.ico" />
+    <!--語系選項-->
+    <link rel="alternate" hreflang="zh-TW" href="https://www.co-tech.com/tw" />
+    <link rel="alternate" hreflang="en" href="https://www.co-tech.com/en" />
+    <link rel="alternate" hreflang="zh-CN" href="https://www.co-tech.com/cn" />
+    <meta name="title" content="404-">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="金居開發股份有限公司">
+    <meta name="copyright" content="金居開發股份有限公司">
+        <!--語系選項-->
+    <link rel="stylesheet" href="assets/ContentBuilder/assets/minimalist-blocks/content.css?202102190959">
+        <link rel="stylesheet" href="assets/css/app.css?202102190959">
+        <!--[if lt IE 9]>
+     <script src="assets/js/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MG9ZPG6G');</script>
+</head>
+
+<body>
+    <div class="relative">
+      <img src="assets/img/layout/404.jpg" alt="" class="w-full">
+      <div class="not-found">
+        <div class="wrapper">
+          <h1 class="text-xl lg:text-4xl mb-5">您尋找的頁面並不存在</h1>
+          <p class="mb-10">請回到首頁再次瀏覽相關資訊</p>
+          <a href="tw" class="btn btn--primary-outline">回首頁</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+<script>
+  // if(window.self === window.top) {
+  //   var currentURL = window.location.href;
+  //   var patt1 = new RegExp("preview=");
+  //   if (patt1.test(currentURL)){
+  //     top.location.href='https://www.co-tech.com/tw/error404';
+  //   }
+  // }
+</script>

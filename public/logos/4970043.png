@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <!-- GA3 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-69S4TB4S3W"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-69S4TB4S3W');
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>CWT 僑威科技股份有限公司 </title>
+    <base href="https://www.cwt.com.tw/">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
+    <link rel="canonical" href="https://www.cwt.com.tw/" />
+    <link rel="alternate" hreflang="zh-TW" href="https://www.cwt.com.tw/" />
+    <link rel="alternate" hreflang="en" href="https://www.cwt.com.tw/en" />
+    <meta name="title" content="CWT 僑威科技股份有限公司 ">
+    <meta name="description" content="僑威創立於1993年總部設立在台灣，主要業務為各式電源供應器產品的研發、生產及銷售，自創經營CWT品牌。我們長期以來聚焦於客製化的電源產品發展及上游零組件的垂直整合，進行效益最佳化的資源整合與管理模式，強化產品競爭優勢，為客戶提供更優質、安全且精進的製造品質與服務。">
+    <meta name="keywords" content="僑威科技, CWT, 電源供應器, 電源代工, PC風扇, PSU, PC POWER, 無線充電器, 列表機電源, 車充供電器, PD, ADAPTER, GaN, 可換頭電源, 僑威貴冠, 僑威冠碩, 僑威昌聖, 僑威北寧, 僑威河內, 僑威越南, POE, Qi, 鈦金牌, 白金牌, 金牌, Platinum, Titanium, Gold, Bronze, Open Frame, 開放式電源, OEM, ODM">
+    <meta name="author" content="僑威科技">
+    <meta name="copyright" content="僑威科技">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:locale" content="zh-TW">
+    <meta property="og:rich_attachment" content="true">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.cwt.com.tw/">
+    <meta property="og:image" content="https://www.cwt.com.tw/assets/img/default-tw.png">
+    <meta property="og:image:type" content="png">
+    <meta property="og:image:width" content="512">
+    <meta property="og:image:height" content="512">
+    <link rel="stylesheet" href="assets/ContentBuilder/assets/minimalist-blocks/content.css">
+    <link rel="stylesheet" href="assets/css/app.css">
+    <!--[if lt IE 9]>
+     <script src="assets/js/html5shiv.min.js"></script>
+    <![endif]-->
+<script src="assets/js/master-css.js"></script>
+<script>
+  MasterStyle.extend('colors', {
+    primary: 'ff9b5d',
+  });
+</script>
+<link rel="stylesheet" href="assets/css/all.css?36420230203" />
+    <!-- Google Tag Manager -->
+    <script defer>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N4PR76XL');</script>
+</head>
+  <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4PR76XL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header class="img-full w:full py:15 py:0@>lg">
+  <div class="w:80%@>xl w:90%@2xs w:calc(100%-3.75rem) mx:auto flex jc:space-between ai:center">
+    <a class="logo w:60@2xs w:50 rel" href="tw">
+      <img class="logo-b" src="assets/img/layout/logo.svg" alt>
+      <img class="abs top:0 left:0 logo-w" src="assets/img/layout/logo-w.svg" alt>
+    </a>
+    <ul class="menu-list-box position:fixed@<=lg top:90@2xs top:80 w:full@<=lg right:-100%@<=lg d:flex@>lg">
+    <li>
+        <div class="menu-title-box has-submenu  px:30@>xl {px:40;py:24} {px:20;py:40}@>lg {px:40;py:40}:lang(en)@>xl {px:15;py:40}:lang(en)@>lg f:20:lang(en)@xl f:18:lang(en)@lg f:20@lg f:16@md f:20">
+          <p>關於僑威</p>
+          <span class="rwd-submenu-icon d:none@>lg d:block">
+            <img class="js-svg" src="assets/img/layout/icon/menu-arrow.svg" alt>
+          </span>
+        </div> 
+        <div class="submenu w:320@>lg f:20 abs@>lg opacity:0@>lg pointer-events:none@>lg">
+
+                  <a href="tw/about/group" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">關於僑威集團</div>
+          </a>
+
+                  <a href="tw/about/info" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">集團簡介</div>
+          </a>
+
+                  <a href="tw/about/history" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">大事記</div>
+          </a>
+
+                  <a href="tw/about/manage" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">經營團隊</div>
+          </a>
+
+                  <a href="tw/about/awards" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">體系認證</div>
+          </a>
+
+                  <a href="tw/about/welfare" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">福利制度</div>
+          </a>
+
+                  <a href="tw/about/recruit" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">人力資源</div>
+          </a>
+
+        </div>
+      </li>
+      <li>
+
+              <div class="menu-title-box px:40@>xl px:40 {px:40;py:40}:lang(en)@>xl {px:15;py:40}:lang(en)@>lg {px:20;py:40}@>lg py:24 f:20@lg f:16@md f:20 hide! d:block!@>lg">
+          <a href="tw/application/info/ai_power">產業應用</a>
+        </div>
+        <div class="menu-title-box has-submenu  px:30@>xl {px:40;py:24} {px:20;py:40}@>lg {px:40;py:40}:lang(en)@>xl {px:15;py:40}:lang(en)@>lg  f:20:lang(en)@xl f:18:lang(en)@lg f:20@lg f:16@md f:20 hide@lg d:block">
+          <p>產業應用</p>
+          <span class="rwd-submenu-icon d:none@>lg d:block">
+            <img class="js-svg" src="assets/img/layout/icon/menu-arrow.svg" alt>
+          </span>
+        </div> 
+        <div class="submenu w:320@>lg f:20 abs@>lg opacity:0@>lg pointer-events:none@>lg hide!@>lg">
+          <!-- 在當下的次分類的a，加上active -->
+
+                  <a href="tw/application/info/ai_power" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">AI power</div>
+          </a>
+                  <a href="tw/application/info/industrial" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">Industrial</div>
+          </a>
+                  <a href="tw/application/info/medical" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">Medical</div>
+          </a>
+                  <a href="tw/application/info/iot" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">IoT</div>
+          </a>
+                  <a href="tw/application/info/gaming" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">Gaming</div>
+          </a>
+                  <a href="tw/application/info/consumer" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">Consumer</div>
+          </a>
+                  <a href="tw/application/info/new_energy" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">New Energy</div>
+          </a>
+                  <a href="tw/application/info/networking" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">Networking</div>
+          </a>
+                  <a href="tw/application/info/security_monitoring" class=" second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">Security Monitoring</div>
+          </a>
+        
+        </div>
+      </li>
+
+          <li>
+        <div class="menu-title-box px:40@>xl {px:20;py:40}@>lg px:40:lang(en)@>xl px:15:lang(en)@lg {px:40;py:24} f:20@lg f:16@md f:20">
+          <a href="tw/product/info/ai_智能供電系統">產品介紹</a>
+        </div> 
+      </li>
+      <li>
+        <div class="menu-title-box px:40@>xl {px:20;py:40}@>lg px:40:lang(en)@>xl px:15:lang(en)@lg {px:40;py:24} f:20@lg f:16@md f:20">
+          <a href="tw/advantage">競爭優勢</a>
+        </div> 
+      </li>
+
+          <li>
+        <div class="menu-title-box px:40@>xl {px:20;py:40}@>lg px:40:lang(en)@>xl px:15:lang(en)@lg {px:40;py:24} f:20@lg f:16@md f:20">
+          <a href="tw/csr/edit/永續治理">企業永續</a>
+        </div> 
+      </li>
+    
+      <li>
+        <div class="menu-title-box px:40@>xl {px:20;py:40}@>lg px:40:lang(en)@>xl px:15:lang(en)@lg {px:40;py:24} f:20@lg f:16@md f:20">
+          <a href="tw/news/article">新聞中心</a>
+        </div> 
+      </li>
+      <li>
+        <div class="menu-title-box has-submenu px:40@>xl {px:20;py:40}@>lg px:40:lang(en)@>xl px:15:lang(en)@lg {px:40;py:24} f:20@lg f:16@md f:20">
+          <p>投資人專區</p>
+          <span class="rwd-submenu-icon hide@>lg d:block">
+            <img class="js-svg" src="assets/img/layout/icon/menu-arrow.svg" alt>
+          </span>
+        </div> 
+        <div class="submenu w:320@>lg f:20 abs@>lg opacity:0@>lg pointer-events:none@>lg">
+
+                  <!-- 在當下的次分類的second-list，加上active -->
+          <div class="second-list ">
+            <a href="tw/shareholder/service" class=" second-title hide! d:block!@>lg">
+              <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">股東專欄</div>
+            </a>
+            <div class="second-title has-thirdmenu px:20@xl px:40 py:18@>lg py:24 py:18@>lg f:18@lg f:16@md f:20 d:flex ai:center jc:space-between hide@lg d:block">
+              <p>股東專欄</p>
+              <span class="rwd-submenu-icon d:block">
+                <img class="js-svg" src="assets/img/layout/icon/menu-arrow.svg" alt>
+              </span>
+            </div>
+
+                      <div class="third-list w:320@>lg">
+
+                          <a href="tw/shareholder/service" class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">股務代理機構</a>
+
+                          <a href="tw/shareholder/info" class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">股東會資訊</a>
+
+                          <a href="tw/shareholder/distribute" class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">歷年股利分配</a>
+
+                          <a href="tw/shareholder/news" class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">公司重大訊息</a>
+
+                          <a href="tw/shareholder/conference" class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">法說會資訊</a>
+
+              <a href="/tw/contact?subject=投資詢問" target="_self" class="third-title px:20@xl px:40 py:24 py:18@>lg f:20@lg f:16@md f:20">投資詢問</a>
+            </div>
+          </div>
+
+                  <div class="second-list ">
+            <a href="tw/finance/report" class=" second-title hide! d:block!@>lg">
+              <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">財務報表</div>
+            </a>
+            <div class="second-title has-thirdmenu px:20@xl px:40 py:18@>lg py:24 f:18@lg f:16@md f:20 d:flex ai:center jc:space-between hide@lg d:block">
+              <p>財務報表</p>
+              <span class="rwd-submenu-icon d:block">
+                <img class="js-svg" src="assets/img/layout/icon/menu-arrow.svg" alt>
+              </span>
+            </div>
+
+                      <div class="third-list w:320@>lg">
+              <a href="javascript:void(0)" target="_blank" class="third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">月營收資訊</a>
+
+                          <a href="tw/finance/report" class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">財務報告</a>
+            </div>
+          </div>
+
+                  <div class="second-list ">
+
+                      <a href="tw/governance/func/公司組織" class=" second-title hide! d:block!@>lg">
+              <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">公司治理</div>
+            </a>
+            <div class="second-title has-thirdmenu px:20@xl px:40 py:18@>lg py:24 py:18@>lg f:18@lg f:16@md f:20 d:flex ai:center jc:space-between hide@lg d:block">
+              <p>公司治理</p>
+              <span class="rwd-submenu-icon d:block">
+                <img class="js-svg" src="assets/img/layout/icon/menu-arrow.svg" alt>
+              </span>
+            </div>
+            <div class="third-list w:320@>lg">
+
+                          <a
+                  href="tw/governance/func/公司組織"
+                  class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">
+                  公司組織              </a>
+                          <a
+                  href="tw/governance/func/董事會"
+                  class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">
+                  董事會              </a>
+                          <a
+                  href="tw/governance/func/功能性委員會"
+                  class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">
+                  功能性委員會               </a>
+                          <a
+                  href="tw/governance/func/公司內部規章"
+                  class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">
+                  公司內部規章              </a>
+                          <a
+                  href="tw/governance/func/公司治理運作情形"
+                  class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">
+                  公司治理運作情形              </a>
+                          <a
+                  href="tw/governance/func/內部稽核組織運作"
+                  class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">
+                  內部稽核組織運作              </a>
+                          <a
+                  href="tw/governance/func/投資人關係"
+                  class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">
+                  投資人關係              </a>
+                          <a
+                  href="tw/governance/func/利害人關係"
+                  class=" third-title px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">
+                  利害關係人              </a>
+            
+            </div>
+          </div>
+        </div>
+      </li>
+      <li class="hide@>lg d:block">
+        <div class="menu-title-box has-submenu  px:30@>xl {px:40;py:24} {px:20;py:40}@>lg {px:40;py:40}:lang(en)@>xl {px:15;py:40}:lang(en)@>lg f:20:lang(en)@xl f:18:lang(en)@lg f:20@lg f:16@md f:20">
+          <p>Language</p>
+          <span class="rwd-submenu-icon d:none@>lg d:block">
+            <img class="js-svg" src="assets/img/layout/icon/menu-arrow.svg" alt>
+          </span>
+        </div>
+        <div class="submenu w:320@>lg f:20 abs@>lg opacity:0@>lg pointer-events:none@>lg">
+          <!-- 在當下的次分類的a，加上active -->
+          <a href="en" class="active second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">English</div>
+          </a>
+          <a href="tw" class="second-list">
+            <div class="second-title px:20@xl {px:40;py:24} px:15:lang(en)@lg py:18@>lg f:18@lg f:16@md f:20">繁體中文</div>
+          </a>
+        </div>
+      </li>
+    </ul>
+    <div class="btn-block d:flex ac:center">
+      <a href="tw/inquiry" class="shop-icon rel mr:42">
+        <span class="icon w:40 d:block">
+          <img src="assets/img/layout/icon/shop-icon.svg" alt>
+        </span>
+        <span id="shownum" class="abs w:24 h:24 r:50% bg:#999999 flex ai:center jc:center f:#FFF bottom:-12 right:-12 f:13">0</span>
+      </a>
+      <a href="tw/contact" class="mail-icon rel d:block@>lg hide mr:30">
+        <span class="icon w:40 d:block">
+          <img src="assets/img/layout/icon/mail-icon.svg" alt>
+        </span>
+      </a>
+      <div class="lan-icon rel d:block@>lg hide cursor">
+        <div class="icon w:40 d:block">
+          <img src="assets/img/layout/icon/lan-icon.svg" alt>
+        </div>
+
+        <div class="lan-list-box abs top:100% left:50% transform:translateX(-50%) bg:#F0F0F0 w:120 text:center mt:20">
+          <a href="en" class="d:block px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">English</a>
+          <a href="tw" class="d:block px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">繁體中文</a>
+          <a href="cn" class="d:block px:20@xl px:40 py:24 py:18@>lg f:18@lg f:16@md f:20">简体中文</a>
+        </div>
+      </div>
+      <div class="btn-box menu-btn d:none@>lg w:40 h:40 rel d:flex ai:center jc:center p:4">
+        <div class="rel w:full">
+          <span class="abs"></span>
+          <span></span>
+          <span class="abs"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>         <main>
+      <section class="banner-block fade o-hidden">
+        <div class="banner-box">
+
+                  <!-- data-style是選擇該情境圖的色系，深色為black，淺色為white -->
+          <a href="javascript:void(0)" target="_self" class="banner-list" data-video-type="img" data-video-href="" data-style="white">
+            <div class="banner-img">
+              <span>
+                <picture>
+                  <source srcset="/uploads/images/index/26_03-07.jpg" media="(min-width: 768px)">
+                  <img class="img-object" src="/uploads/images/index/COVER0318-08.png">
+                </picture>
+              </span>
+            </div>
+            <div class="slogan-block f:#FFF px:30 left:10%@lg">
+              <div class="flex ai:center">
+                <p class="f:86@>xl f:72@2xs f:60 font-Oswald lh:1.2@<2xs">AI POWER SOLUTIONS</p>
+                <div class="w:14 flex-shrink:0 ml:30">
+                  <img src="assets/img/page/index/icon/banner-arrow.svg" alt>
+                </div>
+              </div>
+              <div class="overflow:hidden slogan-p1">
+                <p class="f:20">穩定供電，驅動智慧<br />
+Powering AI.  Driving Innovation.</p>
+              </div>
+            </div>
+          </a>
+                  <!-- data-style是選擇該情境圖的色系，深色為black，淺色為white -->
+          <a href="javascript:void(0)" target="_self" class="banner-list" data-video-type="img" data-video-href="" data-style="black">
+            <div class="banner-img">
+              <span>
+                <picture>
+                  <source srcset="/uploads/images/index/COVER-02-05.jpg" media="(min-width: 768px)">
+                  <img class="img-object" src="/uploads/images/index/COVER-02-06.jpg">
+                </picture>
+              </span>
+            </div>
+            <div class="slogan-block f:#FFF px:30 left:10%@lg">
+              <div class="flex ai:center">
+                <p class="f:86@>xl f:72@2xs f:60 font-Oswald lh:1.2@<2xs">僑威科技榮獲</p>
+                <div class="w:14 flex-shrink:0 ml:30">
+                  <img src="assets/img/page/index/icon/banner-arrow.svg" alt>
+                </div>
+              </div>
+              <div class="overflow:hidden slogan-p1">
+                <p class="f:20"></p>
+              </div>
+            </div>
+          </a>
+                  <!-- data-style是選擇該情境圖的色系，深色為black，淺色為white -->
+          <a href="javascript:void(0)" target="_self" class="banner-list" data-video-type="img" data-video-href="" data-style="white">
+            <div class="banner-img">
+              <span>
+                <picture>
+                  <source srcset="/uploads/images/index/COVER-2025-03.jpg" media="(min-width: 768px)">
+                  <img class="img-object" src="/uploads/images/index/COVER-2025-04.jpg">
+                </picture>
+              </span>
+            </div>
+            <div class="slogan-block f:#FFF px:30 left:10%@lg">
+              <div class="flex ai:center">
+                <p class="f:86@>xl f:72@2xs f:60 font-Oswald lh:1.2@<2xs">其他電子零組件</p>
+                <div class="w:14 flex-shrink:0 ml:30">
+                  <img src="assets/img/page/index/icon/banner-arrow.svg" alt>
+                </div>
+              </div>
+              <div class="overflow:hidden slogan-p1">
+                <p class="f:20"> 僑威科技 榮獲</p>
+              </div>
+            </div>
+          </a>
+                  <!-- data-style是選擇該情境圖的色系，深色為black，淺色為white -->
+          <a href="javascript:void(0)" target="_self" class="banner-list" data-video-type="img" data-video-href="" data-style="white">
+            <div class="banner-img">
+              <span>
+                <picture>
+                  <source srcset="/uploads/images/index/01-08-01.jpg" media="(min-width: 768px)">
+                  <img class="img-object" src="/uploads/images/index/12.jpg">
+                </picture>
+              </span>
+            </div>
+            <div class="slogan-block f:#FFF px:30 left:10%@lg">
+              <div class="flex ai:center">
+                <p class="f:86@>xl f:72@2xs f:60 font-Oswald lh:1.2@<2xs">PC POWER SUPPLY</p>
+                <div class="w:14 flex-shrink:0 ml:30">
+                  <img src="assets/img/page/index/icon/banner-arrow.svg" alt>
+                </div>
+              </div>
+              <div class="overflow:hidden slogan-p1">
+                <p class="f:20">低噪音、低能耗、高效能、高穩定<br />
+電競戰力首選</p>
+              </div>
+            </div>
+          </a>
+                  <!-- data-style是選擇該情境圖的色系，深色為black，淺色為white -->
+          <a href="javascript:void(0)" target="_self" class="banner-list" data-video-type="img" data-video-href="" data-style="black">
+            <div class="banner-img">
+              <span>
+                <picture>
+                  <source srcset="/uploads/images/index/index-banner-01-b.jpg" media="(min-width: 768px)">
+                  <img class="img-object" src="/uploads/images/index/index-banner-01-s.jpg">
+                </picture>
+              </span>
+            </div>
+            <div class="slogan-block f:#FFF px:30 left:10%@lg">
+              <div class="flex ai:center">
+                <p class="f:86@>xl f:72@2xs f:60 font-Oswald lh:1.2@<2xs">PD CHARGER</p>
+                <div class="w:14 flex-shrink:0 ml:30">
+                  <img src="assets/img/page/index/icon/banner-arrow.svg" alt>
+                </div>
+              </div>
+              <div class="overflow:hidden slogan-p1">
+                <p class="f:20">高效、快速、安全<br />
+PD快充電源產品首選</p>
+              </div>
+            </div>
+          </a>
+                  <!-- data-style是選擇該情境圖的色系，深色為black，淺色為white -->
+          <a href="javascript:void(0)" target="_self" class="banner-list" data-video-type="img" data-video-href="" data-style="white">
+            <div class="banner-img">
+              <span>
+                <picture>
+                  <source srcset="/uploads/images/index/index-banner-02-b.jpg" media="(min-width: 768px)">
+                  <img class="img-object" src="/uploads/images/index/index-banner-02-s.jpg">
+                </picture>
+              </span>
+            </div>
+            <div class="slogan-block f:#FFF px:30 left:10%@lg">
+              <div class="flex ai:center">
+                <p class="f:86@>xl f:72@2xs f:60 font-Oswald lh:1.2@<2xs">NETWORK</p>
+                <div class="w:14 flex-shrink:0 ml:30">
+                  <img src="assets/img/page/index/icon/banner-arrow.svg" alt>
+                </div>
+              </div>
+              <div class="overflow:hidden slogan-p1">
+                <p class="f:20">穩定、耐用、低耗能<br />
+最佳的網通產業電源應用方案</p>
+              </div>
+            </div>
+          </a>
+        
+        </div>
+       
+      </section>
+      <section class="idx-about-block">
+       
+                        <div class="row clearfix"><div class="column full"><div class="w:840 max-w:full px:30 py:60 pt:120@>xl pt:80@2xs pt:60 mx:auto">
+          <h2 class="f:28 f:bold mb:20 text:center fade-up size-28">全球電源供應器最佳夥伴</h2>
+          <p class="mb:40 lh:1.8 text:center fade-up a-delay-2">僑威創立於1993年總部設立在台灣，主要業務為各式電源供應器產品的研發、生產及銷售，自創經營CWT品牌。我們長期以來聚焦於客製化的電源產品發展及上游零組件的垂直整合，進行效益最佳化的資源整合與管理模式，強化產品競爭優勢， 實現穩定的營收成長與獲利能力。</p>
+          <div class="flex ai:center fade a-delay-3">
+            <a href="tw/about/group" class="mx:auto r:5 border:1px|solid|#255BE3 min-w:160 h:60 d:flex ai:center f:#255BE3 link-box jc:center">關於我們</a>
+          </div>
+        </div></div></div>                 
+        <div class="idx-about-slick-block">
+          <div class="idx-about-slick-box px:10%@md px:30 py:60 fade">
+                      <a href="tw/product/info/ai_智能供電系統" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/AI-power/CRPS.png" alt="">
+              </div>
+              <p class="f:20 text:center">AI INTELLIGENT POWER SYSTEM</p>
+            </a>
+                      <a href="tw/product/info/電腦電源" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/pc-power/pc-power.png" alt="">
+              </div>
+              <p class="f:20 text:center">PC POWER</p>
+            </a>
+                      <a href="tw/product/info/工控電源" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/ipc-power/ipc-power.png" alt="">
+              </div>
+              <p class="f:20 text:center">IPC POWER</p>
+            </a>
+                      <a href="tw/product/info/乙太網路供電器" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/poe-injector/poe-injector.png" alt="">
+              </div>
+              <p class="f:20 text:center">PoE Injector</p>
+            </a>
+                      <a href="tw/product/info/乙太網路供電模組" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/poe-modular/poe-modular.png" alt="">
+              </div>
+              <p class="f:20 text:center">PoE Modular</p>
+            </a>
+                      <a href="tw/product/info/開放式電源供應器" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/open-frame/open-frame.png" alt="">
+              </div>
+              <p class="f:20 text:center">Open Frame</p>
+            </a>
+                      <a href="tw/product/info/外接式電源" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/adapter/adapter.png" alt="">
+              </div>
+              <p class="f:20 text:center">ADAPTER</p>
+            </a>
+                      <a href="tw/product/info/充電器___pd充電器" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/pd-charger/pd-charger.png" alt="">
+              </div>
+              <p class="f:20 text:center">CHARGER</p>
+            </a>
+                      <a href="tw/product/info/無線充電器" class="slide-list img-full px:20">
+              <div class="idx-about-img w:full pb:75% rel mb:20">
+                <img class="w:full h:full abs top:0 left:0 object-fit:contain object-position:center" src="/uploads/images/product/wireless-charging/wireless-charging.png" alt="">
+              </div>
+              <p class="f:20 text:center">WIRELESS CHARGING</p>
+            </a>
+                    </div>
+        </div>
+        <div class="idx-applications-slick-block img-full w:full d:flex@>lg overflow:hidden">
+          <div class="applications-top-slick w:full w:66%@>lg fade">
+
+            <!-- 大圖輪播 -->
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-00-03.jpg" alt="">
+              </div>
+            </div>
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-01.jpg" alt="">
+              </div>
+            </div>
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-02.jpg" alt="">
+              </div>
+            </div>
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-03.jpg" alt="">
+              </div>
+            </div>
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-04.jpg" alt="">
+              </div>
+            </div>
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-05.jpg" alt="">
+              </div>
+            </div>
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-06.jpg" alt="">
+              </div>
+            </div>
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-07.jpg" alt="">
+              </div>
+            </div>
+                      <div class="slick-list">
+              <div class="slick-img">
+                <img src="/uploads/images/application/index-link-08.jpg" alt="">
+              </div>
+            </div>
+                      <!-- 迴圈結束 -->
+
+          </div>
+          <div class="applications-title-block w:full@md w:34%@>lg d:block@>lg d:flex@md d:block">
+            <div class="w:full@>lg w:50%@md pl:10%@md pr:60@md px:30">
+              <div class="applications-title-box d:flex ai:center jc:space-between pb:43 pt:60@md pt:40 fade-up">
+                <div>
+                  <h3 class="font-Oswald f:42">Applications</h3>
+                  <p class="letter-spacing:1rem hide:lang(en)">產業應用</p>
+                </div>
+                <div class="idx-applications-slick-btn d:flex">
+                  <div class="slick-btn applications-prev w:32 h:32 r:50% b:1px|solid|#60AFFF">
+                    <span class="w:5 d:block">
+                      <img class="js-svg" src="assets/img/page/index/icon/prev.svg" alt>
+                    </span>
+                  </div>
+                  <div class="slick-btn applications-next w:32 h:32 r:50% b:1px|solid|#60AFFF">
+                    <span class="w:5 d:block">
+                      <img class="js-svg" src="assets/img/page/index/icon/next.svg" alt>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div class="rel pb:40 fade">
+                <div class="w:full h:1 bg:#E0E0E0 mb:15"></div>
+                <div class="applications-title-slick">
+
+                  <!-- 標題輪播 -->
+                                  <div class="slick-title f:28">AI power</div>
+                                  <div class="slick-title f:28">Industrial</div>
+                                  <div class="slick-title f:28">Medical</div>
+                                  <div class="slick-title f:28">IoT</div>
+                                  <div class="slick-title f:28">Gaming</div>
+                                  <div class="slick-title f:28">Consumer</div>
+                                  <div class="slick-title f:28">New Energy</div>
+                                  <div class="slick-title f:28">Networking</div>
+                                  <div class="slick-title f:28">Security Monitoring</div>
+                                  <!-- 迴圈結束 -->
+
+                </div>
+              </div>
+            </div>
+            <div class="applications-info-block w:full@>lg w:50%@md bg:#F0F0F0 pr:10%@md pl:60@md p:60|30 py:80@>lg pl:30@>lg lh:1.8 mt:40@>lg min-h:50%@>lg fade-left">
+              <div class="applications-info-box">
+
+                <!-- 內文迴圈 -->
+                                <div class="applications-info">僑威科技致力於研發適應多元 AI 場景的電源產品。針對需要高度靈活性與續航力的無人機和自主移動設備，以及要求嚴苛穩定性的 AI 工作站與邊緣運算設備，我們提供高效能、低功耗的解決方案。透過精準的電力配置技術，不僅優化設備的運算效率，更確保自主系統在複雜的環境下穩定運作，成為 AI 基礎設施中最堅實的盾牌。<br />
+</div>
+                                <div class="applications-info">僑威科技多年深耕於電源供應器的研發與製造，包括PC電源、適配器、平板式電源、開放式電源模組等，功率從低瓦數5瓦至高瓦數千瓦，產品規格完整且多樣，適用於各種行業之電源設備領域上；工業用電源產品均符合多國安規認證，均透過嚴格的測試及高品質的控管，即使是在嚴苛的工業環境中使用，產品依然有高效率及高穩定的性能表現。</div>
+                                <div class="applications-info">醫療電源供應器領域，僑威致力於開發高品質及可靠的產品來滿足醫療設備的嚴格規範；多元、客製化的產品種類，可搭配不同的醫療儀器使用，提供產品多樣性的訴求；產品皆符合醫療安規，輸出的功率及電壓都適用於全球的範圍。僑威科技憑藉歷來累積的技術實力，為醫療電源設計高可靠度及高安規標準的電源解決方案，陸續拓展不同運用領域的電源產品及服務。</div>
+                                <div class="applications-info">雖然物聯網(IoT)專用的裝置在功能和使用上模式眾多，但都必需透過主電源來驅動、運作，因此電源的管理是首要關注的問題。僑威科技在電源供應器領域專研多年，開發較小的尺寸、降低功率損耗並延長電池續航力等特點，產品種類齊全，能為多款IoT裝置提供最適合的解決方案。</div>
+                                <div class="applications-info">近年來電競需求明顯提升，為滿足硬體的升級，僑威科技將30年設計製造電源供應器的經驗，開發出多款不同效率等級(鈦金牌、白金牌、金牌、銅牌、白牌)及不同瓦特數的電源供使用者選擇。低能耗、高效能的產品，皆符合安規認證；產品同時供應大陸、美國、歐洲等各地，成為全球各個PC大廠指定夥伴，是台灣極有經驗之電源設備供應商。</div>
+                                <div class="applications-info">隨著行動裝置蓬勃發展，電池續航的問題是相當重要的。為符合快速充電、方便及通用性等特點，PD （Power Delivery） 、無線充電等充電技術為電子產業近年來的焦點議題。<br />
+僑威科技專精於充電技術上的研發，氮化鎵(GaN)的導入，讓PD充電器比起一般，體積來的更小，更方便攜帶，不僅提高充電速度，還能自動調節，支援各種不同的設備。<br />
+僑威科技亦是電源供應器同業中，最早跨入無線充電領域的業者之一，看好「無線充電」的應用，開發出具有「一對多」及「移動式」功能的堆疊式無線充電產品，並與家具廠商共同設計將無線充電產品崁入桌面，並廣泛的運用在市面上。<br />
+</div>
+                                <div class="applications-info">因應全球車輛電動化潮流趨勢，僑威集團積極跨入無線充電產品及電動車充電樁產品的發展，包含充電系統、馬達控制系統、整車控制系統與電池管理系統皆有豐富的經驗。在業界產品設計能力備受各方肯定，同時產品也銷售至全球各地，成為全球各個車廠指定夥伴。</div>
+                                <div class="applications-info">隨著網路通訊技術的發展及多元應用，網通軟硬體設備的升級需求大增；為了符合低干擾、高效能的電源產品訴求，僑威在這領域專精的研發，開發的產品亦符合多國安規、認證。網通電源產品規格及型態多樣化，無論系統需要哪種類型的電源模組，都能夠提供最適合的解決方案。</div>
+                                <div class="applications-info">僑威科技提供各種多樣化的電源供應器、適配器、 開放式電源等產品類型供選擇，在安控系統、緊急照明、中央監控領域上，提供專業的客製化電源系統整合服務。其卓越的電源研發技術，通過多種國際安規檢驗認證，穩定的電源設備支援全電壓輸入，全球各國家都通用。</div>
+                              <!-- 迴圈結束 -->
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="idx-capability-block w:full w:80%@md max-w:calc(100%-3.75rem) mx:auto py:60">
+
+                <div class="row clearfix"><div class="column full"><div class="idx-title-box mb:5 text:center o-hidden w-animate">
+          <h2 class="font-Oswald f:42 uppercase">Capability</h2>
+        </div></div></div><div class="row clearfix" style=""><div class="column full"><div class="max-w:1024 mx:auto ">
+          <p class="letter-spacing:1rem text:center mb:20 fade">競爭優勢</p>
+          <p class="text:center mb:60 fade-up">僑威集團發揮競爭優勢並持續茁壯，成為全球客戶有電源應用需求時的首選合作夥伴</p>
+          <div class="idx-capability-list-box img-full grid-cols:4@sm gap-x:45 mb:20@sm">
+            <div class="capability-list mb:40 mb:0@sm fade-up">
+              <div class="w:80 mx:auto mb:20">
+                <img src="assets/img/page/index/c-1.svg" alt="">
+              </div>
+              <p class="text:center">上游垂直整合</p>
+            </div>
+            <div class="capability-list mb:40 mb:0@sm fade-up">
+              <div class="w:80 mx:auto mb:20">
+                <img src="assets/img/page/index/c-2.svg" alt="">
+              </div>
+              <p class="text:center">專業的研發團隊</p>
+            </div>
+            <div class="capability-list mb:40 mb:0@sm fade-up">
+              <div class="w:80 mx:auto mb:20">
+                <img src="assets/img/page/index/c-3.svg" alt="">
+              </div>
+              <p class="text:center">高度自動化生產</p>
+            </div>
+            <div class="capability-list mb:40 mb:0@sm fade-up">
+              <div class="w:80 mx:auto mb:20">
+                <img src="assets/img/page/index/c-4.svg" alt="">
+              </div>
+              <p class="text:center">中國/越生產能力</p>
+            </div>
+          </div>
+        </div></div></div>      
+      </section>
+      <section class="idx-esg-block p:10rem|60@md p:63|60 Py:0@2xs bg:url('assets/img/page/index/esg-bg.jpg') img-full fade">
+
+        <div class="w:full w:80%@md mx:auto">
+          <div class="w:30vw@md w:720 max-w:full mb:40 fade-up a-delay-2">
+            <img src="assets/img/page/index/esg-title.png" alt>
+          </div>
+          <h2 class="f:28 f:#FFF mb:20 letter-spacing:0.5rem fade-up a-delay-3">企業永續</h2>
+          <p class="f:#FFF lh:1.8 fade-up a-delay-4 w:30vw@md w:720 max-w:full">僑威科技為美國能源之星合格夥伴，高校能，高環保。未來將持續不斷研製更高效率的電源供應器，減少耗電，愛護地球資源。</p>
+        </div>
+      </section>
+      <section class="idx-news-block pt:65 pb:120@md pb:80 w:full w:80%@md max-w:calc(100%-3.75rem) mx:auto">
+        <div class="w:full w:80%@md mx:auto">
+          <div class="text:center">
+            <div class="idx-title-box mb:5 mb:60:lang(en) w-animate">
+              <h2 class="font-Oswald f:42 uppercase">News</h2>
+            </div>
+            <p class="letter-spacing:1rem text:center mb:40 hide:lang(en)">新聞中心</p>
+          </div>
+        </div>
+        <div class="idx-news-box pb:20 pb:60@>lg clear">
+
+                  <a href="tw/news/detail/僑威科技與華潤微電子簽署戰略合作夥伴關係" class="idx-news-list d:block mb:0@>md mb:20 w:calc(50%-0.625rem)@>md fade">
+            <div class="list-img">
+              <div class="w:full  pb:75% rel">
+                <img class="img-object abs top:0 left:0" src="/uploads/images/news/2026/260408_0101.jpg" alt="">
+              </div>
+            </div>
+            <div class="bg:#F6F6F6 py:20 px:35 list-info w:full">
+              <h3 class="font-open mb:5 f:#999999">2026-04-08</h3>
+              <p class="f:20">僑威科技與華潤微電子簽署戰略合作夥伴關係</p>
+            </div>
+          </a>
+                  <a href="tw/news/detail/2026歡迎前往cwt校園徵才" class="idx-news-list d:block mb:0@>md mb:20 w:calc(50%-0.625rem)@>md fade">
+            <div class="list-img">
+              <div class="w:full  pb:75% rel">
+                <img class="img-object abs top:0 left:0" src="/uploads/images/news/2026/26031801.jpg" alt="">
+              </div>
+            </div>
+            <div class="bg:#F6F6F6 py:20 px:35 list-info w:full">
+              <h3 class="font-open mb:5 f:#999999">2026-03-18</h3>
+              <p class="f:20">2026歡迎前往CWT校園徵才</p>
+            </div>
+          </a>
+                  <a href="tw/news/detail/恭賀僑威科技榮獲2025第22屆國家品牌玉山獎" class="idx-news-list d:block mb:0@>md mb:20 w:calc(50%-0.625rem)@>md fade">
+            <div class="list-img">
+              <div class="w:full  pb:75% rel">
+                <img class="img-object abs top:0 left:0" src="/uploads/images/news/2026/26_01_07.jpg" alt="">
+              </div>
+            </div>
+            <div class="bg:#F6F6F6 py:20 px:35 list-info w:full">
+              <h3 class="font-open mb:5 f:#999999">2026-01-08</h3>
+              <p class="f:20">恭賀僑威科技榮獲2025第22屆國家品牌玉山獎</p>
+            </div>
+          </a>
+        
+        </div>
+        <div class="flex ai:center fade">
+          <a href="tw/news/article" class="mx:auto r:5 border:1px|solid|#255BE3 min-w:160 h:60 d:flex ai:center f:#255BE3 link-box jc:center">了解更多</a>
+        </div>
+      </section>
+    </main>
+<footer class="bg:#222222 py:48 px:30">
+  <div class="d:flex jc:space-between gap:20 flex-wrap:wrap">
+    <div></div>
+    <p class="text:center f:18 f:#999999">© Channel Well Technology Co.,Ltd.<span class="d:block@<2xs">Design by <a href="https://www.creatop.com.tw/" target="_blank">CREATOP</a></span></p>
+    <div class="d:flex gap:40">
+      <a href="tw/QueryROHS" class="f:18 f:#60AFFF">ROHS</a>
+      <a href="tw/ERPInfo" class="f:18 f:#60AFFF">ERP</a>
+    </div>
+  </div>
+</footer><script src="assets/js/vendor.js"></script>
+<script src="assets/js/app.js"></script>
+  </body>
+</html>

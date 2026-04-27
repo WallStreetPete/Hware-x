@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Cal-Comp Technology (Philippines) | A KINPO GROUP Company</title>
+  <base href="/">
+
+  <meta name="fragment" content="!">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=0, must-revalidate">
+  <meta http-equiv="pragma" content="no-cache" />
+  <meta http-equiv="expires" content="0" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link rel="icon" type="image/x-icon" href="https://twportal.blob.core.windows.net/images-nkg/generate/ccph_favicon.png"> -->
+  <link id="favicon" rel="icon" type="image/x-icon" href="https://kinpoweb.blob.core.windows.net/main-images/favicon_color.png">
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PT8KC5Q');</script>
+  <!-- End Google Tag Manager -->
+  <meta name="google-site-verification" content="JF7ClHCCfh_RXReC_nFeA4z7jKEe7vzs1ZF7E7CFg68" />
+<link rel="stylesheet" href="styles.b1d915c78e784a8b4a5d.css"></head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PT8KC5Q"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div id="kinpoTag" style="display: none">2024 KINPO ELECTRONICS,INC</div>
+
+  <app-root></app-root>
+
+  <script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="runtime.479d305ec9cee739053a.js" defer></script><script src="polyfills-es5.3719e7966ed3d915c482.js" nomodule defer></script><script src="polyfills.621b602f9ef88fe9f659.js" defer></script><script src="main.894fcd8a355c448c949a.js" defer></script></body>
+
+</html>

@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head itemscope="itemscope" itemtype="http://schema.org/WebSite">
+    
+    
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    
+    <meta http-equiv="content-language" content="zh-TW" />
+    <meta charset="UTF-8" />
+    <meta name="csrf-token" content="LjiyGNrfFaxx5ZP0ht4kfSW2xrVNaLUppbx5mQbK">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    
+    <meta name="format-detection" content="telephone=no">
+    <title>RDC首頁</title>
+    <meta property="og:title" content="" />
+    <meta itemprop="name" content="RDC首頁" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:creator" content="" />
+    
+    <meta name="description" content="" />
+    <meta itemprop="description" content="" />
+    <meta name="twitter:description" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:site_name" content="RDC首頁" />
+    
+    <meta name="keywords" content="">
+    
+        <meta property="og:image" content="https://www.rdc.com.tw" />
+    <meta itemprop="image" content="https://www.rdc.com.tw" />
+    <meta name="twitter:card" content="https://www.rdc.com.tw" />
+    <meta name="twitter:image:src" content="https://www.rdc.com.tw" />
+        
+    
+    
+    <meta property="og:url" content="https://www.rdc.com.tw/en" />
+    <meta property="og:locale" content="zh_TW" />
+    <meta property="og:type" content="website" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?t=1">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico?t=1">
+    <link rel="apple-touch-icon" href="/favicon.ico?t=1">
+
+    
+            
+    <link rel="shortcut icon" href="/dist/assets/img/favicon.ico" type="image/x-icon">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&amp;display=swap">
+    
+    <link rel="stylesheet" href="/dist/assets/fonts/icomoon/style.css?v=042701">
+    <link rel="stylesheet" crossorigin href="/dist/assets/css/style.min.css?v=042701">
+    <link rel="stylesheet" crossorigin href="/dist/assets/css/vendor.min.css?v=042701">
+
+    
+        
+        <link rel="stylesheet" crossorigin href="/dist/assets/css/index.min.css?v=042701">
+</head>
+
+<body class="index-page" id="" data-page="">
+    <h1 class="visuallyhidden">rdc</h1>
+    <input class="base-url" type="hidden" value="https://www.rdc.com.tw/en">
+    <input class="base-locatoin" type="hidden" value="en">
+    <input id="_token" type="hidden" name="_token" value="LjiyGNrfFaxx5ZP0ht4kfSW2xrVNaLUppbx5mQbK">
+    <div class="cover-bg"></div>
+
+    <div class="main-wrapper">
+            <nav class="navbar" data-aost>
+    <div class="container">
+        <a class="logo" href="https://www.rdc.com.tw/en">
+            <img class="lazy" data-src="/dist/assets/img/logo.svg" alt="alt">
+        </a>
+        <div class="unit-group">
+                            <a class="unit" href="https://www.rdc.com.tw/en/about">
+                    <div class="headerUnitTitle">ABOUT</div>
+                </a>
+                                        <a class="unit" href="https://www.rdc.com.tw/en/product">
+                    <div class="headerUnitTitle">PRODUCTS</div>
+                </a>
+                                        <a class="unit" href="https://www.rdc.com.tw/en/investor">
+                    <div class="headerUnitTitle">INVESTOR</div>
+                </a>
+                                        <a class="unit" href="https://www.rdc.com.tw/en/esg">
+                    <div class="headerUnitTitle">ESG</div>
+                </a>
+                    </div>
+        <div class="tools">
+            
+            <a class="contact-btn" href="https://www.rdc.com.tw/en/contact">
+                <i class="icon-contact"></i>
+                                    <div class="text">Contact Us</div>
+                            </a>
+            
+            <div class="search-btn" data-modal-target="search-modal">
+                <i class="icon-search"></i>
+            </div>
+            
+            <div class="language-btn" collapse>
+                <div class="collapseBox">
+                    <i class="icon-language"></i>
+                </div>
+                <div class="collapseTarget">
+                    <div>
+                                                <div class="wrapper">
+                            <a class="buttonText" href="https://www.rdc.com.tw/tw">繁體</a>
+                            <a class="buttonText" href="https://www.rdc.com.tw/cn">簡體</a>
+                            <a class="buttonText" href="https://www.rdc.com.tw/en">EN</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="menu-btn"><span></span><span></span><span></span></div>
+        </div>
+    </div>
+</nav>
+<div class="headerMenu-block">
+    <div class="menu-outer">
+        <div class="bg">
+            <picture>
+                <source srcset="/dist/assets/img/others/menu_785x1620.jpg" media="(max-width: 1200px)">
+                <img src="/dist/assets/img/others/menu_785x1620.jpg" alt="">
+            </picture>
+        </div>
+        <div class="menu-scroller">
+            <div class="menu-container">
+                                    <div class="item" collapse>
+                        <div class="collapseBox-cust">
+                            <div class="unitSubTitle">PRODUCTS</div>
+                            <div class="icon"></div>
+                        </div>
+                        <div class="collapseTarget-cust">
+                            <div> 
+                                <a class="itemTitle-s" href="https://www.rdc.com.tw/en/product">Overview</a>
+                                                                                                            <a class="itemTitle-s" href="https://www.rdc.com.tw/en/product/EmKorePlatform">Processor Platform</a>
+                                                                                                                                                <a class="itemTitle-s" href="https://www.rdc.com.tw/en/product/32-bitMCU">MCU &amp; NPU</a>
+                                                                                                                                                <a class="itemTitle-s" href="https://www.rdc.com.tw/en/product/LowPowerSoCs">Low Power SoCs</a>
+                                                                                                                                                <a class="itemTitle-s" href="https://www.rdc.com.tw/en/product/TaiwanLocation">Global distribution locations</a>
+                                                                                                </div>
+                        </div>
+                    </div>
+                                                    <a class="item" href="https://www.rdc.com.tw/en/about">
+                        <div class="unitSubTitle">ABOUT</div>
+                    </a>
+                                                    <a class="item" href="https://www.rdc.com.tw/en/news">
+                        <div class="unitSubTitle">NEWS</div>
+                    </a>
+                                                    <a class="item" href="https://www.rdc.com.tw/en/investor">
+                        <div class="unitSubTitle">INVESTOR</div>
+                    </a>
+                                                    <a class="item" href="https://www.rdc.com.tw/en/esg">
+                        <div class="unitSubTitle">ESG</div>
+                    </a>
+                                                    <a class="item" href="https://www.rdc.com.tw/en/contact">
+                        <div class="unitSubTitle">Contact Us</div>
+                    </a>
+                                                    <a class="item" href="https://www.104.com.tw/company/7fxkjq0?jobsource=google">
+                        <div class="unitSubTitle">JOIN RDC</div>
+                    </a>
+                            </div>
+        </div>
+        <div class="close-btn"></div>
+        <div class="policy">
+            <a class="paragraphText-s" href="https://www.rdc.com.tw/en/privacy">Privacy Policy</a>
+            <a class="paragraphText-s" href="https://www.rdc.com.tw/en/information_security">Information Security Policy</a>
+        </div>
+    </div>
+</div>
+    
+    <main>
+        
+        
+        <section class="banner" data-aost data-aost-fade-up>
+            <div class="container">
+                <div class="swiper-block">
+                    <div class="control">
+                        <div class="swiper-prev"></div>
+                        <div class="swiper-next"></div>
+                    </div>
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide" title-color="gradient">
+                                    <div class="inner-slide">
+                                        <div class="title-block">
+                                            <div class="wrapper">
+                                                                                                    <h2 class="unitTitle">RDC R3600</h2>
+                                                                                                                                                    <h3 class="unitSubTitle">New Dual-Core Processor</h3>
+                                                                                                                                                
+                                                
+                                                                                                    <a class="common-btn-plus" href="https://www.rdc.com.tw/en/product" target=_blank data-color="line-black">
+                                                        <div class="buttonText">EXPLORE</div>
+                                                        <i class="icon-plus"></i>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                                    <div class="photo-block">
+                                                <picture>
+                                                    <source data-srcset="/upload/design/index/index_banner_01_rwd_750x510.jpg" media="(max-width: 575px)">
+                                                    <img class="lazy" data-src="/upload/design/index/index_banner_01_1440x1350.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                                            <div class="swiper-slide" title-color="gradient">
+                                    <div class="inner-slide">
+                                        <div class="title-block">
+                                            <div class="wrapper">
+                                                                                                    <h2 class="unitTitle">Point of Sale (POS)</h2>
+                                                                                                                                                    <h3 class="unitSubTitle">Advanced Fab Process Manufacturing</h3>
+                                                                                                                                                    <p class="paragraphText">We committed to service excellence, offering comprehensive technical support and debugging tools to help clients shorten R&D timelines and bring products to market faster.</p>
+                                                                                                
+                                                
+                                                                                                    <a class="common-btn-plus" href="https://www.rdc.com.tw/en/product" target=_blank data-color="line-black">
+                                                        <div class="buttonText">EXPLORE</div>
+                                                        <i class="icon-plus"></i>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                                    <div class="photo-block">
+                                                <picture>
+                                                    <source data-srcset="/upload/design/index/index_banner_02_rwd_750x510.jpg" media="(max-width: 575px)">
+                                                    <img class="lazy" data-src="/upload/design/index/index_banner_02_1440x1350.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                                            <div class="swiper-slide" title-color="gradient">
+                                    <div class="inner-slide">
+                                        <div class="title-block">
+                                            <div class="wrapper">
+                                                                                                    <h2 class="unitTitle">16-bit MCU IP Service</h2>
+                                                                                                                                                    <h3 class="unitSubTitle">High-Performance &amp; Faster Timing.</h3>
+                                                                                                                                                
+                                                
+                                                                                                    <a class="common-btn-plus" href="https://www.rdc.com.tw/en/product"  data-color="line-black">
+                                                        <div class="buttonText">EXPLORE</div>
+                                                        <i class="icon-plus"></i>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                                    <div class="photo-block">
+                                                <picture>
+                                                    <source data-srcset="/upload/design/index/index_banner_03_rwd_750x510.jpg" media="(max-width: 575px)">
+                                                    <img class="lazy" data-src="/upload/design/index/index_banner_03_1440x1350.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                                            <div class="swiper-slide" title-color="gradient">
+                                    <div class="inner-slide">
+                                        <div class="title-block">
+                                            <div class="wrapper">
+                                                                                                    <h2 class="unitTitle">MCU &amp; NPU</h2>
+                                                                                                                                                    <h3 class="unitSubTitle">Industrial Automation Control</h3>
+                                                                                                                                                    <p class="paragraphText">The RDC 32-bit microcontrollers are designed to bring system benefits in terms of cost and power consumption. All are capable of supporting OS including MS-Windows, Linux, DOS and 32-bit RTOS. Because the RDC 32-bit microcontrollers integrate on-chip peripherals, they are ideal for various applications including industrial control, automation, NAT routers, home gateway and access points, industrial PCs, thin client application and more.</p>
+                                                                                                
+                                                
+                                                                                                    <a class="common-btn-plus" href="https://www.google.com.tw"  data-color="line-black">
+                                                        <div class="buttonText">EXPLORE</div>
+                                                        <i class="icon-plus"></i>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                                    <div class="photo-block">
+                                                <picture>
+                                                    <source data-srcset="/upload/design/index/index_banner_04_rwd_750x510.jpg" media="(max-width: 575px)">
+                                                    <img class="lazy" data-src="/upload/design/index/index_banner_04_1440x1350.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                                    </div>
+                        <div class="index">
+                            <div class="pagination-wrapper">
+                                <div class="swiper-pagination"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="circle">
+                        <div class="icon"> 
+                            <i class="icon-arrow-l"></i>
+                            <i class="icon-arrow-r"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="scroll" data-anchor-target=".newsSwiper">
+                    <div class="btnText">SCROLL</div>
+                    <div class="icon">
+                        <i class="icon-arrowBottom"></i>
+                    </div>
+                </div>
+            </div>
+        </section>
+                
+        <section class="product" data-aost data-aost-fade-up>
+            <div class="container">
+                <div class="photo-block">
+                    <div class="photo">
+                        
+                        <picture>
+                                                            <img class="lazy" data-src="/upload/design/index/index_product_1440x1350.jpg" alt="">
+                                                    </picture>
+                    </div>
+                </div>
+                <div class="title-block">
+                    <div class="wrapper">
+                                                    <h2 class="blockTitle">PRODUCTS</h2>
+                                                                            <h3 class="blockSubTitle">Lower Hardware Design-In Costs</h3>
+                                                                            <p class="paragraphText">Featuring RDC’s low power RISC architecture with frequency 400Mhz, the RDC R8620 processor family are building on the strength of System-on-Chip (SoC) that is x86-capable and rich peripherals including DDR3 controller, PCI-Express, SATA, USB controller, SD card, PWM, ADC, Fast Ethernet and RDC 16-bit local bus for system expansion without upgrading the whole existing hardware architecture thereby helping extend application lifetime.</p>
+                                                <a class="common-btn-plus" href="https://www.rdc.com.tw/en/product" data-color="line-black">
+                            <div class="buttonText">EXPLORE</div>
+                            <i class="icon-plus"></i>
+                        </a>
+                    </div>
+                                            <div class="swiper-block">
+                            <div class="swiper">
+                                <div class="swiper-wrapper">
+                                                                                                                        <a class="swiper-slide" href="https://www.rdc.com.tw/en/product/EmKorePlatform">
+                                                                                    <div class="content">
+                                                                                                    <div class="icon"> 
+                                                        <img src="/upload/design/product/product_icon_01_40x40.svg" alt="" loading="lazy">
+                                                    </div>
+                                                                                                                                                    <p class="itemTitle-s">Processor Platform</p>
+                                                                                                <div class="icon-arrow">
+                                                    <i class="icon-commonArrow"> </i>
+                                                </div>
+                                            </div>
+                                        </a>
+                                                                                                                        <a class="swiper-slide" href="https://www.rdc.com.tw/en/product/32-bitMCU">
+                                                                                    <div class="content">
+                                                                                                    <div class="icon"> 
+                                                        <img src="/upload/design/product/product_icon_02_40x40.svg" alt="" loading="lazy">
+                                                    </div>
+                                                                                                                                                    <p class="itemTitle-s">MCU &amp; NPU</p>
+                                                                                                <div class="icon-arrow">
+                                                    <i class="icon-commonArrow"> </i>
+                                                </div>
+                                            </div>
+                                        </a>
+                                                                                                                        <a class="swiper-slide" href="https://www.rdc.com.tw/en/product/LowPowerSoCs">
+                                                                                    <div class="content">
+                                                                                                    <div class="icon"> 
+                                                        <img src="/upload/design/product/product_icon_03_40x40.svg" alt="" loading="lazy">
+                                                    </div>
+                                                                                                                                                    <p class="itemTitle-s">Low Power SoCs</p>
+                                                                                                <div class="icon-arrow">
+                                                    <i class="icon-commonArrow"> </i>
+                                                </div>
+                                            </div>
+                                        </a>
+                                                                    </div>
+                            </div>
+                            <div class="control">
+                                <div class="wrapper">
+                                    <div class="swiper-button-prev">
+                                        <i class="icon-arrow-l-s"></i>
+                                    </div>
+                                </div>
+                                <div class="wrapper">
+                                    <div class="swiper-button-next">
+                                        <i class="icon-arrow-r-s"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+        <section class="asic" data-aost data-aost-fade-up title-color="white">
+            <div class="container">
+                <div class="bg">
+                    <picture>
+                        <source data-srcset="/dist/assets/img/index/index_asic_rwd_750x1005.jpg" media="(max-width: 575px)">
+                        <source data-srcset="/dist/assets/img/index/index_asic_pad_1536x600.jpg" media="(max-width: 1200px)">
+                        <img class="lazy" data-src="/dist/assets/img/index/index_asic_2880x1050.jpg" alt="">
+                    </picture>
+                </div>
+                <div class="title"> 
+                                            <a class="blockTitle" href="https://www.rdc.com.tw/en/product/asic">ASIC SERVICE</a>
+                                                                <h3 class="blockSubTitle">Flexible Services &amp; Comprehensive Solutions</h3>
+                                                                <p class="paragraphText">We offer flexible chip design and mass production services, leveraging years of experience with industrial computer platforms to enhance client competitiveness.</p>
+                                        <a class="common-btn-plus" href="https://www.rdc.com.tw/en/product/asic" data-color="white">
+                        <div class="buttonText">EXPLORE</div>
+                        <i class="icon-plus"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+        
+        <section class="about" data-aost data-aost-fade-up>
+            <div class="container">
+                <div class="bg">
+                    <picture data-num="0">
+                                                    <source data-srcset="/upload/design/index/index_about_02_rwd_750x1530.jpg" media="(max-width: 575px)">
+                                                                            <source data-srcset="/upload/design/index/index_about_02_pad_1536x990.jpg" media="(max-width: 1200px)">
+                                                                            <img class="lazy" data-src="/upload/design/index/index_about_02_2880x1350.jpg" alt="">
+                                            </picture>
+                    <picture class="active" data-num="1">
+                                                    <source data-srcset="/upload/design/index/index_about_01_rwd_750x1530.jpg" media="(max-width: 575px)">
+                                                                            <source data-srcset="/upload/design/index/index_about_01_pad_1536x990.jpg" media="(max-width: 1200px)">
+                                                                            <img class="lazy" data-src="/upload/design/index/index_about_01_2880x1350.jpg" alt="">
+                                            </picture>
+                    <picture data-num="2">
+                                                    <source data-srcset="/upload/design/index/index_about_03_rwd_750x1530.jpg" media="(max-width: 575px)">
+                                                                            <source data-srcset="/upload/design/index/index_about_03_pad_1536x990.jpg" media="(max-width: 1200px)">
+                                                                            <img class="lazy" data-src="/upload/design/index/index_about_03_2880x1350.jpg" alt="">
+                                            </picture>
+                </div>
+                <div class="top-block">
+                    <div class="title-block">
+                        <div class="title">
+                                                            <h2 class="blockTitle">ABOUT RDC</h2>
+                                                                                        <h3 class="blockSubTitle">Explore Our Strengths</h3>
+                                                    </div>
+                                                    <div class="text">
+                                <p class="paragraphText">Create Economic Power through Economical Technology.</p>
+                            </div>
+                                            </div>
+                    <div class="btn-block">
+                        <a class="common-btn-plus" href="https://www.rdc.com.tw/en/about" data-color="line-white">
+                            <div class="buttonText">ABOUT</div>
+                            <i class="icon-plus"></i>
+                        </a>
+                        <a class="common-btn-plus" href="https://www.rdc.com.tw/en/about/location" data-color="line-white">
+                            <div class="buttonText">LOCATION</div>
+                            <i class="icon-plus"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="bottom-block">
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide" swiper-data-num="0">
+                                <div class="wrapper">r
+                                    <div class="top" style="transform: translateY(--height)">
+                                                                                    <div class="icon"> 
+                                                <img src="/upload/design/index/index_about_icon_01_60x60.svg" alt="" loading="lazy">
+                                            </div>
+                                                                                                                            <h3 class="blockTitle-s">Abundant Development Resources</h3>
+                                                                            </div>
+                                    <div class="hide">
+                                        <div>
+                                            <p class="paragraphText">Committed to Delivering High-Quality Products and Meeting Customer Needs.</p>
+                                            <a class="common-btn-plus" href="https://www.rdc.com.tw/en/about/advantages"
+                                                data-color="white">
+                                                <div class="buttonText">Company introduction</div><i
+                                                    class="icon-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" swiper-data-num="1">
+                                <div class="wrapper">
+                                    <div class="top" style="transform: translateY(--height)">
+                                                                                    <div class="icon"> 
+                                                <img src="/upload/design/index/index_about_icon_02_60x60.svg" alt="" loading="lazy">
+                                            </div>
+                                                                                                                            <h3 class="blockTitle-s">High-Quality Products</h3>
+                                                                            </div>
+                                    <div class="hide">
+                                        <div>
+                                                                                            <p class="paragraphText">Committed to Delivering High-Quality Products and Meeting Customer Needs.</p>
+                                                                                        <a class="common-btn-plus" href="https://www.rdc.com.tw/en/about/detail" data-color="white">
+                                                <div class="buttonText">Company introduction</div>
+                                                <i class="icon-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" swiper-data-num="2">
+                                <div class="wrapper">
+                                    <div class="top" style="transform: translateY(--height)">
+                                                                                    <div class="icon"> 
+                                                <img src="/upload/design/index/index_about_icon_03_60x60.svg" alt="" loading="lazy">
+                                            </div>
+                                                                                                                            <h3 class="blockTitle-s">Extensive Technical Experience</h3>
+                                                                            </div>
+                                    <div class="hide">
+                                        <div>
+                                                                                            <p class="paragraphText">Committed to Delivering High-Quality Products and Meeting Customer Needs.</p>
+                                                                                        <a class="common-btn-plus" href="https://www.rdc.com.tw/en/about/history"
+                                                data-color="white">
+                                                <div class="buttonText">Company introduction</div><i
+                                                    class="icon-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="control">
+                            <div class="wrapper">
+                                <div class="swiper-button-prev"><i class="icon-arrow-l-s"></i></div>
+                            </div>
+                            <div class="wrapper">
+                                <div class="swiper-button-next"><i class="icon-arrow-r-s"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="investor" data-aost data-aost-fade-up>
+            <div class="container">
+                <div class="title-block">
+                                            <h2 class="blockTitle">INVESTOR</h2>
+                                                                <h3 class="blockSubTitle">Continuous Growth &amp; Returns</h3>
+                                                                <p class="paragraphText">Provides Detailed Information on Financials, Corporate Governance, and Shareholder Services.</p>
+                                        <div class="stock">
+                        <div class="itemTitle">Stock Code</div>
+                        <div class="int">3228</div>
+                    </div>
+                    <a class="common-btn-plus" href="https://www.rdc.com.tw/en/investor" data-color="white">
+                        <div class="buttonText">EXPLORE</div>
+                        <i class="icon-plus"></i>
+                    </a>
+                </div>
+                <div class="photo-block">
+                    <div class="photo">
+                        <picture>
+                                                            <source data-srcset="/upload/design/index/index_investor_rwd_750x450.jpg" media="(max-width: 575px)">
+                                                                                        <source data-srcset="/upload/design/index/index_investor_pad_915x795.jpg" media="(max-width: 1200px)">
+                                                                                        <img class="lazy" data-src="/upload/design/index/index_investor_1920x975.jpg" alt="">
+                                                    </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="esg" data-aost data-aost-fade-up>
+            <div class="container">
+                <div class="title-block item">
+                    <div class="wrapper">
+                                                    <h2 class="blockTitle">ESG</h2>
+                                                                            <h3 class="blockSubTitle">We Are Committed to Sustainable Practices.</h3>
+                                                                            <p class="paragraphText">Learn About Our Commitment to Corporate Sustainability</p>
+                                            </div>
+                    <a class="common-btn-plus" href="https://www.rdc.com.tw/en/esg" data-color="line-black">
+                        <div class="buttonText">EXPLORE</div>
+                        <i class="icon-plus"></i>
+                    </a>
+                </div>
+                                    <div class="info-block item">
+                        <div class="swiper">
+                            <div class="swiper-wrapper">
+                                                                    <div class="swiper-slide">
+                                        <div class="category">
+                                            <div class="icon"> 
+                                                <i class="icon-date"></i>
+                                            </div>
+                                            <a class="paragraphText-s" href="https://www.rdc.com.tw/en/esg/IntellectualPropertyRights">Intellectual Property</a>
+                                            <div class="date">
+                                                <div class="paragraphText-s">11</div>
+                                                <div class="paragraphText-s">MAR</div>
+                                                <div class="paragraphText-s">2025</div>
+                                            </div>
+                                        </div>
+                                                                                    <h3 class="itemTitle-l">Intellectual Property Issues</h3>
+                                                                                                                        <a class="common-btn-arrow" href="https://www.rdc.com.tw/en/esg/IntellectualPropertyRights/esg7">
+                                            <i class="icon-commonArrow"></i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide">
+                                        <div class="category">
+                                            <div class="icon"> 
+                                                <i class="icon-date"></i>
+                                            </div>
+                                            <a class="paragraphText-s" href="https://www.rdc.com.tw/en/esg/EnvironmentalManagement">Environmental Management</a>
+                                            <div class="date">
+                                                <div class="paragraphText-s">11</div>
+                                                <div class="paragraphText-s">MAR</div>
+                                                <div class="paragraphText-s">2025</div>
+                                            </div>
+                                        </div>
+                                                                                    <h3 class="itemTitle-l">Environmental Management Issues</h3>
+                                                                                                                        <a class="common-btn-arrow" href="https://www.rdc.com.tw/en/esg/EnvironmentalManagement/esg5">
+                                            <i class="icon-commonArrow"></i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide">
+                                        <div class="category">
+                                            <div class="icon"> 
+                                                <i class="icon-date"></i>
+                                            </div>
+                                            <a class="paragraphText-s" href="https://www.rdc.com.tw/en/esg/SustainableManagement">Sustainable Operations</a>
+                                            <div class="date">
+                                                <div class="paragraphText-s">12</div>
+                                                <div class="paragraphText-s">SEP</div>
+                                                <div class="paragraphText-s">2024</div>
+                                            </div>
+                                        </div>
+                                                                                    <h3 class="itemTitle-l">Sustainable Operations Issues</h3>
+                                                                                                                        <a class="common-btn-arrow" href="https://www.rdc.com.tw/en/esg/SustainableManagement/esg4">
+                                            <i class="icon-commonArrow"></i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide">
+                                        <div class="category">
+                                            <div class="icon"> 
+                                                <i class="icon-date"></i>
+                                            </div>
+                                            <a class="paragraphText-s" href="https://www.rdc.com.tw/en/esg/HumanResources">Human Resources</a>
+                                            <div class="date">
+                                                <div class="paragraphText-s">12</div>
+                                                <div class="paragraphText-s">SEP</div>
+                                                <div class="paragraphText-s">2024</div>
+                                            </div>
+                                        </div>
+                                                                                    <h3 class="itemTitle-l">Human Resources Issues</h3>
+                                                                                                                        <a class="common-btn-arrow" href="https://www.rdc.com.tw/en/esg/HumanResources/esg1">
+                                            <i class="icon-commonArrow"></i>
+                                        </a>
+                                    </div>
+                                                            </div>
+                            <div class="pagination-wrapper">
+                                <div class="swiper-pagination"></div>
+                            </div>
+                        </div>
+                    </div>
+                                <div class="photo-block item">
+                    <div class="photo">
+                        <picture>
+                                                            <img class="lazy" data-src="/upload/design/index/index_esg_960x975.jpg" alt="">
+                                                    </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+    <div class="container" data-aost data-aost-fade-up>
+        <div class="unit-block">
+            <div class="unit-group">
+                <div class="col">
+                    <a class="footerTitle" href="https://www.rdc.com.tw/en/product">PRODUCTS</a>
+                    <ul>
+                                                    <li class="footerText"> 
+                                                                    <a href="https://www.rdc.com.tw/en/product/EmKorePlatform">Processor Platform</a>
+                                                            </li>
+                                                    <li class="footerText"> 
+                                                                    <a href="https://www.rdc.com.tw/en/product/32-bitMCU">MCU &amp; NPU</a>
+                                                            </li>
+                                                    <li class="footerText"> 
+                                                                    <a href="https://www.rdc.com.tw/en/product/LowPowerSoCs">Low Power SoCs</a>
+                                                            </li>
+                                                    <li class="footerText"> 
+                                                                    <a href="https://www.rdc.com.tw/en/product/TaiwanLocation">Global distribution locations</a>
+                                                            </li>
+                                            </ul>
+                                    </div>
+                <div class="col"> 
+                                            <a class="footerTitle" href="https://www.rdc.com.tw/en/about">ABOUT</a>
+                                                                <a class="footerTitle" href="https://www.rdc.com.tw/en/news">NEWS</a>
+                                                                <a class="footerTitle" href="https://www.rdc.com.tw/en/investor">INVESTOR</a>
+                                                                <a class="footerTitle" href="https://www.rdc.com.tw/en/esg">ESG </a>
+                                                                <a class="footerTitle" href="https://www.rdc.com.tw/en/contact">Contact Us</a>
+                                                                <a class="footerTitle" href="https://www.104.com.tw/company/7fxkjq0?jobsource=google">JOIN RDC</a>
+                                    </div>
+            </div>
+            <div class="info-group">
+                <div class="content">
+                    <a class="pic" href="https://www.rdc.com.tw/en"> 
+                        <img class="lazy" data-src="/dist/assets/img/logo-white.svg" alt="alt">
+                    </a>
+                    <div class="info">
+                                                    <div class="row">
+                                <div class="wrapper">
+                                    <div class="icon phone">
+                                        <i class="icon-phone"></i>
+                                    </div>
+                                    <div class="infoTitle">TEL</div>
+                                </div>
+                                <div class="infoText"> 
+                                    <a href="tel:03-6662866" target="_blank">03-6662866</a>
+                                </div>
+                            </div>
+                                                                            <div class="row">
+                                <div class="wrapper">
+                                    <div class="icon fax">
+                                        <i class="icon-fax"></i>
+                                    </div>
+                                    <div class="infoTitle">FAX</div>
+                                </div>
+                                <div class="infoText"> 
+                                    <a href="javascript:;">03-5631498</a>
+                                </div>
+                            </div>
+                                                                            <div class="row">
+                                <div class="wrapper">
+                                    <div class="icon mail">
+                                        <i class="icon-mail"></i>
+                                    </div>
+                                    <div class="infoTitle">EMAIL</div>
+                                </div>
+                                <div class="infoText"> 
+                                    <a href="mailto:sales@rdc.com.tw" target="_blank">service@rdc.com.tw</a>
+                                </div>
+                            </div>
+                                                                            <div class="row">
+                                <div class="wrapper">
+                                    <div class="icon address">
+                                        <i class="icon-address"></i>
+                                    </div>
+                                    <div class="infoTitle">ADD</div>
+                                </div>
+                                <div class="infoText">
+                                    <a href="https://maps.app.goo.gl/dZcpuv7MZgnjDw9R8" target="_blank">6F.-1, No. 2-1, Lixing Rd., East Dist., Hsinchu City 300094 , Taiwan (R.O.C.)</a>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+                <div class="top-btn" data-anchor-target="">
+                    <div class="icon"> 
+                        <i class="icon-arrowTop"></i>
+                    </div>
+                    <div class="btnText">TOP</div>
+                </div>
+            </div>
+        </div>
+        <div class="media-block">
+            <div class="copyright">
+                <div class="privacy">
+                    <a class="item" href="https://www.rdc.com.tw/en/privacy">
+                        <p>Privacy Policy</p>
+                    </a>
+                    <a class="item" href="https://www.rdc.com.tw/en/information_security">
+                        <p>Information Security Policy</p>
+                    </a>
+                </div>
+                <div class="text">© 2025 RDC Semiconductor Co., Ltd. All Right Reserved. Design By 
+                    <a class="wdd" href="https://www.wddgroup.com/" title="網頁設計公司" target="_blank">WDD.</a>
+                </div>
+            </div>
+            <div class="icon-group">
+                                                                                                                            </div>
+        </div>
+    </div>
+</footer>
+<div class="cookie-container">
+    <div class="cookie">
+        <p class="blockTitle-s">Cookie</p>
+        <p class="paragraphText">Regarding this website's use of browser cookies to provide you with the best user experience, the cookies we use also include third-party cookies. For more information, please visit our Privacy and Cookie Policy. By choosing to continue browsing or closing this notice, you agree to our website's terms of use.</p>
+        <div class="btn-group"> 
+            <a class="common-btn-plus close" href="javascript:;" data-color="line-white">
+                <div class="buttonText">Disagree</div>
+                <i class="icon-plus"></i>
+            </a>
+            <a class="common-btn-plus agree" href="javascript:;" data-color="white">
+                <div class="buttonText">Agree</div><i class="icon-plus"></i>
+            </a>
+        </div>
+    </div>
+</div>
+<modern-modal data-modal-id="search-modal" data-modal-animate="fade-down" reFixed-target>
+    <div class="close-btn" data-modal-close></div>
+    <div class="container">
+        <div class="search-block">
+            <div class="content">
+                <div class="blockTitle">Search</div>
+                <div class="paragraphText">Please enter keywords to search the product area and latest news unit</div>
+                <div class="search-input">
+                    <div class="icon"> 
+                        <i class="icon-search"></i>
+                    </div>
+                    <input class="itemTitle-l bkheaderSearchInput" type="text" placeholder="Enter Keyword...">
+                    <a class="common-btn-arrow bkheaderSearchIcon" href="javascript:;" color="white"> 
+                        <i class="icon-commonArrow"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="photo-block">
+            <picture>
+                <source srcset="/dist/assets/img/others/search_rwd_750x300.jpg" media="(max-width: 575px)">
+                <source srcset="/dist/assets/img/others/search_pad_1535x300.jpg" media="(max-width: 1200px)">
+                <img src="/dist/assets/img/others/search_pc_690x900.jpg" alt="">
+            </picture>
+        </div>
+    </div>
+</modern-modal>
+    
+    </div>
+
+    
+    
+                <link rel="modulepreload" crossorigin href="/dist/assets/js/style.min.js?v=042701">
+        <link rel="modulepreload" crossorigin href="/dist/assets/js/vendor.min.js?v=042701">
+        <link rel="modulepreload" crossorigin href="/dist/assets/js/xwadex.fesd.min.js?v=042701">
+        <link rel="modulepreload" crossorigin href="/dist/assets/js/commons.min.js?v=042701">
+        
+        
+        <script type="module" crossorigin src="/dist/assets/js/index.min.js?v=042701"></script>
+        <script type="module" src="/bk/all/verify.js?v=042701"></script>
+        <script type="module" src="/bk/include/headerSearch.js?v=042701"></script>
+</body>
+
+</html>

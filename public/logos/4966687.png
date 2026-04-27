@@ -1,0 +1,449 @@
+
+<!DOCTYPE html>
+<html class="htmlclass">
+	<head id="ctl00_Head1" profile="聯強國際集團，是亞太第一大、全球第三大資訊、通訊、消電、半導體產品的通路集團，針對高科技產業供應鏈提供整合型服務。"><meta charset="utf-8" />
+		<!--<meta http-equiv="x-ua-compatible" content="ie=edge" />-->
+		<meta http-equiv="x-ua-compatible" content="ie=EmulateIE11" /><meta http-equiv="Content-Type " content="text/html; charset=gb2312 " /><title>
+	聯強國際集團
+</title><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" /><link rel="apple-touch-icon" sizes="57x57" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-57x57.png" /><link rel="apple-touch-icon" sizes="60x60" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-60x60.png" /><link rel="apple-touch-icon" sizes="72x72" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-72x72.png" /><link rel="apple-touch-icon" sizes="76x76" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-76x76.png" /><link rel="apple-touch-icon" sizes="114x114" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-114x114.png" /><link rel="apple-touch-icon" sizes="120x120" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-120x120.png" /><link rel="apple-touch-icon" sizes="144x144" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-144x144.png" /><link rel="apple-touch-icon" sizes="152x152" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-152x152.png" /><link rel="apple-touch-icon" sizes="180x180" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/apple-touch-icon-180x180.png" /><link rel="icon" type="image/png" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/favicon-194x194.png" sizes="194x194" /><link rel="icon" type="image/png" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/favicon-96x96.png" sizes="96x96" /><link rel="icon" type="image/png" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/android-chrome-192x192.png" sizes="192x192" /><link rel="icon" type="image/png" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/favicon-16x16.png" sizes="16x16" /><link rel="manifest" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/manifest.json" /><link rel="mask-icon" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/safari-pinned-tab.svg" color="#5bbad5" /><link rel="shortcut icon" href="Data/Sites/3/skins/synnexUi2.0/img/favicons/favicon.ico" /><meta name="msapplication-TileColor" content="#2d89ef" /><meta name="msapplication-TileImage" content="img/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="img/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<meta name="description" content="聯強國際集團，是亞太第一大、全球第三大資訊、通訊、消電、半導體產品的通路集團，針對高科技產業供應鏈提供整合型服務。" />
+<meta property="og:description" content="聯強國際集團，是亞太第一大、全球第三大資訊、通訊、消電、半導體產品的通路集團，針對高科技產業供應鏈提供整合型服務。" />
+<meta name="keywords" content="聯強國際集團" />
+<link rel="search" type="application/opensearchdescription+xml" title="聯強國際" href="/tw/SearchEngineInfo.ashx" />
+
+		<!-- Style -->
+		<link rel="stylesheet" href="/Scripts/maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel='stylesheet' type='text/css' href='/Data/Sites/3/skins/synnexUi2.0/js/smartmenus/jquery.smartmenus.bootstrap.css?v=ad8686e7-2680-4192-a577-921481ddf68f'><link rel="stylesheet" href="/Scripts/code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css" />
+<link rel='stylesheet' type='text/css' href='/Data/Sites/3/skins/synnexUi2.0/css/style-combined.css' />
+
+		<!-- Scripts -->
+		
+		<script src="/Scripts/code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+		<script src="/Scripts/code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-KM512VNnjElC30ehFwehXjx1YCHPiQkOPmqnrWtpccM=" crossorigin="anonymous"></script>
+		<!-- Change JQueryUI plugin names to fix name collision with Bootstrap. -->
+		<script>$.widget.bridge('uiTooltip', $.ui.tooltip);$.widget.bridge('uiButton', $.ui.button);</script>
+	
+<link rel='canonical' href='http://www.synnex-grp.com/tw/home' />
+<script type='text/javascript' src="https://www.googletagmanager.com/gtag/js?id=UA-124749628-1"></script>
+<script type='text/javascript'>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124749628-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124749628-1');
+</script>
+
+<!-- Google AD tag (gtag.js) -->
+<script async src=https://www.googletagmanager.com/gtag/js?id=AW-16513627117>
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-16513627117');
+</script>
+</script></head>
+    <body id="ctl00_Body" class="pagebody index">
+		
+		
+		
+		<form method="post" action="/" id="aspnetForm" class="main-form">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="4" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="gBPYQq7aQzi1507RMx+Q6wDlF0Y4LZ6ZoUZJCiBbDtBMTYPVsi55ueLKVKCkk8RX6WF1LQjATx3VBQRJ5DEL9UH3UjgWqOTgrniKMbzcfa0DHe3Ooz6Z4R6WppKOEFhwypdqD/VeJSE/aUVlawWDwG56+7G915B/QYSOZ0uMw+VDw2JdVTt/QAvfa/eyj2sRAwathoqsJjlKN4jGQS8hCOIFWhR+pVw0b69rBQGrKIYWe7EAOG5laaoTQcxgP19nyn11z730xxUKKDbv5TOdPyX0JY9XOWYOFKA+KvYlKc9hl1s2T0FjIVE+LQ2vRjs+/8PVh20RkJZFkQR6Qh9H9ZxBuklYsKcMLthna9epsaFmDJ7gCrLF3fZ9ZlSs2NqoyY9be6uLtiqSBxUl0ET8BJiLHvONqiXuklQkVMWSLXqC0Fn7aNaosBu2tlngLvorRh+WsTy2BqSzrrcu6aduRj8IJm7MGejFu8hVFgHVhvaXawYFRI7i" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="KPUkXqzlS09W5KvwN15EaropHOvMNhGIWRWJ5fl4ZYaKyuLfSk0AdwAWE2HzGeXrH2biFVz6Neb2kVELWDdDfH+FHYALay7hIOeqCsVPDgHFrxpW5Yf8xxWAynCXjSCKsD65KN8TFg/5ZbipKzmgKSBeiomPaRYeC30qQ9T3hfd9hArvQCq2uH9wwspSSvI/NNUmZuxa66OtCy3fh+jfSZqDKIZ+wgNQtVYqFrRDGTQGh1cWfJwMJNWLWh0GcZ3ZGM30MLOOScumL/Q2QufG3wKymd3Qfhq/QAZ99Q9OtXqZ+mHfPl0LH3F+oaeh1Kg5HB9hoEylF8EcQR++fOLnxhwPzKC+xJ4xh3n6O7SM916+Abqsu3fp/GDITfmRkdEHgNYt3sOQ2SVbuUnNk/BLiVQiRZolWaNT7c2YhYi8IZUrc7TPReEXNcoTL2XVa52RxLVclVaBQWoCrlyIrfYchy054XjF68hR6mF7uL+DIizK/Qkm2coF" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="tDw4rve/RJQDuEQzsB6BVnBkHRBcvMUzhByxiTzOVCmray4MWEZoCc6EodrqfP+tE00ceioVS8qjSrGzakjQAm8C8vIA8bkCGpK/WJ26S/sXhwsfVFB/BbQm0dWgiVOSy4BVHz52QL5uAQaH8hmaOIryLp9Ppx7dGNhsoDHM51YZsSGdCmOZNIh59jdvuHIw2X34drI4oiyfgoQ9OUfQTb30aqS558Mo7aBuxUEkltZmRtNIdFfG2BoFdEiguaqo5j54w9z3ZuEQwE6Yy4d3CS6/sOceWSKUxgG9BTJY+vlQg18IN7JWfEyMbPcwRe/YSqEaQQh4UqHaAJm2ds4HAK3S6VIew+v6PN2hf4WUii6bUGiGvVk87GuVJ/XFzyaRFbqOs1vaX5tKF7SnDQY2MWorKQaoz/E6kio2IKLMyEALQkwlKxVIJ6+D8wgBOwqDgoFMcu6kJvrJ0I98+XIBCOzKdiPjGKDS7pficDlM7hTkorzWMenn" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="RpPaNps9r+/Linmwva1cCejC4kJ7WJ1uKRJCmFCJqyAWQ/RiDZ4uCeFG8+rhRiyTOwT3iDraTB4QlGVdk3nzz4T4tR03Ljvk7+8TJQxXG9xWpHir0fwxvNHQ+VQzFe/jMq7FlrX6N/k7dBHz+TIXpNXibJAC+p0hDk77ZHhFkXPbEaM/cavWvY4C7IKezRJAOGzucKhaGtipGW6dAn2T" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"zh-TW","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"NT$","NaNSymbol":"非數值","CurrencyNegativePattern":1,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"上午","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402271999999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"yyyy\u0027年\u0027M\u0027月\u0027d\u0027日\u0027 tt hh:mm:ss","LongDatePattern":"yyyy\u0027年\u0027M\u0027月\u0027d\u0027日\u0027","LongTimePattern":"tt hh:mm:ss","MonthDayPattern":"M月d日","PMDesignator":"下午","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"yyyy/M/d","ShortTimePattern":"tt hh:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"yyyy\u0027年\u0027M\u0027月\u0027","AbbreviatedDayNames":["週日","週一","週二","週三","週四","週五","週六"],"ShortestDayNames":["日","一","二","三","四","五","六"],"DayNames":["星期日","星期一","星期二","星期三","星期四","星期五","星期六"],"AbbreviatedMonthNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"MonthNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"IsReadOnly":false,"NativeCalendarName":"西曆 (中文)","AbbreviatedMonthGenitiveNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""],"MonthGenitiveNames":["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月",""]},"eras":[1,"西元",null,0]};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=NLcLbf9KgrDVDvm6boP-uM1b7gUQrelj7NQ1xYVaBJocHjQbz0uTmTjBEECn1Rp1g3d62zghMeBxU7e7Z4Muju1t3U8z1qDxeLvIeo--Ywd7Z1ezqa-eyl-M13nhYHUZ3Ofr9la5vvyRT9_BLyKd902aYEk1" type="text/javascript"></script>
+<script src="/Scripts/ajax.aspnetcdn.com/ajax/4.5/6/WebFormsBundle.js" type="text/javascript"></script>
+<script src="/Scripts/ajax.aspnetcdn.com/ajax/4.5/6/MsAjaxBundle.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax 用戶端架構無法載入。');
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="NUm0IwnfzGb86aFv5KfzFIMWa7EVY+375o/jQzMx4Jt0uarSK2J9d92lcmTPdHMLH1YqyahropeYG1E4sVXnd6tRulHAWyX/nGWFrhGIPMfsBdG0LEpIszJqMVCh1+3xC+UbwXbIMerGUUuRMq7Ms1IhXAE=" />
+</div>
+			
+			
+			
+			<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+			<!--[if lt IE 9]>
+    <div class="alert alert-warning alert-dismissible alert-browser" role="alert" >
+        <div class="container">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <strong><span class="fa fa-exclamation-triangle fa-fw"></span> 瀏覽器建議:</strong> <strong>IE8 (含)以下使用者</strong>,建議請您升級至IE 9以上版本，或使用其他瀏覽器Google Chrome、Firefox、Edge.&nbsp;&nbsp;<br>
+            <strong><span class="fa fa-info-circle fa-fw"></span> Attention: </strong> <strong>For using IE8 (including or lower version)</strong>, we suggest that you can upgrade to IE 9 or above, or use other browsers Google Chrome, Firefox, Edge.
+        </div>
+    </div>
+<![endif]-->
+
+
+	
+
+	
+
+	
+
+		<script>var hideAdminDrawerInitially = true;</script>
+
+
+			<div class="sitecontainer" id="main-top">
+			<div class="sitewrap">
+				<header class="head" role="banner">
+					<nav class="navbar navbar-default navbar-static-top navbar-site">
+						<div class="container flex-children flex-stretch">
+							<div class="navbar-header fb-parent fb-row fb-ai-center fb-j-start fb-sm-33">
+								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#site-menu" aria-expanded="false">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+
+                                
+								<a href='http://www.synnex-grp.com/tw/Default.aspx' title='聯強國際集團' class='navbar-brand navbar-logo'><img class='site-logo' alt='聯強國際集團' src='/Data/Sites/3/media/logos/Logo-繁.png' /></a>
+								
+								
+							</div>
+								<div class="right-control">
+									<button type="button" class="navbar-toggle collapsed btn-language" data-toggle="collapse" data-target="#language" aria-expanded="true">
+										<span></span>
+								    </button>
+                                    <ul class="collapse navbar-collapse" id="language">
+                                        <li class="btn-li">
+                                            <a class="sitelink homelink" href="/tw/Default.aspx">首頁</a>
+                                        </li>
+                                        <li class="btn-li">
+                                            <a class="sitelink" href="/tw/SiteMap.aspx">網站地圖</a>
+                                        </li>
+                                        <li>
+                                            <a class="tw" onclick="return tw();" href="#" target="_self" >繁體</a>
+                                        </li>
+                                        <!--<li>
+                                    	    <a class="cn" onclick="return cn();" href="#" target="_self" >简体</a>
+                                        </li>-->
+                                	    <li>
+                                   	        <a class="en" onclick="return en();" href="#" target="_self">English</a>
+                                        </li>
+                                    </ul>
+								</div>
+							<div class="collapse navbar-collapse fb-parent fb-row fb-j-end fb-ai-center fb-sm-66" id="site-menu">
+								
+<ul class='nav navbar-nav navbar-right'><li class='dropdown-toggle'><a class='unclickable' href='/tw/about-synnex'>關於聯強</a><ul class='dropdown-menu'><li><a href='/tw/company-profile'>集團簡介</a></li><li><a href='/tw/Our-Values'>經營理念</a></li><li><a href='/tw/Synnex-Logo'>集團識別</a></li><li><a href='/tw/milestones'>集團沿革</a></li><li><a href='/tw/SYNNEXTOWER'>聯強國際大樓</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/group-members'>集團成員</a><ul class='dropdown-menu'><li><a href='/tw/Semiconductor-Business'>半導體事業</a></li><li><a href='/tw/IT-Business'>台灣資訊</a></li><li><a href='/tw/Telecom-Business'>台灣通訊</a></li><li><a href='/tw/bestcom'>群環科技</a></li><li><a href='/tw/Synergy-Intelligent-Technology'>通盛科技</a></li><li><a href='/tw/Seper-Technology'>嘉榮行銷</a></li><li><a href='/tw/Synergy-Intelligent-Logistics'>通達智能運籌</a></li><li><a href='/tw/Synnex-Mainland-China'>聯強大陸</a></li><li><a href='/tw/Synnex-Hong-Kong'>聯強香港</a></li><li><a href='/tw/Synnex-Australia'>聯強澳洲</a></li><li><a href='/tw/Synnex-New-zealand'>聯強紐西蘭</a></li><li><a href='/tw/Synnex-Indonesia'>聯強印尼</a></li><li><a href='/tw/Synnex-Thailand'>聯強泰國</a></li><li><a href='/tw/Synnex-Vietnam'>聯強越南</a></li><li><a href='/tw/Synnex-India'>聯強印度</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/press-center'>新聞動態</a><ul class='dropdown-menu'><li><a href='/tw/news'>新聞發佈</a></li><li><a href='/tw/Media-Coverage'>媒體報導</a></li><li><a href='/tw/media-center'>影音中心</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/investor-relations'>投資人關係</a><ul class='dropdown-menu'><li><a href='/tw/Default.aspx?pageid=308'>行事曆</a></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/financials'>財務資訊</a><ul class='dropdown-menu'><li><a href='/tw/monthly-revenue-new'>營業公告</a></li><li><a href='/tw/financial-report-new'>財務報告</a></li><li><a href='/tw/quarterly-results-new'>營業成果</a></li><li><a href='/tw/material-information'>重大訊息公告</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/corporate-governance'>公司治理</a><ul class='dropdown-menu'><li><a href='/tw/board-of-directors'>董事會</a></li><li><a href='/tw/audit-committee'>審計委員會</a></li><li><a href='/tw/remuneration'>薪酬委員會</a></li><li><a href='/tw/hoest-business'>誠信經營</a></li><li><a href='/tw/anti-corruption'>反貪腐政策</a></li><li><a href='/tw/prevention-insider-trading'>防範內線交易</a></li><li><a href='/tw/risk-management-Y22'>風險管理</a></li><li><a href='/tw/info-security-risk'>資訊安全風險管理</a></li><li><a href='/tw/Operational-objectives-and-intellectual-property-management'>營運目標與智慧財產管理</a></li><li><a href='/tw/company-chairman'>公司治理主管</a></li><li><a href='/tw/organization-chart'>組織架構</a></li><li><a href='/tw/major-internal-policies'>公司重要規章</a></li><li><a href='/tw/internal-audit'>內部稽核</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/shareholder-service'>股東服務</a><ul class='dropdown-menu'><li><a href='/tw/stock-quotes'>股價查詢</a></li><li><a href='/tw/shareholders'>股權資訊</a></li><li><a href='/tw/shareholders-meeting'>股東會</a></li><li><a href='/tw/dividend-history'>股利分派</a></li><li><a href='/tw/contacts'>聯絡我們</a></li></ul></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/synnex-emba'>聯強EMBA</a><ul class='dropdown-menu'><li><a href='/tw/about-synnex-emba'>關於聯強EMBA</a></li><li><a href='/tw/articles'>觀念文章</a></li><li><a href='/tw/media-interview'>媒體專訪</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/careers'>人才招募</a><ul class='dropdown-menu'><li class='dropdown-toggle'><a class='unclickable' href='/tw/benefits-system'>福利制度</a><ul class='dropdown-menu'><li><a href='/tw/benefits-and-salary'>福利與薪資</a></li><li><a href='/tw/life-balance'>工作生活平衡</a></li><li><a href='/tw/facility'>環境設施與團隊建設</a></li><li><a href='/tw/employee-care'>員工關懷</a></li></ul></li><li><a href='/tw/training'>培訓發展</a></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/join-synnex'>加入聯強</a><ul class='dropdown-menu'><li><a href='/tw/teamwork'>工作團隊</a></li><li><a href='/tw/job-apply'>我要應徵</a></li></ul></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/csr'>永續聯強</a><ul class='dropdown-menu'><li class='dropdown-toggle'><a class='unclickable' href='/tw/Strategy'>永續經營​</a><ul class='dropdown-menu'><li><a href='/tw/Synnexs-Sustainable-Philosophy'>永續理念​</a></li><li><a href='/tw/Key-Sustainability-Performance'>永續關鍵績效​</a></li><li><a href='/tw/Sustainable-Goalss'>永續發展目標​</a></li><li><a href='/tw/Awards-and-Recognition'>獎項與肯定​</a></li><li><a href='/tw/tw/Brand-Management'>品牌管理​</a></li><li><a href='/tw/Green-Financing'>綠色融資​</a></li><li><a href='/tw/Communication-with-Stakeholders'>利害關係人​</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/Governance'>永續治理</a><ul class='dropdown-menu'><li><a href='/tw/CorporateGovernance'>治理組織​</a></li><li><a href='/tw/Information-System-Security'>資訊系統安全​</a></li><li><a href='/tw/Ethical-Corporate-Management'>誠信經營​</a></li><li><a href='/tw/Risk-Management1'>風險管理​</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/ValueChain'>產品與價值鏈​</a><ul class='dropdown-menu'><li><a href='/tw/Service-Innovation'>服務創新​</a></li><li><a href='/tw/Green-Products'>綠色產品​</a></li><li><a href='/tw/Supply-Chain-Management'>供應鏈管理</a></li><li><a href='/tw/Conflict-Minerals'>衝突礦產管理</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/People'>永續社會​</a><ul class='dropdown-menu'><li><a href='/tw/Diversity-and-Inclusiveness'>多元共融</a></li><li><a href='/tw/Occupational-Safety-and-Health'>職業安全與衛生</a></li><li><a href='/tw/Social-Participation'>社會參與</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/Environment'>永續環境​</a><ul class='dropdown-menu'><li><a href='/tw/SYNNEX-TCFD'>聯強TCFD</a></li><li><a href='/tw/Environmental-Policy1'>環境政策</a></li><li><a href='/tw/Energy-Management'>溫室氣體管理</a></li><li><a href='/tw/Water-Resource-Management'>水資源管理</a></li><li><a href='/tw/Waste-Management'>廢棄物管理</a></li><li><a href='/tw/Green-Buildings'>綠建築</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/Download'>資源中心​</a><ul class='dropdown-menu'><li><a href='/tw/Policies'>政策與守則</a></li><li><a href='/tw/ESG-Report'>永續報告書</a></li></ul></li><li class='dropdown-toggle'><a class='unclickable' href='/tw/SynnexsFoundation'>聯強基金會</a><ul class='dropdown-menu'><li><a href='/tw/Work-report'>工作計畫與報告</a></li><li><a href='/tw/Financial-Report1'>財務報告</a></li></ul></li></ul></li></ul>
+
+
+                              
+							</div>
+						</div>
+					</nav>
+				</header>
+				
+				<main class="main-content">
+                    <div id='leftNav'>
+                            <div class="leftNav-top"></div>
+                            
+                            
+							 
+                    </div>
+                    <div class="content-right">					                   
+					    <div class="container">
+                            <div class=' cmszone top-pane clearfix'>
+
+						        
+
+
+					        
+</div>  
+						    <div class="row" id="start-content">
+							    <div id='ctl00_divCenter' class='art-layout-cell  art-content-narrow center-rightandleftmargins cmszone center-pane clearfix'>
+
+									
+								    
+<div class='outerwrap'>
+
+
+<div class='panelwrapper htmlmodule'>
+
+<a id='module95' class='moduleanchor'></a>
+<div class='outerbody'>
+
+<div class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent'>
+<div class="slick-banner">
+<div><img src="/Data/Sites/3/media/%E9%A6%96%E9%A0%81/%E8%BC%AA%E6%92%AD%E5%9C%96%E5%9C%96%E7%89%87/kee%E4%BA%A4%E5%A4%A7%E5%82%91%E5%87%BA%E6%A0%A1%E5%8F%8B_y260320_%E7%B9%81.jpg" /></div>
+
+<div><img src="/Data/Sites/3/media/%E9%A6%96%E9%A0%81/%E8%BC%AA%E6%92%AD%E5%9C%96%E5%9C%96%E7%89%87/37%E5%B9%B4%E6%AD%B7%E5%B9%B4%E7%B8%BE%E6%95%88_y260310_%E7%B9%81a.jpg" /></div>
+
+<div><img src="/Data/Sites/3/media/%E9%A6%96%E9%A0%81/%E8%BC%AA%E6%92%AD%E5%9C%96%E5%9C%96%E7%89%87/%E5%9C%8B%E9%9A%9B%E5%93%81%E7%89%8Cy260113_%E7%B9%81.jpg" /></div>
+
+<div><img src="/Data/Sites/3/media/%E9%A6%96%E9%A0%81/%E8%BC%AA%E6%92%AD%E5%9C%96%E5%9C%96%E7%89%87/%E5%A2%A8%E7%88%BE%E6%9C%AC%E6%96%B0%E7%B8%BD%E9%83%A8%E6%9A%A8%E9%81%8B%E7%B1%8Cy250617_3.jpg" /></div>
+
+<div><img src="/Data/Sites/3/media/%E9%A6%96%E9%A0%81/%E8%BC%AA%E6%92%AD%E5%9C%96%E5%9C%96%E7%89%87/%E5%A2%A8%E7%88%BE%E6%9C%AC%E6%96%B0%E7%B8%BD%E9%83%A8%E6%9A%A8%E9%81%8B%E7%B1%8Cy250617_1.jpg" /></div>
+
+<div><img src="/Data/Sites/3/media/%E9%A6%96%E9%A0%81/%E8%BC%AA%E6%92%AD%E5%9C%96%E5%9C%96%E7%89%87/%E5%A2%A8%E7%88%BE%E6%9C%AC%E6%96%B0%E7%B8%BD%E9%83%A8%E6%9A%A8%E9%81%8B%E7%B1%8Cy250617_2.jpg" /></div>
+
+<div><img src="/Data/Sites/3/media/%E9%A6%96%E9%A0%81/%E8%BC%AA%E6%92%AD%E5%9C%96%E5%9C%96%E7%89%87/%E8%BC%AA%E6%92%AD%E5%9C%96y241031_%E5%A4%A7%E6%A8%93-01.jpg" /></div>
+</div>
+
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+									<a href="#main-top" class="get-top" id="get-top">回到顶部</a>
+							    
+</div>
+
+							    <div id='ctl00_divRight' class=' cmszone right-pane col-md-3 clearfix'>
+
+								    <div class='outerwrap'>
+
+    <div class='panelwrapper blog-postlist'>
+
+        <h3 id="module12" class="side-title moduletitle">最新訊息</h3>
+        <div class='outerbody'>
+
+            <div class='modulecontent'>
+
+                
+                <span id="ctl00_rightContent_ctl00_postList">
+<ul class="new-events">
+                <li class="new-events__item">
+                    <a class="new-events__item-link" href="http://www.synnex-grp.com/tw/升級有感加上貨物稅助攻，聯強引進dji-osmo-pocket-4上市首週銷售較前代爆增-5-倍">
+                        升級有感加上貨物稅助攻，聯強引進DJI Osmo Pocket 4上市首週銷售較前代爆增 5 倍
+                    </a>
+                </li>
+                <li class="new-events__item">
+                    <a class="new-events__item-link" href="http://www.synnex-grp.com/tw/最強口袋雲台神機-dji-pocket-4開賣-聯強串聯7-ELEVEN，超商app下單取貨">
+                        最強口袋雲台神機-DJI Pocket 4開賣　聯強串聯7-ELEVEN，超商APP下單取貨
+                    </a>
+                </li>
+                <li class="new-events__item">
+                    <a class="new-events__item-link" href="http://www.synnex-grp.com/tw/聯強3月營收衝上561億，刷新歷史紀錄；首季營收年成長38，同步改寫新高">
+                        聯強3月營收衝上561億，刷新歷史紀錄；首季營收年成長38%，同步改寫新高
+                    </a>
+                </li>
+                <li class="new-events__item">
+                    <a class="new-events__item-link" href="http://www.synnex-grp.com/tw/群環科技攜手中衛發展中心，共推「ai應用加速平台」與產業ai-agent生態系，攜手經銷夥伴掌握企業ai落地新商機">
+                        群環科技攜手中衛發展中心，共推「AI應用加速平台」與產業AI Agent生態系，攜手經銷夥伴掌握企業AI落地新商機
+                    </a>
+                </li>
+                <li class="new-events__item">
+                    <a class="new-events__item-link" href="http://www.synnex-grp.com/tw/聯強國際集團執行長王其勳-獲頒陽明交大傑出校友">
+                        聯強國際集團執行長王其勳 獲頒陽明交大傑出校友
+                    </a>
+                </li>
+
+</ul>
+</span>
+	            
+            
+</div>
+        
+</div>
+        
+    
+</div>
+
+</div>
+<div class='outerwrap'>
+
+
+<div class='panelwrapper htmlmodule'>
+
+<a id='module97' class='moduleanchor'></a>
+<div class='outerbody'>
+
+<div class='modulecontent'>
+
+
+<div id='ctl00_rightContent_ctl01_divContent'>
+<p>&nbsp;</p>
+<p><img alt="" src="/Data/Sites/3/media/首頁/picture_side/index_side_banner.jpg" /></p>
+
+</div>
+<input type="hidden" name="ctl00$rightContent$ctl01$hdnIsDirty" id="ctl00_rightContent_ctl01_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+							    
+</div>
+						    </div>
+							
+                            <div id='ctl00_divAltContent2' class=' cmszone bottom-pane clearfix'>
+
+						        
+					        
+</div>
+					    </div>
+                    </div>
+				</main>
+			</div>
+
+
+			<footer class="foot">
+				<div class="container">
+					<div class="row">
+						<div class="text-xs-center copyright">
+						<div id='ctl00_divLeft' class=' cmszone left-pane col-md-3 clearfix'>
+
+								    
+<div class='outerwrap'>
+
+
+<div class='panelwrapper htmlmodule'>
+
+<a id='module167' class='moduleanchor'></a>
+<div class='outerbody'>
+
+<div class='modulecontent'>
+
+
+<div id='ctl00_leftContent_ctl00_divContent'>
+<p>Copyright © 2022 SYNNEX TECHNOLOGY INTERNATIONAL CORPORATION.All Rights Reserved.</p>
+
+</div>
+<input type="hidden" name="ctl00$leftContent$ctl00$hdnIsDirty" id="ctl00_leftContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+							    
+</div>
+							<small>Copyright © 2022 SYNNEX TECHNOLOGY INTERNATIONAL CORPORATION.All Rights Reserved.</small>
+						</div>
+					</div>
+				</div>
+			</footer>
+			</div>
+		
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript">
+$(function(){$("#get-top").text("回到頂部");$("#hideBarLink").text("隱藏工具欄");$("#hideBarLink").append('<span class="fa fa-angle-double-left pull-right lead"></span>');}); 
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+WebForm_InitCallback();//]]>
+</script>
+
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+		
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124749628-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124749628-1');
+</script>
+
+
+		<!-- Main Script -->
+		
+<script src="/Data/Sites/3/skins/synnexUi2.0/js/bootstrap.min.js" type="text/javascript" ></script>
+		<!-- Change Bootstrap plugin names to fix name collision with jQueryUI -->
+		<script>var bstt = $.fn.tooltip.noConflict(); $.fn.bsTooltip = bstt;</script>
+		
+<script src="/Data/Sites/3/skins/synnexUi2.0/js/smartmenus/jquery.smartmenus.min.js" type="text/javascript" ></script>
+		
+<script src="/Data/Sites/3/skins/synnexUi2.0/js/smartmenus/jquery.smartmenus.bootstrap.min.js" type="text/javascript" ></script>
+		
+<script src="/Data/Sites/3/skins/synnexUi2.0/js/main.min.js" type="text/javascript" ></script>
+		
+        
+<script src="/Data/Sites/3/skins/synnexUi2.0/js/leftNav.js" type="text/javascript" ></script>
+		
+<script src="/Data/Sites/3/skins/synnexUi2.0/js/commonFunc.js" type="text/javascript" ></script>
+		
+<script src="/Data/Sites/3/skins/synnexUi2.0/slick/slick.js" type="text/javascript" ></script>		
+		
+<script src="/Data/Sites/3/skins/synnexUi2.0/js/banner_slider.js" type="text/javascript" ></script>
+	</body>
+</html>

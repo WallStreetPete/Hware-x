@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html> 
+<html lang="zh-Hant" class="no-js">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/css/system/404.css">
+</head>
+
+<div class="nopage1">
+    <figure class="pic"><img itemprop="image" src="/images/system/404-1.png" alt=""></figure>
+    <br>
+    <div class="txt">
+        很抱歉你所輸入的網址並不存在，可能發生了以下原因 :<br>
+        ‧ 您可能輸入了錯誤的網址<br>
+        ‧ 此頁面已被移除
+        <br>
+        <br>
+        <a class="backhome" href="https://www.yselec.com.tw/">回首頁</a>
+        
+    </div>
+
+</div>
+
+</html>

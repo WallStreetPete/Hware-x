@@ -1,0 +1,1823 @@
+<!DOCTYPE html>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="zh-TW" />
+<meta name="title" content="佳邦科技位居電子保護元件及天線產品之領導地位">
+<meta name="subject" content="佳邦科技位居電子保護元件及天線產品之領導地位">
+<meta name="description" content="佳邦科技位居電子保護元件及天線產品之領導地位，提供了完整的電路保護、電磁干擾/電磁防護、電源保護、RF天線產品線。佳邦在台灣保持元件及天線產品領先的地位。" />
+<meta name="keywords" content="">
+<meta name="author" content="INPAQ TECHNOLOGY CO., LTD.">
+<meta name="google-site-verification" content="9f3c73326e902c3"/>
+
+
+<meta property="og:title" content="佳邦科技位居電子保護元件及天線產品之領導地位" />
+<meta property="og:description" content="佳邦科技位居電子保護元件及天線產品之領導地位 " />
+<meta property="og:url" content="INPAQ TECHNOLOGY CO., LTD " />
+<meta property="og:image" content="INPAQ TECHNOLOGY CO., LTD " />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>佳邦科技位居電子保護元件及天線產品之領導地位 INPAQ TECHNOLOGY CO., LTD</title>
+
+
+
+<link rel="alternate" hreflang="zh-TW" href="https://www.inpaq.com.tw/" />
+<link rel="alternate" hreflang="zh-CN" href="https://www.inpaqgp.com/cn/" />
+<link rel="alternate" hreflang="zh-JP" href="https://www.inpaqgp.com/jp/" />
+<link rel="alternate" hreflang="en" href="https://www.inpaqgp.com/" />
+
+<!--RWS 選單CSS/js-->
+<script src="js/jquery.min.js"></script>
+<script src="js/skel.min.js"></script>
+<script src="js/skel-layers.min.js"></script>
+<script src="js/init.js"></script>
+
+<script src="js/function.js"></script>
+
+<link href="css/kickstart-buttons.css?v=1777225727" rel="stylesheet" type="text/css" />
+<noscript>
+<link rel="stylesheet" href="css/style.css?v=1777225727" />
+ <link rel="stylesheet" href="css/style-desktop.css?v=1777225727" />
+</noscript>
+<!--RWS 選單CSS/js-->
+
+<link rel="SHORTCUT ICON" href="images/inpaq.ico">
+	<script type="text/javascript">
+		var isIE11 = (/Trident\/7\./).test(navigator.userAgent);
+		if(isIE11){
+			alert('建議使用 Google Chrome, Firefox');
+		}
+	</script>
+
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-59FMBWB');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETB76G90EX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-ETB76G90EX');
+</script>
+
+
+
+<link rel="stylesheet" href="css/bootstrap-3.3.4.css?v=1777225727">
+
+
+<link rel="stylesheet" href="css/style-qa.css?v=1777225727">
+
+<script src="js/jquery.min.js"></script>
+
+<script src="js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+</script>
+<script src="//cdn.bootcss.com/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/kickstart.js"></script>
+
+<link rel="stylesheet"
+	href="https://fonts.googleapis.com/css?family=Merriweather:400,700">
+<link href="css/kickstart-buttons.css?version=1.0" rel="stylesheet" type="text/css" />
+<link href="css/kickstart-slideshow.css?version=1.0" rel="stylesheet"
+	type="text/css" />
+
+<!--輪播banner/CSS-->
+
+<!-- The JavaScript -->
+
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript">
+			(function($) {
+				$.fn.parallaxSlider = function(options) {
+					var opts = $.extend({}, $.fn.parallaxSlider.defaults, options);
+					return this.each(function() {
+						var $pxs_container 	= $(this),
+						o 				= $.meta ? $.extend({}, opts, $pxs_container.data()) : opts;
+						
+						//the main slider
+						var $pxs_slider		= $('.pxs_slider',$pxs_container),
+						//the elements in the slider
+						$elems			= $pxs_slider.children(),
+						//total number of elements
+						total_elems		= $elems.length,
+						//the navigation buttons
+						$pxs_next		= $('.pxs_next',$pxs_container),
+						$pxs_prev		= $('.pxs_prev',$pxs_container),
+						//the bg images
+						$pxs_bg1		= $('.pxs_bg1',$pxs_container),
+						$pxs_bg2		= $('.pxs_bg2',$pxs_container),
+						$pxs_bg3		= $('.pxs_bg3',$pxs_container),
+						//current image
+						current			= 0,
+						//the thumbs container
+						$pxs_thumbnails = $('.pxs_thumbnails',$pxs_container),
+						//the thumbs
+						$thumbs			= $pxs_thumbnails.children(),
+						//the interval for the autoplay mode
+						slideshow,
+						//the loading image
+						$pxs_loading	= $('.pxs_loading',$pxs_container),
+						$pxs_slider_wrapper = $('.pxs_slider_wrapper',$pxs_container);
+							
+						//first preload all the images
+						var loaded		= 0,
+						$images		= $pxs_slider_wrapper.find('img');
+							
+						$images.each(function(){
+							var $img	= $(this);
+							$('<img/>').load(function(){
+								++loaded;
+								if(loaded	== total_elems*2){
+									$pxs_loading.hide();
+									$pxs_slider_wrapper.show();
+										
+									//one images width (assuming all images have the same sizes)
+									var one_image_w		= $pxs_slider.find('img:first').width()/8;
+							
+									/*
+									need to set width of the slider,
+									of each one of its elements, and of the
+									navigation buttons
+									 */
+									setWidths($pxs_slider,
+									$elems,
+									total_elems,
+									$pxs_bg1,
+									$pxs_bg2,
+									$pxs_bg3,
+									one_image_w,
+									$pxs_next,
+									$pxs_prev);
+							
+									/*
+										set the width of the thumbs
+										and spread them evenly
+									 */
+									$pxs_thumbnails.css({
+										'width'			: one_image_w + 'px',
+										'margin-left' 	: 400 + 'px'
+									});
+									var spaces	= one_image_w/(total_elems+1);
+									$thumbs.each(function(i){
+										var $this 	= $(this);
+										var left	= spaces*(i+1) - $this.width()/2;
+										$this.css('left',left+'px');
+											
+										if(o.thumbRotation){
+											var angle 	= Math.floor(Math.random());
+											$this.css({
+												'-moz-transform'	: 'rotate('+ angle +'deg)',
+												'-webkit-transform'	: 'rotate('+ angle +'deg)',
+												'transform'			: 'rotate('+ angle +'deg)'
+											});
+										}
+										//hovering the thumbs animates them up and down
+										$this.bind('mouseenter',function(){
+											$(this).stop().animate({top:'-10px'},100);
+										}).bind('mouseleave',function(){
+											$(this).stop().animate({top:'0px'},100);
+										});
+									});
+										
+									//make the first thumb be selected
+									highlight($thumbs.eq(0));
+										
+									//slide when clicking the navigation buttons
+									$pxs_next.bind('click',function(){
+										++current;
+										if(current >= total_elems)
+											if(o.circular)
+												current = 0;
+										else{
+											--current;
+											return false;
+										}
+										highlight($thumbs.eq(current));
+										slide(current,
+										$pxs_slider,
+										$pxs_bg3,
+										$pxs_bg2,
+										$pxs_bg1,
+										o.speed,
+										o.easing,
+										o.easingBg);
+									});
+									$pxs_prev.bind('click',function(){
+										--current;
+										if(current < 0)
+											if(o.circular)
+												current = total_elems - 1;
+										else{
+											++current;
+											return false;
+										}
+										highlight($thumbs.eq(current));
+										slide(current,
+										$pxs_slider,
+										$pxs_bg3,
+										$pxs_bg2,
+										$pxs_bg1,
+										o.speed,
+										o.easing,
+										o.easingBg);
+									});
+							
+									/*
+									clicking a thumb will slide to the respective image
+									 */
+									$thumbs.bind('click',function(){
+										var $thumb	= $(this);
+										highlight($thumb);
+										//if autoplay interrupt when user clicks
+										if(o.auto)
+											clearInterval(slideshow);
+										current 	= $thumb.index();
+										slide(current,
+										$pxs_slider,
+										$pxs_bg3,
+										$pxs_bg2,
+										$pxs_bg1,
+										o.speed,
+										o.easing,
+										o.easingBg);
+									});
+							
+								
+							
+									/*
+									activate the autoplay mode if
+									that option was specified
+									 */
+									if(o.auto != 0){
+										o.circular	= true;
+										slideshow	= setInterval(function(){
+											$pxs_next.trigger('click');
+										},o.auto);
+									}
+							
+									/*
+									when resizing the window,
+									we need to recalculate the widths of the
+									slider elements, based on the new windows width.
+									we need to slide again to the current one,
+									since the left of the slider is no longer correct
+									 */
+									$(window).resize(function(){
+										w_w	= $(window).width();
+										setWidths($pxs_slider,$elems,total_elems,$pxs_bg1,$pxs_bg2,$pxs_bg3,one_image_w,$pxs_next,$pxs_prev);
+										slide(current,
+										$pxs_slider,
+										$pxs_bg3,
+										$pxs_bg2,
+										$pxs_bg1,
+										1,
+										o.easing,
+										o.easingBg);
+									});
+
+								}
+							}).error(function(){
+								alert('here')
+							}).attr('src',$img.attr('src'));
+						});
+							
+							
+							
+					});
+				};
+				
+				//the current windows width
+				var w_w				= $(window).width();
+				
+				var slide			= function(current,
+				$pxs_slider,
+				$pxs_bg3,
+				$pxs_bg2,
+				$pxs_bg1,
+				speed,
+				easing,
+				easingBg){
+					var slide_to	= parseInt(-w_w * current);
+					$pxs_slider.stop().animate({
+						left	: slide_to + 'px'
+					},speed, easing);
+					$pxs_bg3.stop().animate({
+						left	: slide_to/2 + 'px'
+					},speed, easingBg);
+					$pxs_bg2.stop().animate({
+						left	: slide_to/4 + 'px'
+					},speed, easingBg);
+					$pxs_bg1.stop().animate({
+						left	: slide_to/8 + 'px'
+					},speed, easingBg);
+				}
+				
+				var highlight		= function($elem){
+					$elem.siblings().removeClass('selected');
+					$elem.addClass('selected');
+				}
+				
+				var setWidths		= function($pxs_slider,
+				$elems,
+				total_elems,
+				$pxs_bg1,
+				$pxs_bg2,
+				$pxs_bg3,
+				one_image_w,
+				$pxs_next,
+				$pxs_prev){
+					/*
+					the width of the slider is the windows width
+					times the total number of elements in the slider
+					 */
+					var pxs_slider_w	= w_w * total_elems;
+					$pxs_slider.width(pxs_slider_w + 'px');
+					//each element will have a width = windows width
+					$elems.width(w_w + 'px');
+					/*
+					we also set the width of each bg image div.
+					The value is the same calculated for the pxs_slider
+					 */
+					$pxs_bg1.width(pxs_slider_w + 'px');
+					$pxs_bg2.width(pxs_slider_w + 'px');
+					$pxs_bg3.width(pxs_slider_w + 'px');
+					
+					/*
+					both the right and left of the
+					navigation next and previous buttons will be:
+					windowWidth/2 - imgWidth/2 + some margin (not to touch the image borders)
+					 */
+					var position_nav	= w_w/2 - one_image_w/2 + 3;
+					$pxs_next.css('right', position_nav + 'px');
+					$pxs_prev.css('left', position_nav + 'px');
+				}
+				
+				$.fn.parallaxSlider.defaults = {
+					auto			: 0,	//how many seconds to periodically slide the content.
+											//If set to 0 then autoplay is turned off.
+					speed			: 1500,//speed of each slide animation
+					easing			: 'jswing',//easing effect for the slide animation
+					easingBg		: 'jswing',//easing effect for the background animation
+					circular		: true,//circular slider
+					thumbRotation	: true//the thumbs will be randomly rotated
+				};
+				//easeInOutExpo,easeInBack
+			})(jQuery);
+		</script>
+
+		<script type="text/javascript">
+			/*
+			$(function() {
+				//var $pxs_container	= $('#pxs_container');
+				//$pxs_container.parallaxSlider();
+			});
+			*/
+        </script>
+<!--輪播banner/CSS-->
+
+<style>
+
+.blue3 {
+    font-size: 1.1em;
+    font-family: 微軟正黑體;
+    text-shadow: rgb(18, 147, 152) 0px -1px 0px;
+    color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(18, 147, 152);
+    border-image: initial;
+    background: -webkit-linear-gradient(top, rgb(77, 172, 176) 0%, rgb(18, 147, 152) 44%, rgb(18, 147, 152) 100%);
+    margin: 3px;
+}
+.blue3:hover {
+    font-size: 1.1em;
+    font-family: 微軟正黑體;
+    text-shadow: rgb(18, 147, 152) 0px -1px 0px;
+    color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(18, 147, 152);
+    border-image: initial;
+    background: -webkit-linear-gradient(top, rgb(18, 147, 152) 0%, rgb(77, 172, 176) 44%, rgb(18, 147, 152) 100%);
+	 box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.3);
+    margin: 3px;
+}
+</style>
+</head>
+
+<body>
+
+	<!--up 最上-->
+<form action="search.php" name="topSelForm" id="topSelForm" method="post" >
+	<div id="up">
+    	<style>
+#logo-pc-psa{
+
+	float: left;
+	
+	
+	margin-top: 20px;
+	}
+#logo-pc-inpaq{
+	background-image: url(../images/logo/inpaq.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 70px;
+	width: 163px;
+	margin-top: 20px;
+	}
+
+
+@media (min-width: 100px) and (max-width: 1000px) {
+	
+
+}
+
+</style>
+<div id="logo-pc-psa">
+<a href="index.php" ><img src="images/logo/psa-01.png"  height="60"></a>
+<a href="index.php"><img src="images/logo/inpaq-01.png"  height="55"/></a>
+</div>		
+		<div id="language">
+		<div class="lang">
+			<span >
+				<a href="https://www.digikey.tw/en/supplier-centers/inpaq-technology" target="_blank" style="color:#000000;" > INPAQ 線上購買</a> ｜
+				<a href="contact.php"  style="color:#000000;" >聯絡佳邦</a> ｜
+				<a href="sitemap.php"  style="color:#000000;" >網站地圖</a> ｜ </span> 
+				<select class="black7" name="changLang" id="changLang" onChange="javascript:location.href=this.options[this.selectedIndex].value;">
+					<option value="https://www.inpaq.com.tw" selected>繁體中文</option>
+					<option value="https://www.inpaqgp.com/cn" >簡体中文</option>
+                    <option value="https://www.inpaqgp.com/jp" >日文版</option>
+					<option value="https://www.inpaqgp.com" >English</option>
+				</select>
+				
+					</div>
+				<a href="2023-product.php?k4=QXckhFCyFSikgOwz44N2wg%3D%3D" id="cmdTopSelSearch">
+					<button type="button" onClick="doSearchProduct();" class="blue">元件型號搜尋</button>
+				</a>		
+				
+		</div>
+	</div>
+</form>
+	<div id="up-mobile">
+		
+		<div id="logo-mobile2">  
+        <a href="index.php" target="_blank">
+       <img src="images/logo/psa-01.png"  height="40" style="margin-top: 12.5px;"/></a>
+        <a href="index.php"><img src="images/logo/inpaq-01.png" height="40" style="margin-top: 12.5px;"/></a>
+       
+
+        </div>       
+        <div id="clear"></div>
+	</div>
+
+	<script type="text/javascript">
+		$(function(){
+			$("#cmdTopSelSearch").click(function(){
+				if($("#topKeyword").val()=="" || trim($("#topKeyword").val())==""){
+					alert('keyword cannot empty!');
+					return false;
+				}
+				$("#topSelForm").submit();
+			});
+		});
+	</script>
+    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59FMBWB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<!--pc主選單-->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+ <script defer src="/your-path-to-fontawesome/js/all.js"></script> <!--load all styles -->
+ <style>
+ .member-color{
+	background-color: #272525;
+}
+ </style>
+<!--PC選單 -->
+<!--<link rel="stylesheet" href="menu_files/mbcsmbmcp.css" type="text/css" />-->
+<link href="/css/kickstart-buttons.css?v=1777225727" rel="stylesheet" type="text/css">
+
+<div id="menu-pc">
+	<div class="page-header">
+		<div class="container">
+			<ul class="nav nav-pills">
+
+				<!-- 選單第一層 HOME-->
+				<li class="dropdown"><a href="index.php">首頁</a></li>
+
+				<!-- 選單第一層 1. PRODUCTS-->
+				<li class="dropdown"><a href="javascript:void(0);">產品</a>
+					<div class="dropdown-menu">
+
+						<div class="faux-column">
+                            							<ul><dl>
+							<dd>			
+										<li><a href="rf.php?searchName=&pn=1&orderBy=&startDate=&endDate=&frontMenuTypeID=0&frontParentMenuID=0&frontSubMenuID=0&&forewordTypeID=220&secureChk=3b481c69e2e31840a2fa7b308cb651df">RF天線</a></li>
+                                        <li><a href="rf.php?searchName=&pn=1&orderBy=&startDate=&endDate=&frontMenuTypeID=0&frontParentMenuID=0&frontSubMenuID=0&&forewordTypeID=724&secureChk=443a17fdaeba8da3d87ce96df2ea8aa4">RF模組</a></li>
+									</dd>
+                                <dd><li><a href="#">電 感<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">貼片功率電感<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">一般品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=QXckhFCyFSikgOwz44N2wg%3D%3D">微型化一體式電感</a></li><li><a href="2023-product.php?k4=%2FVJMIXmb1QSYz%2BYfY7bBww%3D%3D">一體式電感</a></li><li><a href="2023-product.php?k4=wsIz1mRXXUb58Er7UsD3QQ%3D%3D">疊層鐵氧體電感</a></li><li><a href="2023-product.php?k4=zyszsDNswG4Adll4A%2BvPfQ%3D%3D">繞線磁膠電感</a></li></ul></div></dd><dd><li><a href="#">車規品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=n6WV5XMFlJd0EEniEM8KjA%3D%3D">微型化一體式電感</a></li><li><a href="2023-product.php?k4=by%2BhtdG5S%2FRodu4A8mWt4Q%3D%3D">一體式電感</a></li><li><a href="2023-product.php?k4=fl7HKIBs7SIhOAVhh7L%2BwQ%3D%3D">疊層鐵氧體電感</a></li><li><a href="2023-product.php?k4=vCRPKuJ%2FLFnqhZkz8%2B7Tgg%3D%3D">繞線磁膠電感</a></li></ul></div></dd></dl></dd><dd><li><a href="#">貼片訊號電感<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">一般品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=8Gvjgr%2B0GaMrdhHu6cMaWA%3D%3D">繞線晶片電感</a></li><li><a href="2023-product.php?k4=Ubho78t9ggJyvFhPrw66lg%3D%3D">繞線NFC電感</a></li></ul></div></dd></dl></dd><dd><li><a href="#">高頻電感<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">一般品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=KZ%2FTu3OY9E95KwHC7dBbNw%3D%3D">疊層陶瓷高頻電感</a></li><li><a href="2023-product.php?k4=MQWvNVMPrQsLb9Tgmvm%2Bbw%3D%3D">繞線陶瓷高頻電感</a></li><li><a href="2023-product.php?k4=OUkK96QK6vnbUjRNfp6aQQ%3D%3D">空氣線圈電感</a></li></ul></div></dd><dd><li><a href="#">車規品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=M2mT%2BgPfSmnMFzY5tq4J4w%3D%3D">疊層陶瓷高頻電感</a></li><li><a href="2023-product.php?k4=NNasZZ9jUq1nQUU3r36JZQ%3D%3D">繞線陶瓷高頻電感</a></li><li><a href="2023-product.php?k4=VSFQkIq5bn75jZoU2sax1Q%3D%3D">空氣線圈電感</a></li></ul></div></dd></dl></dd></dl></dd><dd><li><a href="#">過電壓保護<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">積層壓敏電阻<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">一般品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=459j7j8RVqNNDdzqCCYVvA%3D%3D">一般電壓</a></li><li><a href="2023-product.php?k4=nyMlkvi8V84w5Jz3k31XVg%3D%3D">高壓</a></li></ul></div></dd><dd><li><a href="#">車規品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=4VrKOH7GkdTsfYXfSSNVGA%3D%3D">一般電壓</a></li></ul></div></dd></dl></dd><dd><li><a href="#">靜電保護器<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">一般品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=POGIATj5TEZ8zmHNy5SoyQ%3D%3D">低電容靜電保護器</a></li><li><a href="2023-product.php?k4=B03dGrQ9Nu4rVaA3o1wA2A%3D%3D">超低電容靜電保護器</a></li></ul></div></dd><dd><li><a href="#">車規品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=HBNUaGWPEJrMbKk4yGKomg%3D%3D">低電容靜電保護器</a></li></ul></div></dd></dl></dd><dd><li><a href="#">瞬態電壓抑制二極管<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">一般品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=1AtCCFMba9iiZ0mpLfMKXQ%3D%3D">靜電瞬態電壓抑制二極管</a></li><li><a href="2023-product.php?k4=X310iEXEFUkRWbqU8Y8OwA%3D%3D">大功率瞬變電壓抑制二極管</a></li></ul></div></dd><dd><li><a href="#">車規品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=SF%2BRPxWXByBMDbagnOhEwg%3D%3D">大功率瞬變電壓抑制二極管</a></li></ul></div></dd></dl></dd></dl></dd><dd><li><a href="#">電磁干擾濾波器<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">共模電感<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">一般品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=NHr23UUv61CHwoOZ%2B%2FNDzg%3D%3D">疊層共模電感</a></li><li><a href="2023-product.php?k4=TyHXigS6JUDtpGsWe%2Fml7g%3D%3D">繞線共模電感</a></li></ul></div></dd><dd><li><a href="#">車規品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=InohAhw2pHhWFUJyanQj7A%3D%3D">疊層共模電感</a></li><li><a href="2023-product.php?k4=Ks91EiCUUyfnqgl3vrbgZQ%3D%3D">繞線共模電感</a></li></ul></div></dd></dl></dd><dd><li><a href="#">鐵氧體磁珠<i class="fas fa-caret-right"></i></a></li><dl><dd><li><a href="#">一般品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=v1IdUHk%2B3nyzak15zrvX%2FA%3D%3D">疊層晶片磁珠</a></li></ul></div></dd><dd><li><a href="#">車規品<i class="fas fa-caret-right"></i></a></li><div><ul><li><a href="2023-product.php?k4=NDi3zfCj%2FRZc9rYANZk6Ng%3D%3D">疊層晶片磁珠</a></li></ul></div></dd></dl></dd></dl></dd>									
+									
+									
+                                </dl>
+								
+							
+             </ul>     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                    
+ 	              </div>
+
+					</div></li>
+
+				<!-- 選單第一層 2. APPLICATION-->
+				
+
+				<!-- 選單第一層 3. TECH LIBRARY & DOWNLOADS-->
+				<li class="dropdown">
+					<!-- 選單第一層--> <a href="javascript:void(0);">技術資料庫及下載</a>
+					<div class="dropdown-menu">
+
+						<div>
+
+
+							<dl>
+
+								<!-- application-icon-->
+								<div id="menu-application-s">
+
+									<div id="menu-application-icon">
+										<div id="menu-application-icon">
+											<a href="s-parameter.php"><img src="images/menu/tech/s.png"
+												width="81" height="81" alt="phone" border="0"></a><br>
+											S參數資料庫
+
+										</div>
+										
+										<div id="menu-application-icon">
+											<a href="download.php"><img
+												src="images/menu/tech/download.png" width="81" height="81"
+												alt="phone" border="0"></a><br>
+										    下載中心</div>
+
+										<div id="menu-application-icon">
+											<a href="spectrum.php"><img src="images/menu/tech/sp.png"
+												width="81" height="81" alt="phone" border="0"></a><br>
+											天線頻譜方案</div>
+										<br>
+									</div>
+
+									
+                                   
+
+								</div>
+
+
+
+
+
+							</dl>
+							<!-- 第一層 結束-->
+
+						</div>
+
+					</div>
+				</li>
+
+				<!-- 選單第一層 4. MEDIA CENTER-->
+				<li class="dropdown">
+					<!-- 選單第一層--> <a href="javascript:void(0)">媒體中心</a>
+					<div class="dropdown-menu">
+						<div>
+							<dl>
+								<!-- application-icon-->
+								<div id="menu-application-s">
+									<div id="menu-application-icon">
+										<a href="events.php"><img src="images/menu/media/event.png"
+											width="81" height="81" alt="phone" border="0"></a><br> 最新消息
+
+									</div>
+								
+
+									
+									
+                                   
+								</div>
+
+							</dl>
+							<!-- 第一層 結束-->
+
+						</div>
+
+					</div>
+				</li>
+
+				<!-- 選單第一層 5. ABOUT INPAQ-->
+				<li class="dropdown">
+					<!-- 選單第一層--> <a href="javascript:void(0)">關於佳邦</a>
+					<div class="dropdown-menu">
+						<div>
+							<dl>
+								<!-- application-icon-->
+								<div id="menu-application-s">
+
+									<div id="menu-application-icon">
+										<a href="whos.php"><img src="images/menu/about/who.png"
+											width="81" height="81" alt="phone" border="0"></a><br>
+										 公司簡介
+								 </div>
+								
+									<div id="menu-application-icon">
+
+										<a href="technology.php"><img
+											src="images/menu/about/technology.png" width="81" height="81"
+											alt="phone" border="0"></a><br>
+									    技術優勢</div>
+									<div id="menu-application-icon">
+
+										<a href="career.php"><img src="images/menu/about/career.png"
+											width="81" height="81" alt="phone" border="0"></a><br>
+									    加入佳邦</div>
+									<div id="menu-application-icon">
+
+										<a href="contact.php"><img src="images/menu/tech/contact.png"
+											width="81" height="81" alt="phone" border="0"></a><br>
+										聯絡我們<br />與全球位置</div>
+									<div id="menu-application-icon">
+
+										<a href="investor.php"><img
+											src="images/menu/about/investor.png" width="81" height="81"
+											alt="phone" border="0"></a><br>
+									    投資人專區</div>
+                                        
+                                        
+                                        <div id="menu-application-icon">
+
+										<a href="https://www.passivecomponent.com/zh-hant/passive-system-alliance/" target="_blank"><img
+											src="images/menu/about/psa.png" width="81" height="81"
+											alt="phone" border="0"></a><br>
+							      PSA華科事業群</div>
+                                  
+                                                                          
+                                        <div id="menu-application-icon">
+
+										<a href="security.php"><img
+											src="images/20220415.png" width="81" height="81"
+											alt="phone" border="0"></a><br>
+							      資通安全管理</div>
+                                        
+                                        
+							  </div>
+							</dl>
+							<!-- 第一層 結束-->
+
+						</div>
+
+					</div>
+				</li>
+
+
+
+
+
+
+
+
+				<li class="dropdown"><a href="governance1.php">公司治理</a></li>
+
+
+
+
+				<!-- 選單第一層 5. ABOUT INPAQ-->
+				<li class="dropdown">
+					<!-- 選單第一層--> <a href="javascript:void(0)">企業永續</a>
+					<div class="dropdown-menu">
+						<div>
+							<dl>
+								<!-- application-icon-->
+								<div id="menu-application-s">
+                                
+                                	<div id="menu-application-icon">
+										<a href="esg.php"><img src="images/2023esg.png"
+											width="81" height="81" alt="phone" border="0"></a><br>
+										 ESG 政策
+								    </div>
+
+									<div id="menu-application-icon">
+										<a href="chairman.php"><img src="images/20250722.png"
+											width="81" height="81" alt="phone" border="0"></a><br>
+										 董事長的話
+								    </div>
+                                    
+                                
+                                	<div id="menu-application-icon">
+										<a href="forever.php"><img src="images/2023-1.png"
+											width="81" height="81" alt="phone" border="0"></a><br>
+										企業永續議題
+								    </div>
+                                                                        
+									
+								
+                                   <div id="menu-application-icon">
+										<a href="interests.php"><img src="images/2023-2.png"
+											width="81" height="81" alt="phone" border="0"></a><br>
+										利害關係人專區
+								    </div>
+                                        
+                                  <div id="menu-application-icon">
+									<a href="human.php"><img src="images/2023-3.png"
+											width="81" height="81" alt="phone" border="0"></a><br>
+									   勞工道德<br />
+									人權政策 </div>
+                                    
+                                    <div id="menu-application-icon">
+										<a href="report.php"><img
+											src="images/20220617-1.png" width="81" height="81"
+											alt="phone" border="0"></a><br>
+										 永續報告書
+								  </div>
+                                                                                
+							  </div>
+							</dl>
+							<!-- 第一層 結束-->
+
+						</div>
+
+					</div>
+				</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			  
+                
+           
+               
+                
+                
+			</ul>
+		</div>
+	</div>
+</div>
+<!--PC選單 結束 -->
+
+<!--Rwd選單-->
+
+
+
+<!------------------------------------------------------------RWD選單 --------------------------------------------------------------------------->
+
+<link rel="stylesheet" href="/css/normalize.min.css?v=1777225727">
+<link rel="stylesheet" href="/css/animate.min.css?v=1777225727">
+<link href="/your-path-to-fontawesome/css/all.css" rel="stylesheet">
+<style type="text/css">
+#search-2p {
+	font-size: 1.21em;
+
+	clear: both;
+	width: 92%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.accordion-header{
+	color: #ffffff;
+	font-size: 1.1em;
+	padding-top: 0.3em;
+	padding-right: 1em;
+	padding-bottom: 0.3em;
+	padding-left: 1em;
+
+	background: linear-gradient(to right,  #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #000;
+	}
+</style> 
+<!--load all styles -->
+
+<div id="header-wrapper">
+	<header id="header" class="container">
+		<!-- Nav -->
+		<nav id="nav">
+
+			<ul>
+
+				<!--第一層  Language -->
+				<li class="current"><a href="javascript:void(0);">INPAQ</a></li>
+
+			</ul>
+
+
+			<ul>
+
+				<!--第一層  Language -->
+				<li class="has-submenu">
+  <a href="#">Language</a>
+  <ul class="submenu">
+    <li><a href="https://www.inpaqgp.com ">ENGLISH</a></li>
+    <li><a href="#">繁體中文</a></li>
+    <li><a href="https://www.inpaqgp.com/cn ">簡体中文</a></li>
+    <li><a href="https://www.inpaqgp.com/jp ">日文版</a></li>
+  </ul>
+</li>
+
+			</ul>
+
+			 <ul>
+				<li class="current"><a href="javascript:void(0);">產品</a></li>
+				<li>
+					<ul>
+					
+						<li><a href="rf.php?searchName=&pn=1&orderBy=&startDate=&endDate=&frontMenuTypeID=0&frontParentMenuID=0&frontSubMenuID=0&&forewordTypeID=220&secureChk=3b481c69e2e31840a2fa7b308cb651df">RF 天線</a></li>
+                        <li><a href="rf.php?searchName=&pn=1&orderBy=&startDate=&endDate=&frontMenuTypeID=0&frontParentMenuID=0&frontSubMenuID=0&&forewordTypeID=724&secureChk=443a17fdaeba8da3d87ce96df2ea8aa4">RF模組</a></li>
+						<li><a href="2023-product.php?k4=QXckhFCyFSikgOwz44N2wg%3D%3D">搜尋型號</a></li>
+					</ul>
+				
+				
+				
+				</li>
+			 </ul>
+
+			
+			<ul>
+				<!--第一層技術資料庫及下載-->
+				<li class="current"><a href="javascript:void(0);">技術資料庫及下載</a></li>
+				<li>
+					<ul>
+						<!--第二層-->
+						<li><a href="s-parameter.php">S參數資料庫</a></li>
+						
+						<li><a href="download.php">下載中心</a></li>
+						<li><a href="spectrum.php">天線頻譜方案</a></li>
+						
+
+					</ul>
+				</li>
+			</ul>
+
+			<ul>
+
+				<!--第一層 媒體中心-->
+				<li class="current"><a href="javascript:void(0);">媒體中心</a></li>
+				<li>
+					<ul>
+						<!--第二層-->
+						<li><a href="events.php">最新消息</a></li>
+					
+					
+
+					</ul>
+				</li>
+
+			</ul>
+
+			<ul>
+
+				
+				<li class="current"><a href="javascript:void(0);">關於佳邦</a></li>
+				<li>
+					<ul>
+						
+						<li><a href="whos.php">公司簡介</a></li>
+						
+						<li><a href="technology.php">技術優勢</a></li>
+						<li><a href="career.php">加入佳邦</a></li>
+						<li><a href="contact.php">聯絡我們與全球位置</a></li>
+						<li><a href="investor.php">投資人專區</a></li>
+						<li><a href="https://www.passivecomponent.com/zh-hant/passive-system-alliance/" target="_blank">華科事業群</a></li>
+						<li><a href="security.php" target="_blank">資通安全管理</a></li>
+						
+					</ul>
+				</li>
+
+			</ul>
+			
+			
+			
+			
+			<li class="current"><a href="governance1.php">公司治理</a></li>
+			
+			<ul>
+
+				<!--第一層關於佳邦-->
+				<li class="current"><a href="javascript:void(0);">企業永續</a></li>
+				<li>
+					<ul>
+						<!--第二層-->
+						<li><a href="esg.php">ESG 政策</a></li>
+						<li><a href="chairman.php">董事長的話</a></li>
+						<li><a href="forever-m1.php">企業永續議題</a></li>
+						
+						<li><a href="interests.php">利害關係人專區</a></li>
+						<li><a href="human.php">勞工道德、人權政策</a></li>
+						<li><a href="report.php">永續報告書</a></li>
+					</ul>
+				</li>
+
+			</ul>
+			
+			
+			
+			
+		</nav>
+	</header>
+
+</div>
+<!--RWD選單 -->
+
+
+
+
+
+<div id="search-mobile01">
+	<!--Call your modal-->
+	<a  href="2023-product.php?k4=QXckhFCyFSikgOwz44N2wg%3D%3D"><div id="icon-search">
+
+			元件型號搜尋
+
+		</div></a>
+
+
+	<!--DEMO01-->
+	<div id="animatedModal">
+		<!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
+		<div id="btn-close-modal" class="close-animatedModal">
+
+			<i class="fas fa-window-close" style="font-size:2em;padding:1em"></i>
+
+		</div>
+
+
+		<div class="modal-content">
+        <h1>佳邦產品</h1>
+        
+        	
+            
+            <a href="2023-product.php?k4=QXckhFCyFSikgOwz44N2wg%3D%3D" id="cmdTopSelSearch">
+					<div class="accordion-header">搜尋型號</div>
+				</a>	
+               
+			<!--Your modal content goes here-->
+			<h1>搜尋佳邦</h1>
+			<div id="search-p">
+			<form action="search.php?t=74326633769ee4fff0b39a5.60071097" name="selForm" id="selForm" method="post" >
+				
+				<select name="selCategory2" id="selCategory2" style="display: none" class="select-ss2">
+				</select>
+				 <br>
+				
+				<select name="selCross" id="selCross" class="accordion10">
+					<option value="">競品查詢</option>
+					<option value="7">車用產品
+</option>
+<option value="101">功率電感
+</option>
+<option value="102">電磁干擾/抗靜電抑制器
+</option>
+<option value="103">EMI濾波器
+</option>
+<option value="104">積層式貼片磁珠
+</option>
+<option value="105">瞬態電壓抑制器(TVS)
+</option>
+				</select>
+				<select name="selCross2" id="selCross2" style="display: none" class="accordion20">
+				</select>
+				<br>
+				
+			</form>
+
+			</div>
+			<script type="text/javascript">
+				function getSub_Category(parentID,targetID){
+					//AJAX
+					$.ajax({
+					  url: "./ajax/ajax_subSearchMain.php",
+					  type: "POST",
+					  dataType: "text",
+					  data:"parentForewordTypeID="+parentID,
+					  success: function(mydata){
+						 	if(mydata!=""){
+						 		mydata="<option value='0'>請選擇 </option>"+mydata;
+								$("#"+targetID).children().remove().end().append(mydata);
+								$("#"+targetID).show();
+							}else{
+								$("#"+targetID).children().remove();
+								$("#"+targetID).hide();
+							}
+					  },
+					  error: function() {
+					    alert("AJAX ERROR!!!");
+					  }
+					});
+				}
+
+				function getSub_Cross(parentID,targetID){
+					//AJAX
+					$.ajax({
+					  url: "./ajax/ajax_subSearchMain2.php",
+					  type: "POST",
+					  dataType: "text",
+					  data:"parentForewordTypeID="+parentID,
+					  success: function(mydata){
+						    if(mydata!=""){
+						    	mydata="<option value='0'>請選擇 </option>"+mydata;
+								$("#"+targetID).children().remove().end().append(mydata);
+								$("#"+targetID).show();
+							}else{
+								$("#"+targetID).children().remove();
+								$("#"+targetID).hide();
+							}
+					  },
+					  error: function() {
+					    alert("AJAX ERROR!!!");
+					  }
+					});
+				}
+			</script>
+			<script type="text/javascript">
+				$(function(){
+					$("#selApplication").change(function(){
+						if($(this).val()!=""){
+							location.replace($(this).val());
+						}
+					});
+
+					$("#selCategory").change(function(){
+						if($(this).val()!=""){
+							getSub_Category($(this).val(),"selCategory2");
+						}
+					});
+					$("#selCross").change(function(){
+						if($(this).val()!=""){
+							getSub_Cross($(this).val(),"selCross2");
+						}
+					});
+					$("#selCategory2").change(function(){
+						if($(this).val()!=""){
+							location.replace($(this).val());
+						}
+					});
+					$("#selCross2").change(function(){
+						if($(this).val()!=""){
+							location.replace($(this).val());
+						}
+					});
+
+					$("#cmdSelSearch").click(function(){
+						if($("#selKeyword").val()=="" || trim($("#selKeyword").val())==""){
+							alert('keyword cannot empty!');
+							return false;
+						}
+						$("#selForm").submit();
+					});
+				});
+			</script>
+
+
+
+		</div>
+	</div>
+</div>
+
+<script src="/js/animatedModal.min.js"></script>
+<script>
+
+            //demo 01
+            $("#demo01").animatedModal();
+
+            //demo 02
+            $("#demo01").animatedModal({
+                modalTarget:'modal-01',
+                animatedIn:'lightSpeedIn',
+                animatedOut:'bounceOutDown',
+                color:'#3498db',
+                // Callbacks
+                beforeOpen: function() {
+                    console.log("The animation was called");
+                },
+                afterOpen: function() {
+                    console.log("The animation is completed");
+                },
+                beforeClose: function() {
+                    console.log("The animation was called");
+                },
+                afterClose: function() {
+                    console.log("The animation is completed");
+                }
+            });
+
+        </script>
+	
+	<!--輪播廣告-->
+	<div class="size">
+
+		<div class="col_8">
+			<ul class="slideshow">
+			<a href="https://www.inpaq.com.tw/events-01.php?eventsID=162&secureChk=178a9b62cec5169ce28708a0d33872fb" target="_blank"><li><img src="https://www.inpaq.com.tw/upload/file/202508211015168766617989.png" alt="MVAD00-A14A-佳邦科技全整合式60GHz毫米波都卜勒運動感測模組"/></li></a><a href="https://www.inpaq.com.tw/events-01.php?eventsID=145&secureChk=561c383f602788f4e48b6c08d0c84c36" target="_blank"><li><img src="https://www.inpaq.com.tw/upload/file/202408221442201507450615.png" alt="INPAQ WiFi 7 Service"/></li></a><a href="https://www.inpaq.com.tw/product-co1.php?k=gR6di%2FaWR0J99pgpbiJpbA%3D%3D" target="_blank"><li><img src="https://www.inpaq.com.tw/upload/file/202311170839471377730116.png" alt="佳邦INPAQ 車用產品方案
+"/></li></a><a href="https://www.inpaq.com.tw/product-list.php?forewordTypeID=223&secureChk=3ab2acae83151f7e59270fa1405f590f" target="_blank"><li><img src="https://www.inpaq.com.tw/upload/file/20151201200609940674084.png" alt="智能家居 晶片BT/WiFi天線"/></li></a><a href="https://www.inpaq.com.tw/product-list.php?forewordTypeID=226&secureChk=3ab2acae83151f7e59270fa1405f590f" target="_blank"><li><img src="https://www.inpaq.com.tw/upload/file/201512012008403253937315.png" alt="車用客製化天線"/></li></a><a href="https://www.inpaq.com.tw/2023-product.php?k4=QXckhFCyFSikgOwz44N2wg%3D%3D" target="_blank"><li><img src="https://www.inpaq.com.tw/upload/file/201512012007572339633901.png" alt="功率電感"/></li></a>			</ul>
+		</div>
+
+
+
+	</div>
+	<!--下方內容-->
+	<div id="co">
+
+		<!--第一排-->
+		<!-- #BeginLibraryItem "/Library/index-1.lbi" -->
+		<div id="write-100">
+
+			<!--第一排about-->
+			<a href="whos.php">
+			<div id="write-25">
+				<div id="write-all">
+					<img src="images/index/a01.jpg" alt="about inpaq"
+						class="write-25-picture" />
+					<div id="write-25-fo">佳邦科技專注於高性能 RF 天線與電子保護元件，提供 ODM、OBM、OEM 整合服務。憑藉專利製程兼具天線與元件雙重價值方案商。</div>
+
+				</div>
+				<div id="more"></div>
+			</div>
+			</a>
+
+
+		<a href="download.php">
+			<!--第一排about-->
+			<div id="write-25">
+				<img src="images/index/03.jpg" alt="tech library &amp; downloads"
+					width="222" height="145" class="write-25-picture" />
+				<div id="write-25-fo">佳邦科技提供S-Parameter / CITI Files技術資料庫，加強及完備設計端需求。下載中心提供快速且完整規格及型錄。</div>
+				<div id="more"></div>
+			</div>
+</a>
+<a href="events.php">
+			<!--第一排about-->
+			<div id="write-25">
+				<img src="images/index/04.jpg" alt="media Center" width="222"
+					height="145" class="write-25-picture" />
+				<div id="write-25-fo">[2025/09/26] WinTech 2025：Green Future — 智慧科技 × 綠色永續 華邦電子與華科事業群攜手主辦的年度科技盛會。</div>
+				<div id="more"></div>
+			</div>
+</a>
+			<!--第一排search-->
+			<div id="write-25">
+				<img src="images/index/05.png" alt="search" width="222" class="write-25-picture" />
+				
+				<div id="search-product" >
+						
+						<a href="2023-product.php?k4=QXckhFCyFSikgOwz44N2wg%3D%3D"><button class="blue3" type="button" id="cmdSelectSearch">元件型號搜尋</button></a>
+					</div>
+				<!--<form action="search.php?t=210577521669ee4fff0ba0d0.93747230" name="selectForm" id="selectForm" method="post" >
+					<div id="write-25-fo">				
+						
+						
+						<select name="selectCategory2" id="selectCategory2" style="display: none" class="select-ss">
+						</select>
+						
+						<select name="selectCross" id="selectCross" class="select-ss" style="padding:0.5em;">
+							<option value="">請選擇</option>
+							<option value="7">車用產品
+</option>
+<option value="101">功率電感
+</option>
+<option value="102">電磁干擾/抗靜電抑制器
+</option>
+<option value="103">EMI濾波器
+</option>
+<option value="104">積層式貼片磁珠
+</option>
+<option value="105">瞬態電壓抑制器(TVS)
+</option>
+					
+						</select>
+						<select name="selectCross2" id="selectCross2" style="display: none" class="select-ss">
+						</select>
+						
+					</div>
+	
+					
+				</form>-->
+			</div>
+			<script type="text/javascript">
+				function getSubCategory(parentID,targetID){
+					//AJAX					
+					$.ajax({
+					  url: "./ajax/ajax_subSearchMain.php",
+					  type: "POST",
+					  dataType: "text",	
+					  data:"parentForewordTypeID="+parentID,
+					  success: function(mydata){
+						 	if(mydata!=""){	
+						 		mydata="<option value='0'>請選擇 </option>"+mydata;
+								$("#"+targetID).children().remove().end().append(mydata);
+								$("#"+targetID).show();
+							}else{
+								$("#"+targetID).children().remove();
+								$("#"+targetID).hide();
+							}						    						    
+					  },						   
+					  error: function() {
+					    alert("AJAX ERROR!!!");
+					  }
+					});
+				}
+
+				function getSubCross(parentID,targetID){
+					//AJAX					
+					$.ajax({
+					  url: "./ajax/ajax_subSearchMain2.php",
+					  type: "POST",
+					  dataType: "text",	
+					  data:"parentForewordTypeID="+parentID,
+					  success: function(mydata){
+						    if(mydata!=""){	
+						    	mydata="<option value='0'>請選擇 </option>"+mydata;
+								$("#"+targetID).children().remove().end().append(mydata);
+								$("#"+targetID).show();
+							}else{
+								$("#"+targetID).children().remove();
+								$("#"+targetID).hide();
+							}						    						    
+					  },						   
+					  error: function() {
+					    alert("AJAX ERROR!!!");
+					  }
+					});
+				}
+			</script>
+			<script type="text/javascript">
+				$(function(){
+					$("#selectApplication").change(function(){
+						if($(this).val()!=""){
+							location.replace($(this).val());
+						}
+					});
+
+					$("#selectCategory").change(function(){
+						if($(this).val()!=""){
+							getSubCategory($(this).val(),"selectCategory2");
+						}
+					});
+					$("#selectCross").change(function(){
+						if($(this).val()!=""){
+							getSubCross($(this).val(),"selectCross2");
+						}
+					});
+
+					$("#selectCategory2").change(function(){
+						if($(this).val()!=""){
+							location.replace($(this).val());
+						}
+					});
+					$("#selectCross2").change(function(){
+						if($(this).val()!=""){
+							location.replace($(this).val());
+						}
+					});
+					$("#cmdSelectSearch").click(function(){
+						if($("#selectKeyword").val()=="" || trim($("#selectKeyword").val())==""){
+							alert('keyword cannot empty!');
+							return false;
+						}
+						$("#selectForm").submit();
+					});
+				});
+			</script>
+
+
+		</div>
+		<!--第一排-->
+
+
+
+
+		<!--application-->
+		<!-- #BeginLibraryItem "/Library/application-index.lbi" -->
+		<!--application-->
+
+		
+		<!--application-->
+
+		
+
+		<!--第三排 contact-->
+		<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script>
+	$(document).ready(function () {
+		$.ajax({type:'POST',url:'./include/code.session.left.ajax.inc.php?style=img',data:'',success:function(mydata){}});
+		$("#dynaImg").attr({ src: "./include/code.createimgLeft.inc.php?rand="+Math.random() });
+
+		$("#dynaImg").click(
+			function(){
+				$.ajax({type:'POST',url:'./include/code.session.left.ajax.inc.php?style=img',data:'',success:function(mydata){}});
+				$("#dynaImg").attr({ src: "./include/code.createimgLeft.inc.php?rand="+Math.random() });
+
+		});
+
+		$("#contactSend").click(
+			function(){
+				if(!RadioCheck(contactForm.contactTypeName,"contactType")){
+					return false;
+				}
+
+				if($("#contactTypeName").val()=="Sales" && ($("#contactTypeNameSel").val()=="" || $("#contactTypeNameSel").val()==null)){
+					alert("Please Select Sales Type!");
+					$("#contactTypeNameSel").focus();
+					return false;
+				}
+
+				//必須輸入資料
+				var mustEnterData=new Array(
+									$("#firstName"),
+									$("#lastName"),
+									
+									$("#contact_email"),
+									$("#company"),
+									$("#country"),
+									$("#tel"),
+									$("#message"),
+									$("#leftCode")
+									);
+				//判斷必填資料欄位
+				if(chkMustEnterData(mustEnterData)==false){
+					return false;
+				}
+
+				//if(!RadioCheck(contactForm.sex,"Sex")){
+				//	return false;
+				//}
+
+				//email
+				if(trim($("#contact_email").val())==''){
+					alert("請輸入聯絡信箱");
+					$("#contact_email").focus();
+					return false;
+				}
+				if(!chkEmailjQuery($("#contact_email"))){
+					//alert('輸入的Email格式有誤!');
+					$("#contact_email").focus();
+					return false;
+				}
+
+				//$("#contactForm").submit();
+				if(confirm('請再次確認，謝謝。')){
+					$("#contactSend").hide();
+					//AJAX
+					$.ajax({
+					  url: "ajax/ajax_add_contact2.php",
+					  type: "POST",
+					  dataType: "text",
+					  data:$("#contactForm").serialize(),
+					  success: function(mydata) {
+						  if(mydata!="success"){
+							  alert(mydata);
+							  $("#contactSend").show();
+						  }else{
+							  //alert("請再次確認您的留言，謝謝。");
+							  //連結計數頁
+							  location.replace("contact-ok.php");
+
+						  }
+					  },
+					  error: function() {
+					    alert("AJAX ERROR!!!");
+					    $("#contactSend").show();
+					  }
+					});
+				}
+
+		});
+	});
+</script>
+<link href='https://fonts.googleapis.com/css?family=Inder' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<div id="index-contact">
+	<div id="index-contact-picture">
+		<img src="images/index/contact.png?2025"alt="contact"  /><br>
+		 <a href="rw_edd5cc4cfddc65e58fa08716dab2016c"><div style="color:#FFFFFF;font-size:2em; text-decoration: none;font-weight: bold;">聯絡我們</div></a>
+	</div>
+	<FORM id="contactForm" name="contactForm" action="/index.php" method="post" target="_self">
+		<div id="index-contact-step-1">
+			<span class="write">步驟1 諮詢類別</span> <span class="write">(必填)</span><br />
+			<input type="radio" name="contactTypeName" value="Sales" />
+			<span class="black">產品業務
+				<select name="contactTypeNameSel" id="contactTypeNameSel" class="black" style="width:50px">
+					<option value="China">China</option><option value="Taiwan">Taiwan</option><option value="Oversea">Oversea</option>				</select>
+				<select name="contactTypeNameSel2" id="contactTypeNameSel2" class="black" style="width:50px">
+					<option value="RF">RF</option><option value="Component">Component</option>				</select>
+				<br />
+			<input type="radio" name="contactTypeName" value="Investor" />
+		    投資人相關<br />
+			<input type="radio" name="contactTypeName" value="Career" />
+		    人力資源<br />
+			<input type="radio" name="contactTypeName" value="Other" />
+		    其他<br />
+			</span>
+		</div>
+		<div id="index-contact-step"></div>
+		<div id="index-contact-step-2">
+			<span class="write">步驟2 聯絡您的方式(*必填)<br /></span>
+			<input type="text" class="black2" name="firstName" id="firstName" placeholder="名" value="" />
+			<span class="black">*</span>
+			<input name="lastName" type="text"	class="black2" id="lastName" placeholder="姓" />
+			<span class="black">*</span>
+            
+            
+     <!--       <span class="black"> <br />
+				<input type="radio" name="sex" value="1" />先生
+				<input type="radio" name="sex" value="0" />小姐
+				<input type="radio" name="sex" value="-1" />女士*
+				</span> -->
+                
+                
+                
+                <span class="black">
+				<input type="text" class="black2" name="contact_email" id="contact_email" placeholder="電子郵件" size="20"  />
+			    *<br />
+				<input name="company" type="text" class="black2" id="company"	placeholder="公司名稱" /> *
+				<!--
+				<input name="department" type="text" class="black2" id="department" placeholder="部門" /> <br /> -->
+				<select	name="country" class="black2" id="country" style="width:200px"  placeholder="國家" >
+					<option value="0"></option>
+					<option value="1">安道爾 </option><option value="2">阿拉伯聯合大公國</option><option value="3">阿富汗</option><option value="4">安地卡巴布達</option><option value="5">安圭拉 </option><option value="6">阿爾巴尼亞</option><option value="7">亞美尼亞</option><option value="8">荷屬安地列斯</option><option value="9">安哥拉</option><option value="10">南極洲</option><option value="11">阿根廷</option><option value="12">美屬薩摩亞</option><option value="13">奧地利</option><option value="14">澳大利亞</option><option value="15">阿魯巴</option><option value="16">奧蘭群島</option><option value="17">亞塞拜然</option><option value="18">波士尼亞赫塞哥維納 </option><option value="19">巴貝多</option><option value="20">孟加拉</option><option value="21">比利時</option><option value="22">布吉納法索</option><option value="23">保加利亞</option><option value="24">巴林</option><option value="25">蒲隆地</option><option value="26">貝南</option><option value="27">百慕達</option><option value="28">汶萊 </option><option value="29">玻利維亞</option><option value="30">巴西 </option><option value="31">巴哈馬</option><option value="32">不丹</option><option value="33">波維特島</option><option value="34">波札那</option><option value="35">白俄羅斯</option><option value="36">貝里斯</option><option value="37">加拿大</option><option value="38">可可斯群島</option><option value="39">剛果民主共和國 </option><option value="40">中非共和國</option><option value="41">剛果</option><option value="42">瑞士</option><option value="43">象牙海岸</option><option value="44">庫克群島</option><option value="45">智利 </option><option value="46">喀麥隆</option><option value="47">中國</option><option value="48">哥倫比亞 </option><option value="49">哥斯大黎加 </option><option value="50">古巴 </option><option value="51">維德角 聖誕島</option><option value="52">賽普勒斯</option><option value="53">捷克</option><option value="54">德國</option><option value="55">吉布地 </option><option value="56">丹麥 </option><option value="57">多米尼克 </option><option value="58">多明尼加 </option><option value="59">阿爾及利亞</option><option value="60">厄瓜多</option><option value="61">愛沙尼亞</option><option value="62">埃及</option><option value="63">西撒哈拉</option><option value="64">厄利垂亞</option><option value="65">西班牙</option><option value="66">衣索比亞</option><option value="67">芬蘭</option><option value="68">斐濟 </option><option value="69">福克蘭群島</option><option value="70">密克羅尼西亞聯邦</option><option value="71">法羅群島</option><option value="72">法國 </option><option value="73">加彭</option><option value="74">英國 </option><option value="75">格瑞那達</option><option value="76">喬治亞 </option><option value="77">法屬圭亞那 </option><option value="78">根息 </option><option value="79">迦納 </option><option value="80">直布羅陀 </option><option value="81">格陵蘭 </option><option value="82">甘比亞 </option><option value="83">幾內亞</option><option value="84">哥德洛普 </option><option value="85">赤道幾內亞</option><option value="86">希臘</option><option value="87">南喬治亞南桑威奇群島</option><option value="88">瓜地馬拉</option><option value="89">關島 </option><option value="90">幾內亞比索 </option><option value="91">蓋亞那 </option><option value="92">香港 </option><option value="93">赫德麥當勞群島</option><option value="94">宏都拉斯</option><option value="95">克羅埃西亞 </option><option value="96">海地 </option><option value="97">匈牙利 </option><option value="98">印尼 </option><option value="99">愛爾蘭 </option><option value="100">以色列 </option><option value="101">曼島 </option><option value="102">印度 </option><option value="103">英屬印度洋地區</option><option value="104">伊拉克 </option><option value="105">伊朗 </option><option value="106">冰島</option><option value="107">義大利</option><option value="108">澤西 </option><option value="109">牙買加</option><option value="110">約旦 </option><option value="111">日本</option><option value="112">肯亞 </option><option value="113">吉爾吉斯 </option><option value="114">柬埔寨 </option><option value="115">吉里巴斯</option><option value="116">葛摩 </option><option value="117">聖克里斯多福 </option><option value="118">北韓 </option><option value="119">南韓</option><option value="120">科威特</option><option value="121">開曼群島 </option><option value="122">哈薩克 </option><option value="123">寮國 </option><option value="124">黎巴嫩</option><option value="125">聖露西亞</option><option value="126">列支敦斯登</option><option value="127">斯里蘭卡</option><option value="128">賴比瑞亞 </option><option value="129">賴索托 </option><option value="130">立陶宛 </option><option value="131">盧森堡 </option><option value="132">拉脫維亞 </option><option value="133">利比亞</option><option value="134">摩洛哥 </option><option value="135">摩納哥 </option><option value="136">摩爾多瓦 </option><option value="137">蒙特內哥羅 </option><option value="138">馬達加斯加</option><option value="139">馬紹爾群島 </option><option value="140">馬其頓 </option><option value="141">馬利 </option><option value="142">緬甸 </option><option value="143">蒙古 </option><option value="144">澳門 </option><option value="145">北馬里亞納群島</option><option value="146">馬丁尼克 </option><option value="147">茅利塔尼亞 </option><option value="148">蒙特色拉 </option><option value="149">馬爾他 </option><option value="150">模里西斯 馬爾地夫 </option><option value="151">馬拉威 </option><option value="152">墨西哥 </option><option value="153">馬來西亞</option><option value="154">莫三比克 </option><option value="155">納米比亞 </option><option value="156">新喀里多尼亞</option><option value="157">尼日 </option><option value="158">諾福克島 </option><option value="159">奈及利亞</option><option value="160">尼加拉瓜 </option><option value="161">荷蘭 </option><option value="162">挪威 </option><option value="163">尼泊爾 </option><option value="164">諾魯 </option><option value="165">紐埃 </option><option value="166">紐西蘭 </option><option value="167">阿曼 </option><option value="168">巴拿馬 </option><option value="169">秘魯 </option><option value="170">法屬波里尼西亞</option><option value="171">巴布亞紐幾內亞</option><option value="172">菲律賓</option><option value="173">巴基斯坦</option><option value="174">波蘭 </option><option value="175">聖皮耶密克隆</option><option value="176">皮特康 </option><option value="177">波多黎各 </option><option value="178">巴勒斯坦</option><option value="179">葡萄牙 </option><option value="180">帛琉 </option><option value="181">巴拉圭 </option><option value="182">卡達 </option><option value="183">留尼旺 </option><option value="184">羅馬尼亞</option><option value="185">塞爾維亞</option><option value="186">俄羅斯</option><option value="187">盧安達 </option><option value="188">沙烏地阿拉伯 </option><option value="189">索羅門群島 </option><option value="190">塞席爾</option><option value="191">蘇丹</option><option value="192">瑞典 </option><option value="193">新加坡</option><option value="194">聖赫勒拿</option><option value="195">斯洛維尼亞 </option><option value="196">斯瓦爾巴尖棉 </option><option value="197">斯洛伐克 </option><option value="198">獅子山 </option><option value="199">聖馬利諾 </option><option value="200">塞內加爾 </option><option value="201">索馬利亞 </option><option value="202">蘇利南 </option><option value="203">聖多美普林西比 </option><option value="204">薩爾瓦多 </option><option value="205">敘利亞 </option><option value="206">史瓦濟蘭 </option><option value="207">托克斯寇克斯群島</option><option value="208">查德 </option><option value="209">法屬南部屬地 </option><option value="210">多哥 </option><option value="211">泰國 </option><option value="212">塔吉克 </option><option value="213">托克勞 </option><option value="214">東帝汶 </option><option value="215">土庫曼</option><option value="216">突尼西亞 </option><option value="217">東加 </option><option value="218">土耳其</option><option value="219">千里達托貝哥</option><option value="220">吐瓦魯 </option><option value="221">台灣 </option><option value="222">坦尚尼亞 </option><option value="223">烏克蘭 </option><option value="224">烏干達 </option><option value="225">美屬邊疆群島</option><option value="226">美國 </option><option value="227">烏拉圭</option><option value="228">烏茲別克</option><option value="229">教廷(梵蒂岡) </option><option value="230">聖文森 </option><option value="231">委內瑞拉 </option><option value="232">英屬維爾京群島 </option><option value="233">美屬維京群島 </option><option value="234">越南 </option><option value="235">萬那杜</option><option value="236">華里斯福他納</option><option value="237">薩摩亞 </option><option value="238">葉門 </option><option value="239">美亞特 </option><option value="240">南非 </option><option value="241">尚比亞 </option><option value="242">辛巴威 </option>				</select>
+				*				<!--<input name="postCode" type="text" class="black2" id="postCode" placeholder="郵遞區號" size="5" />
+				<input name="address" type="text" class="black2" id="address"	placeholder="地址" size="20" /> <br /> -->
+				<input name="tel" type="text" class="black2" id="tel" placeholder="電話" />
+			</span>
+	            <span class="black">*</span></div>
+		<div id="index-contact-step"></div>
+		<div id="index-contact-step-3">
+			<span class="write">步驟3 需求說明</span> <span class="write">(必填)</span><br />
+			<textarea name="message" cols="30" rows="5" class="black2" id="message"></textarea>
+			<br />
+			<input name="leftCode" type="text" class="black2" id="leftCode" placeholder="填入驗證碼" autocomplete="off" size="15" />
+			<img src="./include/code.createimgLeft.inc.php" width="62" alt="請輸入驗證碼" title="請輸入驗證碼" align="middle" id="dynaImg" style="vertical-align: middle;" /><br />
+			<button class="medium green" type="button" id="contactSend">
+				<i class="icon-play-circle"></i> 送出
+			</button>
+			<br />
+		</div>
+		<input type="hidden" name="contactAct" id="contactAct" value="add">
+
+	</FORM>
+</div>
+		<div id="bco"></div>
+	</div>
+
+	<!--下方內容-->
+	<!--copyright-->
+<style>
+
+.blacks-forfooter{
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	color: #FFF;
+	background-color: #666;
+	border: 1px solid #D6D6D6;
+	padding: 0.5em;
+}
+.black{
+	
+	border-radius: 0px;}
+
+button.pink,
+a.btn.pink,
+a.button.pink,
+a.button.pink a,
+input[type=submit].pink,
+input[type=reset].pink,
+input[type=button].pink{
+	text-shadow: 0 -1px 0 #424a4c;
+	color: #fff;
+	border: 1px solid #424a4c;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,565e60+100 */
+	background: linear-gradient(to bottom,  #45484d 0%,#565e60 100%);
+	margin-top: 5px;
+	text-decoration: none;
+	padding-top: 8px;
+	padding-right: 1em;
+	padding-bottom: 8px;
+	padding-left: 1em;
+}
+button.pink:hover,
+a.btn.pink:hover,
+a.button.pink:hover{/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,565e60+100;Black+3D+%231 */
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,565e60+100;Black+3D+%231 */
+background: linear-gradient(to right,  #45484d 0%,#565e60 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+	border-top-color: #282d2e;
+	border-right-color: #282d2e;
+	border-bottom-color: #282d2e;
+	border-left-color: #282d2e;
+	text-shadow: 0 -1px 0 #424a4c;
+	text-decoration: none;
+}
+</style>
+	<div id="copyright-c">
+	
+    
+    <div id="copyright-1">
+		<div id="copyright-logo3"><img src="images/logo/psa-f.png?2025" width="349" ></div>
+
+		<div id="copyright-font-2019">
+			Copyright © 2024 INPAQ Technology Co., Ltd. All rights reserved.<br />
+			TEL : +886-37-585-555　　FAX : +886-37-585-511　　E-mail：<a href="mailto:info@inpaq.com.tw" class="write">info@inpaq.com.tw</a>  
+        </div>
+		
+		<div id="m">	
+				<a href="contact.php" id="cmdTopSelSearch">
+					<button type="button" onClick="doSearchProduct();" class="pink" style="font-size:1.32em;">聯絡我們與全球位置</button>
+				</a>
+</div>
+		
+	</div>
+
+	<div id="copyright-2">
+		<div id="copyright-20">
+
+			<ul>
+				<span class="title-w">產品</span>
+				<br>
+				<br>
+				<a href="rf.php?searchName=&pn=1&orderBy=&startDate=&endDate=&frontMenuTypeID=0&frontParentMenuID=0&frontSubMenuID=0&&forewordTypeID=220&secureChk=3b481c69e2e31840a2fa7b308cb651df"><li> RF天線</li></a>
+				<a href="rf.php?searchName=&pn=1&orderBy=&startDate=&endDate=&frontMenuTypeID=0&frontParentMenuID=0&frontSubMenuID=0&&forewordTypeID=724&secureChk=443a17fdaeba8da3d87ce96df2ea8aa4"><li> RF模組</li></a>
+                
+				<a href="2023-product.php?k4=QXckhFCyFSikgOwz44N2wg%3D%3D" id="cmdTopSelSearch">
+					<button type="button" onClick="doSearchProduct();" class="pink">元件型號搜尋</button>
+				</a>		
+                
+
+				
+			</ul>
+			
+
+
+			<ul>
+				<span class="title-w">媒體中心</span>
+				<br>
+				<br>
+
+
+
+				<a href="events.php"><li> 最新消息</li></a>
+				
+				
+
+			</ul>
+			
+		</div>
+
+
+
+		<div id="copyright-20">
+
+			
+<ul>
+				<span class="title-w">技術資料庫及下載</span>
+				<br>
+				<br>
+
+				<a href="s-parameter.php"><li> S參數資料庫</li></a>
+				
+				<a href="download.php"><li> 下載中心</li></a>
+				<!-- <a href="javascript:void(0);"><li> Cross Reference</li></a> -->
+				<a href="spectrum.php"><li> 天線頻譜方案</li></a>
+
+		 
+<br>
+		
+			<span class="title-w">公司治理</span>
+			<br /><br>
+			
+			<a href="governance1.php"><li> 董事會</li></a>
+			<a href="governance2.php"><li> 委員會</li></a>
+			<a href="governance3.php"><li> 運作情況</li></a>
+			<a href="governance4.php"><li> 重要規章</li></a>
+			<a href="governance5.php"><li> 內部稽核</li></a>
+			<a href="governance6.php"><li> 員工福利及退休</li></a>
+			<a href="governance7.php"><li> 申訴管道及流程</li></a>
+
+
+ </ul>
+
+
+		
+
+
+
+		</div>
+
+		<div id="copyright-20">
+
+			<ul>
+				<span class="title-w">關於佳邦</span>
+				<br />
+				<br>
+				<a href="whos.php"><li> 公司簡介</li></a>
+				
+				<a href="technology.php"><li> 技術優勢</li></a>
+				<a href="career.php"><li> 加入佳邦</li></a>
+				<a href="contact.php"><li> 聯絡我們與全球位置</li></a>
+				<a href="investor.php"><li> 投資人專區</li></a>
+				<a href="https://www.passivecomponent.com/zh-hant/passive-system-alliance/" target="_blank"><li> PSA華科事業群</li></a>
+				<a href="security.php"><li> 資通安全管理</li></a>                                
+				<br />
+				
+				
+				<a href="contact.php" id="cmdTopSelSearch">
+					<button type="button" onClick="doSearchProduct();" class="pink">聯絡我們與全球位置</button>
+				</a>
+
+
+			</ul>
+
+
+		</div>
+
+		<div id="copyright-20">
+
+			
+
+
+			<ul>
+				<span class="title-w">企業永續</span>
+				<br>
+				<br>
+
+
+				<a href="esg.php"><li> ESG政策</li></a>
+
+				<a href="chairman.php"><li> 董事長的話</li></a>
+                <a href="forever.php"><li> 企業永續議題</li></a>
+                <a href="interests.php"><li> 利害關係人專區</li></a>
+                  <a href="human.php"><li> 勞工道德、人權政策</li></a>
+				<a href="report.php"><li> 永續報告書</li></a>
+			
+
+			</ul>
+
+		</div>
+
+
+	</div>
+    <div id="copyright-5" style="background-color:#6b7274;">  建議使用Google Chrome｜Design by <a href="https://www.jfishdesign.com" target="_blank" class="write">Jellyfish Digital</a> </div>
+	<div id="copyright-logo2">
+		<div id="copyright-5">
+			Proud members of: <br> 
+            
+			<a href="https://www.wirelesspowerconsortium.com/" target="_blank">
+				<img src="images/icon/icon01.jpg" class="bottom-icon2"/>
+			</a>
+            	
+			
+			
+				 <!-- <a href="https://dunscertified.dnb.com.tw/DUNSCertifiedProfile/DCP658552224" target="_blank">
+				<img src="https://dunscertified.dnb.com.tw/Images/DUNSCertified.png" class="bottom-icon21"/>
+			</a>  -->
+			
+			
+            
+        
+          <!--   
+		  <a href="DUNS _658873572 INPAQ Group -Cn 191017.pdf" target="_blank">
+				<img src="images/icon/icon02.jpg" class="bottom-icon2"/>
+			</a>   -->
+            
+			<a href="https://www.teema.org.tw/" target="_blank">
+				<img src="images/icon/icon03.png" class="bottom-icon2"/>
+            </a> 
+
+          <!--  <a href="https://www.certipedia.com/quality_marks/0000048323%20?locale=en" target="_blank"> 
+            	<img src="images/icon/icon05.jpg" alt="taiwantrade"  class="bottom-icon2" border="0" />
+            </a>  -->
+                
+            <a href="https://www.facebook.com/inpaqtech/?ref=br_rs" target="_blank">
+                <img src="images/icon/icon06.jpg" border="0" alt="Facebook"  class="bottom-icon2" />
+            </a> 
+			
+            <a href="https://www.instagram.com/inpaqtech/" target="_blank">
+            	<img src="images/icon/icon07.jpg" border="0" alt="Twitter" class="bottom-icon2" />
+            </a> 
+            
+         
+
+			<div id="clear"></div>
+
+
+		</div>
+		
+	</div>
+
+
+</div><br />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-19837583-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<style>
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#footer-ddd {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1em;
+	color: #FFF;
+	clear: both;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	position: fixed;
+	z-index: 99999999999999999999999999999999999999999999999999999999999999999999999999999999;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,000000+100&1+0,0.85+100;Black+3D+%231 */
+	background: -moz-linear-gradient(top, rgba(69,72,77,1) 0%, rgba(0,0,0,0.85) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(69,72,77,1) 0%,rgba(0,0,0,0.85) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(69,72,77,1) 0%,rgba(0,0,0,0.85) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#d9000000',GradientType=0 ); /* IE6-9 */ /* IE6-9 */
+	bottom: 0px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #FFF;
+}
+#ddd-l {
+	background-image: url(../images/call.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	width: 50%;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #FFF;
+	height: 50px;
+}
+#ddd-l:hover{
+	background-image: url(../images/call.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #46AAB5;
+}
+#ddd-r {
+	background-image: url(../images/mail.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	width: 50%;
+	height: 50px;
+
+}
+#ddd-r:hover {
+	background-image: url(../images/mail.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #46AAB5;
+}
+</style>
+
+<div id="footer-ddd">
+	<a href="contact-m.php"><div id="ddd-l"></div></a>
+    <a href="#contact"><div id="ddd-r"></div></a>
+
+
+</div></body>
+</html>

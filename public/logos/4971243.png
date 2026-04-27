@@ -1,0 +1,282 @@
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title> 数据中心，智慧城市，可信云服务，人工智能，大数据，金融支付，自助终端，税控设备，密码键盘，kiosk，pos，深圳市证通电子股份有限公司</title>
+    <meta name="description" content=" 公司主要提供数据中心、智慧城市、可信云服务、人工智能、大数据服务、金融支付、自助终端、税控设备、密码键盘、kiosk、pos等产品及服务，深圳市证通电子股份有限公司" />
+    <meta name="keywords" content=" 数据中心，智慧城市，可信云，人工智能，大数据，金融支付，自助终端，税控设备，密码键盘，kiosk，pos，证通电子" />
+    <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/v3/css/docs.css?t=92020" rel="stylesheet" type="text/css">
+    <link href="/static/css/common2020.css?t=92020" rel="stylesheet" type="text/css">
+    <link href="/static/v3/css/swiper.min.css" rel="stylesheet" type="text/css">
+        <link href="/static/v3/css/pc.css" rel="stylesheet" type="text/css">
+        <!--CSS引用-->
+    
+    
+<style>
+	.empty {
+		padding: 150px 0px;
+	}
+	.errPage-container .text-jumbo{
+    font-size: 60px;
+    font-weight: 700;
+    color: #484848;
+}
+</style>
+
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+    <!-- Docs master nav -->
+    <header class="navbar navbar-static-top bs-docs-nav navbar-fixed-top" data-spy="affix" data-offset-top="0" id="top">
+        <div class="container nav-top" style="position: relative; width:1630px;">
+             <!-- <ul class="nav navbar-nav  select-language  hidden-xs">
+                <li>
+                    <input type="text" class="form-control searchInput" id="keyword" placeholder="搜索产品">
+                    <a href="javascript:;" id="glyphicon-search"><span
+                            class="glyphicon glyphicon-search"></span></a>
+                </li>
+                <li><a href="/" style="color:#F08519"><span
+                    class="glyphicon glyphicon-language"></span>中文</a></li>
+                <li><a href="https://global.szzt.com/" target="_blank">English</a></li>
+            </ul> -->
+            <div class="navbar-header " >
+                <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#bs-navbar"
+                    aria-controls="bs-navbar" aria-expanded="false">
+                    <span class="sr-only">产品分类</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- <button class="pull-right navbar-toggle" type="button" type="button"><a href="/user/"><span
+                            class="glyphicon glyphicon-user"></span></a></button> -->
+                <a href="/" class="navbar-brand"></a>
+            </div>
+           
+            <nav id="bs-navbar" class="collapse navbar-collapse navbar-right" style="padding-right: 200px;">
+                <ul class="nav navbar-nav  navbar-menu">
+                    <li >
+                        <a href="/">首页</a>
+                    </li>
+                    <li  class="dropdown"
+                        >
+                        <a href="/datacenter/" class="dropdown-toggle" role="button" aria-haspopup="true"
+                            aria-expanded="false">数据中心</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/datacenter/index">湖南长沙云谷</a></li>
+                            <!-- <li role="separator" class="divider"></li> -->
+                            <li><a href="/datacenter/index/id/73.html">深圳光明云谷</a></li>
+                            <li><a href="/datacenter/index/id/74.html">广州南沙云谷</a></li>
+                            <li><a href="/datacenter/index/id/75.html">东莞旗峰数据中心</a></li>
+                            <li><a href="/datacenter/index/id/77.html">武汉神狐数据中心</a></li>
+                        </ul>
+                    </li>
+                    <li  class="dropdown" >
+                        <a href="/cloud/index" class="dropdown-toggle" role="button" aria-haspopup="true"
+                            aria-expanded="false">云服务</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/cloud/index">可信云服务</a></li>
+                            <!-- <li role="separator" class="divider"></li> -->
+                            <li><a href="/cloud/index/id/3.html">智慧城市</a></li>
+                            <li><a href="/cloud/index/id/2.html">人工智能</a></li>
+                            <li><a href="/cloud/index/id/15.html">大数据服务</a></li>
+                            <li><a href="/cloud/cases">经典案例</a></li>
+                        </ul>
+                    </li>
+                    <li  class="dropdown" >
+                        <a href="/solutions/" class="dropdown-toggle" role="button" aria-haspopup="true"
+                            aria-expanded="false">金融科技</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/solutions/">解决方案</a></li>
+                            <!-- <li role="separator" class="divider"></li> -->
+                            <li><a href="/products/product-list-1.html">自助产品</a></li>
+                            <li><a href="/products/product-list-3.html">支付产品</a></li>
+                            <li><a href="/products/product-list-4.html">部件</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="https://www.lightbeeos.com" target="_blank" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">鸿蒙业务</a>
+                    </li>
+                    <!--<li  class="dropdown" >
+                        <a href="/led/" class="dropdown-toggle" role="button" aria-haspopup="true"
+                            aria-expanded="false">照明科技</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/led/index">景观亮化</a></li>
+                        </ul>
+                    </li>-->
+                    <li  class="dropdown" >
+                        <a href="/touzi/touzi-sort-16.html" class="dropdown-toggle" role="button" aria-haspopup="true"
+                            aria-expanded="false">投资者关系</a>
+                        <ul class="dropdown-menu">
+                                                        <li><a target="_blank" href="https://www.szse.cn/disclosure/listed/notice/index.html?stock=002197&name=">信息披露</a></li>
+                                                        <li><a href="/touzi/touzi-sort-17.html">公司治理</a></li>
+			                                <li><a href="/touzi/touzi-sort-21.html">股票信息</a></li>
+			                                <li><a href="/touzi/touzi-sort-37.html">投资者保护宣传</a></li>
+			                                <li><a href="/touzi/touzi-sort-38.html">投资者交流互动</a></li>
+			                                <li><a href="/touzi/contact.html">投资者联系方式</a></li>
+							<li><a href="https://www.investor.org.cn/" target="_blank">中国投资者网</a></li>
+                        </ul>
+                    </li>
+                    <li  class="dropdown" >
+                        <a href="/about/" class="dropdown-toggle" role="button" aria-haspopup="true"
+                            aria-expanded="false">关于我们</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/about/">走进证通</a></li>
+                            <!-- <li role="separator" class="divider"></li> -->
+                            <li><a href="/about/strength">公司实力</a></li>
+                            <li><a href="#">服务体系</a></li>
+                            <li><a href="/news">新闻中心</a></li>
+                            <li><a href="/about/partner">合作伙伴</a></li>
+                            <li><a href="/about/environment">环境与保护</a></li>
+                            <li><a href="/about/contactus">联系我们</a></li>
+                        </ul>
+                    </li>
+                    <li >
+                        <a href="/job/">校园招聘</a>
+                    </li>
+                    <!-- <li >
+                        <a href="/products/">产品</a>
+                    </li>
+                    <li >
+                        <a href="/solutions/">解决方案</a>
+                    </li>
+                    <li >
+                        <a href="/touzi/">投资者关系</a>
+                    </li>
+                    <li >
+                        <a href="/about/">我们</a>
+                    </li> -->
+                </ul>
+                <ul class="nav navbar-nav    hidden-xs">
+                    <li>
+                        <input type="text" class="form-control searchInput" id="keyword" placeholder="搜索产品" style="left: 0px;">
+                        <a href="javascript:;" id="glyphicon-search" style="margin-left:120px"><span
+                                class="glyphicon glyphicon-search"></span></a>
+                    </li>
+                    <li><a href="/" style="color:#F08519"><span
+                        class="glyphicon glyphicon-language"></span>中文</a></li>
+                    <li><a href="https://global.szzt.com/" target="_blank">English</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <!--主体-->
+    
+<div class="container mt50" id="page404">
+	<div class="row">
+		<div class="col-lg-12">
+			<div class="empty text-center">
+			<h2>亲，您要访问的页面不存在!</h2>	
+			<a href="/" class="btn btn-default">返回首页</a>
+					</div>
+		</div>
+	</div>
+</div>
+
+    <div class="footer">
+        <div class="fotnav hidden-sm">
+            <div class="dl hidden-sm hidden-xs">
+                <dl>
+                    <dt>关于我们<i></i></dt>
+                    <dd><a href="/about/" target="_blank">走进证通</a></dd>
+                    <dd><a href="/about/strength">公司实力</a></dd>
+                    <dd><a href="/about/#yfsl">服务体系</a></dd>
+                    <dd><a href="/news">新闻中心</a></dd>
+                    <dd><a href="/about/partner">合作伙伴</a></dd>
+                    <dd><a href="/about/environment">环境与保护</a></dd>
+                    <dd><a href="/about/contactus">联系我们</a></dd>
+                </dl>
+
+                <dl>
+                    <dt>人力资源<i></i></dt>
+                    <dd><a href="https://search.51job.com/list/040000,000000,0000,00,9,99,%25E8%25AF%2581%25E9%2580%259A%25E7%2594%25B5%25E5%25AD%2590,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=" target="_bank">社会招聘</a></dd>
+                    <dd><a href="https://xiaoyuan.zhaopin.com/company/CC000242044D90000000000" target="_bank">校园招聘</a></dd>
+                    <!--<dd><a href="/hr/hr-sort-34.html">面试指引</a></dd>
+                <dd><a href="/hr/hr-sort-35.html">职业成长</a></dd>-->
+                </dl>
+                <dl>
+                    <dt>投资者关系<i></i></dt>
+                                        <dd><a href="/touzi/touzi-sort-16.html">信息披露</a></dd>
+                                        <dd><a href="/touzi/touzi-sort-17.html">公司治理</a></dd>
+                                        <dd><a href="/touzi/touzi-sort-21.html">股票信息</a></dd>
+                                        <dd><a href="/touzi/touzi-sort-37.html">投资者保护宣传</a></dd>
+                                        <dd><a href="/touzi/touzi-sort-38.html">投资者交流互动</a></dd>
+                                    </dl>
+                <dl>
+                    <dt>相关链接<i></i></dt>
+                    <dd> <a href="http://yunshuo.szzt.com.cn/" target="_blank">云硕科技</a></dd>
+                    <dd> <a href="http://www.csztcloud.com.cn/" target="_blank">长沙证通云</a></dd>
+		    <dd> <a href="https://www.lightbeeos.com" target="_blank">证开鸿科技</a></dd>
+                </dl>
+
+                <dl class="qrcode" style="float:right;width:24%;">
+                    <dd>
+                        <div class="text-center fr">
+                            <img src="/static/images/ewm.jpg" width="140" alt=""><br>关注我们
+                        </div>
+                    </dd>
+                </dl>
+            </div>
+            <div class="clearfix"></div>
+
+            <div class="hotline">24小时客户服务热线：400881-0888</div>
+        </div>
+        <div class="copyright">
+            深圳市证通电子股份有限公司 © 1993-2026 版权所有	<a href="https://beian.miit.gov.cn/" target="_blank" style="color:#ffffff;">粤ICP备12035887号 </a> </div>
+    </div>
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static/v3/js/szzt.js"></script>
+    <script src="/static/v3/js/jquery.easing.js"></script>
+    <script src="/static/v3/js/moveline.js"></script>
+    <script src="/static/v3/js/swiper.min.js"></script>
+    
+    <!--页面JS脚本-->
+    
+<script>
+	$(function(){
+		var height = $(".footer").outerHeight(true);
+		var clientHeight = document.documentElement.clientHeight;
+		$("#page404").height(clientHeight - height - 50);
+	})
+</script>
+
+    <script>
+        $(function () {
+            $('.navbar-menu').moveline({ color: '#2B6CA4', position: 'inner' });
+            $('#glyphicon-search').click(function () {
+                $('#keyword').parent().addClass('searhc_open');
+                var keywords = $("#keyword").val();
+                if (keywords !== '') {
+                    window.location.href = "/products/search-" + encodeURI(keywords) + '-1.html'
+                }
+            })
+            $("#keyword").keyup(function (event) {
+                if (event.keyCode == 13) {
+                    var keywords = $("#keyword").val();
+                    if (keywords !== '') {
+                        window.location.href = "/products/search-" + encodeURI(keywords) + '-1.html'
+                    }
+                }
+            })
+        })
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?28648b0ebcf3a756be0ab1c11d6ed511";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</body>
+
+</html>

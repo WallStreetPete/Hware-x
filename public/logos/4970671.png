@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&family=Poppins:wght@400;600&display=swap');
+        html,
+        body,
+        div,
+        span,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        p,
+        ul,
+        li {
+            margin: 0;
+            padding: 0;
+            border: 0;
+        }
+        
+        body {
+            color: #fff;
+            background-color: #131418;
+        }
+        
+        .content {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        
+        h2,
+        p,
+        li {
+            font-family: 'Poppins', sans-serif;
+        }
+        
+        h2 {
+            letter-spacing: 1.8px;
+            font-weight: 600;
+            font-size: 36px;
+        }
+        
+        p {
+            letter-spacing: 0.7px;
+            font-size: 14px;
+            padding-top: 20px;
+        }
+        
+        h3 {
+            padding-top: 35px;
+            line-height: 35px;
+            letter-spacing: 1px;
+            font-family: 'Noto Sans TC', sans-serif;
+            font-weight: 300;
+            font-size: 20px;
+        }
+        
+        ul {
+            padding-top: 140px;
+            list-style: none;
+            display: flex;
+        }
+        
+        li {
+            padding: 0 32px;
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            letter-spacing: 0.6px;
+            font-weight: 400;
+            opacity: 0.5;
+        }
+        
+        li:first-child {
+            padding-left: 0;
+        }
+        
+        li:last-child {
+            padding-right: 0;
+        }
+        
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+            filter: grayscale(1);
+            max-width: 60px;
+        }
+        
+        span {
+            padding-top: 16px;
+            letter-spacing: 0.6px;
+            font-weight: 400;
+            font-size: 12px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <h2>We can't find that page</h2>
+        <p>We're fairly sure that page used to be here, but seems to have gone missing. We do apologise on it's behalf.</p>
+        <h3>
+            我們相當確定該頁面曾經在這裡，
+            <br />但似乎已經丟失了。 我們代表它道歉。
+        </h3>
+        <ul>
+            <li>
+                <img src="./img/chrome.png" alt="" />
+                <span>Chrome</span>
+            </li>
+            <li>
+                <img src="./img/safari.png" alt="" />
+                <span>Safari</span>
+            </li>
+            <li>
+                <img src="./img/edge.png" alt="" />
+                <span>Edge</span>
+            </li>
+            <li>
+                <img src="./img/firefox.png" alt="" />
+                <span>Firefox</span>
+            </li>
+        </ul>
+    </div>
+</body>
+
+</html>

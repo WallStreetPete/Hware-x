@@ -1,0 +1,1786 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Genius | Gaming, Mobile & Computer Peripherals</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
+<meta name="format-detection" content="telephone=yes">
+<link rel="canonical" href="https://www.geniusnet.com/en" />
+<link rel="image_src" href="https://www.geniusnet.com/images/common/logo.svg" />
+
+<!--facebook meta-->
+<meta property="og:title" content="Genius | Gaming, Mobile & Computer Peripherals" >
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.geniusnet.com/en">
+<meta property="og:description" content="Founded in 1985, Genius is a leading global brand in the gaming, mobile and computer peripherals industry. With a presence in over 30 countries, the brand holds the US patent for mouse scroll wheel technology. Genius specializes in providing diverse and comprehensive solution" >
+<meta property="og:image" content="https://www.geniusnet.comhttps://www.geniusnet.com/images/common/logo.svg">
+<meta property="og:locale" content="en">
+<meta property="article:author" content="Genius | Gaming, Mobile & Computer Peripherals">
+<meta property="article:publisher" content="Genius | Gaming, Mobile & Computer Peripherals">
+
+<!--default meta-->
+<meta name="description" content="Founded in 1985, Genius is a leading global brand in the gaming, mobile and computer peripherals industry. With a presence in over 30 countries, the brand holds the US patent for mouse scroll wheel technology. Genius specializes in providing diverse and comprehensive solution">
+<meta name="keywords" content="Genius,geniusnet,Mouse,Keyboard,Gaming,Audio,Mobile Solution">
+<meta name="thumbnail" content="https://www.geniusnet.comhttps://www.geniusnet.com/images/common/logo.svg" />
+<meta name="author" content="Genius | Gaming, Mobile & Computer Peripherals">
+<meta name="robots" content="index, follow">
+
+<!--twitter meta-->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Genius | Gaming, Mobile & Computer Peripherals">
+<meta name="twitter:description" content="Founded in 1985, Genius is a leading global brand in the gaming, mobile and computer peripherals industry. With a presence in over 30 countries, the brand holds the US patent for mouse scroll wheel technology. Genius specializes in providing diverse and comprehensive solution">
+<meta name="twitter:creator" content="Genius | Gaming, Mobile & Computer Peripherals">
+<meta name="twitter:url" content="https://www.geniusnet.com/en">
+<meta name="twitter:image" content="https://www.geniusnet.comhttps://www.geniusnet.com/images/common/logo.svg">
+<!--favico-->
+<link rel="icon" type="image/png" href="/upload/favicon.png" />
+
+<!--apple-touch-ico-->
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.geniusnet.com/upload/apple-icon-72x72px.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.geniusnet.com/upload/apple-icon-114x114px.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.geniusnet.com/upload/apple-icon-144x144px.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.geniusnet.com/upload/apple-icon-180x180px.png" />
+<link rel="apple-touch-icon" sizes="192x192" href="https://www.geniusnet.com/upload/apple-icon-192x192px.png" />
+
+<!--Google Analytics-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WBED3WF4K2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WBED3WF4K2');
+</script>
+
+<!--Custom Meta-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NL8RWZX6');</script>
+<!-- End Google Tag Manager -->
+
+<!--web css style-->
+<!-- web core style  -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.3/themes/base/jquery-ui.min.css" integrity="sha512-8PjjnSP8Bw/WNPxF6wkklW6qlQJdWJc/3w/ZQPvZ/1bjVDkrrSqLe9mfPYrMxtnzsXFPc434+u4FHLnLjXTSsg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+<link rel="stylesheet" type="text/css" href="/css/bootsnav.min.css">
+<link rel="stylesheet" type="text/css" href="/css/theme-vendors.min.css">
+<link rel="stylesheet" type="text/css" href="/css/theme.css"/>
+<link rel="stylesheet" type="text/css" href="/css/font-icons.min.css">
+<link rel="stylesheet" type="text/css" href="/css/theme-responsive.css"/>
+<!-- web Plugin -->
+<link rel="stylesheet" type="text/css" href="/Plugin/plugin_slickCarousel/css/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/Plugin/plugin_swiper/css/swiper.min.css">
+<link rel="stylesheet" type="text/css" href="/Plugin/plugin_owlCarousel/css/owl.carousel-min.css">
+<link rel="stylesheet" type="text/css" href="/Plugin/plugin_fancybox/css/fancybox.css">
+<link rel="stylesheet" type="text/css" href="/Plugin/plugin_fancybox/css/carousel.css">
+<link rel="stylesheet" type="text/css" href="/Plugin/plugin_fancybox/css/carousel.thumbs.css">
+<link rel="stylesheet" type="text/css" href="/Plugin/plugin_blueimpGallery/css/blueimp-gallery.min.css">
+<link rel="stylesheet" type="text/css" href="/Plugin/plugin_sweetalert2/11.12.0/css/sweetalert2.min.css">
+<!-- web css style -->
+<link rel="stylesheet" type="text/css" href="/css/cms_core/cms_addone_googlesearch.css?v=260420045229">
+<link rel="stylesheet" type="text/css" href="/css/cms_core/cms_template_style.css?v=260420045229">
+<link rel="stylesheet" type="text/css" href="/css/cms_core/cms_editor.css?v=260420045229">
+<link rel="stylesheet" type="text/css" href="/css/cms_core/cms_usercss.css?v=260420045229"></head>
+
+<body>
+    <!-- body Script Content -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NL8RWZX6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <header class="header-with-topbar">
+    <nav class="navbar navbar-default bootsnav navbar-top header-light-transparent background-transparent navbar-expand-lg">
+        <div class="container nav-header-container">
+            <div class="col-navbar-logo col-lg-auto col-6 ps-lg-0">
+                <a href="/en/" title="Genius | Gaming, Mobile & Computer Peripherals" class="logo">
+                    <img src="/images/logo.svg" class="dark-logo" alt="Genius | Gaming, Mobile & Computer Peripherals">
+                    <img src="/images/logo-w.svg" class="light-logo" alt="Genius | Gaming, Mobile & Computer Peripherals">
+                </a>
+            </div>
+            <div class="col-navbar-nav col accordion-menu px-lg-3 pe-0">
+                <button type="button" class="navbar-toggler" id="mobileMenu_toggle">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-collapse collapse justify-content-end">
+                    <ul id="accordion" class="nav navbar-nav navbar-left no-margin" data-in="animate__fadeIn" data-out="animate__fadeOut">
+                        <li class="dropdown megamenu-fw">
+                            <a href="javascript:;">Products</a>
+                            <i class="fa-solid fa-angle-down dropdown-toggle"></i>
+                            
+	<div class="menu-back-div dropdown-menu megamenu-content mega-menu collapse mega-menu-full">
+		<div class="container">
+			<ul class="mega-menu-row">
+				
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/mice" class="nav-prd-link" title="Mice">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024092504_3f7916890.webp" class="img-fluid" title="Mice" alt="Mice"></span>
+				<span class="nav-prd-txt">Mice</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/keyboards" class="nav-prd-link" title="Keyboards">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024062806_71bd06341.webp" class="img-fluid" title="Keyboards" alt="Keyboards"></span>
+				<span class="nav-prd-txt">Keyboards</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/combos" class="nav-prd-link" title="Combos">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024062831_84c082568.webp" class="img-fluid" title="Combos" alt="Combos"></span>
+				<span class="nav-prd-txt">Combos</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/speakers" class="nav-prd-link" title="Speakers">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024092520_b678d3837.webp" class="img-fluid" title="Speakers" alt="Speakers"></span>
+				<span class="nav-prd-txt">Speakers</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/headsets" class="nav-prd-link" title="Headsets">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024062853_2ca664764.webp" class="img-fluid" title="Headsets" alt="Headsets"></span>
+				<span class="nav-prd-txt">Headsets</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/webcams" class="nav-prd-link" title="WebCams">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024062802_ac4c06960.webp" class="img-fluid" title="WebCams" alt="WebCams"></span>
+				<span class="nav-prd-txt">WebCams</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/microphones" class="nav-prd-link" title="Microphones">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2026012948_693781027.webp" class="img-fluid" title="Microphones" alt="Microphones"></span>
+				<span class="nav-prd-txt">Microphones</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/graphics_tablets" class="nav-prd-link" title="Graphics Tablets">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024062813_92cea8670.webp" class="img-fluid" title="Graphics Tablets" alt="Graphics Tablets"></span>
+				<span class="nav-prd-txt">Graphics Tablets</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/products/list/accessories" class="nav-prd-link" title="Accessories">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024092533_6c6de7805.webp" class="img-fluid" title="Accessories" alt="Accessories"></span>
+				<span class="nav-prd-txt">Accessories</span>
+			</a>
+		</li>
+		
+			</ul>
+		</div>
+	</div>
+	                        </li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="javascript:;">GX Gaming</a>
+                            <i class="fa-solid fa-angle-down dropdown-toggle"></i>
+                            
+	<div class="menu-back-div dropdown-menu megamenu-content mega-menu collapse mega-menu-full">
+		<div class="container">
+			<ul class="mega-menu-row">
+				
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/gaming/list/gaming_mice" class="nav-prd-link" title="Gaming Mice">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024092650_5969b2436.webp" class="img-fluid" title="Gaming Mice" alt="Gaming Mice"></span>
+				<span class="nav-prd-txt">Gaming Mice</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/gaming/list/gaming_keyboards" class="nav-prd-link" title="Gaming Keyboards">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024092555_b2fe77330.webp" class="img-fluid" title="Gaming Keyboards" alt="Gaming Keyboards"></span>
+				<span class="nav-prd-txt">Gaming Keyboards</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/gaming/list/gaming_combos" class="nav-prd-link" title="Gaming Combos">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2025011746_ed3e19872.webp" class="img-fluid" title="Gaming Combos" alt="Gaming Combos"></span>
+				<span class="nav-prd-txt">Gaming Combos</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/gaming/list/gaming_speakers" class="nav-prd-link" title="Gaming Speakers">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024062835_6c30837.webp" class="img-fluid" title="Gaming Speakers" alt="Gaming Speakers"></span>
+				<span class="nav-prd-txt">Gaming Speakers</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/gaming/list/gaming_headsets" class="nav-prd-link" title="Gaming Headsets">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024092534_53edd6087.webp" class="img-fluid" title="Gaming Headsets" alt="Gaming Headsets"></span>
+				<span class="nav-prd-txt">Gaming Headsets</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/gaming/list/racing_wheels" class="nav-prd-link" title="Racing Wheels">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024092655_5633d1382.webp" class="img-fluid" title="Racing Wheels" alt="Racing Wheels"></span>
+				<span class="nav-prd-txt">Racing Wheels</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/gaming/list/game_controllers" class="nav-prd-link" title="Game Controllers">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024080201_533eb834.webp" class="img-fluid" title="Game Controllers" alt="Game Controllers"></span>
+				<span class="nav-prd-txt">Game Controllers</span>
+			</a>
+		</li>
+		
+		<li class="mega-menu-column col-nav-menu">
+			<a href="/en/gaming/list/gaming_accessories" class="nav-prd-link" title="Gaming Accessories">
+				<span class="nav-prd-img"><img src="/upload/en/common/PIC_2024092613_0f7006894.webp" class="img-fluid" title="Gaming Accessories" alt="Gaming Accessories"></span>
+				<span class="nav-prd-txt">Gaming Accessories</span>
+			</a>
+		</li>
+		
+			</ul>
+		</div>
+	</div>
+	                        </li>
+                        <li class="dropdown simple-dropdown">
+                            <a href="/en/investors/fin_business_info">Investors</a>
+                            <i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            
+			<ul class="dropdown-menu" role="menu">
+				
+						<li>
+							<a href="/en/investors/fin_business_info" title="Financial & Business Info.">Financial & Business Info.</a>
+						</li>
+						
+						<li>
+							<a href="/en/investors/shareholder_services" title="Shareholder Services">Shareholder Services</a>
+						</li>
+						
+						<li>
+							<a href="/en/investors/corporate_governance" title="Corporate Governance">Corporate Governance</a>
+						</li>
+						
+						<li>
+							<a href="/en/investors/major_internal_regul" title="Major Internal Regulations">Major Internal Regulations</a>
+						</li>
+						
+						<li>
+							<a href="/en/investors/stakeholders" title="Stakeholders">Stakeholders</a>
+						</li>
+						
+			</ul>
+			                        </li>
+                        <li class="dropdown simple-dropdown">
+                            <a href="/en/esg/sustainability">ESG</a>
+                            <i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            
+			<ul class="dropdown-menu" role="menu">
+				
+						<li>
+							<a href="/en/esg/sustainability" title="Sustainability">Sustainability</a>
+						</li>
+						
+						<li>
+							<a href="/en/esg/implementation" title="Implementation">Implementation</a>
+						</li>
+						
+			</ul>
+			                        </li>
+                        <li class="dropdown simple-dropdown">
+                            <a href="/en/support">Support</a>
+                            <i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            
+			<ul class="dropdown-menu" role="menu">
+				
+					<li>
+						<a href="/en/inquiry" target="_self" title="Business Contact">Business Contact</a>
+					</li>
+					
+					<li>
+						<a href="/en/contact" target="_self" title="Technical Contact">Technical Contact</a>
+					</li>
+					
+					<li>
+						<a href="/en/support" target="_self" title="Download & FAQ">Download & FAQ</a>
+					</li>
+					
+			</ul>
+			                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-navbar-search col-lg-auto col ps-0">
+                <div class="header-searchbar-2">
+                    <a href="javascript:;" class="header-search-form search-bar-btn">
+                        <span>Search...</span> <i class="fas fa-search search-button"></i>
+                    </a>
+                    <div id="searchBar">
+                        <div class="container">
+                            <form method="GET" action="/en/search" class="searchform">
+                                <div class="input-search-group">
+                                    <input type="text" name="keywords" class="search-input" placeholder="Search..." data-dialog="Please enter product keywords!" required>
+                                    <button type="submit" class="search-result-btn" id="search_btn">
+                                        <i class="fas fa-search"></i>
+                                    </button>
+                                </div>
+                            </form>
+                            <button type="button" class="search-bar-close">
+                                <img src="/images/icon-close.svg">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-navbar-language col-lg-auto col pe-lg-0 ps-0 d-none d-lg-block">
+                <div class="btn-group dropdown-style-1 language-box">
+                    <button type="button" class="btn dropdown-toggle sm-w-100" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fa-solid fa-earth-asia"></i>Language<span class="caret"></span>
+                    </button>
+                    <div class="dropdown-menu">
+                        
+	<ul>
+		<li>
+			<a href="/en" title="English">English</a>
+		</li>
+		<li>
+			<a href="/es" title="Español">Español</a>
+		</li>
+		<li>
+			<a href="/cz" title="Čeština">Čeština</a>
+		</li>
+		<li>
+			<a href="/ru" title="Русский">Русский</a>
+		</li>
+		<li>
+			<a href="/hu" title="Magyar">Magyar</a>
+		</li>
+		<li>
+			<a href="/ar" title="العربية">العربية</a>
+		</li>
+		<li>
+			<a href="/pl" title="Polski">Polski</a>
+		</li>
+		<li>
+			<a href="/tw" title="繁體中文">繁體中文</a>
+		</li>
+	</ul>
+	                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div id="mobileMenu">
+        <div class="mobileMenu-backdrop"></div>
+        <div class="mobileMenu-wrap">
+            <button type="button" class="mobileMenu-close"> <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div class="mobileMenu-mainPanel">
+                <div class="mobileMenu-head"></div>
+                <nav class="mobileMenu-nav"></nav>
+            </div>
+        </div>
+    </div>
+    
+</header>    <main class="top-space" data-pgc-field="edit">
+        <section class="wow animate__fadeIn mainSlider">
+            <div class="swiper swiper-container main-swiper desktop-swiper">
+                
+	<div class="swiper-wrapper">
+		
+			<div class="swiper-slide" style="background-image: url('/upload/en/common/PIC_2026031605_eeb443227.webp');">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">MIC-S400U</h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#ffffff;">USB Streaming Microphone</span></h4>
+
+<p><a class="ani swiper-btn model-style-5" href="/en/products/view/mic_s400u" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+
+<div id="gtx-trans" style="position: absolute; left: 57px; top: 85.1875px;">
+<div class="gtx-trans-icon">&nbsp;</div>
+</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide" style="background-image: url('/upload/en/common/PIC_2026010503_657141650.webp');">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">SpeedMaster X5 FF</h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#ffffff;">CHIP "VERY GOOD" Award Winner !</span></h4>
+
+<p><a class="ani swiper-btn model-style-5" href="/en/news/41" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide" style="background-image: url('/upload/en/common/PIC_2025110529_9ad548338.webp');">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">SpeedMaster X5 FF</h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#ffffff;">Nextech Editors&rsquo; Choice Winner!</span></h4>
+
+<p><a class="ani swiper-btn model-style-5" href="/en/news/40" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide" style="background-image: url('/upload/en/common/PIC_2026011932_d623b5880.webp');">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#ffffff;">NX-8280S BT</span></h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#ffffff;">Lightweight Wireless Rechargeable Silent Mouse</span></h4>
+
+<p><a class="ani swiper-btn model-style-5" href="/en/products/view/nx_8280s_bt" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide" style="background-image: url('/upload/en/common/PIC_2026010804_aa2601716.webp');">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#000000;">FaceCam LIGHT</span></h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255);" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#000000;">Full HD 1080P LED Webcam</span></h4>
+
+<p><a class="ani swiper-btn model-style-1" href="/en/products/view/facecam_light" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+	</div>
+	<div class="main-swiper-arrow-buttons">
+		<div class="main-swiper-arrow-button swiper-button-prev">
+			<i class="ti-angle-left"></i>
+		</div>
+		<div class="main-swiper-arrow-button swiper-button-next">
+			<i class="ti-angle-right"></i>
+		</div>
+	</div>
+	<div class="swiper-pagination main-swiper-pagination"></div>
+	            </div>
+            <div class="swiper swiper-container main-swiper mobile-swiper">
+                
+	<div class="swiper-wrapper">
+		
+			<div class="swiper-slide">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<img src="/upload/en/common/PIC_2026031640_4c1779919.webp" class="swiper-mb-img" alt="Genius | Gaming, Mobile & Computer Peripherals">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255); text-align: center; margin-bottom:1rem;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">MIC-S400U</h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255); text-align: center; margin-bottom:2.3rem;" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">USB Streaming Microphone</h4>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-6" href="/en/products/view/mic_s400u" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<img src="/upload/en/common/PIC_2026010511_399525280.webp" class="swiper-mb-img" alt="Genius | Gaming, Mobile & Computer Peripherals">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255); text-align: center; margin-bottom:1rem;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">SpeedMaster X5 FF</h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255); text-align: center; margin-bottom:2.3rem;" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">CHIP "VERY GOOD" Award Winner !</h4>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-6" href="/en/news/41" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<img src="/upload/en/common/PIC_2025110552_11ec54116.webp" class="swiper-mb-img" alt="Genius | Gaming, Mobile & Computer Peripherals">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255); text-align: center; margin-bottom:1rem;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">SpeedMaster X5 FF</h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255); text-align: center; margin-bottom:2.3rem;" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Nextech Editors&rsquo; Choice Winner!</h4>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-6" href="/en/news/40" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<img src="/upload/en/common/PIC_2026011907_8e3b47768.webp" class="swiper-mb-img" alt="Genius | Gaming, Mobile & Computer Peripherals">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255); text-align: center;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#f2f2f2;">NX-8280S BT</span></h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255); text-align: center;" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#f2f2f2;">Lightweight Wireless Rechargeable Silent Mouse</span></h4>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-6" href="/en/products/view/nx_8280s_bt" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#ecf0f1;">Learn More</span></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<img src="/upload/en/common/PIC_2026010854_bcab597.webp" class="swiper-mb-img" alt="Genius | Gaming, Mobile & Computer Peripherals">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255); text-align: center; margin-bottom:1rem;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#000000;">FaceCam LIGHT</span></h2>
+
+<h4 class="ani" style="color: rgb(255, 255, 255); text-align: center; margin-bottom:2.3rem;" swiper-animate-delay="0.2s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp"><span style="color:#000000;">Full HD 1080P LED Webcam</span></h4>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-6" href="/en/products/view/facecam_light" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+	</div>
+	<div class="main-swiper-arrow-buttons">
+		<div class="main-swiper-arrow-button swiper-button-prev">
+			<i class="ti-angle-left"></i>
+		</div>
+		<div class="main-swiper-arrow-button swiper-button-next">
+			<i class="ti-angle-right"></i>
+		</div>
+	</div>
+	<div class="swiper-pagination main-swiper-pagination"></div>
+	            </div>
+        </section>
+        <section class="wow animate__fadeIn mainSec--quicklink">
+            <div class="container">
+                
+			<div class="row row-quiklink">
+				
+			</div>
+			            </div>
+        </section>
+        <section class="wow animate__fadeIn mainSec--video p-0 parallax" style="background-image: url('/upload/en/common/PIC_2025051316_fa61b6289.webp');" data-parallax-background-ratio=".5">
+            <div class="video-opacity"></div>
+            <div class="container">
+                <div class="row h-100 align-items-center video-height">
+                    <div class="col-12">
+                        <div class="video-thumb">
+                            <div class="thumb-content">
+                                <h2>Genius AI Copilot Peripherals Series</h2>
+
+<p>The first full lineup of Genius AI Copilot peripherals includes mice, a keyboard, a headset, and other gaming gear.</p>
+
+<p><a class="video-modal-btn" data-fancybox="" href="#videoModal" id="openModal"><i class="fa-solid fa-play"></i> </a></p>
+<!-- Modal with YouTube Video (hidden initially) -->
+
+<div id="videoModal"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" id="videoIframe" scrolling="no" src="https://www.youtube.com/embed/MIGqW-05VVI?si=qLv1zSYS-AYuBQbz" title="YouTube video player" width="560"></iframe></div>
+<!-- Fancybox JS --><script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@4/dist/fancybox.umd.js"></script><script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const iframe = document.getElementById('videoIframe');
+
+        // 影片連結
+        const videoSrc = iframe.src + '?rel=0&autoplay=1&loop=1';
+
+        Fancybox.bind('[data-fancybox]', {
+            on: {
+                reveal: (fancybox) => {
+                    iframe.src = videoSrc;
+                },
+                close: (fancybox) => {
+                    iframe.src = '';
+                }
+            }
+        });
+    });
+</script>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="wow animate__fadeIn mainSec--carousel pb-0">
+            <div class="container">
+                <div class="prds-tabs-sec">
+                    
+	<ul class="nav nav-pills" id="prds-tab" role="tablist">
+		
+		<li class="nav-item" role="presentation">
+			<a class="nav-link active" data-bs-toggle="pill" href="#prds_0" aria-selected="true">New</a>
+		</li>
+		
+		<li class="nav-item" role="presentation">
+			<a class="nav-link" data-bs-toggle="pill" href="#prds_1" aria-selected="true">Best Sellers</a>
+		</li>
+		
+		<li class="nav-item" role="presentation">
+			<a class="nav-link" data-bs-toggle="pill" href="#prds_2" aria-selected="true">Recommend</a>
+		</li>
+		
+	</ul>
+	<div class="tab-content" id="pills-tabContent">
+		
+		<div class="tab-pane fade active show" id="prds_0" role="tabpanel" tabindex="0">
+			<div class="prd-carousel owl-carousel owl-theme">
+				
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/maxfire_f27" title="MaxFire F27" target="_blank">
+						<img src="/upload/en/common/PIC_2026041419_00eb73374.webp" class="img-fluid prdlist-img" title="MaxFire F27" alt="MaxFire F27">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/maxfire_f27" title="MaxFire F27" target="_blank">MaxFire F27</a></h4>
+					<p class="prd-txt">USB Flight Joystick</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/facecam_2010" title="FaceCam 2010" target="_blank">
+						<img src="/upload/en/common/PIC_2026021354_7932c3571.webp" class="img-fluid prdlist-img" title="FaceCam 2010" alt="FaceCam 2010">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/facecam_2010" title="FaceCam 2010" target="_blank">FaceCam 2010</a></h4>
+					<p class="prd-txt">Full HD 1080P Webcam</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/ecam_8020af" title="ECam 8020AF" target="_blank">
+						<img src="/upload/en/common/PIC_2026021202_4c162985.webp" class="img-fluid prdlist-img" title="ECam 8020AF" alt="ECam 8020AF">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/ecam_8020af" title="ECam 8020AF" target="_blank">ECam 8020AF</a></h4>
+					<p class="prd-txt">Auto Focus Full HD 1080P Webcam</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/mic_s400u" title="MIC-S400U" target="_blank">
+						<img src="/upload/en/common/PIC_2026013029_3fe7a6325.webp" class="img-fluid prdlist-img" title="MIC-S400U" alt="MIC-S400U">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/mic_s400u" title="MIC-S400U" target="_blank">MIC-S400U</a></h4>
+					<p class="prd-txt">USB Streaming Microphone</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/gx_23uv" title="GX-23UV" target="_blank">
+						<img src="/upload/en/common/PIC_2026012617_d7f0d1518.webp" class="img-fluid prdlist-img" title="GX-23UV" alt="GX-23UV">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/gx_23uv" title="GX-23UV" target="_blank">GX-23UV</a></h4>
+					<p class="prd-txt">USB RGB Gamepad with Vibration</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/scorpion_m8300" title="Scorpion M8300" target="_blank">
+						<img src="/upload/en/common/PIC_2026012827_7462b3717.webp" class="img-fluid prdlist-img" title="Scorpion M8300" alt="Scorpion M8300">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/scorpion_m8300" title="Scorpion M8300" target="_blank">Scorpion M8300</a></h4>
+					<p class="prd-txt">Very Light Wireless Bluetooth Gaming Mouse</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/luxemate_120" title="LuxeMate 120" target="_blank">
+						<img src="/upload/en/common/PIC_2026011456_dd2e45638.webp" class="img-fluid prdlist-img" title="LuxeMate 120" alt="LuxeMate 120">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/luxemate_120" title="LuxeMate 120" target="_blank">LuxeMate 120</a></h4>
+					<p class="prd-txt">Copilot Compact Office Keyboard</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/luxemate_q7100bt" title="LuxeMate Q7100BT" target="_blank">
+						<img src="/upload/en/common/PIC_2026012120_ce0a02149.webp" class="img-fluid prdlist-img" title="LuxeMate Q7100BT" alt="LuxeMate Q7100BT">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/luxemate_q7100bt" title="LuxeMate Q7100BT" target="_blank">LuxeMate Q7100BT</a></h4>
+					<p class="prd-txt">Copilot Wireless Bluetooth Compact Keyboard</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/nx_8280s_bt" title="NX-8280S BT" target="_blank">
+						<img src="/upload/en/common/PIC_2026011433_d0e212852.webp" class="img-fluid prdlist-img" title="NX-8280S BT" alt="NX-8280S BT">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/nx_8280s_bt" title="NX-8280S BT" target="_blank">NX-8280S BT</a></h4>
+					<p class="prd-txt">Lightweight Wireless Rechargeable Silent Mouse</p>
+				</div>
+				
+				<div class="color_list">
+					
+					<div class="color_item is-open" data-imgurl="PIC_2026011433_d0e212852.webp" data-color="#5c69d1">
+						<span></span>
+					</div>
+					
+					<div class="color_item" data-imgurl="PIC_2026011440_953ca3194.webp" data-color="#000000">
+						<span></span>
+					</div>
+					
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/sp_hf300u" title="SP-HF300U" target="_blank">
+						<img src="/upload/en/common/PIC_2026011252_377455407.webp" class="img-fluid prdlist-img" title="SP-HF300U" alt="SP-HF300U">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/sp_hf300u" title="SP-HF300U" target="_blank">SP-HF300U</a></h4>
+					<p class="prd-txt">USB Audio Speakers/ USB-A & USB-C</p>
+				</div>
+				
+				<div class="color_list">
+					
+					<div class="color_item is-open" data-imgurl="PIC_2026011252_377455407.webp" data-color="#000000">
+						<span></span>
+					</div>
+					
+					<div class="color_item" data-imgurl="PIC_2026011231_a06bd8164.webp" data-color="#ffffff">
+						<span></span>
+					</div>
+					
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>New</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/hs_gx570u" title="HS-GX570U" target="_blank">
+						<img src="/upload/en/common/PIC_2025073130_1c8ea3135.webp" class="img-fluid prdlist-img" title="HS-GX570U" alt="HS-GX570U">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/hs_gx570u" title="HS-GX570U" target="_blank">HS-GX570U</a></h4>
+					<p class="prd-txt">USB Gaming Headset with RGB LED</p>
+				</div>
+				
+			</div>
+		</div>
+		
+			</div>
+		</div>
+		
+		<div class="tab-pane fade" id="prds_1" role="tabpanel" tabindex="0">
+			<div class="prd-carousel owl-carousel owl-theme">
+				
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/facecam_3000af" title="FaceCam 3000AF" target="_blank">
+						<img src="/upload/en/common/PIC_2026011434_6f3129439.webp" class="img-fluid prdlist-img" title="FaceCam 3000AF" alt="FaceCam 3000AF">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/facecam_3000af" title="FaceCam 3000AF" target="_blank">FaceCam 3000AF</a></h4>
+					<p class="prd-txt">2K QHD Streaming Webcam</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/soundbar_220bt" title="SoundBar 220BT" target="_blank">
+						<img src="/upload/en/common/PIC_2026010805_9f6f36509.webp" class="img-fluid prdlist-img" title="SoundBar 220BT" alt="SoundBar 220BT">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/soundbar_220bt" title="SoundBar 220BT" target="_blank">SoundBar 220BT</a></h4>
+					<p class="prd-txt">Wireless Bluetooth Soundbar</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/ergo_8230s_bt" title="Ergo 8230S BT" target="_blank">
+						<img src="/upload/en/common/PIC_2025121043_1f5514767.webp" class="img-fluid prdlist-img" title="Ergo 8230S BT" alt="Ergo 8230S BT">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/ergo_8230s_bt" title="Ergo 8230S BT" target="_blank">Ergo 8230S BT</a></h4>
+					<p class="prd-txt">Pro Ergonomic Wireless Bluetooth Silent Mouse</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/hs_820bt" title="HS-820BT" target="_blank">
+						<img src="/upload/en/common/PIC_2025100114_bb6aa7013.webp" class="img-fluid prdlist-img" title="HS-820BT" alt="HS-820BT">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/hs_820bt" title="HS-820BT" target="_blank">HS-820BT</a></h4>
+					<p class="prd-txt">Foldable Bluetooth Headset</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/slimstar_8250" title="SlimStar 8250" target="_blank">
+						<img src="/upload/en/common/PIC_2025092420_1e7909888.webp" class="img-fluid prdlist-img" title="SlimStar 8250" alt="SlimStar 8250">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/slimstar_8250" title="SlimStar 8250" target="_blank">SlimStar 8250</a></h4>
+					<p class="prd-txt">Copilot Wireless Bluetooth Keyboard & Mouse Combo</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/gx_19uv" title="GX-19UV" target="_blank">
+						<img src="/upload/en/common/PIC_2025081455_3a3676507.webp" class="img-fluid prdlist-img" title="GX-19UV" alt="GX-19UV">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/gx_19uv" title="GX-19UV" target="_blank">GX-19UV</a></h4>
+					<p class="prd-txt">Vibration Gamepad</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/speedmaster_x1" title="SpeedMaster X1" target="_blank">
+						<img src="/upload/en/common/PIC_2025071835_d86136878.webp" class="img-fluid prdlist-img" title="SpeedMaster X1" alt="SpeedMaster X1">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/speedmaster_x1" title="SpeedMaster X1" target="_blank">SpeedMaster X1</a></h4>
+					<p class="prd-txt">900°-270° Vibration Racing Wheel with Shifter</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/scorpion_km_gx3" title="Scorpion KM-GX3" target="_blank">
+						<img src="/upload/en/common/PIC_2025040912_744fb5249.webp" class="img-fluid prdlist-img" title="Scorpion KM-GX3" alt="Scorpion KM-GX3">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/scorpion_km_gx3" title="Scorpion KM-GX3" target="_blank">Scorpion KM-GX3</a></h4>
+					<p class="prd-txt">RGB Copilot Keyboard & Mouse</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Best Sellers</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/scorpion_m8250" title="Scorpion M8250" target="_blank">
+						<img src="/upload/en/common/PIC_2025010358_dd3345930.webp" class="img-fluid prdlist-img" title="Scorpion M8250" alt="Scorpion M8250">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/scorpion_m8250" title="Scorpion M8250" target="_blank">Scorpion M8250</a></h4>
+					<p class="prd-txt">Wireless Bluetooth Rechargeable Gaming Mouse with LED</p>
+				</div>
+				
+				<div class="color_list">
+					
+					<div class="color_item is-open" data-imgurl="PIC_2025010358_dd3345930.webp" data-color="#000000">
+						<span></span>
+					</div>
+					
+					<div class="color_item" data-imgurl="PIC_2025010331_a52fb4033.webp" data-color="#ffffff">
+						<span></span>
+					</div>
+					
+				</div>
+				
+			</div>
+		</div>
+		
+			</div>
+		</div>
+		
+		<div class="tab-pane fade" id="prds_2" role="tabpanel" tabindex="0">
+			<div class="prd-carousel owl-carousel owl-theme">
+				
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Recommend</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/ergo_8230s" title="Ergo 8230S" target="_blank">
+						<img src="/upload/en/common/PIC_2025120326_387d05204.webp" class="img-fluid prdlist-img" title="Ergo 8230S" alt="Ergo 8230S">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/ergo_8230s" title="Ergo 8230S" target="_blank">Ergo 8230S</a></h4>
+					<p class="prd-txt">Easy Ergonomic Wireless Silent Mouse</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Recommend</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/sp_hf1220bt" title="SP-HF1220BT" target="_blank">
+						<img src="/upload/en/common/PIC_2025120228_53af36001.webp" class="img-fluid prdlist-img" title="SP-HF1220BT" alt="SP-HF1220BT">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/sp_hf1220bt" title="SP-HF1220BT" target="_blank">SP-HF1220BT</a></h4>
+					<p class="prd-txt">45-Watt Bluetooth Wood Speakers</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Recommend</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/hs_235u_ai" title="HS-235U AI" target="_blank">
+						<img src="/upload/en/common/PIC_2025072224_494a75432.webp" class="img-fluid prdlist-img" title="HS-235U AI" alt="HS-235U AI">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/hs_235u_ai" title="HS-235U AI" target="_blank">HS-235U AI</a></h4>
+					<p class="prd-txt">Copilot USB Headset</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Recommend</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/products/view/luxemate_q8100" title="LuxeMate Q8100" target="_blank">
+						<img src="/upload/en/common/PIC_2025070304_a1e8b9031.webp" class="img-fluid prdlist-img" title="LuxeMate Q8100" alt="LuxeMate Q8100">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/products/view/luxemate_q8100" title="LuxeMate Q8100" target="_blank">LuxeMate Q8100</a></h4>
+					<p class="prd-txt">Copilot Wireless Compact Keyboard Mouse Combo</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Recommend</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/speedmaster_x5_ff" title="SpeedMaster X5 FF" target="_blank">
+						<img src="/upload/en/common/PIC_2024122019_497156709.webp" class="img-fluid prdlist-img" title="SpeedMaster X5 FF" alt="SpeedMaster X5 FF">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/speedmaster_x5_ff" title="SpeedMaster X5 FF" target="_blank">SpeedMaster X5 FF</a></h4>
+					<p class="prd-txt">1080˚ Force Feedback Racing Wheel With 6+R Shifter</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="col col-prdlist">
+			<div class="prd-thumb-2">
+				
+			<div class="tag-list-item">
+				<ul>
+					<li><span>Recommend</span></li>
+				</ul>
+			</div>
+			
+				<div class="thumb-image">
+					<a href="/en/gaming/view/scorpion_m715" title="Scorpion M715" target="_blank">
+						<img src="/upload/en/common/PIC_2024122539_a4d068639.webp" class="img-fluid prdlist-img" title="Scorpion M715" alt="Scorpion M715">
+					</a>
+				</div>
+				<div class="thumb-content">
+					<h4 class="prd-title"><a href="/en/gaming/view/scorpion_m715" title="Scorpion M715" target="_blank">Scorpion M715</a></h4>
+					<p class="prd-txt">Aurora-like Gaming Mouse with 3D RGB Effect</p>
+				</div>
+				
+			</div>
+		</div>
+		
+			</div>
+		</div>
+		
+	</div>
+	                </div>
+            </div>
+        </section>
+        <section class="wow animate__fadeIn mainSec--slick">
+            <div class="view desktop">
+                <div class="slick-slider">
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row">
+<div class="col-8">
+<div class="row allheight">
+<div class="col-12 ch-66">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_combo.webp" />
+<div class="title">MICE &amp; KEYBOARDS</div>
+<a class="overlink" href="/en/products/list/combos" target="_blank">區塊連結</a></div>
+</div>
+
+<div class="col-6 ch-33">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_webcams.webp" />
+<div class="title">WEBCAMS</div>
+<a class="overlink" href="/en/products/list/webcams" target="_blank">區塊連結</a></div>
+</div>
+
+<div class="col-6 ch-33">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_panel.webp" />
+<div class="title">GRAPHICS TABLETS</div>
+<a class="overlink" href="/en/products/list/graphics_tablets" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-4">
+<div class="row allheight">
+<div class="col-12 ch-100">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_headset.webp" />
+<div class="title">HEADSETS</div>
+<a class="overlink" href="/en/products/list/headsets" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-8 ch-100">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_speakers.webp" />
+<div class="title">SPEAKERS</div>
+<a class="overlink" href="/en/products/list/speakers" target="_blank">區塊連結</a></div>
+</div>
+
+<div class="col-4 ch-100">
+<div class="slick-thumb img-bg t-top"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_accessories.webp" />
+<div class="title">ACCESSORIES</div>
+<a class="overlink" href="/en/products/list/accessories" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-12 ch-100">
+<div class="slick-thumb img-bg t-center light-text"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_gaming.webp" />
+<div class="title">GAMING</div>
+<a class="overlink" href="https://www.geniusnet.com/en/gaming/list/gaming_mice" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>            </div>
+            <div class="view tablet">
+                <div class="slick-slider">
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-12 ch-66">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_combo.webp" />
+<div class="title">MICE &amp; KEYBOARDS</div>
+<a class="overlink" href="/en/products/list/combos" target="_blank">區塊連結</a></div>
+</div>
+
+<div class="col-6 ch-33">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_webcams.webp" />
+<div class="title">WEBCAMS</div>
+<a class="overlink" href="/en/products/list/webcams" target="_blank">區塊連結</a></div>
+</div>
+
+<div class="col-6 ch-33">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_panel.webp" />
+<div class="title">GRAPHICS TABLETS</div>
+<a class="overlink" href="/en/products/list/graphics_tablets" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-6 ch-100">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_headset.webp" />
+<div class="title"><a href="product_list.php">HEADSETS</a></div>
+<a class="overlink" href="/en/products/list/headsets">區塊連結</a></div>
+</div>
+
+<div class="col-6">
+<div class="row allheight">
+<div class="col-12 ch-50">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_speakers.webp" />
+<div class="title">SPEAKERS</div>
+<a class="overlink" href="/en/products/list/speakers" target="_blank">區塊連結</a></div>
+</div>
+
+<div class="col-12 ch-50">
+<div class="slick-thumb img-bg t-top"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_accessories.webp" />
+<div class="title">ACCESSORIES</div>
+<a class="overlink" href="/en/products/list/accessories" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row">
+<div class="col-12 allheight">
+<div class="slick-thumb img-bg t-center light-text"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_gaming.webp" />
+<div class="title">GAMING</div>
+<a class="overlink" href="/en/gaming/list/gaming_mice" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>            </div>
+            <div class="view mobile">
+                <div class="slick-slider">
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-12 ch-50">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_combo.webp" />
+<div class="title">MICE &amp; KEYBOARDS</div>
+<a class="overlink" href="/en/products/list/combos" target="_blank">區塊連結</a></div>
+</div>
+
+<div class="col-12 ch-50">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_webcams.webp" />
+<div class="title">WEBCAMS</div>
+<a class="overlink" href="/en/products/list/webcams" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-12 ch-100">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_headset.webp" />
+<div class="title">HEADSETS</div>
+<a class="overlink" href="/en/products/list/headsets" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-12 ch-50">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_panel.webp" />
+<div class="title">GRAPHICS TABLETS</div>
+<a class="overlink" href="/en/products/list/graphics_tablets" target="_blank">區塊連結</a></div>
+</div>
+
+<div class="col-12 ch-50">
+<div class="slick-thumb img-bg t-bottom"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_speakers.webp" />
+<div class="title">SPEAKERS</div>
+<a class="overlink" href="/en/products/list/speakers" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-12 ch-100">
+<div class="slick-thumb img-bg t-top"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_accessories.webp" />
+<div class="title">ACCESSORIES</div>
+<a class="overlink" href="/en/products/list/accessories" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="slick-item">
+<div class="page-wrap">
+<div class="page-container">
+<div class="row allheight">
+<div class="col-12 ch-100">
+<div class="slick-thumb img-bg t-center light-text"><img class="img-fluid" src="https://download.geniusnet.com/web-image/top/slider_gaming.webp" />
+<div class="title">GAMING</div>
+<a class="overlink" href="/en/gaming/list/gaming_mice" target="_blank">區塊連結</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>            </div>
+        </section>
+        <section class="wow animate__fadeIn mainSec--adslide p-0">
+            <div class="swiper swiper-container ad-swiper desktop-swiper">
+                
+	<div class="swiper-wrapper">
+		
+			<div class="swiper-slide" style="background-image: url('/upload/en/common/PIC_2024122027_a6e6915.webp');">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255); text-align: center;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">SUSTAINABILITY</h2>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-4" href="/en/esg/sustainability" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide" style="background-image: url('/upload/en/common/PIC_2024122044_8ce546026.webp');">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(0, 0, 0); text-align: center;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">ABOUT GENIUS</h2>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-1" href="https://www.geniusnet.com/en/about/genuis" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+	</div>
+	<div class="main-swiper-arrow-buttons">
+		<div class="main-swiper-arrow-button swiper-button-prev">
+			<i class="ti-angle-left"></i>
+		</div>
+		<div class="main-swiper-arrow-button swiper-button-next">
+			<i class="ti-angle-right"></i>
+		</div>
+	</div>
+	<div class="swiper-pagination main-swiper-pagination"></div>
+	            </div>
+            <div class="swiper swiper-container ad-swiper mobile-swiper">
+                
+	<div class="swiper-wrapper">
+		
+			<div class="swiper-slide">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<img src="/upload/en/common/PIC_2024120600_523751622.webp" class="swiper-mb-img" alt="Genius | Gaming, Mobile & Computer Peripherals">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(255, 255, 255); text-align: center;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">SUSTAINABILITY</h2>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-4" href="/en/esg/sustainability" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-slide">
+				<div class="swiper-opacity"></div>
+				<div class="swiper-height">
+					<img src="/upload/en/common/PIC_2024122046_ef2fd8025.webp" class="swiper-mb-img" alt="Genius | Gaming, Mobile & Computer Peripherals">
+					<div class="swiper-content container">
+						<div class="swiper-txt">
+							<h2 class="ani" style="color: rgb(0, 0, 0); text-align: center;" swiper-animate-delay="0" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">ABOUT GENIUS</h2>
+
+<p style="text-align: center;"><a class="ani swiper-btn model-style-1" href="https://www.geniusnet.com/en/about/genuis" swiper-animate-delay="0.4s" swiper-animate-duration="0.8s" swiper-animate-effect="animate__fadeInUp">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+	</div>
+	<div class="main-swiper-arrow-buttons">
+		<div class="main-swiper-arrow-button swiper-button-prev">
+			<i class="ti-angle-left"></i>
+		</div>
+		<div class="main-swiper-arrow-button swiper-button-next">
+			<i class="ti-angle-right"></i>
+		</div>
+	</div>
+	<div class="swiper-pagination main-swiper-pagination"></div>
+	            </div>
+        </section>
+    </main>
+    
+<footer class="footer-style">
+    <div class="container">
+        <div class="footBody">
+            <div class="editor-area">
+                <div class="row">
+<div class="col-lg-12 mb-0">
+<div class="sitemapSec">
+<div class="row row-cols-lg-5 row-cols-md-3 row-cols-2">
+<div class="col">
+<h4>ABOUT</h4>
+
+<ul>
+	<li><a href="/en/about/genuis">About Genius</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h4>NEWS</h4>
+
+<ul>
+	<li><a href="/en/pageview/press_info">Press Info</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h4>PRODUCTS</h4>
+
+<ul>
+	<li><a href="/en/products/list/mice">Mice</a></li>
+	<li><a href="/en/products/list/keyboards">Keyboards</a></li>
+	<li><a href="/en/products/list/combos">Combos</a></li>
+	<li><a href="/en/products/list/speakers">Speakers</a></li>
+	<li><a href="/en/products/list/headsets">Headsets</a></li>
+	<li><a href="/en/products/list/webcams">WebCams</a></li>
+	<li><a href="/en/products/list/graphics_tablets">Graphics Tablets</a></li>
+	<li><a href="/en/products/list/accessories">Accessories</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h4>GX GAMING</h4>
+
+<ul>
+	<li><a href="/en/gaming/list/gaming_mice">Mice</a></li>
+	<li><a href="/en/gaming/list/gaming_keyboards">Keyboards</a></li>
+	<li><a href="/en/gaming/list/gaming_speakers">Speakers</a></li>
+	<li><a href="/en/gaming/list/gaming_headsets">Headsets</a></li>
+	<li><a href="/en/gaming/list/racing_wheels">Racing Wheel</a></li>
+	<li><a href="/en/gaming/list/game_controllers">Game Controller</a></li>
+	<li><a href="/en/gaming/list/gaming_accessories">Accessories</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h4>INVESTORS</h4>
+
+<ul>
+	<li><a href="/en/investors/fin_business_info">Financial &amp; Business Info.</a></li>
+	<li><a href="/en/investors/7">Shareholder Services</a></li>
+	<li><a href="/en/investors/8">Corporate Governance</a></li>
+	<li><a href="/en/investors/9">Major Internal Regulations</a></li>
+	<li><a href="/en/investors/10">Stakeholders</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h4>ESG</h4>
+
+<ul>
+	<li><a href="/en/esg/sustainability">Sustainability</a></li>
+	<li><a href="/en/esg/implementation">Implementation</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h4>SUPPORT</h4>
+
+<ul>
+	<li><a href="/en/inquiry">Business Contact</a></li>
+	<li><a href="/en/contact">Technical Contact</a></li>
+	<li><a href="/en/support">Download &amp; FAQ</a></li>
+	<!-- <li> <a href="service_2.php">Download</a>
+                                                </li> --><!-- <li> <a href="service.php">Warranty</a>
+                                                </li> -->
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>            </div>
+        </div>
+        <div class="footBottom">
+            <div class="row align-items-center">
+                <div class="col-lg-4 col-md-4 col-auto order-md-1 order-1">
+                    
+			<ul class="social-icon-list">
+				
+					<li>
+						<a href="https://www.facebook.com/GeniusGlobalFan" target="_blank" title="Facebook">
+							<i class="fa-brands fa-facebook-f"></i>
+						</a>
+					</li>
+					
+					<li>
+						<a href="https://www.youtube.com/channel/UCaA5DVUBiw2wuK-6vaaPoNQ" target="_blank" title="Youtube">
+							<i class="fa-brands fa-youtube"></i>
+						</a>
+					</li>
+					
+					<li>
+						<a href="https://www.instagram.com/geniusglobal/" target="_blank" title="Instagram">
+							<i class="fa-brands fa-instagram"></i>
+						</a>
+					</li>
+					
+			</ul>
+			                </div>
+                <div class="col-lg-4 col-md-4 order-md-2 order-3">
+                    <div class="copyright">@2024 KYE Systems Corp.</div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-auto order-md-2 order-2">
+                    <ul class="quicklink-list">
+                        <li>
+                            <a href="/en/pageview/privacy">Privacy</a>
+                        </li>
+                        <li>
+                            <a href="/en/pageview/terms_of_use">Terms of use</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>    <!-- jQuery -->
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/moment.min.js"></script>
+<script type="text/javascript" src="/js/theme-vendors.min.js"></script>
+<!-- jquery CMS Plugins -->
+<script type="text/javascript" src="/Plugin/plugin_slickCarousel/js/slick.min.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_swiper/js/swiper.min.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_swiper/js/swiper.animate.min.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_owlCarousel/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_fancybox/js/fancybox.umd.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_fancybox/js/carousel.umd.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_fancybox/js/carousel.thumbs.umd.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_PHPcaptcha/js/verifyrefresh.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_validate/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_validate/js/jquery.alphanumeric.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_blueimpGallery/js/jquery.blueimp-gallery.min.js"></script>
+<script type="text/javascript" src="/Plugin/plugin_sweetalert2/11.12.0/js/sweetalert2.all.min.js"></script>
+<!-- jquery theme libraries -->
+<script type="text/javascript" src="/js/bootsnav.js"></script>
+<script type="text/javascript" src="/js/jquery.nav.js"></script>
+<script type="text/javascript" src="/js/hamburger-menu.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+<!-- jquery CMS Default js -->
+<script type="text/javascript" src="/js/cms_core/jquery.cms.ajax.js?v=260420045229"></script>
+<script type="text/javascript" src="/js/cms_core/jquery.cms.form.js?v=260420045229"></script>
+<script type="text/javascript" src="/js/cms_core/jquery.cms.editor.js?v=260420045229"></script>
+<script type="text/javascript" src="/js/cms_core/jquery.cms.setting.js?v=260420045229"></script>
+
+
+<script>
+var _java_lang_package = {
+    'error': 'Error',
+    'file_size_limit': 'Your file exceeds the size limit, please reselect or recommend thumbnail!',
+    'files_type_error': 'The selected file format does not match!',
+    'required_text': 'Required information',
+    'serial_number_error': 'Incorrect serial number',
+    'reconfirm': 'Please confirm the information in the red box again',
+    'empty_search': 'Please enter product keywords!',
+};
+var _java_upload_dir = '/upload/en/common/';
+</script>
+
+</body>
+
+</html>

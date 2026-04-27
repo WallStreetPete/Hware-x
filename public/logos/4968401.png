@@ -1,0 +1,1510 @@
+<!DOCTYPE HTML>
+<html lang="ko">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes, target-densitydpi=medium-dpi">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="naver-site-verification" content="681ddd79683c3b7097c5e45867750cdd3e1b9d8b"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E6M9J2K0C5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-E6M9J2K0C5');
+</script>
+<!-- Event snippet for 자료실 페이지 conversion page -->
+<!-- Event snippet for 온라인 문의하기 conversion page -->
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+        if(/Resources.php/.test(window.location.pathname)){
+            gtag('event', 'conversion', {'send_to': 'AW-723101423/R5gWCOu7pdEBEO_N5tgC'});
+        }
+        else if(/Contact-Us.php/.test(window.location.pathname)){
+            document.querySelector('.btn_blue01').addEventListener('click', function(){
+                gtag('event', 'conversion', {'send_to': 'AW-723101423/dkQHCJPDpdEBEO_N5tgC'});
+            });
+        }
+    });
+</script>
+
+<!-- SNS 공유 설정 Start -->
+<meta name="Subject" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta name="Title" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta name="generator" content="PIOLINK" />
+<meta name="description" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta name="keywords" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta name="Classification" content="api,xml,php,mysql,xe,gnuboard,ycart,cms" />
+<meta name="author" content="PIOLINK" />
+<meta name="Publisher" content="PIOLINK" />
+<meta name="Other Agent" content="PIOLINK" />
+<meta name="Distribution" content="PIOLINK" />
+<meta name="Copyright" content="PIOLINK" />
+<meta name="robots" content="ALL,INDEX,FOLLOW" />
+<meta id="cma_meta_name" name="msapplication-starturl" content="https://www.piolink.com" />
+<link id="cma_meta_image_src" rel="image_src" href="https://www.piolink.com/images/piolink.jpg" />
+<meta id="cma_meta_twitter_card" name="twitter:card" content="summary" />
+<meta id="cma_meta_twitter_url" name="twitter:url" content="https://www.piolink.com" />
+<meta id="cma_meta_twitter_title" name="twitter:title" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta id="cma_meta_twitter_description" name="twitter:description" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta id="cma_meta_twitter_image" name="twitter:image" content="https://www.piolink.com/images/piolink.jpg" />
+<meta id="cma_meta_og_title"  property="og:title" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta id="cma_meta_og_type"  property="og:type" content="website" />
+<meta id="cma_meta_og_image" property="og:image" content="https://www.piolink.com/images/logo_png250.png" />
+<meta id="cma_meta_og_site_name" property="og:site_name" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta id="cma_meta_og_url" property="og:url" content="https://www.piolink.com//kr/index.php%3Fl%3Dkor" />
+<meta id="cma_meta_og_description" property="og:description" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta id="cma_meta_nate_title"  name="nate:title" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta id="cma_meta_nate_description"  name="nate:description" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta id="cma_meta_nate_site_name"  name="nate:site_name" content="C.m.A API 이야기(Mokulsha!) [chongmoa.com]" />
+<meta id="cma_meta_nate_url" name="nate:url" content="https://www.piolink.com" />
+<meta id="cma_meta_nate_image" name="nate:image" content="https://www.piolink.com/images/piolink.jpg" />
+<!-- SNS 공유 설정 End -->
+
+<!--
+<meta name="subject" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅"/>
+<meta name="title" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅"/>
+<meta name="generator" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅"/>
+<meta name="description" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅"/>
+<meta name="keywords" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅"/>
+<meta name="image" content="http://www.piolink.com/images/piolink.jpg"/>
+<meta name="image_src" content="http://www.piolink.com/images/piolink.jpg"/>
+
+<meta property="fb:app_id" content="1478816525755678" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<meta property="og:url" content="http://www.piolink.com//kr/index.php" />
+<meta property="og:image" content="http://www.piolink.com/images/piolink.jpg" />
+<meta property="og:description" content="파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅" />
+<link rel="image_src" href="http://www.piolink.com/images/piolink.jpg" />
+-->
+
+<title>파이오링크- ADC, 웹방화벽, 보안스위치, HCI, 보안관제, 보안컨설팅</title>
+<!--[if lt IE 9]>
+<script type="text/javascript" language="javascript" src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="/images/piolink_ico.ico" />
+<link rel="stylesheet" href="/kr/css/font_css.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/basic.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/board.css" type="text/css" />
+<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="/kr/js/jquery-ui-1.8.18.custom.css" />
+<link rel="stylesheet" href="/kr/js/nyroModal.css" type="text/css" />
+<link rel="stylesheet" href="/kr/js/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/swiper.min.css" type="text/css" />
+<link rel="stylesheet" href="/piolink0/www/member/_skin/t_basic/member.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/jquery.bxslider.css" type="text/css" />
+
+
+<!-- 리포트2.0 로그분석코드 시작 -->
+<script type="text/javascript">var sTime = new Date().getTime();(function(i,s,o,g,r,a,m){i['webObject']=g;i['webUid']=r;a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//piolink.weblog.cafe24.com/weblog.js?v='+sTime,'piolink_2');
+</script>
+<!-- 리포트2.0 로그분석코드 완료 -->
+
+
+<!-- css 브라우저 체크 로딩  -->
+<script type="text/javascript">
+ var rv = -1; // Return value assumes failure.
+ if (navigator.appName == 'Microsoft Internet Explorer') {
+			var ua = navigator.userAgent;
+			var re = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+			if (re.exec(ua) != null)
+					rv = parseFloat(RegExp.$1);
+		 }
+
+if(rv == 8 ){
+		document.write("<link rel='stylesheet' href='/css/default_pc.css' type='text/css' />");
+
+}
+else
+{
+	document.write("<link rel='stylesheet' href='/kr/css/default_pc.css' type='text/css' media='print' />");
+	document.write("<link rel='stylesheet' href='/kr/css/default_pc.css' type='text/css' media='screen and (min-width: 1000px)' />");
+	document.write("<link rel='stylesheet' href='/kr/css/default_tablet.css' type='text/css' media='screen and (min-width: 760px) and (max-width: 1000px)' />");
+	document.write("<link rel='stylesheet' href='/kr/css/default_mobile.css' type='text/css' media='screen and (min-width: 0px) and (max-width: 760px)' />");
+	document.write("<link rel='stylesheet' href='/kr/css/default_respon2.css' type='text/css' />");
+}
+</script>
+
+<link rel="stylesheet" href="https://raonwebstore.com/piolink_work.css" />
+
+<!-- 2022-03-30 추가 -->
+<link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<!-- 2022-06-15 추가 -->
+<link rel="stylesheet" href="/kr/css/hyper-ci.css" type="text/css" />
+<!-- 2024-07-10 추가 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-iBB8m2+OBlIhCUzEeyZIJ0U5zU7vyUQvcKc0bB1CJC5T6qEEiuzBU4xU4Fv5dzJC" crossorigin="anonymous">
+<!-- 2024-11-11 추가 -->
+<link rel="stylesheet" href="/kr/css/main.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/gnb.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/footer.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/quick.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/style.css" type="text/css" />
+<link rel="stylesheet" href="/kr/css/history.css" type="text/css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/xpressengine/xeicon@2.3.1/xeicon.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/_dev/smartEditor/mong9-editor/source/etc/bootstrap-icons/bootstrap-icons.min.css">
+<link rel="stylesheet" href="/_dev/smartEditor/mong9-editor/source/css/mong9-base.css">
+<link rel="stylesheet" href="/_dev/smartEditor/mong9-editor/source/css/mong9.css">
+<link rel="stylesheet" href="/_dev/smartEditor/mong9-editor/source/css/mong9-m.css" media="all and (max-width: 768px)">
+<link rel="stylesheet" href="/_dev/smartEditor/mong9-editor/source/css/mong9-e.css" media="all and (max-width: 576px)">
+
+<script type="text/javascript" src="/kr/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/kr/js/jquery-ui-1.8.18.custom.min.js"></script>
+<script type="text/javascript" src="/kr/js/jquery.nyroModal.custom.min.js"></script>
+<script type="text/javascript" src="/kr/js/jquery.alphanumeric.pack.js"></script>
+<script type="text/javascript" src="/kr/js/common.js"></script>
+<script type="text/javascript" src="/kr/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/kr/js/validation.kdy2.js"></script>
+<script type="text/javascript" src="/kr/js/spamFree.js"></script>
+<script type="text/javascript" src="/kr/js/design/common.js"></script>
+<script type="text/javascript" src="/kr/js/design/link.js"></script>
+<script src="https://ssl.daumcdn.net/dmaps/map_js_init/postcode.v2.js"></script>
+<script type="text/javascript" src="/kr/js/jquery.animate-shadow-min.js"></script>
+<script type="text/javascript" src="/kr/js/jquery.cycle2.js"></script>
+<script type="text/javascript" src="/kr/js/jquery.cycle2.swipe.js"></script>
+<script type="text/javascript" src="/kr/js/naver_band.js"></script>
+<script type="text/javascript" src="/kr/js/jquery.printArea.improved.js"></script>
+<script type="text/javascript" src="/kr/js/jquery.bxslider.js"></script>
+
+</head>
+
+<script type="application/ld+json">
+{
+ "@context": "http://schema.org",
+ "@type": "Person",
+ "name": "PIOLINK",
+ "url": "https://www.piolink.com",
+ "sameAs": [
+   "https://www.facebook.com/PIOLINK",
+   "https://blog.naver.com/piolinkin",
+   "https://www.youtube.com/channel/UCHuqpaIky5701NdPThRcXGw"
+ ]
+}
+</script>
+
+
+
+<script>
+	$(document).ready(function(){
+		$(".mobile_menu").show();
+		$(".mobile_menu_blind").hide();
+
+		$(".all_menu_btn").click(function(){
+			$(".mobile_menu").animate({"left" : "0"});
+			$(".mobile_menu_blind").show();
+			//$("body").bind('touchmove', function(e){e.preventDefault()});
+		});
+		$(".mobile_menu_blind").click(function(){
+			$(".mobile_menu").animate({"left" : "-100%"});
+			$(".mobile_menu_blind").hide();
+			//$("body").unbind('touchmove');
+		});
+	});
+</script>
+
+<style>
+.font_11{font-size:11px;font-family:돋움}
+</style>
+<body>
+<script>
+	var mainVisual;
+
+	$(document).ready(function() {
+		$(".visualItems:first").animate({opacity:1});
+
+		for(var i =0; i < $(".visualItems").length; i++) {
+			$(".visualPage").append("<span class='visualBtn' onclick='visual_change("+i+")'></span>");
+		}
+
+		$(".visual").attr("_show", "0");
+		$(".visualBtn:first").addClass("act");
+
+		
+		if( $(".visualItems").length > 1 ) {
+			mainVisual = setInterval("nextVisual()", 4000 );
+
+			$(".visual").hover(
+				function() {
+					clearInterval( mainVisual );
+				},
+				function() {
+					mainVisual = setInterval("nextVisual()", 4000 );
+				}
+			);
+		}
+		
+
+
+
+	});
+
+	function nextVisual() {
+		var nV = parseInt( $(".visual").attr("_show") );
+		nV = nV + 1;
+		nV = nV > $(".visualItems").length - 1 ? 0 : nV;
+		visual_change(nV);
+	}
+
+	function visual_change(s) {
+
+		$(".visualItems").not(":eq("+s+")").animate({opacity:0}, 300, function(){
+		});
+
+		$(".visualItems").eq(s).animate({opacity:1}, 300, function(){
+		});
+		
+		//$(".visualItems").stop(false,false).fadeOut();
+		//$(".visualItems:eq("+s+")").stop(false,false).fadeIn();
+		
+		
+		$(".visual").attr("_show", s);
+		$(".visualBtn").removeClass("act");
+		$(".visualBtn:eq("+s+")").addClass("act");
+	}
+
+
+$(document).ready(function() {
+
+
+
+
+	$(".overlay1").each(function() {
+
+		var _html = "<div class='overlayDiv' style='display:none;position:absolute;left:0px;top:0px;background:#ffffff;width:100%;height:100%;opacity:0.5'></div>";
+		$(this).prepend(_html);
+
+		$(this).css({"display":"inline-block", "position":"relative"});
+		$(this).hover(
+			function() {
+				
+				$(this).children(".overlayDiv").css({"display":"block"});
+				$(this).children(".overlayDiv").fadeOut(300);
+			},
+			function() {
+
+			}
+
+		);
+
+
+	});
+
+
+
+	$(".overlay2").each(function() {
+
+		var _w = $(this).width() - 10;
+		var _h = $(this).height() - 10;
+		var _title = $(this).children("img").attr("alt");
+
+		var _html = "<div class='overlayDiv' style='display:none;position:absolute;left:0px;top:0px;width:"+_w+"px;height:"+_h+"px;border:5px solid #dddddd'><span class='overlayTitle' style='position:absolute;background:#dddddd;width:100%;height:20px;line-height:20px;overflow:hidden;left:0px;top:"+(_h)+"px'>"+_title+"</span></div>";
+		$(this).prepend(_html);
+
+		$(this).css({"display":"inline-block", "position":"relative", "overflow":"hidden"});
+		$(this).hover(
+			function() {
+				
+				$(this).children(".overlayDiv").css({"display":"block"});
+				$(this).children(".overlayDiv").children(".overlayTitle").stop(false,false).animate({"top":(_h-20)+"px"}, 200);
+			},
+			function() {
+
+				$(this).children(".overlayDiv").children(".overlayTitle").stop(false,false).animate({"top":(_h)+"px"}, 200, function(){
+					$(this).parent(".overlayDiv").stop(false,false).hide();
+				});
+			}
+
+		);
+
+
+	});
+
+
+});
+
+
+</script><!-- warp start -->
+<div id="wrap">
+
+  <!-- header start -->
+  <header id="header">
+    <!-- com_menu start -->
+    <style>
+	/* 헤더의 지구본 아이콘 선 굵기 조정 (PC & 모바일 공통) */
+	#header .gside .lanBx .btn-lan .xi-globus {
+		font-weight: 300;
+	}
+
+	/* 핸드폰기기에서만 스타일적용 안됌 - 해당 php파일에 style적용 */
+	@media screen and (max-width: 999.98px){
+		#com_menu.header .gnb-mo > dl > dd .dd-box:not(div:last-child){
+			margin-bottom:30px;
+		}
+		#com_menu.header .gnb-mo > dl > dd .dd-box > .title {
+			font-size:20px;
+			color:var(--sc);
+		}
+		#com_menu.header .gnb-mo > dl > dd .dd-box > p > a {
+			position:relative;
+			display:block;
+			margin-top:20px;
+			font-size:18px;
+			color:#000;
+			padding-left:34px;
+		}
+		#com_menu.header .gnb-mo > dl > dd .dd-box > p > a:before {
+			content:"└";
+			position:absolute;
+			left:10px;
+			top:2px;
+		}
+		#com_menu.header .gnb-mo > dl > dd .dd-box > p > a:hover {
+			text-decoration:none;
+		}
+	}
+    @media screen and (max-width: 769.98px) {
+		#com_menu.header .gnb-mo > dl > dd .dd-box:not(div:last-child){
+			margin-bottom:30px;
+		}
+		#com_menu.header .gnb-mo > dl > dd .dd-box > .title {
+			font-size:16px;
+		}
+		#com_menu.header .gnb-mo > dl > dd .dd-box > p > a {
+			margin-top:15px;
+			font-size:14px;
+			padding-left:30px;
+		}
+
+		#com_menu.header .gnb-mo > dl > dd{position:relative;overflow:hidden;padding:0;}
+		#com_menu.header .gnb-mo > dl > dd .dd-scroll{max-height:calc(100vh - 380px);overflow-y:auto;padding:30px 34px 30px 20px;scrollbar-width:none;-ms-overflow-style:none;}
+		#com_menu.header .gnb-mo > dl > dd .dd-scroll::-webkit-scrollbar{width:0;height:0;}
+		#com_menu.header .gnb-mo > dl > dd::after{content:"";position:absolute;top:10px;right:10px;bottom:10px;width:3px;border-radius:999px;background:rgba(0,0,0,.10);pointer-events:none;}
+		#com_menu.header .gnb-mo > dl > dd .scroll-thumb{position:absolute;right:9px;top:10px;width:5px;height:40px;border-radius:999px;background:rgba(0,0,0,.35);box-shadow:0 0 0 2px rgba(255,255,255,.6);pointer-events:none;opacity:1;transform:translateY(0);}
+    }
+</style>
+<ul id="skipNavi">
+  <li><a href="#container">본문 바로가기</a></li>
+  <li><a href="#com_menu">주메뉴 바로가기</a></li>
+</ul>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".search_btn").click(function(){
+			$(".top_search").slideToggle("slow");
+		});
+	});
+
+	(function () {
+		function setup(wrap) {
+			if (!wrap) return;
+			const scroller = wrap.querySelector(".dd-scroll");
+			if (!scroller) return;
+			if (wrap.querySelector(".scroll-thumb")) return;
+
+			const thumb = document.createElement("span");
+			thumb.className = "scroll-thumb";
+			wrap.appendChild(thumb);
+
+			const update = () => {
+			const ch = scroller.clientHeight;
+			const sh = scroller.scrollHeight;
+			const st = scroller.scrollTop;
+
+			if (sh <= ch + 1) {
+				thumb.style.opacity = "0";
+				return;
+			}
+			thumb.style.opacity = "1";
+
+			const track = wrap.clientHeight - 20;
+			const ratio = ch / sh;
+			const h = Math.max(28, Math.round(track * ratio));
+			const maxTop = track - h;
+			const top = Math.round((st / (sh - ch)) * maxTop);
+
+			thumb.style.height = h + "px";
+			thumb.style.transform = `translateY(${top}px)`;
+			};
+
+			update();
+			scroller.addEventListener("scroll", update, { passive: true });
+			window.addEventListener("resize", update);
+		}
+
+		function init() {
+			document
+			.querySelectorAll("#com_menu.header .gnb-mo > dl > dd")
+			.forEach(setup);
+		}
+
+		document.addEventListener("DOMContentLoaded", init);
+
+		const mo = document.querySelector("#com_menu.header .gnb-mo");
+		if (mo) {
+			new MutationObserver(init).observe(mo, {
+			attributes: true,
+			childList: true,
+			subtree: true,
+			});
+		}
+	})();
+
+
+</script>
+<div id="com_menu" class="header">
+  <nav class="global_menu3">
+	<div class="container">
+		<div class="top">
+			<h1 class='logo'>				<a href="/kr"><img src="/kr/_img/comm/logo.png" alt="파이오링크 로고"></a>
+			</h1>	
+			<!-- 글로벌 메뉴 시작 -->
+			<div class="gnb" id="gnb_skip">
+				<dl class="menu01">
+					<dt><a href="javascript:;" id="idtest0">제품 및 서비스</a> </dt>
+					<dd class="af_clear container-sm">
+						<div>
+							<p class="title">데이터센터</p>
+							<p><a href="/kr/product/Hyper-Converged-Infrastructure.php" class="">하이퍼 컨버지드 인프라 (HCI)</a></p>
+							<p><a href="/kr/product/Optimizing-Software-Defined-Data-Center.php" class="">SDDC 구축 최적화</a></p>
+							<p><a href="/kr/product/Application-Availability.php" class="">애플리케이션 성능·가용성</a></p>
+							<p><a href="/kr/product/GSLB-global-server-load-balancing.php" class="">데이터센터 이중화를 위한 GSLB</a></p>
+						</div>
+						<div>
+							<p class="title">클라우드</p>
+							<p><a href="/kr/SECaaS/PIOLINK-Cloud.php" class="">완전 관리형 SECaaS</a></p>
+							<p><a href="/kr/product/PAS-KS-for-Cloud.php" class="">클라우드 로드밸런서</a></p>
+							<p><a href="/kr/product/Web-Application-Firewall-for-Cloud.php" class="">클라우드 웹방화벽</a></p>
+							<p><a href="/kr/service/Cloud-Managed-Security-Services.php" class="">클라우드 보안관제 서비스</a></p>
+						</div>
+						<div>
+							<p class="title">네트워크</p>
+							<p><a href="/kr/product/Cloud-Managed-Networking.php" class="">클라우드 매니지드 네트워킹</a></p>
+							<p><a href="/kr/product/Cloud-Security-Switch.php" class="">L2/L3 보안스위치</a></p>
+							<p><a href="/kr/product/Backbone-Switch.php" class="">백본 스위치</a></p>
+							<p><a href="/kr/product/Application-Delivery-Controller.php" class="">L4/L7 스위치 (ADC)</a></p>	
+						</div>
+						<div>
+							<p class="title">보안</p>
+							<p><a href="/kr/product/TiFRONT-ZT-Zero-Trust.php" class="">제로트러스트</a></p>	
+							<p><a href="/kr/product/TiFRONT-security-engine.php" class="">내부망 다층 보안</a></p>
+							<p><a href="/kr/product/Web-Application-Firewall.php" class="">웹방화벽·API보호</a></p>
+						</div>
+						<div>
+							<p class="title">보안 서비스</p>
+							<p><a href="/kr/service/Managed-Security-Services.php" class="">통합 보안관제</a></p>
+							<p><a href="/kr/service/Security-Consulting-Services.php" class="">보안컨설팅</a></p>
+							<p><a href="/kr/service/PIOLINK-CTI.php" class="">사이버 위협 인텔리전스</a></p>
+						</div>
+						<div>
+							<p class="title">파트너 솔루션</p>
+							<p><a href="/kr/service/ransomware-response.php" class="">에브리존(안티랜섬웨어)</a></p>
+							<p><a href="/kr/service/NDR-network-detection-and-response.php" class="">쿼드마이너(네트워크블랙박스)</a></p>
+							<p><a href="/kr/service/npcore.php" class="">엔피코어(APT대응·EDR)</a></p>
+						</div>
+					</dd>
+				</dl>
+				<dl class="menu03">
+					<dt><a href="javascript:;" id="idtest2">고객지원</a></dt>
+					<dd class="af_clear container-sm">
+						<div>
+							<p class="title">서비스</p>
+							<p><a href="/kr/support/Purchase.php" class="">제품구매ㆍ유지보수</a></p>
+							<p><a href="/kr/support/Technical-Support.php" class="">기술ㆍ교육 지원</a></p>
+							<p><a href="/kr/partner/Partner_List.php" class="">파트너 찾기</a></p>
+							<p><a href="/kr/support/Contact-Us.php" class="">문의하기</a></p>
+						</div>
+						<div>
+							<p class="title">리소스</p>
+							<p><a href="/kr/support/Resources.php" class="">자료실</a></p>
+							<p><a href="/kr/support/Case-Studies.php" class="">고객사례</a></p>
+							<p><a href="/kr/service/Security-Notice.php" class="">보안공지</a></p>
+						</div>
+						<div>
+							<p class="title">인사이트</p>
+							<p><a href="/kr/service/Security-Analysis.php" class="">보안위협분석</a></p>
+							<p><a href="/kr/insight/tech-guide.php" class="">기술가이드</a></p>
+							<p><a href="/kr/service/Security-Report.php" class="">월간 보안 동향 브리핑</a></p>
+						</div>
+					</dd>
+				</dl>
+				<dl class="menu04">
+					<dt><a href="javascript:;" id="idtest3">회사소개</a></dt>
+					<dd class="af_clear container-sm">
+						<div>
+							<p class="title">회사소개</p>
+							<p><a href="/kr/company/Company-Overview.php" class="">회사정보</a></p>
+							<p><a href="/kr/company/Certifications-and-Compliance.php" class="">인증 · 규제준수</a></p>
+							<p><a href="/kr/company/History-Awards.php" class="">연혁ㆍ수상</a></p>
+							<p><a href="/kr/company/IR.php" class="">투자정보</a></p>
+							<p><a href="/kr/company/Contact.php" class="">주소ㆍ연락처</a></p>
+						</div>
+						<div>
+							<p class="title">홍보센터</p>
+							<p><a href="/kr/company/News.php" class="">언론보도</a></p>
+							<p><a href="/kr/company/Event.php" class="">행사안내</a></p>
+							<p><a href="/kr/company/Newsletter.php" class="">뉴스레터</a></p>
+							<!--<p><a href="/kr/company/Awards-Certifications.php" class="">수상ㆍ인증ㆍ특허</a></p>-->
+						</div>
+					</dd>
+				</dl>
+			</div>
+			<!-- 글로벌 메뉴 끝 --> 
+
+			<!-- 모바일 메뉴 시작 -->
+			<div class="gnb-mo">
+				<div class="q-menu">
+					<a href="/kr/support/Contact-Us.php" class="btn-online">문의하기</a>
+					<a href="https://secaas.piolink.com/login" target="_blink" class="btn-secaas">SECaaS <i class="xi-external-link"></i></a>
+				</div>
+				<dl class="menu01">
+					<dt><a href="javascript:;" id="idtest0">제품 및 서비스</a> </dt>
+					<dd class="af_clear container-sm">
+						<div class="dd-scroll">
+							<div class="dd-box">
+								<p class="title">데이터센터</p>
+								<p><a href="/kr/product/Hyper-Converged-Infrastructure.php" class="">하이퍼 컨버지드 인프라 (HCI)</a></p>
+								<p><a href="/kr/product/Optimizing-Software-Defined-Data-Center.php" class="">SDDC 구축 최적화</a></p>
+								<p><a href="/kr/product/Application-Availability.php" class="">애플리케이션 성능·가용성</a></p>
+								<p><a href="/kr/product/GSLB-global-server-load-balancing.php" class="">데이터센터 이중화를 위한 GSLB</a></p>
+							</div class="dd-box">
+							<div class="dd-box">
+								<p class="title">클라우드</p>
+								<p><a href="/kr/SECaaS/PIOLINK-Cloud.php" class="">완전 관리형 SECaaS</a></p>
+								<p><a href="/kr/product/PAS-KS-for-Cloud.php" class="">클라우드 로드밸런서</a></p>
+								<p><a href="/kr/product/Web-Application-Firewall-for-Cloud.php" class="">클라우드 웹방화벽</a></p>
+								<p><a href="/kr/service/Cloud-Managed-Security-Services.php" class="">클라우드 보안관제 서비스</a></p>
+							</div>
+							<div class="dd-box">
+								<p class="title">네트워크</p>
+								<p><a href="/kr/product/Cloud-Managed-Networking.php" class="">클라우드 매니지드 네트워킹</a></p>
+								<p><a href="/kr/product/Cloud-Security-Switch.php" class="">L2/L3 보안스위치</a></p>
+								<p><a href="/kr/product/Backbone-Switch.php" class="">백본 스위치</a></p>
+								<p><a href="/kr/product/Application-Delivery-Controller.php" class="">L4/L7 스위치 (ADC)</a></p>
+							</div>
+							<div class="dd-box">
+								<p class="title">보안</p>
+								<p><a href="/kr/product/TiFRONT-ZT-Zero-Trust.php" class="">제로트러스트</a></p>
+								<p><a href="/kr/product/TiFRONT-security-engine.php" class="">내부망 다층 보안</a></p>
+								<p><a href="/kr/product/Web-Application-Firewall.php" class="">웹방화벽·API보호</a></p>
+							</div>
+							<div class="dd-box">
+								<p class="title">보안 서비스</p>
+								<p><a href="/kr/service/Managed-Security-Services.php" class="">통합 보안관제</a></p>
+								<p><a href="/kr/service/Security-Consulting-Services.php" class="">보안컨설팅</a></p>
+								<p><a href="/kr/service/PIOLINK-CTI.php" class="">사이버 위협 인텔리전스</a></p>
+							</div>
+							<div class="dd-box">
+								<p class="title">파트너 솔루션</p>
+								<p><a href="/kr/service/ransomware-response.php" class="">에브리존(안티랜섬웨어)</a></p>
+								<p><a href="/kr/service/NDR-network-detection-and-response.php" class="">쿼드마이너(네트워크블랙박스)</a></p>
+								<p><a href="/kr/service/npcore.php" class="">엔피코어(APT대응·EDR)</a></p>
+							</div>
+						</div>
+					</dd>
+				</dl>
+				<dl class="menu03">
+					<dt><a href="javascript:;" id="idtest2">고객지원</a></dt>
+					<dd class="af_clear container-sm">
+						<div class="dd-scroll">
+							<div class="dd-box">
+								<p class="title">서비스</p>
+								<p><a href="/kr/support/Purchase.php" class="">제품구매ㆍ유지보수</a></p>
+								<p><a href="/kr/support/Technical-Support.php" class="">기술ㆍ교육 지원</a></p>
+								<p><a href="/kr/partner/Partner_List.php" class="">파트너 찾기</a></p>
+								<p><a href="/kr/support/Contact-Us.php" class="">문의하기</a></p>
+							</div>
+							<div class="dd-box">
+								<p class="title">리소스</p>
+								<p><a href="/kr/support/Resources.php" class="">자료실</a></p>
+								<p><a href="/kr/support/Case-Studies.php" class="">고객사례</a></p>
+								<p><a href="/kr/service/Security-Notice.php" class="">보안공지</a></p>
+							</div>
+							<div class="dd-box">
+								<p class="title">인사이트</p>
+								<p><a href="/kr/service/Security-Analysis.php" class="">보안위협분석</a></p>
+								<p><a href="/kr/insight/tech-guide.php" class="">기술가이드</a></p>
+								<p><a href="/kr/service/Security-Report.php" class="">월간 보안 동향 브리핑</a></p>
+							</div>
+						</div>
+					</dd>
+				</dl>
+				<dl class="menu04">
+					<dt><a href="javascript:;" id="idtest3">회사소개</a></dt>
+					<dd class="af_clear container-sm">
+						<div class="dd-scroll">
+							<div class="dd-box">
+								<p class="title">회사소개</p>
+								<p><a href="/kr/company/Company-Overview.php" class="">회사정보</a></p>
+								<p><a href="/kr/company/Certifications-and-Compliance.php" class="">인증 · 규제준수</a></p>
+								<p><a href="/kr/company/History-Awards.php" class="">연혁ㆍ수상</a></p>
+								<p><a href="/kr/company/IR.php" class="">투자정보</a></p>
+								<p><a href="/kr/company/Contact.php" class="">주소ㆍ연락처</a></p>
+							</div>
+							<div class="dd-box">
+								<p class="title">홍보센터</p>
+								<p><a href="/kr/company/News.php" class="">언론보도</a></p>
+								<p><a href="/kr/company/Event.php" class="">행사안내</a></p>
+								<p><a href="/kr/company/Newsletter.php" class="">뉴스레터</a></p>
+								<!-- <p><a href="/kr/company/Awards-Certifications.php" class="">수상ㆍ인증ㆍ특허</a></p> -->
+							</div>
+						</div>
+					</dd>
+				</dl>
+			</div>
+			<!-- 모바일 메뉴 끝 -->
+
+			<div class="gside">
+				<a href="/kr/support/Contact-Us.php" class="btn-online">문의하기</a>
+				<a href="https://secaas.piolink.com/login" target="_blink" class="btn-secaas">SECaaS <i class="xi-external-link"></i></a>
+				<a href="#none" class="btn-sch"><i class="xi-search"></i></a>
+
+				<div class="lanBx">
+					<a href="#none" class="btn-lan"><img src="/kr/_img/comm/global_icon.png" style="vertical-align: baseline;" alt=""></a>
+					<div class="lan" style=""> 
+						<a href="http://www.piolink.com/en/">Global (English)</a> 
+						<a href="http://www.piolink.com/kr/">Korea (한국어)</a> 
+						<a href="http://piolink.co.jp/" target="_blank">Japan (日本語)</a>
+					</div>
+				</div>
+
+				<div class="burger">
+					<div class="x"></div>
+					<div class="y"></div>
+					<div class="z"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </nav>
+	<div class="sch-pop">
+		<div class="inner">
+			<p class="tit">
+				찾으시는 정보를<br>
+				입력해주세요.
+			</p>
+			<form name="searchFrm" id="searchFrm" method="post" action="/kr/search/search.php" >
+				<p class="search">
+					<input type="text" name="search_text" placeholder="검색어를 입력하세요." />
+					<button type="submit" class="btn-submit"><i class="xi-search"></i></button>
+				</p>
+			</form>
+			<a href="#none" class="btn-close btn-close-mo"><i class="xi-close"></i></a>
+		</div>
+		<a href="#none" class="btn-close btn-close-pc"><i class="xi-close"></i></a>
+	</div>
+</div>
+<script type="text/javascript">
+	/* 모바일메뉴 활성화 */
+	$(window.document).ready(function(){
+		/**/
+		var $header = $("#header"),
+		    $gnb = $(".gnb-mo");
+
+
+		$("#com_menu.header .gside .lanBx a").on("click", function(){
+			$(this).next('div').slideToggle();
+		});
+
+		$(".burger").on("click", function(){
+			if( !$(this).hasClass('open') ){ openMenu(); }
+			else { closeMenu(); }
+		});
+		function openMenu(){
+			$("body").addClass('open');
+			$gnb.addClass('open');
+			$('.burger').addClass('open');
+			$('div.x, div.y, div.z').addClass('coll');
+			setTimeout(function(){
+				$('div.y').hide();
+				$('div.x').addClass('rotate30');
+				$('div.z').addClass('rotate150');
+			}, 70);
+			setTimeout(function(){
+				$('div.x').addClass('rotate45');
+				$('div.z').addClass('rotate135');
+			}, 120);
+		}
+
+		function closeMenu(){
+			$("body").removeClass('open');
+			$gnb.removeClass('open');
+			$('.burger').removeClass('open');
+			$('div.x').removeClass('rotate45').addClass('rotate30');
+			$('div.z').removeClass('rotate135').addClass('rotate150');
+			setTimeout(function(){
+				$('div.x').removeClass('rotate30');
+				$('div.z').removeClass('rotate150');
+			}, 50);
+			setTimeout(function(){
+				$('div.y').show();
+				$('div.x, div.y, div.z').removeClass('coll');
+			}, 70);
+			setTimeout(function(){
+				$('div.circle').removeClass('expand');
+			}, 150);
+		}
+
+
+		$(".gnb-mo dl dt").click(function(){
+			$(this).parent().find("dd").slideToggle();
+			$(".gnb-mo dl dd").not( $(this).parent().find("dd") ).slideUp();
+			if($(this).hasClass("on")){
+				$(".gnb-mo dl dt").removeClass("on");
+			} else {
+				$(".gnb-mo dl dt").removeClass("on");
+				$(this).addClass("on");
+			}
+		});
+
+		$(window).resize(function(){
+			if($(window).width() > 999){
+				$(".gnb-mo dl dd").hide();
+				closeMenu();
+			}else {
+				$(".gnb-mo dl dd").slideUp();
+			}
+		});
+	});
+</script>
+<script>
+	/* 검색창 띄우기 */
+	$(document).ready(function(){
+		$(".btn-sch").on("click", function(){
+			if($(this).hasClass("on") == true){
+				$(".sch-pop").hide();
+				$(this).removeClass("on");
+			}else{
+				$(".sch-pop").show();
+				$(this).addClass("on");
+			}
+		});
+		$(".btn-close").on("click", function(){
+			$(".sch-pop").hide();
+			$(".btn-sch").removeClass("on");
+		});
+	});
+</script>
+<script type="text/javascript">
+
+	$(document).ready(function() {
+
+		$(".menu_close_btn").click(function(){
+			$(".gnb dl dd").fadeOut();
+		
+		});
+		$(".gnb dt a").click(function(event){
+	//		$("#id_sub").scrollLeft(100)
+			var tid = event.target.id;
+			var tidOffset = $("#"+tid).offset();
+			if (tid=="idtest0")
+			{
+				$("#id_sub").scrollLeft(0)
+			}
+			else if(tid=="idtest2")
+			{
+				$("#id_sub").scrollLeft(tidOffset.left)
+			}
+			else
+			{
+				$("#id_sub").scrollLeft(100)
+			}
+	//			alert(tidOffset.left-100);
+	// 		console.log("객체아이디:"+tid+"   이놈위치:"+tidOffset.left);
+			$(this).parents("dl").fadeIn;
+		
+		});
+
+		var gnbT;
+
+		$(".gnb dl dd").css({"display":"none"});
+
+			//	$(".gnb .subin dt a").addClass("on");
+	//	$(".gnb .subin a:eq(-1)").addClass("on");
+
+		
+
+		$(".gnb dl").hover(
+			function(event) {
+				clearTimeout(gnbT);
+				if( $(this).children("dd").css("display") == "flex" ) {
+					$(".gnb dl dd").stop(true, true).css({"display":"none"});
+					$(this).children("dd").stop(true, true).css({"display":"flex"});
+					var tid = event.target.id;
+					var tidOffset = $("#"+tid).offset();
+					if (tid=="idtest0"){
+						$("#id_sub").scrollLeft(0)
+					}
+					else if(tid=="idtest2"){
+						$("#id_sub").scrollLeft(tidOffset.left)
+					}
+					else{
+						$("#id_sub").scrollLeft(100)
+					}
+				} else {
+					$(".gnb dl dd").stop(true, true).css({"display":"none"});
+					$(this).children("dd").stop(true, true).css({"display":"flex"});
+					var tid = event.target.id;
+					var tidOffset = $("#"+tid).offset();
+					if (tid=="idtest0"){
+						$("#id_sub").scrollLeft(0)
+					}
+					else if(tid=="idtest2"){
+						$("#id_sub").scrollLeft(tidOffset.left)
+					}
+					else{
+						$("#id_sub").scrollLeft(100)
+					}
+				}
+			},
+			function() {
+				gnbT = setTimeout("location_menu()", 30);
+			}
+		);
+
+		$(".gnb dl dt a").mouseover(function(){
+			var index = $(".gnb dl dt a").index(this);
+			$(".gnb .sub_menu_area div").eq(index).addClass("on");
+			$(".gnb .sub_menu_area div").not( $(".gnb .sub_menu_area div").eq(index) ).removeClass("on");
+			$(".gnb dl dt a").eq(index).css("text-decoration","underline");
+			$(".gnb dl dt a").not( $(".gnb dl dt a").eq(index) ).css("text-decoration","none");
+		});
+
+		$(".gnb .sub_menu_area div").mouseover(function(){
+			var index = $(".gnb .sub_menu_area div").index(this);
+			$(".gnb dl dt a").eq(index).css("text-decoration","underline");
+			$(".gnb dl dt a").not( $(".gnb dl dt a").eq(index) ).css("text-decoration","none");
+
+			$(this).addClass("on");
+			$(".gnb .sub_menu_area div").not( this ).removeClass("on");
+		});
+
+		$(".gnb .sub_menu_area div").mouseleave(function(){
+			$(".gnb dl dt a").css("text-decoration","none");
+		});
+		
+		$(".gnb dl dt a").mouseleave(function(){
+			$(".gnb dl dt a").css("text-decoration","none");
+		});
+		
+	});
+
+
+function location_menu() {
+
+	$(".gnb dl dd").stop(true, true).fadeOut();
+	}
+
+</script> 
+    <!-- com_menu end -->
+
+  </header>
+  <!-- header end -->
+
+  <!-- container start -->
+  <div id="container">
+    <!-- main_visual start -->
+	<div class="main_visual swiper-container">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide">
+				<a href="https://www.piolink.com/PIOLINK-Resilience-Summit-2026.php" target="_blank" style="background:url('/kr/_img/main/main_visual_49.png') no-repeat center center / cover;"></a>
+			</div>
+		</div>
+		<!-- 네비게이션 -->
+		<div class="btns">
+			<div class="main-prev"><i class="xi-angle-left"></i></div><!-- 이전 버튼 -->
+			<div class="main-next"><i class="xi-angle-right"></i></div><!-- 다음 버튼 (오른쪽에 있는 버튼) -->
+		</div>
+		<!-- 페이징 -->
+		<div class="main-pagination"></div>
+	</div>
+
+	<link rel="stylesheet" href="/kr/_js/swiper.min.css" type="text/css" />
+    <script src="/kr/_js/swiper.min.js"></script>
+    <script>
+		$(".ssl_event").click(function(){
+			window.open("https://docs.google.com/forms/d/1WySvRclMcIf1CLuV9CFWAuBfGCwMv-BmOlVf2K1Mh1M/viewform?c=0&w=1", "_blank");
+		});
+
+		$(document).ready(function(){
+			const slideCount = document.querySelectorAll('.main_visual .swiper-slide').length;
+
+			if (slideCount > 1) {
+				var swiper = new Swiper('.main_visual.swiper-container', {
+					slidesPerView: 1,
+					paginationClickable: true,
+					loop: true,
+					autoplay: {
+						delay: 7000,
+						disableOnInteraction: false,
+					},
+					navigation: {
+						nextEl: '.main-next',
+						prevEl: '.main-prev',
+					},
+					pagination: {
+						el: '.main-pagination',
+						clickable: true,
+						type: 'bullets',
+					},
+					observer: true,
+					observeParents: true
+				});
+			} else {
+				$('.main-next, .main-prev, .main-pagination').hide();
+			}
+		});
+    </script>
+    <!-- main_visual end -->
+
+
+	    <!-- main_contents start -->
+    <div id="main_contents" class="main-content">
+		<section class="section01 section01_v2">
+			<div class="inner">
+				<div class="banner">
+					<a href="https://www.piolink.com/kr/insight/tech-guide.php" target="blank"><img src="/kr/_img/main/section01_img18.png" alt=""></a>
+
+					<div class="bx">
+						<div class="txt">
+							<h3>보안위협분석</h3>
+							<a href="https://www.piolink.com/kr/service/Security-Analysis.php?vType=list&bbsCode=security&page=1&searchText=&page=1">더보기 <i class="xi-arrow-right"></i></a>
+						</div>
+
+						<ul>
+							<li>
+								<a href="/kr/service/Security-Analysis.php?vType=view&bbsCode=security&idx=198">
+									<p><span>악성코드 분석</span><span>LockBit 5.0 랜섬웨어 분석</span></p>
+									<i class="xi-angle-right-min"></i>
+								</a>
+							</li>
+							<li>
+								<a href="/kr/service/Security-Analysis.php?vType=view&bbsCode=security&idx=197">
+									<p><span>악성코드 분석</span><span>TA416 그룹 : PlugX 분석</span></p>
+									<i class="xi-angle-right-min"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="top">
+					<div class="title">
+						<h3>PIOLINK NEWS</h3>
+						<p>PIOLINK의 새로운 소식을 만나보세요</p>
+					</div>
+					<a href="/kr/company/News.php" class="btn-more">더보기 <i class="xi-arrow-right"></i></a>
+				</div>
+				<div class="new-list swiper-container">
+					<div class="swiper-wrapper">
+												<div class="swiper-slide">
+							<a href="/kr/company/News.php?bbsCode=media_press&vType=view&idx=909">
+								<h4>파이오링크, ‘레질리언스 서밋 2026’ 개최…복원력이 경영의 미래</h4>
+								<p class="day">2026-04-24</p>
+								<div class="icon"><i class="xi-angle-right-min"></i></div>
+							</a>
+						</div>
+												<div class="swiper-slide">
+							<a href="/kr/company/News.php?bbsCode=media_press&vType=view&idx=908">
+								<h4>파이오링크, 빅스테크놀로지와 ‘AI 기반 자율형 보안’ 시장 공략 본…</h4>
+								<p class="day">2026-04-20</p>
+								<div class="icon"><i class="xi-angle-right-min"></i></div>
+							</a>
+						</div>
+												<div class="swiper-slide">
+							<a href="/kr/company/News.php?bbsCode=media_press&vType=view&idx=907">
+								<h4>파이오링크-틸론, ‘HCI 기반 VDI’ 협력, 국산기술 결합으로 가상화 …</h4>
+								<p class="day">2026-04-03</p>
+								<div class="icon"><i class="xi-angle-right-min"></i></div>
+							</a>
+						</div>
+											</div>
+				</div>
+			</div>
+		</section>
+		
+<section class="section02">
+    <div class="inner">
+        <div class="title">
+            <h3>디지털 환경을 쉽고, 빠르고, 안전하게.</h3>
+            <p>클라우드 데이터센터 인프라와 보안 솔루션 개발, 기술서비스를 제공합니다.</p>
+        </div>
+        <div class="prd-list">
+            <div class="in">
+                <a href="/kr/product/Application-Delivery-Controller.php">
+                    <div class="tit">
+                        <h4>애플리케이션 성능·가용성</h4>
+                        <p class="eng">PAS-K, PAS-KS</p>
+                    </div>
+                    <ul>
+                        <li>애플리케이션 전송 컨트롤러 국내 점유 1위</li>
+                        <li>부하분산, 가속, SSL 가시성, 트래픽 폭주 제어</li>
+                    </ul>
+                    <div class="icon"><img src="/kr/_img/main/section02_icon09.png" alt=""></div>
+                </a>
+            </div>
+
+            <div class="in">
+                <a href="/kr/product/Hyper-Converged-Infrastructure.php">
+                    <div class="tit">
+                        <h4>하이퍼 컨버지드 인프라</h4>
+                        <p class="eng">POPCON HCI</p>
+                    </div>
+                    <ul>
+                        <li>컴퓨팅, 네트워크, 스토리지를 통합하여 IT 인프라 간소화</li>
+                        <li>클라우드·빅데이터·AI·VDI 등 최적화된 데이터센터 구축</li>
+                        <li>데이터 보호 및 재해 복구를 위한 인프라 구축</li>
+                    </ul>
+                    <div class="icon"><img src="/kr/_img/main/section02_icon01.png" alt=""></div>
+                </a>
+            </div>
+
+            <div class="in">
+                <a href="/kr/SECaaS/PIOLINK-Cloud.php">
+                    <div class="tit">
+                        <h4>완전 관리형 SECaaS</h4>
+                        <p class="eng">PIOLINK Cloud</p>
+                    </div>
+                    <ul>
+                        <li>보안관제가 기본 제공되는 구독형 보안 서비스</li>
+                        <li>파이오링크 자체 보안관제 조직을 통해 체계적이고 전문화된 클라우드 웹방화벽(WAF) 서비스 제공</li>
+                    </ul>
+                    <div class="icon"><img src="/kr/_img/main/section02_icon02.png" alt=""></div>
+                </a>
+            </div>
+
+            <div class="in">
+                <a href="/kr/product/TiFRONT-ZT-Zero-Trust.php">
+                    <div class="tit">
+                        <h4>제로 트러스트 보안</h4>
+                        <p class="eng">TiFRONT ZT</p>
+                    </div>
+                    <ul>
+                        <li>보안스위치를 이용한 내부 네트워크 제로 트러스트</li>
+                        <li>사용자 기준 마이크로 세그멘테이션, 리소스 등급별 접근 제어</li>
+                        <li>네트워크 가시성, 내부 위협 관리</li>
+                    </ul>
+                    <div class="icon"><img src="/kr/_img/main/section02_icon03.png" alt=""></div>
+                </a>
+            </div>
+
+            <div class="in">
+                <a href="/kr/service/Managed-Security-Services.php">
+                    <div class="tit">
+                        <h4>보안관제 서비스</h4>
+                    </div>
+                    <ul>
+                        <li>원격·클라우드·파견·하이브리드 보안관제</li>
+                        <li>침해사고 조사 분석 및 재발방지 대책 수립</li>
+                        <li>웹·인프라 취약점 진단 및 모의해킹</li>
+                        <li>DDoS 공격·악성메일 대응 모의훈련</li>
+                    </ul>
+                    <div class="icon"><img src="/kr/_img/main/section02_icon05.png" alt=""></div>
+                </a>
+            </div>
+
+            <div class="in">
+                <a href="/kr/service/Security-Consulting-Services.php">
+                    <div class="tit">
+                        <h4>보안 컨설팅 서비스</h4>
+                    </div>
+                    <ul>
+                        <li>주요정보통신(전자금융)기반시설 취약점 분석·평가</li>
+                        <li>정보보호 및 개인정보보호 관리체계 인증 컨설팅</li>
+                        <li>정보시스템 및 응용프로그램 취약점 진단, 모의해킹 등</li>
+                    </ul>
+                    <div class="icon"><img src="/kr/_img/main/section02_icon06.png" alt=""></div>
+                </a>
+            </div>
+
+            <div class="in">
+                <a href="/kr/product/Web-Application-Firewall.php">
+                    <div class="tit">
+                        <h4>웹방화벽·API보호</h4>
+                        <p class="eng">WEBFRONT-K/KS</p>
+                    </div>
+                    <ul>
+                        <li>KISA가 인증한 보안성능 우수 웹방화벽</li>
+                        <li>SW부터 HW까지 자체 설계·개발·생산하는 국내 유일 웹방화벽</li>
+                        <li>OWASP, CVE 등 공개 웹 취약점에 대한 직관적 대응</li>
+                        <li>사용자 행위 기반 탐지 포함 다양한 지능형 탐지 기술 적용</li>
+                    </ul>
+                    <div class="icon"><img src="/kr/_img/main/section02_icon07.png" alt=""></div>
+                </a>
+            </div>
+
+            <div class="in">
+                <a href="/kr/product/Network-Integration-Infrastructure.php">
+                    <div class="tit">
+                        <h4>네트워크 통합 인프라</h4>
+                        <p class="eng">TiFRONT</p>
+                    </div>
+                    <ul>
+                        <li>L2/L3 보안스위치, 백본스위치</li>
+                        <li>클라우드 기반 중앙집중 네트워크 관리, 유해 트래픽 차단</li>
+                        <li>설치, 원격 장애 대응, 내부망 보안, 트래픽 분석 등 통합 관리</li>
+                        <li>OT, 통합배선반, 홈네트워크 등 구축</li>
+                    </ul>
+                    <div class="icon"><img src="/kr/_img/main/section02_icon08.png" alt=""></div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+		<section class="section03">
+			<div class="inner">
+				<div class="top">
+					<div class="title">
+						<h3>PIOLINK 고객사례</h3>
+						<p>PIOLINK의 고객사례를 만나보세요</p>
+					</div>
+					<a href="/kr/support/Case-Studies.php" class="btn-more">더보기 <i class="xi-arrow-right"></i></a>
+				</div>
+				<div class="review-list">
+					<div class="in">
+						<a href="/kr/support/Case-Studies.php?bbsCode=customer_case&vType=view&idx=55&page=1&extra1=&extra2=WEBFRONT-K&extra12=">
+							<div class="t">
+								<p class="cate">WEBFRONT-K</p>
+								<h4>방송·홈쇼핑 등 대규모 트래픽이 발생하는 환경에서 고성능뿐만 아니라 인라인, 미러링 등 다양한 구성 방식을 지원하는 웹방화벽은 WEBFRONT-K가 유일했습니다. 지난 4년간 운영하면서 만족스러운 성능을 보장 받아 다시 한번 더 도입하게 되었습니다</h4>
+							</div>
+							<p class="customer">CJ그룹</p>
+						</a>
+					</div>
+					<div class="in">
+						<a href="/kr/support/Case-Studies.php?bbsCode=customer_case&vType=view&idx=65&page=1&extra1=&extra2=&extra12=">
+							<div class="t">
+								<p class="cate">TiFRONT 보안 스위치</p>
+								<h4>TiFRONT 클라우드 보안스위치는 보안관제 역할을 합니다. 특히 IT 관리자가 없어 네트워크와 보안을 방치하는 소규모 고객에게 매월 보안 보고서를 제공하여 고객 만족도를 높였습니다.</h4>
+							</div>
+							<p class="customer">일본 IT 솔루션/서비스 기업</p>
+						</a>
+					</div>
+					
+					<div class="in">
+						<a href="/kr/support/Case-Studies.php?bbsCode=customer_case&vType=view&idx=63&page=1&extra1=&extra2=PAS-K&extra12=">
+							<div class="t">
+								<p class="cate">PAS-K</p>
+								<h4>L7 처리 성능과 HTTPS 암호화 처리에 중점을 두고 ADC 선정에 나섰는데, 특히 도메인/URL 기반의 정교한 부하분산을 위해 L7 부하분산 서비스로 전환하고, 학과정보 보호를 위한 암호화 환경에서 빠른 SSL 오프로딩 가능 여부를 검토했습니다.</h4>
+							</div>
+							<p class="customer">한국해양대학교</p>
+						</a>
+					</div>
+					<div class="in">
+						<a href="/kr/support/Case-Studies.php?bbsCode=customer_case&vType=view&idx=75&page=1&extra1=&extra2=TiFRONT&extra12=">
+							<div class="t">
+								<p class="cate">TiFRONT 보안스위치</p>
+								<h4>광범위한 캠퍼스에서 다양한 기기를 사용하는 대학 네트워크에 클라우드 보안스위치가 최적입니다. 기존 스위치를 티프론트로 교체하는 것만으로, 엔드포인트와 네트워크에 대한 보안과 가시성을 획기적으로 개선할 수 있었습니다.</h4>
+							</div>
+							<p class="customer">조선대학교</p>
+						</a>
+					</div>
+					<div class="in">
+						<a href="/kr/support/Case-Studies.php?bbsCode=customer_case&vType=view&idx=62&page=1&extra1=&extra2=WEBFRONT-K&extra12=">
+							<div class="t">
+								<p class="cate">WEBFRONT-K</p>
+								<h4>웹방화벽 고도화 사업을 진행할 때 SSL 복호화 시에도 높은 성능을 유지하고, 낮은 레이턴시와 데이터 유실이 없는 제품을 선정하는 것이 중요했는데, 파이오링크 웹방화벽은 이러한 조건에서 타사 제품에 비해 월등한 성능을 보였습니다./h4>
+							</div>
+							<p class="customer">온라인증권사</p>
+						</a>
+					</div>
+				</div>
+				<!--
+				<div class="review-list">
+										<div class="in">
+						<a href="/kr/support/Case-Studies.php?bbsCode=customer_case&vType=view&idx=25">
+							<div class="t">
+								<p class="cate">WEBFRONT-K</p>
+								<h4>\"파이오링크 웹방화벽은 교육시장 레퍼런스가 많아 검증된 제품이라 생각하여 도입했습니다. 
+구축 후 제일 큰 효과를 본 것은 Analyzer V2를 통해 웹 보안위협에 대한 …</h4>
+							</div>
+							<p class="customer">서울예술대학</p>
+						</a>
+					</div>
+										<div class="in">
+						<a href="/kr/support/Case-Studies.php?bbsCode=customer_case&vType=view&idx=11">
+							<div class="t">
+								<p class="cate">Security Switch</p>
+								<h4></h4>
+							</div>
+							<p class="customer">출입국외국인정책본부</p>
+						</a>
+					</div>
+									</div>-->
+		
+			</div>
+		</section>
+    </div>
+    <!-- main_contents end -->
+  </div>
+  <!-- container end -->
+  <script type="text/javascript">
+$(document).ready(function(){
+	$("div.f_navi dl dt").click(function(){
+		//모바일인 경우 해당 클릭 이벤트가 동작하도록 처리
+		if($(window).width() > 770) return false;
+		if($(this).parent().hasClass("open") == true){
+			$(this).parent().find("dd").slideUp();
+			$(this).parent().removeClass("open");
+		}else{
+			$(this).parent().find("dd").slideToggle();
+			$(this).parent().addClass("open");
+			$("div.f_navi dl dd").not( $(this).parent().find("dd") ).slideUp();
+			$("div.f_navi dl").not( $(this).parent() ).removeClass("open");
+		}
+	});
+	$(window).resize(function(){
+		if($(window).width() > 770){
+			$("div.f_navi dl dd").show();
+		}else{
+			$("div.f_navi dl dd").slideUp();
+			$("div.f_navi dl").removeClass("open");
+		}
+	});
+});
+
+</script>
+
+<footer id="footer" class="footer">
+  <div class="f_menu af_clear">
+    <div class="f_navi">
+      <dl>
+        <dt>제품</dt>
+		<dd><a href="/kr/product/Hyper-Converged-Infrastructure.php">하이퍼 컨버지드 인프라</a></dd>
+		<dd><a href="/kr/product/TiFRONT-ZT-Zero-Trust.php">제로트러스트</a></dd>
+        <dd><a href="/kr/product/Application-Delivery-Controller.php">애플리케이션 전송 컨트롤러</a></dd>
+        <dd><a href="/kr/product/Web-Application-Firewall.php">웹방화벽·API보호</a></dd>
+		<dd><a href="/kr/product/Network-Integration-Infrastructure.php">L2/L3·백본·L4/L7스위치</a></dd>
+         </dl>
+      <dl>
+        <dt>보안서비스</dt>
+		<dd><a href="/kr/SECaaS/PIOLINK-Cloud.php">완전 관리형 SECaaS</a></dd>
+        <dd><a href="/kr/service/Managed-Security-Services.php">보안관제 서비스</a></dd>
+		<dd><a href="/kr/service/Security-Consulting-Services.php">보안컨설팅 서비스</a></dd>
+      </dl>
+      <dl>
+        <dt>회사소개</dt>
+        <dd><a href="/kr/company/Company-Overview.php">회사정보</a></dd>
+        <dd><a href="/kr/company/IR.php">투자정보</a></dd>
+        <dd><a href="https://www.saramin.co.kr/zf_user/company-info/view-inner-recruit?csn=TDdDMTdnamxZb3k4RUtJRC9MYklPdz09" target="_blank" title="새창으로 열기">채용공고 <i class="xi-external-link"></i></a></dd>
+        <dd><a href="/kr/company/News.php">뉴스 및 공지</a></dd>
+        <dd><a href="/kr/company/Contact.php">연락처</a></dd>
+      </dl>
+      <dl>
+        <dt>파트너</dt>
+        <dd><a href="/kr/partner/Become-a-Partner.php">파트너 가입하기</a></dd>
+		<dd><a href="/kr/partner/Partner_List.php">파트너 리스트</a></dd>
+      </dl>
+    </div>
+    <div class="f_quick">
+      <div class="quick"> 
+		<a href="/kr/support/Purchase.php"><img src="/kr/_img/comm/foot_icon01.png" alt=""> 구매안내</a> 
+		<a href="/kr/support/Contact-Us.php"><img src="/kr/_img/comm/foot_icon02.png" alt=""> 온라인문의</a> 
+		<a href="https://page.stibee.com/subscriptions/123230" target="_blank" rel="noopener noreferrer">
+<img src="/kr/_img/comm/foot_icon03.png" alt=""> 뉴스레터 신청</a> 
+	  </div>
+      <div class="sns"> 
+		<a href="https://blog.naver.com/piolinkin" target="_blank" title="새창링크"><img src="/kr/_img/comm/foot_icon_blog.png" alt=""> Blog</a> 
+		<a href="https://www.youtube.com/@PIOLINK_inc" target="_blank" title="새창링크"><i class="xi-youtube-play"></i> Youtube</a> 
+		<a href="https://www.facebook.com/PIOLINK/" target="_blank" title="새창링크"><i class="xi-facebook-official"></i> Facebook</a> 
+	  </div>
+    </div>
+  </div>
+
+	<script type="text/javascript">
+		var togsw = 0;
+		$(document).ready(function(){
+			$(".lang_btn").click(function(e){
+				e.preventDefault();
+				$(".lang").slideToggle('');
+			});
+			$(".f_menu, #container, #footer").click(function(e){
+				if (e.target.id != "lang_btn")
+				{
+					$(".lang").slideUp();
+				}
+			});
+		});
+	</script>
+
+  <div class="fContent">
+    <div class="fc_area">
+		<ul class="f_lang">
+			<div class="lang" style="display:none;"> 
+				<a href="http://www.piolink.com/en/">Global (English)</a> 
+				<a href="http://www.piolink.com/kr/">Korea (한국어)</a> 
+				<a href="http://piolink.co.jp/" target="_blank">Japan (日本語)</a>
+			</div>
+			<a href="#" class="lang_btn" id="lang_btn">Country Selector</a>
+		</ul>
+		<div class="rt">
+			<ul class="f_link">
+				<li class="first"><a href="/kr/etc/privacy.php">개인정보처리방침</a></li>
+				<li><a href="/kr/etc/corporate_ethics.php">기업윤리상담센터</a></li>
+				<li><a href="/kr/etc/email_pop.php">이메일무단수집거부</a></li>
+			</ul>
+			<p class="copyright">ⓒ 2025 PIOLINK, lnc. All Rights reserved</p>
+		</div>
+    </div>
+  </div>
+</footer>
+<div class="btn-top" style="z-index:100;">
+	<!--<a href="/kr/support/Purchase.php" class="buy"><img src="/kr/_img/comm/quick_icon01.png" alt=""><span>구매안내</span></a>-->
+	<a href="/kr/support/Contact-Us.php" class="online"><img src="/kr/_img/comm/quick_icon02.png" alt=""><span>문의</span></a>
+	<!--<a href="/kr/company/subscriptions.php" class="news"><img src="/kr/_img/comm/quick_icon03.png" alt=""><span>뉴스레터 신청</span></a> -->
+	<!--<a href="#."><i class="xi-arrow-up"></i></a>-->
+</div>
+<!--
+<script>
+//탑버튼
+	$(function(){
+		$(document).on("click",".btn-top > a:last-child", function(event){
+			$('html,body').animate({ scrollTop : 0 }, 500);
+			return false;
+		});
+	});
+</script>
+-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67738227-1', 'auto');
+  ga('send', 'pageview');
+</script> 
+
+
+<!-- 개인정보처리방침 모달창 -->
+<div id="popup-modal" class="modal">
+	<div class="modal-content">
+		<a class="modal-close" onclick="closeOnclick()">×</a>
+		<iframe id="consent-iframe" title="결과물 예시" src="https://app.catchsecu.com/document/P/597333b99ad8fd2" style="width: 100%; height:620px; border:0;"></iframe>
+	</div>
+</div>
+<script>
+	let modal = document.getElementById('popup-modal')
+	let btn = document.getElementById("open-popup-modal")
+	function btnOnclick() {
+	document.getElementById('popup-modal').style.display = "block"
+
+	}
+	function closeOnclick() {
+		document.getElementById('consent-iframe').setAttribute("src","https://app.catchsecu.com/document/P/597333b99ad8fd2") 
+		document.getElementById('popup-modal').style.display = "none"
+	}
+</script>
+<style>
+.modal{
+	display: none;
+	position: fixed;
+	z-index: 9999;
+	padding-top: 100px;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgb(0,0,0);
+	background-color: rgba(0,0,0,0.4);
+	font-family: sans-serif;
+}
+.modal-content{
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	box-sizing: border-box;
+	max-width: 1000px;
+	margin:auto;
+	border-radius:0px;
+	padding: 15px 30px;
+	-webkit-border-image: url(none) 30 stretch; /* Safari 3.1-5 */
+	-o-border-image: url(none) 30 stretch; /* Opera 11-12.1 */
+	border-image: url(none) 30 stretch;
+}
+.modal-close{
+	position:absolute;
+	right:0;
+	top:15px;
+	font-size: 20px;
+	font-weight: 700;
+	color: #000000;
+	line-height:34px;
+	transition: all .2s;
+	cursor: pointer;
+	width: 30px;
+	height:30px;
+	background:#fff;
+}
+@media (max-width: 767.98px) {
+	.modal-content{
+		padding: 30px 15px;
+	}
+	.modal-close{
+		right:15px;
+		top:0;
+	}
+}
+</style>
+<!-- //개인정보처리방침 모달창 -->
+
+
+<!--[if lt IE 9]>
+<script type="text/javascript">
+alert("IE8 이하 버전을 사용하시는 사용자분은 업데이트를 해주십시오.");
+if(parent.frames.length==0)window.location.replace("http://windows.microsoft.com/ko-kr/internet-explorer/download-ie");
+</script>
+<![endif]-->
+  <!-- footer end -->
+
+</div>
+<!-- warp end -->
+<script>
+	$(document).ready(function() {
+		var swiper2 = new Swiper('.new-list.swiper-container', {
+			slidesPerView : 3, // 동시에 보여줄 슬라이드 갯수
+			spaceBetween : 20, // 슬라이드간 간격
+			slidesPerGroup : 1, // 그룹으로 묶을 수, slidesPerView 와 같은 값을 지정하는게 좋음
+			breakpoints: { 
+				2560: { slidesPerView: 3, spaceBetween: 20 },  // 2560 사이즈 이하에서 2개 노출
+				1680: { slidesPerView: 3, spaceBetween: 20 },  // 1680 사이즈 이하에서 2개 노출
+				1000: { slidesPerView: 2.5, spaceBetween: 15 },  // 1199 사이즈 이하에서 2개 노출
+				770: { slidesPerView: 2.2, spaceBetween: 15 }, 
+				576: { slidesPerView: 1.2, spaceBetween: 15 }, 
+			},
+			observer: true,
+			observeParents: true
+		});
+
+		const inbox = $(".section03 .review-list .in");
+		const ranView = inbox.toArray().sort(() => Math.random() - 0.5);
+		console.log(inbox.toArray());
+		$(ranView.slice(0, 3)).hide();
+	});
+</script>
+<script>
+	var _color = new Array("#FF0000","#f39725","#f6ff00","#00ff0c", "#0000ff", "#7e00ff", "#ff00de");
+	$(document).ready(function() {
+		$(".colorAnimation").each(function() {
+			$(this).attr("_state", "0");
+			colorAni($(this));
+		});
+
+	});
+	function colorAni(obj){
+		var nc = parseInt( $(obj).attr("_state"));
+		nc = nc > _color.length - 1 ? 0 : nc;
+		$(obj).stop(false,false).animate({"color": _color[nc]}, 2000, function(){
+			$(obj).attr("_state", (nc+1) );
+			colorAni(obj);
+		});
+	}
+</script>
+</body>
+</html>

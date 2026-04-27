@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- head標籤 & 網站設定-->
+
+<head itemscope="itemscope" itemtype="http://schema.org/WebSite">
+	<!-- 網站語系及語言宣告-->
+	<meta http-equiv="content-language" content="zh-TW" />
+	<meta charset="UTF-8" />
+	<!-- RWD設定-->
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<!-- 瀏覽器設定-->
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+		<title itemprop="name">九齊科技股份有限公司 Nyquest Technology Co., Ltd.</title>
+	<meta name="title" content="九齊科技股份有限公司 Nyquest Technology Co., Ltd." />
+
+	<!-- 網站關鍵字-->
+		<meta name="keywords" content="九齊科技, Nyquest, consumer IC, OTP, 32-bit">
+		<!-- 網頁內容描述-->
+		<meta name="description" content="九齊科技">
+	
+
+
+	<!-- Open Graph Protocol for facebook and Twitter Card data-->
+	<meta property="og:title" content="九齊科技股份有限公司 Nyquest Technology Co., Ltd." />
+	<meta name="twitter:title" content="九齊科技股份有限公司 Nyquest Technology Co., Ltd." />
+		<meta property="og:description" content="九齊科技">
+	<meta name="twitter:description" content="九齊科技" />
+			<meta property="og:url" content="https://www.nyquest.com.tw/tw" />
+	<meta property="og:locale" content="zh_TW" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="九齊科技股份有限公司 Nyquest Technology Co., Ltd." />
+	<meta name="twitter:site" content="九齊科技股份有限公司 Nyquest Technology Co., Ltd." />
+	<meta name="twitter:creator" content="九齊科技股份有限公司 Nyquest Technology Co., Ltd." />
+
+	<!-- 重複網址的導向設定 : 被認定為主要網址的宣告，如不須禁止則全部刪除，請後端工程師把此設定放進後端管理中
+		<link rel="canonical" href="" itemprop="url"/>-->
+	<link rel="shortcut icon" href="https://www.nyquest.com.tw/dist/assets/img/nyquest.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="https://www.nyquest.com.tw/dist/assets/css/style.css?v=0427" />
+
+	<!-- 非共用的Css -->
+	   
+	<!-- 非共用的Css(絕對後面那種) -->
+	
+		
+	
+</head>
+
+<body class="home" id="" data-page="home">
+	
+	<input class="base-url" type="hidden" value="https://www.nyquest.com.tw/tw">
+	<input class="url-locale" type="hidden" value="tw">
+	<input type="hidden" id="_token" value="XYGClJgSSjWuWAJVlzBDL6rAbPvrwcjZUeJORRPw">
+
+	    <header>
+  <div class="hd_wrap">
+    <div class="left">
+      <a class="logo" href="https://www.nyquest.com.tw/tw">
+        <img src="https://www.nyquest.com.tw/dist/uploads/common/logo_194x38.png" alt="LOGO"/>
+      </a>
+    </div>
+    <ul class="right">
+      <li class="lan dropdown_wrap">
+        <div class="dropdown_select">
+          <div class="dropdown_title">繁體中文</div><span class="triangle"></span>
+        </div>
+        <div class="dropdown_area">
+          <ul class="dropdown_opt">
+            <li  onclick="window.location.href='/en'">English</li>
+            <li  class="dropdown_li"  onclick="window.location.href='/tw'">繁體中文</li>
+            <li  onclick="window.location.href='/cn'">简体中文</li>
+          </ul>
+        </div>
+      </li>
+      <li class="member">
+        <span class="icon-member"></span>
+        <a href="https://www.nyquest.com.tw/tw/member">代理商</a>
+                    <a href="https://www.nyquest.com.tw/tw/member/login">登入</a>
+              </li>
+      <li class="search"><a class="icon-search" href="javascript:;"></a></li>
+      <li class="menu"><span></span><span></span><span></span></li>
+    </ul>
+    <div class="menu_block">
+      <div class="btn_close"><span></span></div>
+      <div class="scroll_wrap">
+        <div class="menu_hd">
+          <div class="hd_left"><img src="https://www.nyquest.com.tw/dist/uploads/common/logo_160x30.png" alt=""/></div>
+          <div class="hd_right">
+            <div class="lan dropdown_wrap">
+              <div class="dropdown_select">
+                <div class="dropdown_title">繁體中文</div><span class="triangle"></span>
+              </div>
+              <div class="dropdown_area">
+                <ul class="dropdown_opt">
+                  <li  onclick="window.location.href='/en'">English</li>
+                  <li  class="dropdown_li"  onclick="window.location.href='/tw'">繁體中文</li>
+                  <li  onclick="window.location.href='/cn'">简体中文</li>
+                </ul>
+              </div>
+            </div>
+            <div class="member">
+              <span class="icon-member"></span>
+              <a href="https://www.nyquest.com.tw/tw/member">代理商</a>
+                                <a href="https://www.nyquest.com.tw/tw/member/login">登入</a>
+                          </div>
+          </div>
+        </div>
+        <div class="menu_ct">
+          <div class="menu_ct_wrap">
+                          <div class="nav_list">
+                <a class="pc_ul" href="https://www.nyquest.com.tw/tw/product">產品資訊</a>
+                <div class="rwd_ul">
+                  <p>產品資訊</p><span class="plus"></span>
+                </div>
+                <ul class="nav_item">
+                  <li><a href="https://www.nyquest.com.tw/tw/product">Overview</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/product/32_Bit_MCU">32位元語音系列</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/product/HomeAppliances">8位元通用型微控制器</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/product/SpeechIC">單通道語音系列</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/product/MultiChannelSpeech_MelodyIC">多通道語音系列</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/product/Accessory_ASIC">週邊晶片</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/product/LED_Control_Drive_IC">LED 控制與驅動</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/product/NY_Memory">快閃記憶體</a></li>
+                                  </ul>
+              </div>
+                          <div class="nav_list">
+                <a class="pc_ul" href="https://www.nyquest.com.tw/tw/support/download">技術支援</a>
+                <div class="rwd_ul">
+                  <p>技術支援</p><span class="plus"></span>
+                </div>
+                <ul class="nav_item">
+                  <li><a href="https://www.nyquest.com.tw/tw/support/download">Overview</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/support/download">請注意: 於右上方登入下載</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/support/download/Nyques_IC_Product">IC Product</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/support/download/Nyquest_Data">Nyquest  Data</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/support/download/Nyquest_SW_Tools_UM">Software Tools &amp; UM</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/support/download/Application_Notices">Application Notice</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/support/download/Hardware_Document">Hardware Document</a></li>
+                                      <li><a href="https://www.nyquest.com.tw/tw/support/download/Standard_Code">Standard Code</a></li>
+                                  </ul>
+              </div>
+                        <div class="nav_wrap">
+                              <div class="nav_list">
+                  <a class="pc_ul" href="https://www.nyquest.com.tw/tw/about">關於九齊</a>
+                </div>
+                              <div class="nav_list">
+                  <a class="pc_ul" href="https://www.nyquest.com.tw/tw/investor/company_profile">投資人專區</a>
+                </div>
+                              <div class="nav_list">
+                  <a class="pc_ul" href="https://www.nyquest.com.tw/tw/career">人力資源</a>
+                </div>
+                              <div class="nav_list">
+                  <a class="pc_ul" href="https://www.nyquest.com.tw/tw/esg">企業永續發展</a>
+                </div>
+                              <div class="nav_list">
+                  <a class="pc_ul" href="https://www.nyquest.com.tw/tw/support/demo">影音專區</a>
+                </div>
+                              <div class="nav_list">
+                  <a class="pc_ul" href="https://www.nyquest.com.tw/tw/contact">聯絡我們</a>
+                </div>
+                          </div>
+          </div>
+        </div>
+      </div>
+      <div class="menu_search">
+        <div class="search_wrap go_search">
+          <span class="icon-search"></span>
+          <p>搜尋</p>
+          <input type="text" placeholder="輸入關鍵字..."/>
+          <div class="search_btn">
+            <a href="javascript:void(0);" data-url="product">產品</a>
+            <a href="javascript:void(0);" data-url="support">檔案</a>
+            <a href="javascript:void(0);" data-url="demo">Demo</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>    <!-- 主要內容-->
+    <main>
+      <section class="homebn">
+        <div class="home-container bn_swiper">
+          <div class="swiper-wrapper">
+                          <picture class="swiper-slide ">
+                <!-- 手機圖片 600*720-->
+                <source srcset="/upload/2020_03_308/home01_800x1700.png" media="(max-width:600px)"/>
+                <!-- 平版圖片 1100*450-->
+                <source srcset="/upload/2020_03_308/home01_1400x800.png" media="(max-width:1366px)"/>
+                <!-- 電腦圖片  1920*450-->
+                <img src="/upload/2020_03_308/home01_1920x1000.jpg"/>
+                <div class="bn_title left">
+                  <div class="title_head">篤實正直</div>
+                  <div class="title_p">九齊科技真誠地與世界各地的夥伴朋友們攜手並進、共創美好的未來</div>
+                </div>
+              </picture>
+                          <picture class="swiper-slide ">
+                <!-- 手機圖片 600*720-->
+                <source srcset="/upload/2020_03_308/home02_800x1700.png" media="(max-width:600px)"/>
+                <!-- 平版圖片 1100*450-->
+                <source srcset="/upload/2020_03_308/home02_1400x800.png" media="(max-width:1366px)"/>
+                <!-- 電腦圖片  1920*450-->
+                <img src="/upload/2020_03_308/home02_1920x1000.jpg"/>
+                <div class="bn_title left">
+                  <div class="title_head">專業創新</div>
+                  <div class="title_p">九齊科技聚焦研發高性價比的消費電子IC以及應用方案，並提供完整的軟體工具支持</div>
+                </div>
+              </picture>
+                          <picture class="swiper-slide ">
+                <!-- 手機圖片 600*720-->
+                <source srcset="/upload/2020_03_308/home03_800x1700.png" media="(max-width:600px)"/>
+                <!-- 平版圖片 1100*450-->
+                <source srcset="/upload/2020_03_308/home03_1400x800.png" media="(max-width:1366px)"/>
+                <!-- 電腦圖片  1920*450-->
+                <img src="/upload/2020_03_308/home03_1920x1000.jpg"/>
+                <div class="bn_title left">
+                  <div class="title_head">專注熱忱</div>
+                  <div class="title_p">我們以高度的熱忱、持續改善核心競爭力的積極態度，以便實現『成為消費電子隱形冠軍』的公司願景</div>
+                </div>
+              </picture>
+                          <picture class="swiper-slide ">
+                <!-- 手機圖片 600*720-->
+                <source srcset="/upload/2020_03_308/home04_800x1700.jpg" media="(max-width:600px)"/>
+                <!-- 平版圖片 1100*450-->
+                <source srcset="/upload/2020_03_308/home04_1400x800.png" media="(max-width:1366px)"/>
+                <!-- 電腦圖片  1920*450-->
+                <img src="/upload/2020_03_308/home04_1920x1000.jpg"/>
+                <div class="bn_title ">
+                  <div class="title_head">團隊合作</div>
+                  <div class="title_p">我們堅信團隊合作是達成共同目標的必要條件。歡迎加入我們的團隊、同心協力來做出『人們希望擁有的東西』！</div>
+                </div>
+              </picture>
+                      </div>
+          <div class="swiper-pagination"></div>
+          <div class="linebar"><span></span></div>
+        </div>
+        <ul class="btn_block">
+                      <li class="quick_btn">
+              <a href="https://www.nyquest.com.tw/tw/product">產品資訊</a>
+            </li>
+                      <li class="quick_btn">
+              <a href="https://www.nyquest.com.tw/tw/support/download">技術支援</a>
+            </li>
+                      <li class="quick_btn">
+              <a href="https://www.nyquest.com.tw/tw/investor/company_profile">投資人專區</a>
+            </li>
+                      <li class="quick_btn">
+              <a href="https://www.nyquest.com.tw/tw/esg">企業永續發展</a>
+            </li>
+                      <li class="quick_btn">
+              <a href="https://www.nyquest.com.tw/tw/contact">聯絡我們</a>
+            </li>
+                    <li class="demo">
+            <p>Demo</p>
+            <a class="icon-youtube" href="https://www.youtube.com/playlist?list=PLOQuwtMNvL5hdPsvG0rO8tEKHBh-r99g4" target="_blank"></a>
+            <a class="icon-youku" href="http://i.youku.com/i/UMTUxNjMxNzE1Ng==/videos?spm=a2hzp.8253876.0.0" target="_blank"></a>
+          </li>
+          <li class="lanbtn dropdown_wrap">
+            <div class="dropdown_select">
+              <div class="dropdown_title">繁體中文</div><span class="triangle"></span>
+            </div>
+            <div class="dropdown_area">
+              <ul class="dropdown_opt">
+                <li  onclick="window.location.href='/en'">English</li>
+                <li  class="dropdown_li"  onclick="window.location.href='/tw'">繁體中文</li>
+                <li  onclick="window.location.href='/cn'">简体中文</li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </section>
+      <section class="homect">
+        <div class="homect_wrap">
+          <div class="head_p"><span class="icon-arrowdr"></span>
+            <p>Discover</p><span>Our Feature</span>
+          </div>
+          <div class="content_block">
+            <div class="block_unit">
+              <a class="word" href="https://www.nyquest.com.tw/tw/product">
+                <div class="icon_img">
+                  <img src="/upload/2020_03_051/icon_NYQ-01.png" alt="">
+                  <img src="/upload/2020_03_051/icon_NYQ-02.png" alt="">
+                </div>
+                <div class="title">
+                  <h2 class="title_head">產品資訊</h2>
+                  <p>九齊科技主要研發高品質及高附加價值的消費性積體電路包括語音控制IC、微控制器語音產品(MCU)等；並提供完整的軟體設計支援平台和應用解決方案。</p>
+                </div>
+                <div class="arrow"></div>
+              </a>
+              <div class="pic home-container">
+                <div class="swiper-wrapper">
+                                      <picture class="swiper-slide">
+                      <!-- 手機圖片 600*720-->
+                      <source srcset="/upload/2020_02_141/home_ct1_500x500.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct1_750x500.jpg"/>
+                      <div class="unit_title">
+                        <a class="linkbtn" href="https://www.nyquest.com.tw/tw/product/32_Bit_MCU"><span class="icon-arrowdr"></span></a>
+                        <h3 class="title_head">32位元語音系列</h3>
+                        <p>NX1系列是32位元的高質量語音/ MIDI處理器，專為客戶設計，可利用先進的DSP功能進行研發方案。</p>
+                      </div>
+                    </picture>
+                                      <picture class="swiper-slide">
+                      <!-- 手機圖片 600*720-->
+                      <source srcset="/upload/2020_02_141/home_ct1_500x500.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct1_750x500.jpg"/>
+                      <div class="unit_title">
+                        <a class="linkbtn" href="https://www.nyquest.com.tw/tw/product/HomeAppliances"><span class="icon-arrowdr"></span></a>
+                        <h3 class="title_head">8位元通用型微控制器</h3>
+                        <p>NY8 系列是以EPROM作為記憶體的8位元微控制器，專為家電或量測等等的I/O應用設計。採用CMOS製程並同時提供客戶低成本、高性能、及高性價比等顯著優勢。</p>
+                      </div>
+                    </picture>
+                                      <picture class="swiper-slide">
+                      <!-- 手機圖片 600*720-->
+                      <source srcset="/upload/2020_02_141/home_ct1_500x500.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct1_750x500.jpg"/>
+                      <div class="unit_title">
+                        <a class="linkbtn" href="https://www.nyquest.com.tw/tw/product/SpeechIC"><span class="icon-arrowdr"></span></a>
+                        <h3 class="title_head">單通道語音系列</h3>
+                        <p>NY3與NY4系列產品為單晶片CMOS語音合成 IC。</p>
+                      </div>
+                    </picture>
+                                      <picture class="swiper-slide">
+                      <!-- 手機圖片 600*720-->
+                      <source srcset="/upload/2020_02_141/home_ct1_500x500.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct1_750x500.jpg"/>
+                      <div class="unit_title">
+                        <a class="linkbtn" href="https://www.nyquest.com.tw/tw/product/MultiChannelSpeech_MelodyIC"><span class="icon-arrowdr"></span></a>
+                        <h3 class="title_head">多通道語音系列</h3>
+                        <p>NY2系列產品為單晶片CMOS音樂和語音合成 IC， NY5 / NY6 / NY7 系列產品為多功能單晶片CMOS語音合成4位元微控制器。</p>
+                      </div>
+                    </picture>
+                                      <picture class="swiper-slide">
+                      <!-- 手機圖片 600*720-->
+                      <source srcset="/upload/2020_02_141/home_ct1_500x500.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct1_750x500.jpg"/>
+                      <div class="unit_title">
+                        <a class="linkbtn" href="https://www.nyquest.com.tw/tw/product/Accessory_ASIC"><span class="icon-arrowdr"></span></a>
+                        <h3 class="title_head">週邊晶片</h3>
+                        <p>Accessory ASIC 包含NY9A / NY9L / NY9M / NY9T / NY9U系列，可為客戶提供針對不同目的的高效率解決方案。</p>
+                      </div>
+                    </picture>
+                                      <picture class="swiper-slide">
+                      <!-- 手機圖片 600*720-->
+                      <source srcset="/upload/2020_02_141/home_ct1_500x500.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct1_750x500.jpg"/>
+                      <div class="unit_title">
+                        <a class="linkbtn" href="https://www.nyquest.com.tw/tw/product/LED_Control_Drive_IC"><span class="icon-arrowdr"></span></a>
+                        <h3 class="title_head">LED 控制與驅動</h3>
+                        <p>NY1系列產品為單晶片CMOS的LED控制驅動合成IC，利用精準的內阻震盪故不需外加震盪電阻。閃燈合成方式為可程式的方波、斜線和曲線，可任意組成出各種閃爍方式，藉由製造過程中更換Code光罩，可將不同的閃燈資料寫入ROM中。</p>
+                      </div>
+                    </picture>
+                                      <picture class="swiper-slide">
+                      <!-- 手機圖片 600*720-->
+                      <source srcset="/upload/2020_02_141/home_ct1_500x500.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct1_750x500.jpg"/>
+                      <div class="unit_title">
+                        <a class="linkbtn" href="https://www.nyquest.com.tw/tw/product/NY_Memory"><span class="icon-arrowdr"></span></a>
+                        <h3 class="title_head">快閃記憶體</h3>
+                        <p>N25Q 系列是九齊搭配微控制器或語音產品的高容量快閃記憶體。本系列支援標準序列周邊介面 (SPI) 及高速的兩線式輸出 (Dual Output)、四線式雙向通訊 (Quad I/O)。</p>
+                      </div>
+                    </picture>
+                                  </div>
+                <div class="swiper-pagination"></div>
+                <div class="linebar"><span></span></div>
+              </div>
+            </div>
+
+            
+            <div class="block_unit"> 
+              <a class="word" href="https://www.nyquest.com.tw/tw/support/download">
+                <div class="icon_img">
+                  <img src="/upload/2020_03_051/icon_NYQ-03.png" alt="">
+                  <img src="/upload/2020_03_051/icon_NYQ-04.png" alt="">
+                </div>
+                <div class="title">
+                  <h2 class="title_head">技術支援</h2>
+                  <p>提供技術文件下載。<br />
+除台灣、中國大陸及香港市場外、我們也積極開發，並派赴技術服務及人力，提供專業技術售後服務，為客戶提供做完善的技術支援。</p>
+                </div>
+                <div class="arrow"></div>
+              </a>
+              <div class="pic home-container">
+                <div class="swiper-wrapper">
+                                      <picture class="swiper-slide">
+                      <!-- 手機圖片 600*720-->
+                      <source srcset="/upload/2020_03_258/home_500x500.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_03_258/home_750x500.jpg"/>
+                      <div class="unit_title">
+                        <h3 class="title_head">最新更新</h3>
+                        <p>點擊下方連結以下載最新的技術支援文件，如有問題歡迎聯繫本公司。</p>
+                        <div class="title_detail">
+                          <div class="title_sort">Data List</div>
+                          <div class="title_date">Oct | 08</div>
+                          <a class="title_dec" href="https://www.nyquest.com.tw/tw/support/download#file4">請於右上方登入下載檔案</a>
+                        </div>
+                      </div>
+                    </picture>
+                                  </div>
+                <div class="swiper-pagination"></div>
+                <div class="linebar"><span></span></div>
+              </div>
+            </div>
+
+                            <div class="block_unit w25 ">
+                  <a class="word" href="/tw/career">
+                    <div class="icon_img">
+                      <img src="/upload/2020_03_051/icon_NYQ-05.png" alt="">
+                      <img src="/upload/2020_03_051/icon_NYQ-06.png" alt="">
+                    </div>
+                    <div class="title">
+                      <h2 class="title_head">職涯</h2>
+                      <p>始秉持著誠信、精確、效率的經營理念，以人性化管理及利潤共用，吸引優秀的人才投入。</p>
+                    </div>
+                    <div class="arrow"></div></a>
+                  <div class="pic">
+                    <picture class="swiper-slide">
+                      <!-- 手機圖片 375*375-->
+                      <source srcset="/upload/2020_02_141/home_ct3_375x375.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct3_375x500.jpg"/>
+                    </picture>
+                  </div>
+                </div>
+                            <div class="block_unit w25 ">
+                  <a class="word" href="/tw/investor/company_profile">
+                    <div class="icon_img">
+                      <img src="/upload/2020_03_051/icon_NYQ-07.png" alt="">
+                      <img src="/upload/2020_03_051/icon_NYQ-08.png" alt="">
+                    </div>
+                    <div class="title">
+                      <h2 class="title_head">投資人</h2>
+                      <p>2016 年 5 月上櫃 (TW: 6494)</p>
+                    </div>
+                    <div class="arrow"></div></a>
+                  <div class="pic">
+                    <picture class="swiper-slide">
+                      <!-- 手機圖片 375*375-->
+                      <source srcset="/upload/2020_02_141/home_ct4_375x375.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_02_141/home_ct4_375x500.jpg"/>
+                    </picture>
+                  </div>
+                </div>
+                            <div class="block_unit  pic_top">
+                  <a class="word" href="/tw/about">
+                    <div class="icon_img">
+                      <img src="/upload/2020_03_051/icon_NYQ-09.png" alt="">
+                      <img src="/upload/2020_03_051/icon_NYQ-10.png" alt="">
+                    </div>
+                    <div class="title">
+                      <h2 class="title_head">關於九齊</h2>
+                      <p>九齊科技股份有限公司（Nyquest Technology Co., Ltd.）成立於2006年10月，為專業IC設計公司。</p>
+                    </div>
+                    <div class="arrow"></div></a>
+                  <div class="pic">
+                    <picture class="swiper-slide">
+                      <!-- 手機圖片 375*375-->
+                      <source srcset="/upload/2020_03_258/home_about_375x375.jpg" media="(max-width:600px)"/>
+                      <!-- 電腦圖片  1920*450-->
+                      <img src="/upload/2020_03_258/home_about_750x500.jpg"/>
+                    </picture>
+                  </div>
+                </div>
+                      </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+  <div class="ft_wrap">
+    <div class="ft_ct">
+      <div class="ftunit">
+        <div class="unit_list">
+          <h3 class="unit_name">關於</h3><span class="plus"></span>
+        </div>
+        <ul class="unit_item">
+          <li><a
+              href="https://www.nyquest.com.tw/tw/about">公司簡介</a>
+          </li>
+          <li><a
+              href="https://www.nyquest.com.tw/tw/about/milestone">公司沿革</a>
+          </li>
+        </ul>
+      </div>
+      <div class="ftunit">
+        <div class="unit_list">
+          <h3 class="unit_name">產品</h3><span class="plus"></span>
+        </div>
+        <ul class="unit_item">
+          <li><a
+              href="https://www.nyquest.com.tw/tw/product">Overview</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/product/32_Bit_MCU">32位元語音系列</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/product/HomeAppliances">8位元通用型微控制器</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/product/SpeechIC">單通道語音系列</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/product/MultiChannelSpeech_MelodyIC">多通道語音系列</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/product/Accessory_ASIC">週邊晶片</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/product/LED_Control_Drive_IC">LED 控制與驅動</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/product/NY_Memory">快閃記憶體</a>
+          </li>
+                  </ul>
+      </div>
+      <div class="ftunit">
+        <div class="unit_list">
+          <h3 class="unit_name">支援</h3><span class="plus"></span>
+        </div>
+        <ul class="unit_item">
+          <li><a
+              href="https://www.nyquest.com.tw/tw/support/download">Overview</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/support/download">請注意: 於右上方登入下載</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/support/download/Nyques_IC_Product">IC Product</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/support/download/Nyquest_Data">Nyquest  Data</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/support/download/Nyquest_SW_Tools_UM">Software Tools &amp; UM</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/support/download/Application_Notices">Application Notice</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/support/download/Hardware_Document">Hardware Document</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/support/download/Standard_Code">Standard Code</a>
+          </li>
+                  </ul>
+      </div>
+
+            <div class="ftunit">
+        <div class="unit_list">
+          <h3 class="unit_name">投資人專區</h3><span class="plus"></span>
+        </div>
+        <ul class="unit_item">
+          <li><a
+              href="https://www.nyquest.com.tw/tw/investor/company_profile">公司治理</a>
+          </li>
+          
+          <li><a
+              href="https://www.nyquest.com.tw/tw/investor/financial_annual">財務資訊</a>
+          </li>
+          <li><a
+              href="https://www.nyquest.com.tw/tw/investor/shareholder_price">股東服務</a>
+          </li>
+          <li><a
+              href="https://www.nyquest.com.tw/tw/investor/stakeholder_issue">利害關係人</a>
+          </li>
+          <li><a
+              href="https://www.nyquest.com.tw/tw/investor/faq_index">投資人問答集</a>
+          </li>
+        </ul>
+      </div>
+            
+              <div class="ftunit">
+          <div class="unit_list">
+            <h3 class="unit_name">企業永續發展</h3><span class="plus"></span>
+          </div>
+          <ul class="unit_item">
+            <li><a
+                href="https://www.nyquest.com.tw/tw/esg/article">Overview</a>
+            </li>
+                        <li><a
+                href="https://www.nyquest.com.tw/tw/esg/article/cate1">企業永續</a>
+            </li>
+                        <li><a
+                href="https://www.nyquest.com.tw/tw/esg/article/cate2">永續環境</a>
+            </li>
+                        <li><a
+                href="https://www.nyquest.com.tw/tw/esg/article/cate3">幸福職場</a>
+            </li>
+                        <li><a
+                href="https://www.nyquest.com.tw/tw/esg/article/cate4">社會公益</a>
+            </li>
+                        <li><a
+                href="https://www.nyquest.com.tw/tw/esg/article/cate5">供應商管理</a>
+            </li>
+                      </ul>
+        </div>
+            <div class="ftunit">
+        <div class="unit_list">
+          <h3 class="unit_name">代理商</h3><span class="plus"></span>
+        </div>
+        <ul class="unit_item">
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/member/login">登入</a>
+          </li>
+                    <li><a
+              href="https://www.nyquest.com.tw/tw/member">會員中心</a>
+          </li>
+          <li><a
+              href="https://www.nyquest.com.tw/tw/contact">聯絡我們</a>
+          </li>
+        </ul>
+      </div>
+      <div class="ftunit">
+        <div class="unit_list">
+          <h3 class="unit_name">人才招聘</h3><span class="plus"></span>
+        </div>
+        <ul class="unit_item">
+          <li><a
+              href="https://www.nyquest.com.tw/tw/career">福利制度</a>
+          </li>
+          <li><a href="https://www.104.com.tw/company/d3htb9s?jobsource=checkc" target="_blank">工作機會</a></li>
+        </ul>
+      </div>
+            <div class="ftunit">
+        <div class="unit_list">
+          <h3 class="unit_name">News</h3><span class="plus"></span>
+        </div>
+        <ul class="unit_item">
+          <li><a
+              href="https://www.nyquest.com.tw/tw/news/overview">Overview</a>
+          </li>
+                  </ul>
+      </div>
+          </div>
+    <a class="ft_top" href="javascript:;">
+      <div class="go_top circle_btn">
+        <span class="icon-arrowdr"></span>
+      </div>
+    </a>
+    <div class="ft_ft">
+      <p class="coyeright">九齊科技股份有限公司著作權所有</p>
+      <a class="underlink" href="javascript:void(0);"
+        data-ajax-route="https://www.nyquest.com.tw/tw/privacy"
+        data-ajax-container=".lightbox" data-ajax-callback="lightbox" data-ajax="data-ajax">隱私權政策</a>
+      <p>Design by WDD.</p>
+    </div>
+  </div>
+</footer>
+
+	<!--引入的script-->
+	<script src="https://www.nyquest.com.tw/dist/assets/js/vendor-dist.js"></script>
+	<script src="https://www.nyquest.com.tw/dist/assets/js/vendor/wdd-plugin/wdd.1.2.2-dist.js"></script>
+	<script src="https://www.nyquest.com.tw/dist/assets/js/vendor/wdd-plugin/wdd_ajax.1.1.2-dist.js"></script>
+	<script src="https://www.nyquest.com.tw/dist/assets/js/vendor/wdd-plugin/wdd_article.2.1-dist.js"></script>
+	<script src="https://www.nyquest.com.tw/dist/assets/js/vendor/wdd-plugin/wdd_youtubeAPI.2.0-dist.js"></script>
+	<script src="https://www.nyquest.com.tw/dist/assets/js/vendor/sticky/jquery.sticky.js"></script>
+	<script src="https://www.nyquest.com.tw/dist/assets/js/main-dist.js"></script>
+	<script src="https://www.nyquest.com.tw/dist/assets/js/plus/preview_tag.js?"></script>
+	<script>
+		var baseUrl = $('.base-url').val();
+
+			$('.go_search').on('click', 'a', function() {
+				var data_url = $(this).data('url');
+				var key = $(this).parents('.go_search').find('input').val();
+
+				if (key == '') {
+					alert("請輸入關鍵字！");
+				} else {
+					var url = baseUrl + '/search/' + data_url + '?keyword=' + encodeURIComponent(key);
+					window.location.href = url;
+				}
+			});
+	</script>
+
+	<!-- microdata : professional service -->
+<script type="application/ld+json">
+    {
+      "@context": "http://www.schema.org",
+      "@type": "ProfessionalService",
+                "name":"九齊科技股份有限公司 Nyquest Technology Co., Ltd.",
+            "email": "mailto:ir@nyquest.com.tw",
+      "url": "https://www.nyquest.com.tw/tw",
+                "image": "https://www.nyquest.com.tw/dist/assets/img/nyquest.ico",
+            
+      "priceRange":"",
+      "telephone": "+886-3-516 9077",
+      "logo": "https://www.nyquest.com.tw/dist/uploads/common/logo_194x38.png",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "水利路81號7F-1",
+        "addressLocality": "東區",
+        "addressRegion": "新竹市",
+        "postalCode": "30059",
+        "addressCountry": "中華民國 (台灣)"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "24.8040531",
+        "longitude": "121.0061819"
+      },
+      "hasMap": "https://www.google.com/maps/place/%E4%B9%9D%E9%BD%8A%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/@24.8040531,121.0061819,15z/data=!4m5!3m4!1s0x0:0x7e27804b2c42cb4c!8m2!3d24.8040531!4d121.0061819",
+      "openingHours": [
+        "Mo-Fr 09:00-18:00"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+886-3-516 9077"
+      },
+      "sameAs": [ 
+                    "https://www.youtube.com/playlist?list=PLOQuwtMNvL5hdPsvG0rO8tEKHBh-r99g4",
+         
+                    "http://i.youku.com/i/UMTUxNjMxNzE1Ng==/videos?spm=a2hzp.8253876.0.0"
+         
+      ]
+    }
+    
+    
+  </script><!-- microdata : breadcrumbList -->
+  <script type="application/ld+json">
+    {
+      "@context": "http://www.schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement":
+      [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item":
+          {
+            "@id": "https://www.nyquest.com.tw/tw",
+            "name": "九齊科技股份有限公司 Nyquest Technology Co., Ltd."
+          }
+        }
+                              ]
+    }
+  </script>
+	<!-- 非共用的JS -->
+		
+	
+</body>
+
+</html>

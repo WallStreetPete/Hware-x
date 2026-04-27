@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id='G-N8SWBT7MR7'"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-N8SWBT7MR7');
+</script>
+        <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <title></title>
+        <base href="https:/">
+    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-icon-144x144.png">
+    <link rel="canonical" href="https:/favicon.ico" />
+    <link rel="alternate" hreflang="en" href="https:/en" />
+    <link rel="alternate" hreflang="zh-TW" href="https:/tw" />
+    <meta name="title" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="T-CONN Corp.">
+    <meta name="copyright" content="T-CONN Corp.">
+            <link rel="stylesheet" href="assets/css/style-en.min.css">
+        <!--[if lt IE 9]>
+     <script src="assets/js/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+  <div class="wrap nav-nav">
+  <nav class="wrap-fs nav">
+      <div class="wrap wrap-nav">
+          <div class="sub-wrap">
+              <i class="nav-arrow"></i>
+              <a class="open-a" href="javascript:void(0)" title="General Products">General Products</a>
+              <div class="sub-as">
+                                <a href="en/product/series/HDMI-Series" class="sub-a" title="HDMI">
+                    <img src="/uploads/images/product/menu7.png" alt="HDMI">
+                    <p>HDMI</p>
+                </a>
+                                <a href="en/product/series/USB" class="sub-a" title="USB">
+                    <img src="/uploads/images/product/06-USB/USB4/USB4-5.png" alt="USB">
+                    <p>USB</p>
+                </a>
+                                <a href="en/product/series/Display-Port" class="sub-a" title="Display Port">
+                    <img src="/uploads/images/product/menu8.png" alt="Display Port">
+                    <p>Display Port</p>
+                </a>
+                                <a href="en/product/series/RJ-Connector" class="sub-a" title="RJ Connector">
+                    <img src="/uploads/images/product/menu9.png" alt="RJ Connector">
+                    <p>RJ Connector</p>
+                </a>
+                                <a href="en/product/series/Push-Pull-Circular-Connector" class="sub-a" title="Circular Connector">
+                    <img src="/uploads/images/product/01-Circular-Connector/CircularConnector-4.png" alt="Circular Connector">
+                    <p>Circular Connector</p>
+                </a>
+                                <a href="en/product/series/Terminal-Block" class="sub-a" title="Terminal Block">
+                    <img src="/uploads/images/product/menu2.png" alt="Terminal Block">
+                    <p>Terminal Block</p>
+                </a>
+                                <a href="en/product/series/High-Power" class="sub-a" title="Power Connector">
+                    <img src="/uploads/images/product/menu4.png" alt="Power Connector">
+                    <p>Power Connector</p>
+                </a>
+                                <a href="en/product/series/DDR" class="sub-a" title="DDR">
+                    <img src="/uploads/images/product/menu5.png" alt="DDR">
+                    <p>DDR</p>
+                </a>
+                              </div>
+          </div>
+          <div class="sub-wrap">
+              <i class="nav-arrow"></i>
+              <a class="open-a" href="javascript:void(0)" title="Customized Products">Customized Products</a>
+              <div class="sub-as">
+                                <a href="en/industrial/series/Pogo-Connector" class="sub-a" title="Pogo Connector">
+                    <img src="/uploads/images/product-customized/menu-c1.png" alt="Pogo Connector">
+                    <p>Pogo Connector</p>
+                </a>
+                                <a href="en/industrial/series/Charging-Battery-Connector" class="sub-a" title="Charging Battery Connector">
+                    <img src="/uploads/images/product-customized/menu-c2.png" alt="Charging Battery Connector">
+                    <p>Charging Battery Connector</p>
+                </a>
+                                <a href="en/industrial/series/ECU-Connector" class="sub-a" title="ECU Connector">
+                    <img src="/uploads/images/product-customized/ECU/33Connector.png" alt="ECU Connector">
+                    <p>ECU Connector</p>
+                </a>
+                                <a href="en/industrial/series/Circular-Connector" class="sub-a" title="Circular Connector">
+                    <img src="/uploads/images/product-customized/Signal/6pinConnector.png" alt="Circular Connector">
+                    <p>Circular Connector</p>
+                </a>
+                                <a href="en/industrial/series/E-Scooter-Connector" class="sub-a" title="E-Scooter Connector">
+                    <img src="/uploads/images/product-customized/Battery Connector/BatteryConnector.png" alt="E-Scooter Connector">
+                    <p>E-Scooter Connector</p>
+                </a>
+                              </div>
+          </div>
+          <div class="sub-wrap">
+              <i class="nav-arrow"></i>
+              <a class="open-a" href="javascript:void(0)" title="Application">Application</a>
+              <div class="sub-sas">
+                                <a href="en/apply/series/Industrial-Automation" class="sub-sa" title="Industrial Automation">Industrial Automation</a>
+                                <a href="en/apply/series/Data-Center-Server" class="sub-sa" title="Data Center & Server">Data Center & Server</a>
+                                <a href="en/apply/series/Consumer-Solution" class="sub-sa" title="Consumer Solution">Consumer Solution</a>
+                                <a href="en/apply/series/Smart-Transportation" class="sub-sa" title="Smart Transportation">Smart Transportation</a>
+                              </div>
+          </div>
+          <div class="sub-wrap">
+              <i class="nav-arrow"></i>
+              <a class="open-a" href="javascript:void(0)" title="Capability">Capability</a>
+              <div class="sub-sas">
+                                <a href="en/capability/series/Design-Capability" class="sub-sa" title="Design Capability">Design Capability</a>
+                                <a href="en/capability/series/Manufacturing-Capability" class="sub-sa" title="Manufacturing Capability">Manufacturing Capability</a>
+                              </div>
+          </div>
+                    <div class="sub-wrap">
+              <i class="nav-arrow"></i>
+              <a class="open-a" href="javascript:void(0)" title="Investor Relations">Investor Relations</a>
+              <div class="sub-sas">
+              <a href="en/financial/data" class="sub-sa" title="Financial Information">Financial Information</a>
+              <a href="en/shareholder" class="sub-sa" title="Shareholders Information">Shareholders Information</a>
+              <a href="en/corporate" class="sub-sa" title="Corporate Governance">Corporate Governance</a>
+              <a href="en/conference" class="sub-sa" title="Investor Conferences">Investor Conferences</a>
+              <a href="en/csr" class="sub-sa" title="Corporate Social Responsibility">Corporate Social Responsibility</a>
+              </div>
+          </div>
+          
+          <a href="en/about" title="About"><i>About</i></a>
+          <a href="en/contact" title="Contact"><i>Contact</i></a>
+                    <a href="tw"><i>繁</i></a>
+                </div>
+  </nav>
+</div>
+  <header class="wrap-fs header">
+    <div class="cover">
+        <img src="assets/img/layout/cover-short.svg" alt="">
+        <img src="assets/img/layout/cover-long.svg" alt="">
+        <img src="assets/img/layout/cover-longlong.svg" alt="">
+    </div>
+    <div class="wrap">
+        <a href="https:/en" class="logo"><img src="assets/img/layout/logo.png" alt=""></a>
+        <span class="nav-toggle"><span>Mobile Button</span></span>
+    </div>
+</header>
+    <div class="page">
+        <div class="contact wrap" style="height: 80vh;">
+            <h2>404 Page Not Found</h2>
+            <p>The page you requested was not found on the web server. <br> The page could have been deleted or never existed.</p>
+            <a href="https:/en" class="btn btn-r">Back to Index</a>
+        </div>
+    </div>
+    <footer class="wrap-fs footer">
+    <div class="wrap foowrap">
+        <div class="b-c">
+            <p>Business Contact</p>
+            <a>5F.-2, No.79, Sec. 1, Xintai 5th Rd., Xizhi Dist., New Taipei City 221, Taiwan (R.O.C.)</a>
+            <span>+886-2-2698-3890</span>
+            <span style="margin-top: 10px; display:inline-block" id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=JkLcsAkxlczcZMqRlyWBSybwsI1YRdh6DLedO5NUo9rVw37HyIJHyBN9wPRD"></script></span>
+
+ 
+            <!-- <div id="twcaseal" class="MEDIUM" style="margin-top: 10px">
+                <img src='assets/img/MEDIUM.gif'/>
+                <script type="text/javascript" charset="utf-8" >var CN="www.t-conn.com";</script>
+                <script type="text/javascript" src="//ssllogo.twca.com.tw/twcaseal_v3.js" charset="utf-8"></script>
+            </div> -->
+        </div>
+        <div class="g-p">
+            <p>General Products</p>
+            <div class="gpa">
+                                <a href="en/product/series/7" title="HDMI">HDMI</a>
+                                <a href="en/product/series/6" title="USB">USB</a>
+                                <a href="en/product/series/8" title="Display Port">Display Port</a>
+                                <a href="en/product/series/9" title="RJ Connector">RJ Connector</a>
+                                <a href="en/product/series/1" title="Circular Connector">Circular Connector</a>
+                                <a href="en/product/series/2" title="Terminal Block">Terminal Block</a>
+                                <a href="en/product/series/4" title="Power Connector">Power Connector</a>
+                                <a href="en/product/series/5" title="DDR">DDR</a>
+                            </div>
+            <p>Customized Products</p>
+            <div class="gpa">
+                                <a href="en/industrial/series/1" title="Pogo Connector">Pogo Connector</a>
+                                <a href="en/industrial/series/2" title="Charging Battery Connector">Charging Battery Connector</a>
+                                <a href="en/industrial/series/6" title="ECU Connector">ECU Connector</a>
+                                <a href="en/industrial/series/7" title="Circular Connector">Circular Connector</a>
+                                <a href="en/industrial/series/8" title="E-Scooter Connector">E-Scooter Connector</a>
+                            </div>
+        </div>
+        <div class="c-r">
+            <a>Copyright © 2019 T-CONN Corp.</a>
+        </div>
+        <div class="a-p">
+            <p>Application</p>
+            <div class="gpa">
+                                <a href="en/apply/series/1">Industrial Automation</a>
+                                <a href="en/apply/series/2">Data Center & Server</a>
+                                <a href="en/apply/series/3">Consumer Solution</a>
+                                <a href="en/apply/series/4">Smart Transportation</a>
+                            </div>
+        </div>
+    </div>
+</footer>
+<div id="scroll-top" class="scroll-top" style="display: block;"><a href="#top"><span></span></a></div>
+    <div class="load">
+    <img src="assets/img/layout/loading.svg" alt="">
+</div>
+    <script src="assets/js/main.min.js"></script>
+    <script src="assets/js/slick.min.js"></script></body>
+</html>

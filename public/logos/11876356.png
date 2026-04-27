@@ -1,0 +1,1381 @@
+
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>北京华科仪科技股份有限公司</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta content="telephone=no" name="format-detection" />
+    <meta content="black" name=" apple-mobile-web-app-status-bar-style" />
+    <meta content="email=no" name="format-detection" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=8,9,10,11,12" />
+
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+
+    <link rel="Shortcut Icon" href="img/common-img/ShortcutIcon.ico" />
+
+    <link type="text/css" rel="stylesheet" href="css/reset.css" />
+    <!--动画-->
+    <link rel="stylesheet" type="text/css" href="css/animate.css" />
+    <!--  swiper  -->
+    <link rel="stylesheet" type="text/css" href="css/idangerous.swiper.css" />
+    <!--网页公用 CSS部分-->
+    <link type="text/css" rel="stylesheet" href="css/common.css" />
+    <!--内容部分 CSS-->
+    <link type="text/css" rel="stylesheet" href="css/style.css" />
+
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+    <!--屏幕大小响应-->
+    <link type="text/css" rel="stylesheet" href="css/responsive.css" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+
+</head>
+
+<body>
+
+
+    
+
+<div class="header header2 header-pc wow fadeIn">
+    <div class="zhezhao"></div>
+    <div class="nav-btn">
+        <span class="navbar navbar1"></span>
+        <span class="navbar navbar2"></span>
+        <span class="navbar navbar3"></span>
+    </div>
+    <div class="inner clearfix">
+        <div class="header-left">
+            <a href="/cn" class="logo">
+                <img src="/cn/img/common-img/logo.png" />
+            </a>
+        </div>
+        <div class="header-right">
+            <div class="link clearfix">
+                <div class="header-link-btn">
+                    <ul class="clearfix">
+                        <li>
+                            
+                            <a href="/cn/Login" class="item-login">登录</a>
+                            
+                        </li>
+                        <li id="langBtn">
+                            <a href="/en" class="item-lang">English</a>                                                        
+                            <div class="langList">
+                           
+                                <a href="/cn/" style="background-image: url(http://www.huakeyi.com/en/img/common-img/header-lang.png)">中文</a> 
+                                 <a href="/ru/" style="background-image:url(http://www.huakeyi.com/ru/img/common-img/header-lang-ru.png)">Russian</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="nav">
+                    <ul class="clearfix">
+                        <li><a class="active" href="/cn">首页</a></li>
+                        <li><a  href="/cn/about" class="item-title">公司介绍</a>
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <dl>
+                                            <dt>公司介绍</dt>
+
+                                            <dd><a href="/cn/about/#position-1">企业简介</a></dd>
+                                            <dd><a href="/cn/about/#position-2">企业文化</a></dd>
+                                            <dd><a href="/cn/about/#position-3">创新历程</a></dd>
+                                            <dd><a href="/cn/about/comorg/">组织机构</a></dd>
+                                            <dd><a href="/cn/about/#position-5">资质荣誉</a></dd>
+                                            <dd><a href="/cn/about/#position-6">企业宣传片</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114063341.jpg);"></div>
+                                </div>
+                            </div>
+
+
+                        </li>
+                        <li style="display:none"><a  href="/cn/news" class="item-title">新闻中心</a>
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <dl>
+                                            <dt>新闻中心</dt>
+
+                                            
+                                            <dd><a href="/cn/news/?id=53">企业动态</a></dd>
+                                            
+                                            <dd><a href="/cn/news/?id=79">员工天地</a></dd>
+                                            
+                                        </dl>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114135478.jpg);"></div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li>
+                            <a  href="/cn/product" class="item-title">产品中心</a>
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <dl>
+                                            <dt>产品中心</dt>
+                                            
+                                            <dd><a href="/cn/product/?id=1">在线监测仪</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=16">实验室产品</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=2">汽水取样及加药装置</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=3">气体报警仪表</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=4">油分析仪器</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=5">环保监测系统</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=6">数据采集监控系统</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=7">油烟在线监控</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=8">放射性指标检测仪器</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=9">水质监测微站</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=17">两虫检测自动识别系统</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=35">电厂实验室信息管理系统</a></dd>
+                                            
+                                            <dd><a href="/cn/product/?id=26">城市污水病毒监测系统</a></dd>
+                                            
+                                        </dl>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114070213.jpg);"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a  href="/cn/service" class="item-title">服务支持</a>
+
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <dl>
+                                            <dt>服务支持</dt>
+                                            
+                                            <dd><a href="/cn/service/?id=58">说明书下载</a></dd>
+                                            
+                                            <dd><a href="/cn/service/list/?id=81">常见故障排除</a></dd>
+                                            
+                                            <dd><a href="/cn/service/info/?id=82">化学仪表维护方案</a></dd>
+                                            
+                                            <dd><a href="/cn/service/list/?id=116">技术知识</a></dd>
+                                            
+                                            <dd><a href="/cn/service/down/?id=117">APP下载</a></dd>
+                                            
+                                            <dd><a href="/cn/service/down/?id=118">产品手册</a></dd>
+                                            
+                                        </dl>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114074495.jpg);"></div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li><a  href="/cn/case" class="item-title">成功案例</a>
+
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <dl>
+                                            <dt>成功案例</dt>
+                                            
+                                            <dd><a href="/cn/case/?id=60">国内</a></dd>
+                                            
+                                            <dd><a href="/cn/case/?id=122">国外</a></dd>
+                                            
+                                        </dl>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114162662.jpg);"></div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li><a  href="/cn/join" class="item-title">加入华科仪</a>
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <dl>
+                                            <dt>加入华科仪</dt>
+                                            
+                                            <dd><a href="/cn/join/">人才策略</a></dd>
+                                            
+                                            <dd><a href="/cn/join/list/?id=123">招聘岗位</a></dd>
+                                            
+                                        </dl>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114151544.jpg);"></div>
+                                </div>
+                            </div>
+
+
+                        </li>
+                        <li><a  href="/cn/contact" class="item-title">联系我们</a>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header header2 header-mobile wow fadeIn">
+    <div class="zhezhao"></div>
+    <div class="nav-btn">
+        <span class="navbar navbar1"></span>
+        <span class="navbar navbar2"></span>
+        <span class="navbar navbar3"></span>
+    </div>
+    <div class="inner clearfix">
+        <div class="header-left">
+            <a href="/cn" class="logo">
+                <img src="/cn/img/common-img/logo.png" />
+            </a>
+        </div>
+        <div class="header-right">
+            <div class="link clearfix">
+                <div class="nav">
+                    <ul class="clearfix">
+                        <li><a class="active" href="/cn">首页</a></li>
+                        <li><a  href="/cn/about" class="item-title">公司介绍</a>
+
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <ul>
+                                            <li><a href="/cn/about/#position-1">企业简介</a></li>
+                                            <li><a href="/cn/about/#position-2">企业文化</a></li>
+                                            <li><a href="/cn/about/#position-3">创新历程</a></li>
+                                            <li><a href="/cn/about/comorg/">组织机构</a></li>
+                                            <li><a href="/cn/about/#position-5">资质荣誉</a></li>
+                                            <li><a href="/cn/about/#position-6">企业宣传片</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114063341.jpg);"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li  style="display:none"><a  href="/cn/news" class="item-title">新闻中心</a>
+
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <ul>
+
+
+                                            
+                                            <li><a href="/cn/news/?id=53">企业动态</a></li>
+                                            
+                                            <li><a href="/cn/news/?id=79">员工天地</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114135478.jpg);"></div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li>
+                            <a  href="javascript:;" class="item-title hasChild">产品中心</a>
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <ul>
+                                            
+                                            <li><a href="/cn/product/?id=1">在线监测仪</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=16">实验室产品</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=2">汽水取样及加药装置</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=3">气体报警仪表</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=4">油分析仪器</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=5">环保监测系统</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=6">数据采集监控系统</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=7">油烟在线监控</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=8">放射性指标检测仪器</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=9">水质监测微站</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=17">两虫检测自动识别系统</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=35">电厂实验室信息管理系统</a></li>
+                                            
+                                            <li><a href="/cn/product/?id=26">城市污水病毒监测系统</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url();"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a  href="/cn/aervice" class="item-title">服务支持</a>
+
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <ul>
+
+                                            
+                                            <li><a href="/cn/service/?id=58">说明书下载</a></li>
+                                            
+                                            <li><a href="/cn/service/list/?id=81">常见故障排除</a></li>
+                                            
+                                            <li><a href="/cn/service/info/?id=82">化学仪表维护方案</a></li>
+                                            
+                                            <li><a href="/cn/service/list/?id=116">技术知识</a></li>
+                                            
+                                            <li><a href="/cn/service/down/?id=117">APP下载</a></li>
+                                            
+                                            <li><a href="/cn/service/down/?id=118">产品手册</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114074495.jpg);"></div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li><a  href="/cn/xase" class="item-title">成功案例</a>
+
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <ul>
+
+                                            
+                                            <li><a href="/cn/case/?id=60">国内</a></li>
+                                            
+                                            <li><a href="/cn/case/?id=122">国外</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114162662.jpg);"></div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li><a  href="/cn/join" class="item-title">加入华科仪</a>
+
+                            <div class="navSub">
+                                <div class="inner clearfix">
+                                    <div class="text">
+                                        <ul>
+                                             
+                                            <li><a href="/cn/join/">人才策略</a></li>
+                                            
+                                            <li><a href="/cn/join/list/?id=123">招聘岗位</a></li>
+                                            
+                                           
+                                        </ul>
+                                    </div>
+                                    <div class="img bg_cover" style="background-image: url(/upload/20191121/2019112114151544.jpg);"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a  href="/cn/contact" class="item-title">联系我们</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="banner wow fadeIn">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                
+                <div class="swiper-slide">
+                    <a style="background-image: url(/upload/20210121/2021012114572047.jpg);" class="bg_cover" href=""></a>
+                </div>
+                
+                <div class="swiper-slide">
+                    <a style="background-image: url(/upload/20211201/2021120115002611.jpg);" class="bg_cover" href="/cn/product/show.aspx?id=348"></a>
+                </div>
+                
+            </div>
+            <div class="pagination"></div>
+        </div>
+    </div>
+
+    <div class="index-hot wow fadeIn" style="display:none">
+        <div class="container">
+            <div class="inner clearfix">
+                <span class="title">最新动态</span>
+                <div class="list">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=857">北京华科仪爱心助力手工工艺品义卖活动，将爱传递！</a>
+                                <span>2021-05-28</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=856">喜报！北京华科仪两虫检测自动识别系统获得自主创新金奖~</a>
+                                <span>2021-05-28</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=853">华科仪联合主办的第十一届中国垃圾焚烧发电发展论坛暨固废处理技术交流会成功举办！</a>
+                                <span>2021-04-09</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=851">北京华科仪重磅推出三款新产品！</a>
+                                <span>2021-03-03</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=849">北京华科仪两虫仪器成功入选《国家鼓励发展的重大环保技术装备目录(2020年版)》</a>
+                                <span>2021-02-03</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=848">【北京华科仪】回顾2020，展望2021！</a>
+                                <span>2021-01-01</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=716">产研联合守护饮用水生物安全</a>
+                                <span>2020-09-07</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=715">打破国外垄断|华科仪重磅推出“两虫”检测新产品</a>
+                                <span>2020-08-29</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=192">智能仪表助力生物质发电领域，华科仪被评为“2019年度生物质发电行业技术创新企业”</a>
+                                <span>2019-09-22</span>
+                            </div>
+                            
+                            <div class="swiper-slide clearfix">
+                                <a href="/cn/news/Show.aspx?id=191">让所有的优势，都通过知识产权去表达！华科仪入选“2019年度北京市知识产权运营试点单位</a>
+                                <span>2019-08-28</span>
+                            </div>
+                            
+                        </div>
+                        <div class="pagination"></div>
+                    </div>
+                </div>
+                <div class="con clearfix">
+                    <a href="javascript:;" class="prev_btn"><i class="fa fa-chevron-up"></i></a>
+                    <a href="javascript:;" class="next_btn"><i class="fa fa-chevron-down"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="index-fuwu">
+        <div class="list">
+            <ul class="clearfix">
+                
+                <li class="wow zoomIn" >
+                    <a href="/cn/product/List.aspx?hid=55">
+                        <div class="img">
+                            <div class="imgBox bg_cover" style="background-image: url(/upload/20210121/2021012114584336.jpg);"></div>
+                        </div>
+                        <div class="text">
+                            <div class="text-inner">
+                                <p class="title">电力行业成套服务</p>
+                                <p class="desc">华科仪专业电力行业配套解决方案</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                
+                <li class="wow zoomIn" data-wow-delay="0.15s">
+                    <a href="/cn/product/List.aspx?hid=56">
+                        <div class="img">
+                            <div class="imgBox bg_cover" style="background-image: url(/upload/20210121/2021012114594391.jpg);"></div>
+                        </div>
+                        <div class="text">
+                            <div class="text-inner">
+                                <p class="title">石化及化工行业成套服务</p>
+                                <p class="desc">华科仪专业石化及化工行业配套解决方案</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                
+                <li class="wow zoomIn" data-wow-delay="0.3s">
+                    <a href="/cn/product/List.aspx?hid=57">
+                        <div class="img">
+                            <div class="imgBox bg_cover" style="background-image: url(/upload/20210121/2021012115002415.jpg);"></div>
+                        </div>
+                        <div class="text">
+                            <div class="text-inner">
+                                <p class="title">水利水务行业成套服务</p>
+                                <p class="desc">华科仪专业水利水务行业配套解决方案</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                
+                <li class="wow zoomIn" data-wow-delay="0.45s">
+                    <a href="/cn/product/List.aspx?hid=58">
+                        <div class="img">
+                            <div class="imgBox bg_cover" style="background-image: url(/upload/20210121/2021012115013077.jpg);"></div>
+                        </div>
+                        <div class="text">
+                            <div class="text-inner">
+                                <p class="title">环保行业成套服务</p>
+                                <p class="desc">华科仪专业环保行业配套解决方案</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+
+    <div class="index-product index-product-2">
+        <div class="container">
+            <p class="box-title wow fadeInUp">推荐产品</p>
+            <div class="index-product-header wow fadeInUp">
+                   
+                <a href="/cn/product/?id=1" class="active">在线监测仪</a>
+                
+                <a href="/cn/product/?id=16" class="">实验室产品</a>
+                
+                <a href="/cn/product/?id=2" class="">汽水取样及加药装置</a>
+                
+                <a href="/cn/product/?id=3" class="">气体报警仪表</a>
+                
+                <a href="/cn/product/?id=4" class="">油分析仪器</a>
+                
+                <a href="/cn/product/?id=5" class="">环保监测系统</a>
+                
+                <a href="/cn/product/?id=6" class="">数据采集监控系统</a>
+                
+                <a href="/cn/product/?id=17" class="">两虫检测自动识别系统</a>
+                
+                <a href="/cn/product/?id=35" class="">电厂实验室信息管理系统</a>
+                
+                <a href="/cn/product/?id=26" class="">城市污水病毒监测系统</a>
+                
+            </div>
+            <div class="index-product-body wow fadeInUp">
+                 
+                <div class="list" style="display:block ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=911">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20250807/2025080709585840.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-5402 氢电导率电去离子（EDI）模块</p>
+                                    <div class="desc">该产品融合电渗析技术和离子交换技术，实现样水中阳离子的有效去除。测量过程无需更换树脂、再生树脂，真正实现了水汽系统氢电导率连续、准确、智能监测，使得水汽系统管理更加高效、安全与智能。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.15s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=927">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20250812/2025081214434181.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-328-X pH/ORP分析仪</p>
+                                    <div class="desc">HK-328-X pH/ORP分析仪采用单片机控制系统，智能化程度高，测量精确，操作方便；广泛地应用在电力、石化等领域，主要用来连续监测生产流程中的pH值（或者ORP），具有反应快速、测量准确、易于操作的特点。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.3s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=873">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20220705/2022070508544200.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-5401 氢电导率电去离子（EDI）模块</p>
+                                    <div class="desc">HK-5401氢电导率电去离子（EDI）模块将电渗析技术和离子交换技术巧妙地融为一体，通过离子交换膜的选择透过作用和交换树脂对样水中离子的交换作用，在电场作用下实现样水中离子的定向迁移，从而实现样水中阳离子的去除。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=909">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20250110/2025011015274570.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-258A 便携式微量溶解氧分析仪</p>
+                                    <div class="desc">HK-258A 便携式微量溶解氧分析仪的测量基于电化学极谱法(Clark电极)。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.15s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=908">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20250116/2025011608423950.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-218K 快速硅酸根分析仪</p>
+                                    <div class="desc">基于硅钼杂多酸发光机理，采用全新化学反应机制分析水中硅酸根含量，配备自动进样、清洗和加药系统，实现硅酸根含量的全自动快速测量。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.3s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=877">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20220926/2022092609534363.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-2628 联氨分析仪</p>
+                                    <div class="desc">采用进口单色冷光源，配备坚固的防水型外壳，广泛应用于电力、石化、造纸等行业。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=360">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20190813104818843.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-5100ZN 系列智能型水汽取样分析装置</p>
+                                    <div class="desc">智能取样架是北京华科仪科技股份有限公司推出的一款工业智能产品，以“无人工厂”创新理念，数字传感器作为技术驱动，打造工业物联网与智能应用体系，结构上继承了传统汽水取样架在工业现场应用的技术优势，性能上实现了工业应用对于对数字化、人性化、智能化的现代化服务需求。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.15s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=357">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20170712152259561.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-5200 系列恒温装置</p>
+                                    <div class="desc">恒温装置是汽水取样架系统中配置中重要组成部分之一，它把去仪表的样水恒定在(25±1)℃。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.3s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=356">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20170712144810233.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-5100 系列汽水取样分析装置</p>
+                                    <div class="desc">用于火力发电系统对蒸汽和水进行集中连续取样监测，并通过化学仪表和微机系统对水样分析和监测来控制锅炉加药装置。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=368">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20170714091036058.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-7000 气体报警控制器(点对点19寸插卡式)</p>
+                                    <div class="desc">对监测点超过10路的用户，可选用本公司柜体式结构的HK-7000型气体报警控制柜，它的功能与壁挂式一样，但能集装（10－60）路HK-7000单元。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.15s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=367">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20170714090919871.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-7000 气体报警控制器(点对点独立式)</p>
+                                    <div class="desc">对监测点超过10路的用户，可选用本公司柜式结构的HK-7000气体报警控制器柜，它的功能与壁挂式一样，但能集中安装(11~70)路HK-7000单元。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.3s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=366">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20170713161159201.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-7200A 二线制LED显示有毒气体报警器</p>
+                                    <div class="desc">可广泛地应用在石化、油气贮运、化学工业、油库、液化气站、燃气锅炉房等存在有毒气体的领域。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=386">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20170713124044030.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-3020ND 自动凝点/倾点测定仪</p>
+                                    <div class="desc">符合《GB/T 510-2018石油产品凝点测定法》、《GB/T 3535-2006石油产品倾点测定法》、ASTM D97 ，用于测定石油产品的凝点和倾点，测量准确、易于操作，广泛用于铁路、航空、电力、石油行业及科研部门。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.15s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=379">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20251104/2025110411134429.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-3062DZ 全自动体积电阻率测定仪</p>
+                                    <div class="desc">HK-3062DZ全自动体积电阻率测定仪，按照中华人民共和国电力行业标准《DL/T 421-2009电力用油体积电阻率测定法》设计。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.3s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=372">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20210427/2021042711561122.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-3013SB 闭口闪点测定仪</p>
+                                    <div class="desc">《GB/T 261-2021 闪点的测定 宾斯基-马丁闭口杯法》、ASTM D93、ISO 2719，适用于闭口闪点高于40℃的馏份油、未使用过的润滑油及其他液体，广泛用于铁路、航空、电力、石油行业及科研部门。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=924">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20250227/2025022711553890.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-8560 BOD测定仪</p>
+                                    <div class="desc">HK-8560 BOD测定仪采用无汞压差法的原理，可用来监测生物化学反应过程中的需氧量。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.15s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=907">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20241126/2024112608564709.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-8120 泥水界面在线监测仪</p>
+                                    <div class="desc">HK-8120泥水界面在线监测仪是一种利用超声波在水中传播特性和反射特性来测量沉淀物深度与水深的仪器。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.3s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=905">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20241031/2024103111075593.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-8170 饮用水多参数在线监测仪</p>
+                                    <div class="desc"></div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=399">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20150728153839523.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">下位机</p>
+                                    <div class="desc">所有下位机模块均采用总线方式与上位机进行通讯，并可采用CAN总线和无线两种方式与操作仪进行通讯。工作电压为（18~36）VDC；最大功耗为3W；均采用盘式安装。安装尺寸：255mm（长）×180mm（宽）×100（高）。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.15s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=398">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20150728153336008.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">手操器</p>
+                                    <div class="desc">工作站取消了测量二次仪表的显示部分和按键部分，所有显示和操作均集中在PC机上完成。这就使得现场的日常维护变得非常困难，尤其是当PC机与仪表相距较远时。而手操器很好地解决了这一问题。手操器的作用相当于原仪表的电子单元，在现场可以通过有线或者无线与变送器块相连，即可以现场对相应模块进行显示和操作。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.3s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=397">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/old/20150728153029992.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-5000系列仪表工作站</p>
+                                    <div class="desc">该系统采用上、下位机的模式，实现对化学水汽参数的测量和加药自动控制。系统上位机采用高性能的工业控制计算机，下位机采用我公司自主开发的功能模块及变送器。计算机监控软件能实现直观易操作的人机界面、数据处理和自动控制。在集中取样间通过上位机实现对水质的监测和控制。上位机预留与电厂MIS网相连接的接口。联网功能，同过厂内MIS系统或INTERNET与其它微机联网，实现远程监测和控制。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=714">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20230413/2023041315014698.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-8610 两虫检测自动识别系统</p>
+                                    <div class="desc">北京华科仪科技股份有限公司与中国科学院生态环境研究中心通过长期开展深入合作，参照国内外研究进展及国内水质检测的实际情况，以降低设备和检测成本为目标，围绕“两虫”检测方法、仪器研制、自动识别系统等方面开展了系统的研发，开发出基于“滤膜浓缩/密度梯度分离荧光抗体法”和人工智能技术的两虫检测自动识别系统，解决了我国饮用水“两虫”检测过程中检测成本高昂、人工识别主观性和技术性难题、依赖进口产品设备等诸多问题。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=874">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20220719/2022071914562910.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-PLIMS 实验室信息管理系统</p>
+                                    <div class="desc">实验室信息管理系统，简称LIMS，是采用先进的计算机技术、数据库技术和标准化的实验室管理思想，组成的一个全面化、规范化、流程化的管理体系。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="list" style="display: ;">
+                    <ul class="clearfix">
+                          
+                        <li  >
+
+                       
+                            <a href="/cn/product/Show.aspx?id=885">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20230228/2023022813583070.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-8840 污水采样器</p>
+                                    <div class="desc">HK-8840 污水采样器为固定安装式采样器，可广泛应用于生活污水、工业废水、医疗废水等领域。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                        <li  data-wow-delay="0.15s">
+
+                       
+                            <a href="/cn/product/Show.aspx?id=845">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20220905/2022090509535899.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">HK-8680 多通道污水病毒富集仪</p>
+                                    <div class="desc">北京华科仪科技股份有限公司与中国科学院生态环境研究中心通过开展深入合作,基于铝盐混凝沉降法,结合qPCR检测技术,建立了一种可靠、经济、便捷的病毒富集及检测模式,推出了HK-8680水中病毒检测系统,可实现对水中病毒的监测和预警功能,为疾病预防控制中心、污水处理厂、自来水公司、环境监测站、第三方检测机构等开展病毒检测提供有力支撑从而完善我国传染病监测预警体系。</div>
+                                    <div class="link clearfix">
+                                        <span>查看详细</span>
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+                
+            </div>
+            <div class="more wow fadeInUp"><a href="/cn/product">查看更多产品</a></div>
+        </div>
+    </div>
+
+    <div class="index-about">
+        <div class="container">
+            <p class="box-title wow fadeInUp">关于华科仪</p>
+            <div class="numBox clearfix wow fadeInUp">
+                <div class="item">
+                    <div class="inner">
+                        <div class="item-header">
+                            <span class="num" id="num1"></span>
+                            <span>人</span>
+                        </div>
+                        <div class="item-body">员工人数约</div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="inner">
+                        <div class="item-header">
+                            <span class="num" id="num2"></span>
+                            <span>种</span>
+                        </div>
+                        <div class="item-body">产品数量约</div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="inner">
+                        <div class="item-header">
+                            <span class="num" id="num3"></span>
+                            <span>年</span>
+                        </div>
+                        <div class="item-body">成立于</div>
+                    </div>
+                </div>
+            </div>
+            <div class="desc wow fadeInUp">北京华科仪科技股份有限公司自成立以来，始终聚焦客户需求，坚持自主研发，现已成功推出化学水分析仪器、可燃气体探测器/有毒气体报警器、实验室油分析仪器、环保监<br />测设备、水处理装置、数据采集监控系统等九大类70多种产品，可向电力、冶金、石化、新能源及环保、科研等领域提供数十种行业成套解决方案。目前，公司已与国内外数千家企业<br />建立了长期稳定的合作关系，产品遍及全国各地，并远销至印度、苏丹、孟加拉、印度尼西亚、越南等国家。</div>
+            <div class="more wow fadeInUp"><a href="/cn/About">了解华科仪</a></div>
+        </div>
+    </div>
+
+    <div class="index-news"  style="display:none">
+        <div class="container">
+            <p class="box-title wow fadeInUp">新闻动态</p>
+            <div class="index-news-header wow fadeInUp">
+                <a href="/cn/news/?id=53" class="active">企业动态</a>
+                <a href="/cn/news/?id=79">员工天地</a>
+            </div>
+            <div class="index-news-body">
+                <div class="list" style="display: block;">
+                    <ul class="clearfix">
+                        
+                        <li class="wow fadeInUp" >
+                            <a href="/cn/news/Show.aspx?id=853">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20210419/2021041911090494.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">华科仪联合主办的第十一届中国垃圾焚烧发电发展论坛暨固废处理技术交流会成功举办！</p>
+                                    <div class="date">2021-04-09</div>
+                                </div>
+                            </a>
+                        </li>
+                        
+                        <li class="wow fadeInUp" data-wow-delay="0.15s">
+                            <a href="/cn/news/Show.aspx?id=851">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20210419/2021041914532146.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">北京华科仪重磅推出三款新产品！</p>
+                                    <div class="date">2021-03-03</div>
+                                </div>
+                            </a>
+                        </li>
+                        
+                        <li class="wow fadeInUp" data-wow-delay="0.3s">
+                            <a href="/cn/news/Show.aspx?id=849">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20210419/2021041910394367.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">北京华科仪两虫仪器成功入选《国家鼓励发展的重大环保技术装备目录(2020年版)》</p>
+                                    <div class="date">2021-02-03</div>
+                                </div>
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="list">
+                    <ul class="clearfix">
+                        
+                        <li class="wow fadeInUp" >
+                            <a href="/cn/news/Show.aspx?id=850">
+                                <div class="img">
+                                    <div class="imgBox bg_cover" style="background-image: url(/upload/20210419/2021041910402929.jpg);"></div>
+                                </div>
+                                <div class="text">
+                                    <p class="title">“三八”女神节，巾帼展风采，好运转起来~</p>
+                                    <div class="date">2021-03-08</div>
+                                </div>
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="more wow fadeInUp"><a href="/cn/news">查看更多</a></div>
+        </div>
+    </div>
+
+    
+
+<div class="footer wow fadeIn">
+	<div class="container clearfix">
+		<div class="inner clearfix">
+			<div class="msg">
+				<div class="follow clearfix">
+					<span>关注我们 &gt;</span>
+					<div class="type">
+						<ul class="clearfix">
+							<li><a href=""><i class="fa fa-weibo"></i></a></li>
+							<li><a href="#"><i class="fa fa-weixin"></i></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="title">北京华科仪科技股份有限公司</div>
+				<div class="link">
+					<div class="link-header">
+						<div class="list">
+							<ul>
+                              	
+								<li><a href="http://www.chinapower.com.cn/" target="_blank">中国电力网</a></li>
+								
+								<li><a href="http://www.instrument.com.cn/netshow/SH101211/" target="_blank">仪器信息网</a></li>
+								
+								<li><a href="http://www.fxxh.org.cn/" target="_blank">中国仪器仪表学会分析仪器分会</a></li>
+								
+								<li><a href="http://www.cis.org.cn/" target="_blank">中国仪器仪表学会</a></li>
+								
+								<li><a href="http://www.cima.org.cn/" target="_blank">中国仪器仪表行业协会</a></li>
+								
+								<li><a href="http://www.caepi.org.cn/" target="_blank">中国环境保护产业协会</a></li>
+								
+							</ul>
+						</div>
+						<div class="link-inner clearfix">
+							<span>友情链接</span>
+							<i class="ico active"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="contact">
+				<ul>
+					<li class="clearfix">
+						<i class="fa fa-map-marker"></i>
+						<div class="text">北京市大兴区西红门镇金业大街10号</div>
+					</li>
+					<li class="clearfix">
+						<i class="fa fa-envelope-o"></i>
+						<div class="text">hky@huakeyi.com</div>
+					</li>
+					<li class="clearfix">
+						<i class="fa fa-phone"></i>
+						<div class="text"><a href="tel:010-80705660">010-80705660</a></div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<p class="banquan">版权所有 北京华科仪科技股份有限公司 侵权必究 京公网安备110108400031号 <a href="http://beian.miit.gov.cn/" target="_blank">京ICP1备05028866号</a> <a href="http://www.xn-design.com.cn" target="_blank">网站建设支持：信诺盛世</a></p>
+	</div>
+</div>
+
+
+    <div class="side-always" style="opacity: 1; display: none;">
+        <!--<a href="tel:4000-000-000" title="拨打电话" class="side-items tele-item">
+        <div class="side-ico"></div>
+        <div class="side-tele Arial" style="display: none;"><span class="side-tele-content">4000-000-000</span></div>
+    </a>-->
+        
+        <a class="side-items qq-item" target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=123456789&amp;site=qq&amp;menu=yes">
+            <div class="side-ico"></div>
+            <div class="side-tele Arial"><span class="side-tele-content">业务QQ：121211</span></div>
+        </a>
+        
+        <a class="side-items qq-item" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=123456789&site=qq&menu=yes">
+            <div class="side-ico"></div>
+            <div class="side-tele Arial"><span class="side-tele-content">技术客服:45646</span></div>
+        </a>
+        
+
+        <div class="side-items toTop-item" id="gotop" title="回到顶部">
+            <div class="side-ico"></div>
+        </div>
+    </div>
+
+
+    <!--  jquery  -->
+    <script src="js/jquery-1.12.3.min.js"></script>
+    <script src="js/idangerous.swiper.min.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+        var mySwiper = new Swiper('.banner .swiper-container', {
+            pagination: '.banner .pagination',
+            paginationClickable: true,
+            keyboardControl: true,
+            autoplay: 6000,
+            speed: 600,
+            loop: true,
+            calculateHeight: true,
+            resizeReInit: true
+        })
+
+        var mySwiperNews = new Swiper('.index-hot .swiper-container', {
+            pagination: '.index-hot .pagination',
+            mode: 'vertical',
+            paginationClickable: true,
+            keyboardControl: true,
+            autoplay: 5000,
+            speed: 600,
+            loop: true,
+            calculateHeight: true,
+            resizeReInit: true
+        })
+
+        $(".index-hot a.prev_btn").click(function () {
+            mySwiperNews.swipePrev();
+        })
+
+        $(".index-hot a.next_btn").click(function () {
+            mySwiperNews.swipeNext();
+        })
+        $(".index-product-2 .index-product-body .list").hide();
+        $(".index-product-2 .index-product-body .list:eq(0)").show();
+        $(".index-product-2 .index-product-header a").mouseover(function () {
+            var thisIndex = $(this).index();
+            $(this).addClass("active").siblings("a").removeClass("active");
+            $(".index-product-2 .index-product-body .list:eq(" + thisIndex + ")").show().siblings(".list").hide();
+        })
+
+        $(".index-news .index-news-body .list").hide();
+        $(".index-news .index-news-body .list:eq(0)").show();
+        $(".index-news .index-news-header a").mouseover(function () {
+            var thisIndex = $(this).index();
+            $(this).addClass("active").siblings("a").removeClass("active");
+            $(".index-news .index-news-body .list:eq(" + thisIndex + ")").show().siblings(".list").hide();
+        })
+
+
+    </script>
+
+    <script src="js/count.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+        $("#num1").numberRock({
+            speed: 14,//数字越大数字滚动速度越慢
+            count: 300 //最终停留数字
+        })
+        $("#num2").numberRock({
+            speed: 14,//数字越大数字滚动速度越慢
+            count: 70 //最终停留数字
+        })
+        $("#num3").numberRock({
+            speed: 14,//数字越大数字滚动速度越慢
+            count: 1995 //最终停留数字
+        })
+    </script>
+
+
+    <script src="js/wow.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+
+    <script src="js/common.js" type="text/javascript" charset="utf-8"></script>
+
+</body>
+</html>
+

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <title>Warning</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" href="/errorPage/style.css">
+</head>
+<body>
+    <div id="container">
+        <div id="box">
+            <div class="red">-- Warning --</div>
+            <div>* The page path is incorrect.</div>
+            <div>* The page cannot be found because the address was entered incorrectly or has been changed or deleted.</div>
+            <div>* Please double check the address you entered.</div>
+        </div>
+    </div>
+</body>
+</html>

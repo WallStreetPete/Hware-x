@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="renderer" content="webkit|ie-comp|ie-stand" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-transform"/>
+<meta name="applicable-device" content="pc,wap">
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<title>山东华鼎伟业能源科技有限公司</title>
+<meta name="keywords" content="山东华鼎伟业能源科技有限公司">
+<meta name="description" content="山东华鼎伟业能源科技有限公司">
+<meta name="generator" content="智联网络企业系统2.0" />
+<meta name="author" content="烟台智联网络科技有限公司 设计：超 技术：窦" />
+<meta name="copyright" content="www.zl77.cn" />
+
+<link href="/skin/css/owl.carousel_n.css" rel="stylesheet" media="screen" type="text/css" />
+<link href="/skin/css/owl.carousel.css" rel="stylesheet" media="screen" type="text/css" />
+<link rel="stylesheet" href="/skin/css/bootstrap.min.css">
+<link rel="stylesheet" href="/skin/css/index.css">
+<link rel="stylesheet" type="text/css" href="/skin/css/swiper.min.css" />
+<link rel="stylesheet" href="/skin/css/animate.min.css">
+<script src="/skin/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/skin/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/skin/js/progress.js"></script>
+<script src="/skin/js/swiper.min.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+<!--header-->
+    <div class="header large">
+			<div class="logo left"><a href="/"><img src="/skin/images/logo.png" alt="山东华鼎伟业能源科技有限公司" /></a></div>
+            <div class="en right"><a href="http://en.huadingweiye.com" target="_blank">EN</a></div>
+			<div class="nav right">
+                <ul id="menu3" class="menu">
+                  <li class="active"><a href="/">首页</a></li>
+				  
+				  <li tabindex="0" class="">
+					<a href="/aboutus/">关于我们</a>
+					<ul class="submenu shield">
+						
+						<li><a href="/gsjj/">公司简介</a></li>
+						
+						<li><a href="/qywh/">企业文化</a></li>
+						
+					</ul>
+				</li>
+				
+				  <li tabindex="0" class="">
+					<a href="/szlzm/">产品展示</a>
+					<ul class="submenu shield">
+						
+						<li><a href="/szlzm/">市政类照明</a></li>
+						
+						<li><a href="/mtlzm/">煤炭类照明</a></li>
+						
+						<li><a href="/shgklzm/">石化港口类照明</a></li>
+						
+						<li><a href="/jtsdlzm/">交通隧道类照明</a></li>
+						
+						<li><a href="/smjkzm/">生命健康照明</a></li>
+						
+						<li><a href="/znzm/">智慧照明解决方案</a></li>
+						
+						<li><a href="/fbznzm/">防爆智能照明与人员定位系统</a></li>
+						
+					</ul>
+				</li>
+				
+				  <li tabindex="0" class="">
+					<a href="/hdzting/">华鼎展厅</a>
+					<ul class="submenu shield">
+						
+					</ul>
+				</li>
+				
+				  <li tabindex="0" class="">
+					<a href="/video/">动画视频</a>
+					<ul class="submenu shield">
+						
+					</ul>
+				</li>
+				
+				  <li tabindex="0" class="">
+					<a href="/case/">案例展示</a>
+					<ul class="submenu shield">
+						
+					</ul>
+				</li>
+				
+				  <li tabindex="0" class="">
+					<a href="/gsxw/">新闻动态</a>
+					<ul class="submenu shield">
+						
+						<li><a href="/gsxw/">公司新闻</a></li>
+						
+						<li><a href="/industry/">行业新闻</a></li>
+						
+						<li><a href="/job/">招贤纳士</a></li>
+						
+					</ul>
+				</li>
+				
+				  <li tabindex="0" class="">
+					<a href="/contact/">联系我们</a>
+					<ul class="submenu shield">
+						
+					</ul>
+				</li>
+				
+				  <li tabindex="0" class="">
+					<a href="/tzzgx/">投资者关系</a>
+					<ul class="submenu shield">
+						
+						<li><a href="/gsgg/">公司公告</a></li>
+						
+						<li><a href="/tzzllz/">投资者联络站</a></li>
+						
+					</ul>
+				</li>
+				
+				</ul>
+            </div>
+			<!--移动端导航开始-->
+			<div class="rg">
+				<a href="javascript:;" class="a_js">
+				<img src="/skin/images/1_07.png"></a>
+			</div>
+			<div class="a_txt">
+				<div class="div1 a_closed"></div>
+				<div class="div2">
+					<a href="javascript:;" class="a_closed">
+					<img src="/skin/images/closed.png"></a>
+				</div>
+				<div class="div3">
+					<ul>
+						<li>
+							<a href="/">网站首页</a>
+						</li>
+						
+						<li>
+							<a class="a_js2" href="/aboutus/">关于我们</a>
+							<div class="a_txt2">
+								
+								<a href="/gsjj/">公司简介</a>
+								
+								<a href="/qywh/">企业文化</a>
+								
+							</div>
+						</li>
+						
+						<li>
+							<a class="a_js2" href="/szlzm/">产品展示</a>
+							<div class="a_txt2">
+								
+								<a href="/szlzm/">市政类照明</a>
+								
+								<a href="/mtlzm/">煤炭类照明</a>
+								
+								<a href="/shgklzm/">石化港口类照明</a>
+								
+								<a href="/jtsdlzm/">交通隧道类照明</a>
+								
+								<a href="/smjkzm/">生命健康照明</a>
+								
+								<a href="/znzm/">智慧照明解决方案</a>
+								
+								<a href="/fbznzm/">防爆智能照明与人员定位系统</a>
+								
+							</div>
+						</li>
+						
+						<li>
+							<a class="a_js2" href="/hdzting/">华鼎展厅</a>
+							<div class="a_txt2">
+								
+							</div>
+						</li>
+						
+						<li>
+							<a class="a_js2" href="/video/">动画视频</a>
+							<div class="a_txt2">
+								
+							</div>
+						</li>
+						
+						<li>
+							<a class="a_js2" href="/case/">案例展示</a>
+							<div class="a_txt2">
+								
+							</div>
+						</li>
+						
+						<li>
+							<a class="a_js2" href="/gsxw/">新闻动态</a>
+							<div class="a_txt2">
+								
+								<a href="/gsxw/">公司新闻</a>
+								
+								<a href="/industry/">行业新闻</a>
+								
+								<a href="/job/">招贤纳士</a>
+								
+							</div>
+						</li>
+						
+						<li>
+							<a class="a_js2" href="/contact/">联系我们</a>
+							<div class="a_txt2">
+								
+							</div>
+						</li>
+						
+						<li>
+							<a class="a_js2" href="/tzzgx/">投资者关系</a>
+							<div class="a_txt2">
+								
+								<a href="/gsgg/">公司公告</a>
+								
+								<a href="/tzzllz/">投资者联络站</a>
+								
+							</div>
+						</li>
+						
+					</ul>
+				</div>
+			</div>
+			<!--移动端导航结束-->
+    </div>
+	<!--header-->
+
+<script>
+		$(function(){
+			$(window).on('scroll', function(){
+				if($(window).scrollTop() > 100){
+					$('.header').removeClass('large').addClass('small');
+				} else {
+					$('.header').removeClass('small').addClass('large');
+				}
+			});
+		});
+	</script>
+<script type="text/javascript" src="/skin/js/menu.js"></script>
+	  
+
+<!--banner-->
+<div class="banner">
+	 <div id="owl-demo" class="owl-carousel">
+	 <a class="item" href="/smjkzm/">
+		 <div class="cont">
+			<p class="p1">RASM</p>
+			<p class="p2">智能养眼灯</p>
+			<p class="p3">遵循健康照明、智慧照明的发展方向。超强的工业设计感，获得了IF设计奖、阿拉丁神灯奖在这些黑科技的背后，以灯具为载体展现华鼎伟业的公司使命：</p>
+			<p class="p4">为人们创造更智慧、更安全、更健康的光环境</p>
+		 </div>
+		 <video autoplay="autoplay" loop="loop" muted="true" type="video/mp4" id="p_video" class="p_video" webkit-playsinline="true" x-webkit-airplay="true" playsinline="true" x5-video-player-type="h5" x5-video-orientation="h5" x5-video-player-fullscreen="true" controls="" controlsList='nofullscreen nodownload noremote footbar'>
+		 <source src="/skin/videos/video.mp4" />
+		 </video> 
+		 
+		 
+		 <div class="indexbg"></div>
+		 <div class="bannermore"><img src="/skin/images/icon18.png" /></div>
+	 </a>
+	 <a class="item" href="/shgklzm/">
+		<div class="cont">
+			<p class="p1"><img src="/skin/images/banner1_p1.png" /></p>
+			<p class="p2">智慧照明与安全管控系统</p>
+			<p class="p5">露天矿 选煤厂 石油化工等危险行业解决方案</p>
+			<p class="p4">公司愿景：立志做智慧、生命照明领域的领航者</p>
+		 </div>
+		 </a>
+	 <a class="item" href="/szlzm/">
+		<div class="cont">
+			<p class="p2">路灯智能控制系统</p>
+			<p class="p6">Street lamp intelligent control system</p>
+			<p class="p3">更透彻的感知 更全面的互联互通 更深入的智能化</p>
+			<p class="p4">经营理念：创新 专业 精准 诚信</p>
+			<p class="p7"><img src="/skin/images/icon19.png" /></p>
+		 </div>
+	 </a>
+	 </div>
+	 <div class="shubiao-index">
+		 <div class="shubiao_pinyin">向下滑动</div>
+		 <div class="shubiao_line"></div>
+		 <div id="shubiao"><div class="mouse"></div></div>
+	 </div>
+	<div class="click">
+		<h5>点击翻页</h5>
+		<p>Click to turn page</p>
+	</div>
+</div>
+<!--banner-->
+	<!--pro-->
+    <div class="pro">
+    	<div class="tit wow slideInUp">
+            <h3><a href="/szlzm/">热门新品</a></h3>
+            <hr />
+        </div>
+        <div class="pronr">
+        	<div class="prolf col-md-6 col-sm-12 col-xs-12">
+				
+            	<dl class="wow slideInUp">
+					<a href="/mtlzm/144.html">
+                	<dt class="col-md-6 col-sm-12 col-xs-12">
+                    	<img src="/static/upload/image/20220117/1642418734108022.jpg" alt="BHD8630-系列防爆LED工作灯（ⅡC类）" />
+                    </dt>
+                    <dd class="col-md-6 col-sm-12 col-xs-12">
+                    	<h4>BHD8630-系列防爆LED工作灯（ⅡC类）</h4>
+                        <p>煤炭类照明</p>
+                        <div class="promore1">详情 ></div>
+                    </dd>
+					</a>
+                </dl>
+				
+				
+                <dl class="wow slideInUp">
+					<a href="/mtlzm/149.html">
+                	<dt class="col-md-6 col-sm-12 col-xs-12">
+                    	<img src="/static/upload/image/20220117/1642418879974024.jpg" alt="BHD6620-系列防爆LED工作灯（ⅡB类）" />
+                    </dt>
+                    <dd class="col-md-6 col-sm-12 col-xs-12">
+                    	<h4>BHD6620-系列防爆LED工作灯（ⅡB类）</h4>
+                        <p>煤炭类照明</p>
+                        <div class="promore1">详情 ></div>
+                    </dd>
+					</a>
+                </dl>
+				
+            </div>
+        	<div class="prort col-md-6 col-sm-12 col-xs-12">
+            	<div class="prortnr wow slideInUp">
+                    <h4>RASM智能养眼灯</h4>
+                    <p>功率：60w/70w/80w/90w/100w</p>
+					
+                    <div class="promore">
+                        <a href="/smjkzm/132.html">详情 ></a>
+                    </div>
+					
+                </div>
+            </div>
+        </div>
+        <div class="pro_more wow slideInUp">
+        	<a href="/szlzm/">查看更多产品</a>
+        </div>
+    </div>
+	<!--pro-->
+    
+    <!--hyyy-->
+	<div class="hyyy">
+    	
+			<div class="swiper-container product-top">
+				<div class="tit wow slideInUp">
+					<h3>行业应用</h3>
+					<hr />
+				</div>
+				<ul class="swiper-wrapper wow slideInUp">
+					<li class="swiper-slide">
+						<img src="/skin/images/hyyybg1.jpg" alt="市政类照明" />
+						<div class="hyyynr cont">
+							<div class="hyyyen">Outdoor lighting</div>
+							<div class="hyyycn">市政类照明</div>
+							<hr />
+						</div>
+					</li>
+					<li class="swiper-slide">
+						<img src="/skin/images/hyyybg2.jpg" alt="煤炭类照明" />
+						<div class="hyyynr cont">
+							<div class="hyyyen">Coal lighting</div>
+							<div class="hyyycn">煤炭类照明</div>
+							<hr />
+						</div>
+					</li>
+					<li class="swiper-slide">
+						<img src="/skin/images/hyyybg3.jpg" alt="石化港口类照明" />
+						<div class="hyyynr cont">
+							<div class="hyyyen">Petrochemical port lighting</div>
+							<div class="hyyycn">石化港口类照明</div>
+							<hr />
+						</div>
+					</li>
+					<li class="swiper-slide">
+						<img src="/skin/images/hyyybg4.jpg" alt="交通隧道类照明" />
+						<div class="hyyynr cont">
+							<div class="hyyyen">Traffic tunnel lighting</div>
+							<div class="hyyycn">交通隧道类照明</div>
+							<hr />
+						</div>
+					</li>
+					<li class="swiper-slide">
+						<img src="/skin/images/hyyybg5.jpg" alt="生命健康照明" />
+						<div class="hyyynr cont">
+							<div class="hyyyen">Life and Health Lighting</div>
+							<div class="hyyycn">生命健康照明</div>
+							<hr />
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="swiper-container product-thumbs cont wow slideInUp">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<div class="item">
+							<p class="title">市政类照明</p>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="item">
+							<p class="title">煤炭类照明</p>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="item">
+							<p class="title">石化港口类照明</p>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="item">
+							<p class="title">交通隧道类照明</p>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="item">
+							<p class="title">生命健康照明</p>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-button-next"></div>
+				<div class="swiper-button-prev"></div>
+			</div>
+		
+    </div>
+    <!--hyyy-->
+    <!--about-->
+    <div class="about cont">
+    	<div class="tit wow slideInUp">
+            <h3>走进华鼎</h3>
+            <hr />
+        </div>
+        <div class="aboutms wow slideInUp">山东华鼎伟业能源科技股份有限公司成立于2007年1月16日，2015年7月10日在新三板挂牌上市，2021年烟台业达城发创投(国资)增资完成混改，成为国有控股企业。公司专业致力于智慧照明、生命健康照明产品的设计、研发、生产和销售。...</div>
+        <div class="aboutlist">
+            <div class="ab_fl wow slideInUp">
+                <dl class="col-md-3 col-sm-4 col-xs-6">
+                    <dt><span class="counter">17</span>年</dt>
+                    <dd>历史发展</dd>
+                </dl>
+                <dl class="col-md-3 col-sm-4 col-xs-6">
+                    <dt><span class="counter">2010</span>年</dt>
+                    <dd>列入国家级节能服务公司名单</dd>
+                </dl>
+                <dl class="col-md-3 col-sm-4 col-xs-6">
+                    <dt><span class="counter">2015</span>年</dt>
+                    <dd>新三板上市</dd>
+                </dl>
+                <dl class="col-md-3 col-sm-4 col-xs-6">
+                    <dt><span class="counter">2020</span>年</dt>
+                    <dd>公司入选山东省“专精特新”中小企业</dd>
+                </dl>
+                <dl class="col-md-3 col-sm-4 col-xs-6">
+                    <dt><span class="counter">2021</span>年</dt>
+                    <dd>华鼎LED防爆灯被认定为2021年山东知名品牌</dd>
+                </dl>
+            </div>
+            <div class="aboutmore wow slideInUp">
+            	<a href="/gsjj/">详情       ></a>
+            </div>
+        </div>
+    </div>
+    <!--about-->
+    <!--news-->
+    <div class="news">
+    	<div class="newsnr cont">
+            <div class="tit wow slideInUp">
+                <h3>新闻动态</h3>
+                <hr />
+            </div>
+            <div class="newslist wow slideInUp">
+				<div class="owl-carousel news-carousel-carousel">
+					
+                    <div class="item margin-large-bottom text-center"> 
+                        <dl class="col-md-4 col-sm-6 col-xs-12">
+							<a href="https://mp.weixin.qq.com/s/73tGYNKJv7PZYrn_D2aOBA">
+							<dt>
+								<img src="/static/upload/image/20260409/1775695474115652.jpg" alt="省委金融工委党建督查组莅临山东华鼎伟业 指导交流党建工作" />
+							</dt>
+							<dd>
+								<h4>省委金融工委党建督查组莅临山东华鼎伟业 指导交流党建工作</h4>
+								<p></p>
+								<div class="newsdate">2026-04-01</div>
+							</dd>
+							</a>
+						</dl>
+                    </div>
+                    
+                    <div class="item margin-large-bottom text-center"> 
+                        <dl class="col-md-4 col-sm-6 col-xs-12">
+							<a href="https://mp.weixin.qq.com/s/tE4ApfQjUnuen9GJJU3PBA">
+							<dt>
+								<img src="/static/upload/image/20260330/1774848198624745.png" alt="精准把脉 匠心赋能——省数字信息工会“劳模工匠助企行”走进华鼎" />
+							</dt>
+							<dd>
+								<h4>精准把脉 匠心赋能——省数字信息工会“劳模工匠助企行”走进华鼎</h4>
+								<p></p>
+								<div class="newsdate">2026-03-27</div>
+							</dd>
+							</a>
+						</dl>
+                    </div>
+                    
+                    <div class="item margin-large-bottom text-center"> 
+                        <dl class="col-md-4 col-sm-6 col-xs-12">
+							<a href="https://mp.weixin.qq.com/s/2jBHT6r3fbQCgyWdBKiEOQ">
+							<dt>
+								<img src="/static/upload/image/20260313/1773362004274299.png" alt="市政协主席牟树青一行到华鼎伟业走访" />
+							</dt>
+							<dd>
+								<h4>市政协主席牟树青一行到华鼎伟业走访</h4>
+								<p></p>
+								<div class="newsdate">2026-03-13</div>
+							</dd>
+							</a>
+						</dl>
+                    </div>
+                    
+                    <div class="item margin-large-bottom text-center"> 
+                        <dl class="col-md-4 col-sm-6 col-xs-12">
+							<a href="https://mp.weixin.qq.com/s/SrxxwL4O98Q6s22PiOY4nQ">
+							<dt>
+								<img src="/static/upload/image/20260313/1773362076278803.png" alt="新加坡客户到访华鼎伟业，深化合作共谋发展" />
+							</dt>
+							<dd>
+								<h4>新加坡客户到访华鼎伟业，深化合作共谋发展</h4>
+								<p></p>
+								<div class="newsdate">2026-03-12</div>
+							</dd>
+							</a>
+						</dl>
+                    </div>
+                    
+                    <div class="item margin-large-bottom text-center"> 
+                        <dl class="col-md-4 col-sm-6 col-xs-12">
+							<a href="https://mp.weixin.qq.com/s/1oesHX-6GlRJ0ByYK-Vacw">
+							<dt>
+								<img src="/static/upload/image/20260310/1773104356293006.png" alt="芳菲三月天，把春天和赞美一起送给“她”！" />
+							</dt>
+							<dd>
+								<h4>芳菲三月天，把春天和赞美一起送给“她”！</h4>
+								<p></p>
+								<div class="newsdate">2026-03-07</div>
+							</dd>
+							</a>
+						</dl>
+                    </div>
+                    
+                    <div class="item margin-large-bottom text-center"> 
+                        <dl class="col-md-4 col-sm-6 col-xs-12">
+							<a href="/gsxw/630.html">
+							<dt>
+								<img src="/static/upload/image/20260206/1770358210256870.jpg" alt="2026年春节放假通知" />
+							</dt>
+							<dd>
+								<h4>2026年春节放假通知</h4>
+								<p>尊敬的客户：新春将至，万象更新。衷心感谢您在过去一年里对我司的信任与支持!根据国家法定节假日安排，结···</p>
+								<div class="newsdate">2026-02-06</div>
+							</dd>
+							</a>
+						</dl>
+                    </div>
+                    
+                        
+                </div>
+				
+            </div>
+            <div class="newsmore wow slideInUp"><a href="/gsxw/">更多 ></a></div>
+        </div>
+    </div>
+	<!--news-->
+    
+	<!--link-->
+	<div class="link">
+		<div class="linknr cont wow slideInUp">友情链接：
+		
+		</div>
+	</div>
+	<!--link-->
+<!--footer-->
+    <div class="footer">
+    	<div class="footernr cont">
+            <div class="bnav left wow slideInUp">
+                <ul>
+                	<li>
+                    	<h4><a href="/gsjj/">关于我们</a></h4>
+                        <p><a href="/gsjj/">企业简介</a></p>
+                        <p><a href="/qywh/">企业文化</a></p>
+                        <!--<p><a href="/gsjj/">荣誉资质</a></p>-->
+                        <p><a href="/gsjj/">董事长致辞</a></p>
+                    </li>
+                	<li>
+                    	<h4><a href="/szlzm/">产品展示</a></h4>
+                        
+						<p><a href="/szlzm/">市政类照明</a></p>
+						
+						<p><a href="/mtlzm/">煤炭类照明</a></p>
+						
+						<p><a href="/shgklzm/">石化港口类照明</a></p>
+						
+						<p><a href="/jtsdlzm/">交通隧道类照明</a></p>
+						
+                        <p><a href="/szlzm/">查看更多</a></p>
+                    </li>
+                	<li>
+                    	<h4><a href="/case/">工程案例</a></h4>
+						
+                        <p><a href="/case/">国家能源集团神东洗选中心上湾选煤厂</a></p>
+                        
+                        <p><a href="/case/">海科化工智慧照明</a></p>
+                        
+                        <p><a href="/case/">陕煤榆北能源曹家滩选煤厂</a></p>
+                        
+                        <p><a href="/case/">国能神东煤炭公司上湾煤矿井下智能照明系统</a></p>
+                        
+                        <p><a href="/case/">513所西支路</a></p>
+                        
+                    </li>
+                	<li>
+                    	<h4><a href="/gsxw/">新闻动态</a></h4>
+                        
+						<p><a href="/gsxw/">公司新闻</a></p>
+						
+						<p><a href="/industry/">行业新闻</a></p>
+						
+                        <p><a href="/gsxw/">查看更多</a></p>
+                    </li>
+                	<li>
+                    	<h4><a href="/contact/">联系我们</a></h4>
+                        <!--<p>市政类照明：<a href="tel:0535-6762039">0535-6762039</a></p>-->
+                        <p>市政类/煤炭类照明：<a href="tel:0535-6762059">0535-6762059</a></p>
+                        <p>化工类照明：<a href="tel:0535-6762036">0535-6762036</a></p>
+                        <p>交通隧道类照明：<a href="tel:0535-6762079">0535-6762079</a></p>
+                        <p>人力资源：<a href="tel:0535-6762977">0535-6762977</a></p>
+                        <p>E-mail：<a href="mailto:hdwychina@163.com">hdwychina@163.com</a></p>
+                        <p>地址：山东省烟台市高新区创业路55号</p>
+                    </li>
+                </ul>
+            </div>
+        	<div class="footerrt right wow slideInUp">
+            	<dl>
+					<dt><img src="/skin/images/ewm.jpg" alt="扫一扫关注我们" /></dt>
+					<dd>扫一扫关注我们</dd>
+				</dl>
+            </div>
+            <div class="clear"></div>
+            <div class="bottel col-md-6 col-sm-12 col-xs-12">
+				<div class="botly wow slideInUp"><a href="/contact/">在线留言</a></div>
+			</div>
+            <div class="botfh col-md-6 col-sm-12 col-xs-12 wow slideInUp">
+            	<a onclick="pageScroll()">返回顶部</a>
+            </div>
+            <div class="clear"></div>
+			<div class="bot">
+				<div class="botnr cont wow slideInUp">
+					<div class="botlf col-md-8 col-sm-12 col-xs-12">Copyright © 山东华鼎伟业能源科技有限公司 All Rights Reserved.  备案号：<a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow">鲁ICP备17020895号-2</a><a href="https://www.beian.gov.cn/portal/recordQuery?token=38e9817f-3263-4378-b113-a2df92932c3f" target="_blank"><img src="/skin/images/gawb.png">鲁公网安备 37069102000004号</a></div>
+					<div class="botrt col-md-4 col-sm-12 col-xs-12"><a href="http://www.zl77.cn" target="_blank">网站制作</a>：<a href="http://www.zl77.cn" target="_blank">智联数字</a> <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1276885248'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s96.cnzz.com/z_stat.php%3Fid%3D1276885248%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></div>
+				</div>
+			</div>
+        </div>
+        
+    </div>
+    
+	<!--footer-->
+	<script type="text/javascript">
+		function pageScroll(){undefined
+        //把内容滚动指定的像素数（第一个参数向右滚动的像素数，第二个参数向下滚动的像素数）
+        window.scrollBy(0,-100);
+        //延时递归调用，模拟滚动向上效果
+        scrolldelay = setTimeout('pageScroll()',10);
+		//获取scrollTop值，声明了DTD的标准网页取document.documentElement.scrollTop，否则取document.body.scrollTop；因为二者只有一个会生效，另一个就恒为0，所以取和值可以得到网页的真正的scrollTop值
+        var sTop=document.documentElement.scrollTop+document.body.scrollTop;
+        //判断当页面到达顶部，取消延时代码（否则页面滚动到顶部会无法再向下正常浏览页面）
+        if(sTop==0) clearTimeout(scrolldelay);
+		}
+	</script>
+ 
+<script>
+$(function(){
+	var video = document.getElementById('p_video');
+	video.play();
+});
+</script>
+
+   <script src="/skin/js/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/skin/js/jquery.countup.min.js"></script>
+<script type="text/javascript">
+	$('.counter').countUp();
+</script>
+<script type="text/javascript">
+//产品图开始
+var galleryTop = new Swiper('.product-top', {
+	loop: true,
+	loopedSlides: 5
+});
+var galleryThumbs = new Swiper('.product-thumbs', {
+	nextButton: '.swiper-button-next',
+	prevButton: '.swiper-button-prev',
+	loop: true,
+	slidesPerView: 4,
+	loopedSlides: 5,
+	slideToClickedSlide: true
+});
+galleryTop.params.control = galleryThumbs;
+galleryThumbs.params.control = galleryTop;
+//产品图结束
+</script>
+<script src="/skin/js/index.js"></script>
+<script src="/skin/js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+<script src='https://zlsz.test3.zl77.cn/plus/ad_js.php?aid=2' language='javascript'></script>
+</body>
+</html>

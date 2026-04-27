@@ -1,0 +1,1450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<title>苏州东微半导体股份有限公司</title>
+<meta name="keywords" content="一家技术驱动型的半导体技术公司">
+<meta name="description" content="是一家技术驱动型的半导体技术公司，在作为半导体核心技术的器件领域有深厚的技术积累，专注半导体器件技术创新，拥有多项半导体器件核心专利。">
+
+
+
+  
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="author" content="上海松一网络科技有限公司提供开发设计,http://www.songyi.net" />
+<meta content="telephone=no" name="format-detection">
+
+<link rel="icon" href="/style/img/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/style/css/font.css?v=2">
+<link rel="stylesheet" href="/style/css/aos.css">
+<link rel="stylesheet" href="/style/css/swiper.min.css">
+<link rel="stylesheet" href="/style/font-awesome-4.7.0/css/font-awesome.min.css"> 
+<link rel="stylesheet" href="/style/css/dongwei.css?v=75"> 
+<link rel="stylesheet" href="/style/css/dongwei_h5.css?v=13"> 
+
+<script type="text/javascript" src="/style/js/jquery-2.1.0.js"></script>
+<script type="text/javascript" src="/style/js/swiper.min.js"></script>
+<script type="text/javascript" src="/style/js/aos.js"></script>  
+
+
+
+</head>
+<body>
+
+
+
+
+
+
+
+
+<div id="dh2">
+<div class="dh2">
+
+   <div class="icenter">
+        <a href="/" class="logo"><img src="/style/img/logo.svg"></a>
+
+        <div class="pcnav">
+
+          <dd>
+		     <span class="d_a"><a >关于东微</a></span>
+			 <div class="downav">
+			     <div class="webnavd_code">
+				      <div class="icenter">
+					      <div class="lf">
+						      <strong>公司简介</strong>
+							  <span>公司成立于2008年，注册资本12257.4975万元，2022年2月10日 于上海证券交易所登录科创板上市，股票代码:688261。</span>
+							  <a href="/company/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						  </div>
+						  <div class="rh">
+						     <div class="ca">
+							      <p> <font><a href="/company/">公司简介</a></font></p>
+								  <p> <font><a href="/histroy/">发展历程</a></font></p>
+								  <p> <font><a href="/blog/">新闻动态</a></font></p>
+								  <p> <font><a href="/responsibility/">社会责任</a></font></p>
+								  <p> <font><a href="/contact/">联系我们</a></font></p>
+								  <p> <font><a href="/join/">加入我们</a></font></p>
+							 </div>
+							 <div class="cb"><img src="/style/img/downav01.jpg"></div>
+						  </div>
+					  </div>
+				 </div>
+			 </div>  
+		  </dd>
+
+
+
+
+          <dd>
+		      <span class="d_a"><a  >产品中心</a></span>
+			  <div class="downav downav_pro">
+			    <div class="webnavd_code">
+				      <div class="icenter">
+					      <div class="pronav_lf">
+						        <a class="" href="/products/">所有产品</a>
+								<a class="" href="/green-mosfets-category/green-mosfets-cat/">SJ MOSFETs </a>
+								<a class="" href="/category/sgt-mosfets/">SGT MOSFETs</a>
+								<a class="" href="/igbts-category/igbts/">IGBTs</a>
+								<a class="" href="/trench-mosfets-category/trench-mosfets/">Trench MOSFETs</a>
+								<a class="" href="/power-module-category/power-module/">Power Module</a>
+								<a class="" href="/sic-mosfets-category/sic-mosfets/">SiC MOSFETs</a>
+								<a class="" href="/gan-fets-category/gan-fets/">GaN HEMT</a>
+								<a class="" href="/power-ic-category/power-ic/">Power IC</a>
+						  </div>
+						  <div class="pronav_rh">
+						            
+									<div class="dlist d1">
+										    <h3>所有产品</h3>
+											<h4>公司的主要产品包括GreenMOS系列超级结MOSFET、SFGMOS系列及FSMOS系列屏蔽栅MOSFET、TGBT、SuperSi²C MOSSFET、SuperSi MOSFET、SiC MOSFET, 产品可广泛应用于以新能源汽车直流充电桩、车载充电机、光伏逆变器、储能、5G基站电源、通信电源、数据中心服务器电源、工业照明电源、电动工具、智能机器人、无人机、 UPS电源为代表的工业级及汽车级应用领域，以及以PC电源、适配器、TV电源板、手机快速充电器、电磁加热为代表的消费电子应用领域。</h4>
+											<a href="/products/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+						           <div class="dlist d1">
+								           <h3>SJ MOSFETs </h3>
+										   <h4>为适应电源系统高效率小型化的需求，东微半导体推出了新型的GreenMOS系列高压MOSFET, 采用独特专利器件结构和制造工艺，GreenMOS产品具有比常规MOSFET更快的开关速度及更柔和的开关曲线，在获得极低的动态损耗的同时最大限度抑制了开关震荡，不仅可以大大提高系统效率、降低发热量，还可以简化系统EMI设计。</h4>
+											<a href="/green-mosfets-category/green-mosfets-cat/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+								   <div class="dlist d1">
+								           <h3>SGT MOSFETs</h3>
+										   <h4>东微的SFGMOS系列MOSFET产品采用半浮栅结构，兼备了传统平面结构和SGT结构的功率MOSFET的优点，并具有更高的工艺稳定性和可靠性及更快的开关速度、更小的栅电荷和更高的应用效率等优点。SFGMOS系列MOSFET产品涵盖20V~200V全系列，可广泛应用于电机驱动、同步整流等领域中。</h4>
+											<a href="/category/sgt-mosfets/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+								   
+								   <div class="dlist d1">
+										   <h3>IGBTs</h3>
+										   <h4>东微的IGBT芯片采用特有的Trident-Gate Bipolar Transistor (TGBT)器件结构，以得到更低的导通压降与更小的开关损耗。目前公司已先后推出第一代及第二代TGBT多个系列产品，涵盖600V~1700V电压，适合应用于光伏储能逆变、直流充电桩、汽车主驱、OBC、UPS等领域。公司亦开发出超高速系列TGBT，工作频率达到60-100KHz，可以在满足电源系统进一步高频化的同时，实现更高的效率。</h4>
+											<a href="/igbts-category/igbts/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+								   <div class="dlist d1">
+										   <h3>Trench MOSFETs</h3>
+										   <h4>沟槽Trench MOSFET：性能可靠，值得信赖，通过大量的开发，我们持续不断地利用先进的小信号MOS和功率MOS解决方案扩充我们的产品组合。我们种类齐全的产品组合提供当今市场所需的灵活性，让您可以轻松选择最适合您系统的产品。我们的领先技术确保提供最高的可靠性和性能，而先进的封装则可以增强电阻和热性能，同时缩小尺寸，降低成本。</h4>
+											<a href="/trench-mosfets-category/trench-mosfets/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+								   <div class="dlist d1">
+										   <h3>Power Module</h3>
+										   <h4>先进的电源模块, 包括 IGBT、MOSFET、SiC、Si/SiC混合模块、二极管、SiC二极管和智能功率模块。IGBT模块被运用于主驱和DC-AC级太阳能逆变器、能源储存系统、不间断电源和电机驱动等应用中。MOSFET模块用于汽车电机驱动和车载充电机应用，额定电压可选40 V、60 V、80 V和650 V，采用超级结技术和感应电阻。</h4>
+											<a href="/power-module-category/power-module/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+								   <div class="dlist d1">
+										   <h3>SiC MOSFETs</h3>
+										   <h4>第三代半导体材料功率器件是未来高性能功率器件的重要组成部分之一。东微研发团队在宽禁带半导体研究上有丰富的经验，研发了一系列SiC MOSFETs。</h4>
+											<a href="/sic-mosfets-category/sic-mosfets/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+								   <div class="dlist d1">
+										   <h3>GaN HEMT</h3>
+										   <h4>氮化镓高电子迁移率晶体管（GaN HEMT）正日益成为主流市场的选择。针对各种高电压和低电压应用场景，GaN HEMT具备最快的转换/开关能力（最高dv/dt与di/dt）和最优异的能效表现。此外，东微半导体自研的GaN HEMT通过新颖的设计，降低导通损耗和开关损耗，进一步提升了功率密度。</h4>
+											<a href="/gan-fets-category/gan-fets/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+								   <div class="dlist d1">
+										   <h3>Power IC</h3>
+										   <h4>当与电源串联时，OSP5050高侧OR-ing FET控制器与外部NMOSFET结合使用，作为理想二极管整流器。这个OR-ing控制器允许MOSFET取代配电网中的二极管整流器，从而减少功率损耗和电压降。</h4>
+											<a href="/power-ic-category/power-ic/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						           </div>
+						  </div>
+					  </div>
+			     </div>
+			  </div>
+		  </dd>
+<script>
+			$(".dh2 .icenter .pcnav dd .downav_pro .webnavd_code .icenter .pronav_lf a").eq(0).addClass("actpro");
+
+			$(function(){
+			$(".dh2 .icenter .pcnav dd .downav_pro .webnavd_code .icenter .pronav_lf a").hover(function(){
+			var index=$(this).index();
+			$(this).addClass("actpro").siblings().removeClass("actpro");
+			$(".dh2 .icenter .pcnav dd .downav_pro .webnavd_code .icenter .pronav_rh .dlist").eq(index).fadeIn(0).siblings().hide();
+			})
+			})
+
+</script>
+
+
+
+          <dd>
+		     <span class="d_a"><a  >应用领域</a></span>
+			  <div class="downav">
+			     <div class="webnavd_code">
+				      <div class="icenter">
+					      <div class="lf">
+						      <strong>应用领域</strong>
+							  <span>东微半导体的产品应用领域广泛且具体。在汽车电子方面，深度布局电动化，涵盖车载充电、各类电控系统及热管理；在工业与能源领域，提供电池测试、光伏逆变及工业电源解决方案；同时，其产品也服务于消费电子​（如快充、电视）、家用电器​（如冰箱、吸尘器）、通信设施​（如数据中心电源）以及电机驱动​（如机器人、无人机、叉车）等多个关键行业。</span>
+							  <a href="/applications/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						  </div>
+						  <div class="rh">
+						     <div class="ca">
+
+																					      <p> <font><a href="https://www.orientalsemi.com/applicationcat/automotive_electronics/" >汽车电子</a></font>
+																											  <a href="https://www.orientalsemi.com/application/obc/">车载充电机(OBC)</a>
+																		  <a href="https://www.orientalsemi.com/application/dcdc/">车载直流转换器(DC-DC)</a>
+																		  <a href="https://www.orientalsemi.com/application/car-lights-dc/">车灯DC-DC</a>
+																		  <a href="https://www.orientalsemi.com/application/vehicle-domain-controller/">车身域控制器</a>
+																		  <a href="https://www.orientalsemi.com/application/eps/">电子助力转向(EPS)</a>
+																		  <a href="https://www.orientalsemi.com/application/pump/">电子水泵&#038;电子油泵&#038;风机驱动器</a>
+																		  <a href="https://www.orientalsemi.com/application/ptc/">PTC加热器</a>
+																		  <a href="https://www.orientalsemi.com/application/hvac/">高压电动压缩机（HVAC）</a>
+																      </p>
+														      <p> <font><a href="https://www.orientalsemi.com/applicationcat/data-center-aidc-power-supply/" >数据中心AIDC电源</a></font>
+																											  <a href="https://www.orientalsemi.com/application/data-center/">数据中心AC-DC转换器</a>
+																		  <a href="https://www.orientalsemi.com/application/dc-dc%e8%bd%ac%e6%8d%a2%e5%99%a8/">DC-DC转换器</a>
+																      </p>
+														      <p> <font><a href="https://www.orientalsemi.com/applicationcat/consumer_electronics/" >消费电子</a></font>
+																											  <a href="https://www.orientalsemi.com/application/pd/">PD充电器&#038;适配器</a>
+																		  <a href="https://www.orientalsemi.com/application/tv-power-supply/">TV电源</a>
+																		  <a href="https://www.orientalsemi.com/application/printer-system/">打印机系统</a>
+																		  <a href="https://www.orientalsemi.com/application/%e7%94%b5%e5%8a%a8%e5%b7%a5%e5%85%b7/">电动工具</a>
+																      </p>
+														      <p> <font><a href="https://www.orientalsemi.com/applicationcat/industry/" >工业应用</a></font>
+																											  <a href="https://www.orientalsemi.com/application/battery-formation-and-testing/">电池化成及测试</a>
+																		  <a href="https://www.orientalsemi.com/application/photovoltaic/">光伏微型逆变器</a>
+																		  <a href="https://www.orientalsemi.com/application/photovoltaic2/">光伏储能逆变器</a>
+																		  <a href="https://www.orientalsemi.com/application/photovoltaic3/">光伏组串逆变器</a>
+																		  <a href="https://www.orientalsemi.com/application/industrial-power-supply/">工业电源</a>
+																		  <a href="https://www.orientalsemi.com/application/charging-pile-module/">充电桩模块</a>
+																      </p>
+														      <p> <font><a href="https://www.orientalsemi.com/applicationcat/household_appliances/" >家用电器</a></font>
+																											  <a href="https://www.orientalsemi.com/application/vacuum-cleaner/">吸尘器</a>
+																		  <a href="https://www.orientalsemi.com/application/refrigerator-compressor/">冰箱压缩机</a>
+																		  <a href="https://www.orientalsemi.com/application/fan-driver/">风机驱动器</a>
+																      </p>
+														      <p> <font><a href="https://www.orientalsemi.com/applicationcat/communication/" >通信技术</a></font>
+																											  <a href="https://www.orientalsemi.com/application/server-power-supply/">通讯电源</a>
+																		  <a href="https://www.orientalsemi.com/application/dc-dc/">DC-DC转换器</a>
+																      </p>
+														      <p> <font><a href="https://www.orientalsemi.com/applicationcat/motor_drive/" >电机驱动</a></font>
+																											  <a href="https://www.orientalsemi.com/application/forklift-driver/">叉车驱动器</a>
+																		  <a href="https://www.orientalsemi.com/application/aircraft-drone/">飞行器无人机</a>
+																      </p>
+														      <p> <font><a href="https://www.orientalsemi.com/applicationcat/robot/" >机器人</a></font>
+																											  <a href="https://www.orientalsemi.com/application/robot-vacuum-cleaner/">扫地机器人</a>
+																		  <a href="https://www.orientalsemi.com/application/robot/">人形机器人</a>
+																      </p>
+							
+							 </div>
+							 <div class="cb"><img src="/style/img/downav02.jpg"></div>
+						  </div>
+					  </div>
+				 </div>
+			 </div>  
+		  </dd>
+
+          <dd>
+		      <span class="d_a"><a >质量管理</a></span>
+			  <div class="downav">
+			     <div class="webnavd_code">
+				      <div class="icenter">
+					      <div class="lf">
+						      <strong>质量管理</strong>
+							  <span>ISO9001 质量体系认证通过时间2016年01月11日，CNAS17025 实验室管理体系认证通过时间2025年03月03日。</span>
+							  <a href="/quality/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						  </div>
+						  <div class="rh">
+						     <div class="ca">
+							      <p><font><a href="/quality/">质量方针</a></font></p>
+								  <p><font><a href="https://oa.orientalsemi.com:8888/wui/index.html#/?logintype=2&_key=82z3gu" target="_blank">合作伙伴门户</a></font></p>
+								  <p><font><a href="/quality/#quality_2">质量管理</a></font></p>
+								  <p><font><a href="/quality/#quality_3">质量声明</a></font></p>
+							 </div>
+							 <div class="cb"><img src="/style/img/downav02a.jpg?v=2"></div>
+						  </div>
+					  </div>
+				 </div>
+			 </div>  
+		  </dd>
+
+          <dd>
+		     <span class="d_a"><a >投资者关系</a></span>
+			 <div class="downav">
+			     <div class="webnavd_code">
+				      <div class="icenter">
+					      <div class="lf">
+						      <strong>投资者关系</strong>
+							  <span> 东微半导体致力于与投资者建立有效的沟通机制，通过透明、及时、准确的信息披露和沟通，帮助投资者全面、客观地了解公司的战略、经营状况、财务状况及未来发展前景，确保投资者能获得同等质量的信息，与投资者建立信任关系，从而使得公司的内在价值能够在资本市场上得到合理反映。</span>
+							  <a href="/investment/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+						  </div>
+						  <div class="rh">
+						     <div class="ca">
+							      <p><font><a href="/investment/">投资者关系</a></font></p>
+								  <p><font><a href="/investment_info/">股本结构</a></font></p>
+								  <p><font><a href="/investment_team/">管理团队</a></font></p>
+								  <p><font><a href="/finance/">财务速查</a></font></p>
+								  <p><font><a href="/communication/">投资者沟通</a></font></p>
+							 </div>
+							 <div class="cb"><img src="/style/img/downav03.jpg?v=2"></div>
+						  </div>
+					  </div>
+				 </div>
+			 </div>  
+		  </dd>
+		  <a href="/blog/" class="navhref" >新闻动态</a>
+		  <a href="/contact/" class="navhref" >联系我们</a>
+
+        </div>
+
+ 
+ 
+
+
+
+        <div class="rh">
+           <div class="global">
+              <span><img src="/style/img/globalicon.png">中文<i class="fa fa-angle-down"></i></span> 
+              <p>
+               <a href="/">Chinese-中文</a>
+               <a href="/en/">US-English</a>
+              </p>
+           </div>
+        </div>
+   </div>
+
+
+   
+</div>
+
+
+
+
+
+
+
+<div class="se_iphone_nav">
+   <div class="s_aa">
+      <div class="fa fa-navicon"><img src="/style/img/mu.png"></div>
+	  <div class="fa fa-remove"><img src="/style/img/closed3.png"></div>
+   </div>
+   <div class="s_bb">
+
+       <div class="se_nav_ul">
+		    <div class="dd one"><span><a href="/">首页</a></span></div>
+		</div>
+
+       <div class="se_nav_ul">
+		    <div class="dd"><span>关于我们</span><i class="fa fa-angle-right"></i></div>
+			<div class="dt">
+			   <p>
+               <a href="/company/">公司简介</a>
+               <a href="/histroy/">发展历程</a>
+               <a href="/responsibility/">社会责任</a>
+               <a href="/blog/">新闻动态</a>
+               <a href="/contact/">联系我们</a>
+               <a href="/join/">加入我们</a>
+			   </p>
+			</div>
+		</div>
+
+		<div class="se_nav_ul">
+		    <div class="dd"><span>产品中心</span><i class="fa fa-angle-right"></i></div>
+			<div class="dt">
+			   <p>
+               <a href="/green-mosfets-category/green-mosfets-cat/">SJ MOSFETs </a>
+               <a href="/category/sgt-mosfets/">SGT MOSFETs</a>
+               <a href="/igbts-category/igbts/">IGBTs</a>
+               <a href="/trench-mosfets-category/trench-mosfets/">Trench MOSFETs</a>
+               <a href="/power-module-category/power-module/">Power Module</a>
+               <a href="/sic-mosfets-category/sic-mosfets/">SiC MOSFETs</a>
+			   <a href="/gan-fets-category/gan-fets/">GaN FETs</a>
+			   <a href="/power-ic-category/power-ic/">Power IC</a>
+			   </p>
+			</div>
+		</div>
+
+		<div class="se_nav_ul">
+		    <div class="dd"><span>应用领域</span><i class="fa fa-angle-right"></i></div>
+			<div class="dt">
+			   <p>
+               								<a href="https://www.orientalsemi.com/applicationcat/automotive_electronics/">汽车电子</a>
+								<a href="https://www.orientalsemi.com/applicationcat/data-center-aidc-power-supply/">数据中心AIDC电源</a>
+								<a href="https://www.orientalsemi.com/applicationcat/consumer_electronics/">消费电子</a>
+								<a href="https://www.orientalsemi.com/applicationcat/industry/">工业应用</a>
+								<a href="https://www.orientalsemi.com/applicationcat/household_appliances/">家用电器</a>
+								<a href="https://www.orientalsemi.com/applicationcat/communication/">通信技术</a>
+								<a href="https://www.orientalsemi.com/applicationcat/motor_drive/">电机驱动</a>
+								<a href="https://www.orientalsemi.com/applicationcat/robot/">机器人</a>
+							   </p>
+			</div>
+		</div>
+
+		<div class="se_nav_ul">
+		    <div class="dd"><span>质量管理</span><i class="fa fa-angle-right"></i></div>
+			<div class="dt">
+			   <p>
+               <a href="/quality/">质量方针</a>
+               <a href="https://oa.orientalsemi.com:8888/wui/index.html#/?logintype=2&_key=82z3gu" target="_blank">合作伙伴门户</a>
+               <a href="/quality/#quality_2">质量管理</a>
+			   <a href="/quality/#quality_3">质量声明</a>
+			   </p>
+			</div>
+		</div>
+
+		<div class="se_nav_ul">
+		    <div class="dd"><span>投资者关系</span><i class="fa fa-angle-right"></i></div>
+			<div class="dt">
+			   <p>
+               <a href="/investment/">投资者关系</a>
+               <a href="/investment_info/">股本结构</a>
+               <a href="/investment_team/">管理团队</a>
+               <a href="/finance/">财务速查</a>
+               <a href="/communication/">投资者沟通</a>
+			   </p>
+			</div>
+		</div>
+
+		
+
+		<div class="se_nav_ul se_nav_ul_Global">
+		    <div class="dd"><span>Global</span><i class="fa fa-angle-right"></i></div>
+			<div class="dt">
+			   <p>
+			     <a href="/">Chinese / 中文</a>
+				 <a href="/en/">Global / English</a>
+			   </p>
+			</div>
+		</div>
+
+
+
+   </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+	$(function(){
+		$(".se_iphone_nav .s_aa").click(function(){
+			$(this).siblings(".se_iphone_nav .s_bb").slideToggle().parents().siblings().find(".se_iphone_nav .s_bb").slideUp();
+			$(this).toggleClass("act").parents().siblings().find(".se_iphone_nav .s_aa").removeClass("act")
+		})
+	})
+
+	$(function(){
+		$(".dd").click(function(){
+			$(this).siblings(".dt").slideToggle().parents().siblings().find(".dt").slideUp();
+			$(this).toggleClass("go").parents().siblings().find(".dd").removeClass("go")
+		})
+	})
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<script type="text/javascript">
+   window.onscroll=function(){ 
+       var t=document.documentElement.scrollTop||document.body.scrollTop;  
+       var dh2=document.getElementById("dh2"); 
+       if(t>= 200){ 
+           dh2.className = "dh2_1";
+       }else{
+           dh2.className = "dh2";
+       } 
+   }
+
+
+ // 等待 DOM 加载完成
+ document.addEventListener('DOMContentLoaded', function() {
+       // 获取所有 .d_a 元素
+       const dAs = document.querySelectorAll('.dh2 .icenter .pcnav dd .d_a');
+       
+       // 为每个 .d_a 元素添加点击事件
+       dAs.forEach(dA => {
+           dA.addEventListener('click', function(e) {
+               e.preventDefault();
+               // 移除所有 .d_a 的 .act 类
+               dAs.forEach(item => item.classList.remove('act'));
+               // 为当前点击的 .d_a 添加 .act 类
+               this.classList.add('act');
+
+               // 获取所有 .downav 元素
+               const downAvs = document.querySelectorAll('.dh2 .icenter .pcnav dd .downav');
+               // 隐藏所有 .downav 并移除 .atto 类
+               downAvs.forEach(item => {
+                   item.style.display = 'none';
+                   item.classList.remove('atto');
+               });
+
+               // 显示当前点击的 .d_a 同级的 .downav 并添加 .atto 类
+               const siblingDownAv = this.parentElement.querySelector('.downav');
+               siblingDownAv.style.display = 'block';
+               siblingDownAv.classList.add('atto');
+           });
+       });
+
+       // 点击空白区域关闭 .downav
+       document.addEventListener('click', function(e) {
+           if (!e.target.closest('.dh2 .icenter .pcnav dd .d_a') && !e.target.closest('.dh2 .icenter .pcnav dd .downav .webnavd_code')) {
+               const downAvs = document.querySelectorAll('.dh2 .icenter .pcnav dd .downav');
+               downAvs.forEach(item => {
+                   item.style.display = 'none';
+                   item.classList.remove('atto');
+               });
+               dAs.forEach(item => item.classList.remove('act'));
+           }
+       });
+   });
+   
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="banner" aos="fade" >
+  <div class="mm_home"><video muted="" autoplay="" playsinline="" loop="" poster="/style/img/inbannerbg.png"><source src="/style/img/inbanner20251103.mp4?v=2"></video></div>
+  <div class="home_bar_search">
+     <div class="ca">
+         <div class="ta">
+            <a  class="">搜索</a>
+            <a >产品类型</a>
+            <a >交叉查询</a>
+            <a >新闻</a>
+         </div>
+         <div class="tb">
+            <div class="b1">
+                <form method="get" action="https://www.orientalsemi.com" class="pkn icenter">
+                    <input type="text" class="in" name="s"  placeholder="搜索" autocomplete="off"  minlength="3"  value="">
+                    <button type="submit" class="btnsubmit"><img src="/style/img/fasearch.png"></button>
+                </form>
+            </div>
+			<div class="b1">
+                <div class="pkn webs_procat">
+				  <dt class="protp"><span>产品类型</span><div class="fa fa-angle-down"></div></dt>
+				  <dl class="protb">
+				   <dd><i><a href="/green-mosfets-category/green-mosfets-cat/">SJ MOSFETs </a></i></dd>
+				   <dd><i><a href="/category/sgt-mosfets/">SGT MOSFETs</a></i></dd>
+				   <dd><i><a href="/igbts-category/igbts/">IGBTs</a></i></dd>
+				   <dd><i><a href="/trench-mosfets-category/trench-mosfets/">Trench MOSFETs</a></i></dd>
+				   <dd><i><a href="/power-module-category/power-module/">Power Module</a></i></dd>
+				   <dd><i><a href="/sic-mosfets-category/sic-mosfets/">SiC MOSFETs</a></i></dd>
+				   <dd><i><a href="/gan-fets-category/gan-fets/">GaN HEMT</a></i></dd>
+				   <dd><i><a href="/power-ic-category/power-ic/">Power IC</a></i></dd>
+				   </dl>
+				</div>
+				<script type="text/javascript">
+					$(function(){
+						$(".protp").click(function(){
+							$(this).siblings(".protb").slideToggle().parents().siblings().find(".protb").slideUp();
+							$(this).toggleClass("on").parents().siblings().find(".tp").removeClass("on")
+						})
+					})
+				</script>
+            </div>
+			<div class="b1">
+				<form method="get" action="/cross/" class="pkn icenter">
+				<input type="text" class="in" name="keyword"  placeholder="交叉查询" autocomplete="off" minlength="3"  value="">
+				<button type="submit" class="btnsubmit"><img src="/style/img/fasearch.png"></button>
+				</form>
+            </div>
+			<div class="b1">
+				<form role="search" action="https://www.orientalsemi.com" method="get" class="pkn icenter">
+					<input type="search" class="in" placeholder="新闻" autocomplete="off" minlength="3" value="" name="s">
+					<input type="hidden" name="type" value="news">
+					<button type="submit" class="btnsubmit"><img src="/style/img/fasearch.png"></button>
+				</form>
+            </div>
+         </div>
+		 <script type="text/javascript">
+				$(function(){
+					$(".home_bar_search .ca .ta a").eq(0).addClass("active");
+					$(".home_bar_search .ca .ta a").click(function(){
+						var index=$(this).index();
+						$(this).addClass("active").siblings().removeClass("active");
+						$(".home_bar_search .ca .tb .b1").eq(index).fadeIn(300).siblings().hide();
+					})
+				})
+		 </script>
+     </div>
+     <div class="cb"></div>
+  </div>
+</div>  
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const homeBarSearch = document.querySelector('.home_bar_search');
+      const ca = document.querySelector('.home_bar_search .ca');
+      const cb = document.querySelector('.home_bar_search .cb');
+      const protb = document.querySelector('.home_bar_search .ca .tb .b1 .webs_procat .protb');
+  
+      ca.addEventListener('click', function() {
+        homeBarSearch.classList.add('on');
+      });
+  
+      cb.addEventListener('click', function() {
+        // 先判断是否有 on 类，若有则隐藏 protb 元素
+        if (homeBarSearch.classList.contains('on')) {
+          protb.style.display = 'none';
+        }
+        homeBarSearch.classList.remove('on');
+      });
+    });
+  </script>
+
+
+
+
+<div class="banner_text" aos="fade"  >
+  <div class="icenter">
+     <div class="lf"  >功率半导体<br>技术创新者</div>
+     <div class="rh"  >
+        <span>一家技术驱动型的半导体技术公司，构建美好世界。</span>
+        <a href="/company/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+     </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="inpro" aos="fade" aos-delay="400">
+    
+  <div class="home_tt icenter">
+     <div class="lf"><span>产品中心</span><font>东微半导体已成为国内高性能功率半导体领域的佼佼者</font></div>
+      <a href="/products/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a> 
+  </div>
+
+
+  <div class="prolisttable ">
+      <div class="ica icenter">
+
+			  <dl><a href="/green-mosfets-category/green-mosfets-cat/" class="ta"><i><img src="/style/img/prolisttable1.jpg?v=6"></i><span>SJ MOSFETs </span></a></dl>
+
+			  <dl><a href="/category/sgt-mosfets/" class="ta"><i><img src="/style/img/prolisttable2.jpg?v=6"></i><span>SGT MOSFETs</span></a></dl>
+
+			  <dl><a href="/igbts-category/igbts/" class="ta"><i><img src="/style/img/prolisttable3.jpg?v=6"></i><span>IGBTs</span></a></dl>
+
+			  <dl><a href="/trench-mosfets-category/trench-mosfets/" class="ta"><i><img src="/style/img/prolisttable4.jpg?v=6"></i><span>Trench MOSFETs</span></a></dl>
+
+			   <dl><a href="/power-module-category/power-module/" class="ta"><i><img src="/style/img/prolisttable5.jpg?v=9"></i><span>Power Module</span></a></dl>
+
+			  <dl><a href="/sic-mosfets-category/sic-mosfets/" class="ta"><i><img src="/style/img/prolisttable6.jpg?v=6"></i><span>SiC MOSFETs</span></a></dl>
+
+			  <dl><a href="/gan-fets-category/gan-fets/" class="ta"><i><img src="/style/img/prolisttable7.jpg?v=6"></i><span>GaN HEMT</span></a></dl>
+
+			  <dl><a href="/power-ic-category/power-ic/" class="ta"><i><img src="/style/img/prolisttable8.jpg?v=6"></i><span>Power IC</span></a></dl>
+
+        </div>
+      </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="inapp" aos="fade" aos-delay="400">
+
+  <div class="home_tt icenter">
+     <div class="lf"><span>应用领域</span><font>东微半导体已成为国内高性能功率半导体领域的佼佼者</font></div>
+      <a href="/applications/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a> 
+  </div>
+
+    <div class="inevent_swiper" aos="fade" aos-delay="600">
+    <div class="swiper-wrapper">
+      
+
+
+            <div class="swiper-slide"  >
+                <div class="app_a_more">
+                                <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/888.jpg"></i>
+                    <div class="txt">
+                        <strong>汽车电子</strong>
+                        <font> </font>
+                        <dd>
+												                            <a href="https://www.orientalsemi.com/application/obc/" class="more"><div class="mt">车载充电机(OBC)</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/dcdc/" class="more"><div class="mt">车载直流转换器(DC-DC)</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/car-lights-dc/" class="more"><div class="mt">车灯DC-DC</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/vehicle-domain-controller/" class="more"><div class="mt">车身域控制器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/eps/" class="more"><div class="mt">电子助力转向(EPS)</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/pump/" class="more"><div class="mt">电子水泵&#038;电子油泵&#038;风机驱动器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/ptc/" class="more"><div class="mt">PTC加热器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/hvac/" class="more"><div class="mt">高压电动压缩机（HVAC）</div><div class="fa fa-caret-right"></div></a> 
+                                                 </dd>
+                    </div>
+                  </div>
+            </div>
+            <div class="swiper-slide"  >
+                <div class="app_a_more">
+                                <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/55.jpg"></i>
+                    <div class="txt">
+                        <strong>数据中心AIDC电源</strong>
+                        <font> </font>
+                        <dd>
+												                            <a href="https://www.orientalsemi.com/application/data-center/" class="more"><div class="mt">数据中心AC-DC转换器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/dc-dc%e8%bd%ac%e6%8d%a2%e5%99%a8/" class="more"><div class="mt">DC-DC转换器</div><div class="fa fa-caret-right"></div></a> 
+                                                 </dd>
+                    </div>
+                  </div>
+            </div>
+            <div class="swiper-slide"  >
+                <div class="app_a_more">
+                                <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/44.jpg"></i>
+                    <div class="txt">
+                        <strong>消费电子</strong>
+                        <font> </font>
+                        <dd>
+												                            <a href="https://www.orientalsemi.com/application/pd/" class="more"><div class="mt">PD充电器&#038;适配器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/tv-power-supply/" class="more"><div class="mt">TV电源</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/printer-system/" class="more"><div class="mt">打印机系统</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/%e7%94%b5%e5%8a%a8%e5%b7%a5%e5%85%b7/" class="more"><div class="mt">电动工具</div><div class="fa fa-caret-right"></div></a> 
+                                                 </dd>
+                    </div>
+                  </div>
+            </div>
+            <div class="swiper-slide"  >
+                <div class="app_a_more">
+                                <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/77.jpg"></i>
+                    <div class="txt">
+                        <strong>工业应用</strong>
+                        <font> </font>
+                        <dd>
+												                            <a href="https://www.orientalsemi.com/application/battery-formation-and-testing/" class="more"><div class="mt">电池化成及测试</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/photovoltaic/" class="more"><div class="mt">光伏微型逆变器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/photovoltaic2/" class="more"><div class="mt">光伏储能逆变器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/photovoltaic3/" class="more"><div class="mt">光伏组串逆变器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/industrial-power-supply/" class="more"><div class="mt">工业电源</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/charging-pile-module/" class="more"><div class="mt">充电桩模块</div><div class="fa fa-caret-right"></div></a> 
+                                                 </dd>
+                    </div>
+                  </div>
+            </div>
+            <div class="swiper-slide"  >
+                <div class="app_a_more">
+                                <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/000.jpg"></i>
+                    <div class="txt">
+                        <strong>家用电器</strong>
+                        <font> </font>
+                        <dd>
+												                            <a href="https://www.orientalsemi.com/application/vacuum-cleaner/" class="more"><div class="mt">吸尘器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/refrigerator-compressor/" class="more"><div class="mt">冰箱压缩机</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/fan-driver/" class="more"><div class="mt">风机驱动器</div><div class="fa fa-caret-right"></div></a> 
+                                                 </dd>
+                    </div>
+                  </div>
+            </div>
+            <div class="swiper-slide"  >
+                <div class="app_a_more">
+                                <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/bbb.jpg"></i>
+                    <div class="txt">
+                        <strong>通信技术</strong>
+                        <font> </font>
+                        <dd>
+												                            <a href="https://www.orientalsemi.com/application/server-power-supply/" class="more"><div class="mt">通讯电源</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/dc-dc/" class="more"><div class="mt">DC-DC转换器</div><div class="fa fa-caret-right"></div></a> 
+                                                 </dd>
+                    </div>
+                  </div>
+            </div>
+            <div class="swiper-slide"  >
+                <div class="app_a_more">
+                                <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/33.jpg"></i>
+                    <div class="txt">
+                        <strong>电机驱动</strong>
+                        <font> </font>
+                        <dd>
+												                            <a href="https://www.orientalsemi.com/application/forklift-driver/" class="more"><div class="mt">叉车驱动器</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/aircraft-drone/" class="more"><div class="mt">飞行器无人机</div><div class="fa fa-caret-right"></div></a> 
+                                                 </dd>
+                    </div>
+                  </div>
+            </div>
+            <div class="swiper-slide"  >
+                <div class="app_a_more">
+                                <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/111-1.jpg"></i>
+                    <div class="txt">
+                        <strong>机器人</strong>
+                        <font> </font>
+                        <dd>
+												                            <a href="https://www.orientalsemi.com/application/robot-vacuum-cleaner/" class="more"><div class="mt">扫地机器人</div><div class="fa fa-caret-right"></div></a> 
+                                                     <a href="https://www.orientalsemi.com/application/robot/" class="more"><div class="mt">人形机器人</div><div class="fa fa-caret-right"></div></a> 
+                                                 </dd>
+                    </div>
+                  </div>
+            </div>
+  
+          
+    </div>
+   </div>
+   
+    <div class="icenter swry">
+         <div class="inevent_swiper_next fa fa-angle-left"></div>
+         <div class="inevent_swiper_prev fa fa-angle-right"></div>
+         <div class="inevent_swiper_pagination"></div>
+    </div>
+
+</div>
+
+<script>        
+	var inevent_swiper = new Swiper ('.inevent_swiper', {
+	  pagination: {
+		el: '.inevent_swiper_pagination',
+		type : 'progressbar',
+	  },
+      autoplay:{
+      delay:5000,
+      disableOnInteraction: false,
+    },
+    //centeredSlides: true,
+	  slidesPerView: 3,
+	  spaceBetween: 20,
+	  loop:true,
+	  speed: 1600,
+	  navigation: {
+		nextEl: '.inevent_swiper_next',
+		prevEl: '.inevent_swiper_prev',
+	  },
+	  breakpoints:{
+		  1600:{
+			  spaceBetween: 20,
+		  },
+		  768:{
+			  slidesPerView:1
+		  },
+		}
+	})        
+</script>
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="incompany" aos="fade" aos-delay="400">
+   <div class="tt">
+      <h3>一家技术驱动型的半导体技术公司</h3>
+      <h4>在作为半导体核心技术的器件领域有深厚的技术积累，专注半导体器件技术创新，拥有多项半导体器件核心专利。 </h4>
+      <a href="/company/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a>
+   </div>
+   <div class="in_co_bum">
+        <div class="lf icenter">
+            <dl>
+                               <dd><p><span class="counter">2008</span><i>年</i></p><font>成立于2008年</font></dd>
+                              <dd><p><span class="counter">12257.4975</span><i>万元</i></p><font>注册资本12257.4975万元</font></dd>
+                              <dd><p><span class="counter">157</span><i>项</i></p><font>共获得授权专利 157 项</font></dd>
+                           </dl>
+        </div>
+        <div class="rh"><img src="/style/img/in_co_bum_rh.jpg"></div>
+   </div>
+</div>
+<script type="text/javascript" src="/style/js/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/style/js/jquery.countup.min.js"></script>
+<script type="text/javascript">
+	$('.counter').countUp();
+</script>
+
+
+
+
+
+<div class="inshcode" aos="fade" aos-delay="400">
+  <img class="lfimg" src="/style/img/inshcodelf.jpg">
+  <div class="act icenter">
+      <div class="lf">
+          
+          <a href="/investment/" class="more"><div class="mt">投资者关系</div><div class="fa fa-caret-right"></div></a>
+          <a href="/investment_team/" class="more"><div class="mt">管理团队</div><div class="fa fa-caret-right"></div></a>
+      </div>
+      <div class="rh">
+          <h3>东微半导体</h3>
+          <h4>股票代码 <span>688261</span></h4>
+          <dt>
+            <div class="b">44.17</div>
+            <span>rmb</span>
+            <font>▲</font>
+          </dt>
+          <dd>
+              <p><span>最高</span><font class="code33">20</font></p>
+              <p><span>最低</span><font class="code34">20</font></p>
+              <p><span>成交量(手)</span><font class="code6">20</font></p>
+              <p><span>成交额(万)</span><font class="code7">20</font></p>
+              <p><span>市值(亿)</span><font class="code45">20</font></p>
+          </dd>
+          <div class="tags">截至 <span>2025-07-22 15:44:26</span> A股时间报价有十五分钟或以上延迟。</div>
+      </div>
+  </div>
+</div>
+<script>
+    
+// 股票信息
+(function () {
+    $.ajax({
+        url: 'https://qt.gtimg.cn/q=sh688261',
+        type: 'GET',
+        success: function (res) {
+            var elements = res.split("~");
+            var endTime = elements[30];
+            var endTime = endTime.substring(0, 4) + "-" + endTime.substring(4, 6) + "-" + endTime.substring(6, 8) + " " + endTime.substring(8, 10) + ":" + endTime.substring(10, 12) + ":" + endTime.substring(12, 14);
+            var shou = elements[4]; //昨天的收盘价格
+            var curr = elements[3]; //当前的价格
+            var titlegp = elements[1]; //
+            var shuzi = elements[2];//股票代码
+
+            var code5 = elements[5];//涨跌%
+            var code6 = elements[6];//成交量(手)
+            var code7 = elements[7];//成交额(万)
+            var code33 = elements[33];//最高
+            var code34 = elements[34];//最低
+            var code45 = elements[45];//市值
+
+            var em = shou - curr;
+            $(".he_fomli1 .he_fojtbp0").text(shuzi);
+            $(".he_fomli1 .he_fojtbp1").text(titlegp);
+            $(".inshcode .rh dt .b").text(curr);
+            $(".inshcode .rh .tags  span").text(endTime); // 最后更新时间
+
+            $(".inshcode .rh p .code6").text(code6);
+            $(".inshcode .rh p .code7").text(code7);
+            $(".inshcode .rh p .code33").text(code33);
+            $(".inshcode .rh p .code34").text(code34);
+            $(".inshcode .rh p .code45").text(code45);
+
+
+
+            if (em > 0) {
+                $(".inshcode .rh dt font").html("▼");
+            } else {
+                $(".inshcode .rh dt font").html("▲");
+            };
+            //console.log(elements)
+            //console.log(elements[1] + '——' + elements[2]) 
+        }
+    });
+})();
+
+ 
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/style/css/swiper-bundle.min.css">
+<div class="innews"  aos="fade" aos-delay="600" >
+
+  <div class="home_tt icenter">
+     <div class="lf"><span>新闻动态</span><font>企业资讯和行业动态</font></div>
+      <a href="/blog/" class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></a> 
+  </div>
+
+   <div class="i_n_a_list icenter">
+
+       <div class="lf">
+            <a href="https://www.orientalsemi.com/news/%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bc%e8%8d%a3%e7%99%bb2026%e4%b8%ad%e5%9b%bd%e5%8a%9f%e7%8e%87%e5%99%a8%e4%bb%b6%e5%8d%81%e5%bc%ba%ef%bc%8c%e4%bb%a5%e8%8a%af%e5%ae%9e%e5%8a%9b/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2026/04/1775803757437.png"></p>
+                <dl>
+                <strong>东微半导荣登2026中国功率器件十强，以“芯”实力赋能能源变革</strong>
+                <span>2026年04月10日</span>
+                <div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+                </dl>
+            </a>
+       </div>
+       
+       <div class="rh">
+           <div class="innews_swiper">
+           <div class="swiper-wrapper">
+
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bcx%e8%8b%b1%e6%90%8f%e5%b0%94%ef%bd%9c%e4%bb%a5%e5%8d%93%e8%b6%8a%e4%ba%a4%e4%bb%98%ef%bc%8c%e7%ad%91%e6%96%b0%e8%83%bd%e6%ba%90%e8%bd%a6%e7%94%b5%e6%8e%a7/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2026/04/pic.jpg"></p>
+						<dl>
+						<strong>东微半导×英搏尔｜以卓越交付，筑新能源车电控基石</strong>
+						<span> 2026年04月02日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e5%bc%ba%e5%bc%ba%e8%81%94%e5%90%88%ef%bc%8c%e8%b5%8b%e8%83%bd%e6%9c%aa%e6%9d%a5%ef%bd%9c%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bc%e6%8b%9f%e6%8e%a7%e8%82%a1%e6%85%a7%e8%83%bd%e6%b3%b0%ef%bc%8c%e5%89%91/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2026/03/ScreenShot_2026-03-23_140526_443.png"></p>
+						<dl>
+						<strong>强强联合，赋能未来｜东微半导拟控股慧能泰，剑指“芯”能源全链路解决方案</strong>
+						<span> 2026年03月25日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bc-%e9%87%91%e9%a9%ac%e8%b4%ba%e5%b2%81-%e4%b8%80%e9%a9%ac%e5%bd%93%e5%85%88-%e5%b9%b4%e4%bc%9a%e5%9c%86%e6%bb%a1%e8%90%bd%e5%b9%95%ef%bc%9a/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2026/02/c9ef48b5-f296-4982-a00c-0cba0a78c6f8.jpg"></p>
+						<dl>
+						<strong>东微半导 “金马贺岁 一马当先” 年会圆满落幕：拥抱国家战略，共赴科技新程</strong>
+						<span> 2026年02月13日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e8%bd%bd%e8%aa%89%e5%89%8d%e8%a1%8c%ef%bc%81%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bc%e8%8d%a3%e8%8e%b7%e9%ba%a6%e7%94%b0%e8%83%bd%e6%ba%902025%e5%b9%b4%e5%ba%a6%e5%90%8c%e5%bf%83%e9%bc%8e/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2026/02/1770621043024.png"></p>
+						<dl>
+						<strong>载誉前行！东微半导荣获麦田能源“2025年度同心鼎力奖”</strong>
+						<span> 2026年02月09日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e5%9b%bd%e4%ba%a7%e6%9b%bf%e4%bb%a3%e6%96%b0%e6%a0%87%e6%9d%86%ef%bc%9a%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bcsic%e6%80%a7%e8%83%bd%e5%af%b9%e6%a0%87%e5%9b%bd%e9%99%85%e4%b8%80%e6%b5%81%ef%bc%8c/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2026/02/d2991a7e-5f48-41d7-a7d2-9c821c617ff9.jpg"></p>
+						<dl>
+						<strong>国产替代新标杆：东微半导SiC性能对标国际一流，获国际头部客户认可</strong>
+						<span> 2026年02月05日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e4%b8%89%e6%ac%a1%e9%9c%b8%e6%a6%9c%ef%bc%81%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bc%e9%ab%98%e5%8e%8bmosfet%e6%91%98%e4%b8%ad%e5%9b%bd%e8%8a%af%e5%a4%a7%e5%a5%96%ef%bc%8c%e5%8a%9f/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/微信图片_2025-12-22_152017_761.jpg"></p>
+						<dl>
+						<strong>三次霸榜！东微半导高压MOSFET摘“中国芯”大奖，功率半导体再添标杆</strong>
+						<span> 2025年12月22日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e5%82%a8%e8%83%bd%e9%a2%86%e5%9f%9f%e5%86%8d%e6%b7%bb%e5%bc%ba%e8%81%94%e5%8a%a8%ef%bc%81%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bc%e6%96%a9%e8%8e%b7%e5%be%b7%e4%b8%9a%e8%82%a1%e4%bb%bd%e6%9c%80/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2025/12/企业微信截图_17658746768184.png"></p>
+						<dl>
+						<strong>储能领域再添强联动！东微半导斩获德业股份“最佳创新奖” 共筑绿色能源新生态</strong>
+						<span> 2025年12月16日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bc%e4%bd%93%e4%b8%8e%e6%99%b6%e6%b9%9b%e5%8d%8a%e5%af%bc%e4%bd%93%e6%90%ba%e6%89%8b%e6%8e%a8%e8%bf%9b12%e8%8b%b1%e5%af%b8%e6%b0%ae%e5%8c%96%e9%95%93%ef%bc%88gan/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/666.jpg"></p>
+						<dl>
+						<strong>东微半导体与晶湛半导体携手推进12英寸氮化镓（GaN）功率器件研发和应用</strong>
+						<span> 2025年10月21日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e6%88%90%e5%8a%9f%e5%85%a5%e9%80%89%e4%b8%8a%e8%af%81%e6%99%ba%e9%80%89%e7%a7%91%e5%88%9b%e6%9d%bf%e5%88%9b%e6%96%b0%e4%bb%b7%e5%80%bc%e6%8c%87%e6%95%b0%e6%88%90%e5%88%86%e8%82%a1/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2025/08/未标题-6-4.png"></p>
+						<dl>
+						<strong>成功入选上证智选科创板创新价值指数成分股</strong>
+						<span> 2025年06月10日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          <div class="swiper-slide" >
+                     <a href="https://www.orientalsemi.com/news/%e4%b8%9c%e5%be%ae%e5%8d%8a%e5%af%bc%e5%86%8d%e6%ac%a1%e9%80%9a%e8%bf%87%e9%ab%98%e6%96%b0%e6%8a%80%e6%9c%af%e4%bc%81%e4%b8%9a%e8%ae%a4%e5%ae%9a%ef%bc%81/" class="newsinfo">
+                <p><img src="https://www.orientalsemi.com/wp-content/uploads/2025/08/未标题-5-4.png"></p>
+						<dl>
+						<strong>东微半导再次通过高新技术企业认定！</strong>
+						<span> 2024年12月09日</span>
+						<div class="nt"><div class="t">探索详细</div><div class="fa fa-angle-right"></div></div>
+						</dl>
+                     </a>
+          </div>
+          
+
+
+            </div>
+            <div class="newsscrollbar"></div>
+			
+          </div>
+       </div>
+
+   </div>
+
+    <div class="newsscrollbar_pagination "></div>
+</div>
+
+<script src="/style/js/swiper-bundle.min.js"></script>
+ <script>
+var innews_swiper = new Swiper('.innews_swiper', {
+    direction: 'horizontal',
+    slidesPerView: 1,
+    spaceBetween: 20,
+    mousewheel: true,
+    scrollbar: {
+        el: '.newsscrollbar',
+        draggable: true,      // ✅ 允许拖拽
+        snapOnRelease: true,   // ✅ 拖拽结束后吸附
+    },
+    pagination: {
+        el: ".newsscrollbar_pagination",
+        clickable: true,
+      },
+    breakpoints: {
+        860: { 
+            direction: 'vertical',
+            slidesPerView: 3,
+            spaceBetween: 20, 
+            }
+    }
+    
+})  
+</script>
+  
+
+
+
+
+
+
+
+
+<div class="home_info" aos="fade" aos-delay="400">
+    <div class="home_tt icenter">
+     <div class="lf"><span>推荐信息</span></div>
+  </div>
+
+   <div class="h_i_a icenter">
+      
+	        <dl>
+         <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/home_info_icon1.png"></i>
+         <h3>新品</h3>
+         <dd>
+
+            			  				 <a href="https://www.orientalsemi.com/wp-content/uploads/2025/10/OSG65R019H4T3ZF.pdf" target="_blank"> 
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/00.jpg"><p><span>OSG65R019H4T3ZF</span><font>极低内阻实现更高电源转换效率</font></p></a>
+
+						  				 <a href="https://www.orientalsemi.com/wp-content/uploads/2025/10/OSQ65R055H4T3NF_NB-2.pdf" target="_blank"> 
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/11.jpg"><p><span>OSQ65R055H4T3NF_NB</span><font>0V关断SiC适配通用驱动芯片</font></p></a>
+
+						  				 <a href="https://www.orientalsemi.com/wp-content/uploads/2025/10/SFS08R023UGSCNF.pdf" target="_blank"> 
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/22.jpg"><p><span>SFS08R023UGSCNF</span><font>极低的热阻实现更高功率密度的需求</font></p></a>
+
+
+
+			
+         </dd>
+      </dl>
+	        <dl>
+         <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/home_info_icon2.png"></i>
+         <h3>应用</h3>
+         <dd>
+
+            			  				 <a href="/application/obc/" >
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/222.png"><p><span>车载充电机(OBC)</span><font>高功率密度及轻量化</font></p></a>
+
+						  				 <a href="/application/pd/" >
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/111.png"><p><span>PD充电器，适配器</span><font>功率和效率的极致突破，目前主流的PD3.0标准最高支持</font></p></a>
+
+						  				 <a href="/application/battery-formation-and-testing/" >
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/000.png"><p><span>电池化成及测试</span><font>专注半导体器件技术创新</font></p></a>
+
+
+
+			
+         </dd>
+      </dl>
+	        <dl>
+         <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/home_info_icon3.png"></i>
+         <h3>品控</h3>
+         <dd>
+
+            			  				 <a href="/quality/" >
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/home_info_icon301.png"><p><span> 质量方针</span><font>持续不断为客户提供最有价值的产品和服务</font></p></a>
+
+						  				 <a href="/quality/#quality_2" >
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/home_info_icon302.png"><p><span>质量管理</span><font>持续不断改进产品质量、服务质量</font></p></a>
+
+						  				 <a href="/quality/#quality_3" >
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/home_info_icon303.png"><p><span>质量声明</span><font>满足客户需求并超越客户期望，实现与客户的共赢共存，长久发展</font></p></a>
+
+
+
+			
+         </dd>
+      </dl>
+	        <dl>
+         <i><img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/home_info_icon4.png"></i>
+         <h3>封装创新</h3>
+         <dd>
+
+            			  				 <a href="https://www.orientalsemi.com/wp-content/uploads/2025/10/T2PAK-封装型式.pdf" target="_blank"> 
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/11-2.jpg"><p><span>T2PAK</span><font>贴片型SiC实现更小的功率回路杂感</font></p></a>
+
+						  				 <a href="https://www.orientalsemi.com/wp-content/uploads/2025/10/QDPAK封装型式.pdf" target="_blank"> 
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/22-2.jpg"><p><span>QDPAK</span><font>顶部散热封装实现卓越的热管理性能</font></p></a>
+
+						  				 <a href="https://www.orientalsemi.com/wp-content/uploads/2025/10/DSCPPAK5x6双面散热封装型式.pdf" target="_blank"> 
+			  			<img src="https://www.orientalsemi.com/wp-content/uploads/2025/10/33.jpg"><p><span>DSCPPAK5*6</span><font>极低的热阻实现更高功率密度的需求</font></p></a>
+
+
+
+			
+         </dd>
+      </dl>
+	  
+ 
+      
+   </div>
+
+</div>
+
+
+
+
+
+
+
+<div class="home_esg icenter" aos="fade" aos-delay="400">
+   <a href="/responsibility/"><i><img src="/style/img/home_esg01.jpg"></i><dd><strong>社会责任</strong><div class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></div> </dd></a>
+   <a href="/company/#company_clture"><i><img src="/style/img/home_esg02.jpg"></i><dd><strong>企业愿景</strong><div class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></div> </dd></a>
+   <a href="/responsibility/#responsibility_piclist"><i><img src="/style/img/home_esg03.jpg"></i><dd><strong>环境保护</strong><div class="more"><div class="mt">探索更多</div><div class="fa fa-caret-right"></div></div> </dd></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+ <div class="adfooter">
+   <div class="icenter">
+
+        <div class="ta">
+
+          <div class="lf">
+             <a href="###" class="flogo" ><img src="/style/img/logo.svg"></a>
+             <div class="lf_a">
+                <strong>关注微信公众号</strong>
+                <dl>
+                    <p class="ewm"><img style="display: block; width: auto; height: 126px; border: 1px solid #ddd;" src="/style/img/weixinewm.jpg"><span></span></p>
+                </dl>
+             </div>
+             <div class="lfb">
+                <dl>
+                   <strong>苏州总部</strong>
+                   <p>
+地址：苏州工业园区金鸡湖大道99号苏州纳米城东南区65栋 <br>
+电话：0512-62534962 <br>
+邮箱：enquiry@orientalsemi.com
+                   </p>
+                </dl>
+                <dl>
+                   <strong>深圳业务支持中心</strong>
+                   <p>
+地址：深圳市南山区西丽街道创智云城A7栋19楼1905室<br>
+电话：0755-83229660<br>
+邮箱：robin.lu@orientalsemi.com
+                   </p>
+                </dl>
+             </div>
+          </div>
+		  
+          <dl><dt><a href="/company/">关于我们</a></dt>
+            <dd>
+               <a href="/company/">公司简介</a>
+               <a href="/histroy/">发展历程</a>
+               <a href="/responsibility/">社会责任</a>
+               <a href="/blog/">新闻动态</a>
+               <a href="/contact/">联系我们</a>
+               <a href="/join/">加入我们</a>
+            </dd>
+          </dl>
+
+          <dl><dt><a href="/products/">产品中心</a></dt>
+            <dd>
+               <a href="/green-mosfets-category/green-mosfets-cat/">SJ MOSFETs </a>
+               <a href="/category/sgt-mosfets/">SGT MOSFETs</a>
+               <a href="/igbts-category/igbts/">IGBTs</a>
+               <a href="/trench-mosfets-category/trench-mosfets/">Trench MOSFETs</a>
+               <a href="/power-module-category/power-module/">Power Module</a>
+               <a href="/sic-mosfets-category/sic-mosfets/">SiC MOSFETs</a>
+			   <a href="/gan-fets-category/gan-fets/">GaN HEMT</a>
+			   <a href="/power-ic-category/power-ic/">Power IC</a>
+            </dd>
+          </dl>
+
+          <dl><dt><a href="/applications/">应用领域</a></dt>
+            <dd>
+												<a href="https://www.orientalsemi.com/applicationcat/automotive_electronics/">汽车电子</a>
+								<a href="https://www.orientalsemi.com/applicationcat/data-center-aidc-power-supply/">数据中心AIDC电源</a>
+								<a href="https://www.orientalsemi.com/applicationcat/consumer_electronics/">消费电子</a>
+								<a href="https://www.orientalsemi.com/applicationcat/industry/">工业应用</a>
+								<a href="https://www.orientalsemi.com/applicationcat/household_appliances/">家用电器</a>
+								<a href="https://www.orientalsemi.com/applicationcat/communication/">通信技术</a>
+								<a href="https://www.orientalsemi.com/applicationcat/motor_drive/">电机驱动</a>
+								<a href="https://www.orientalsemi.com/applicationcat/robot/">机器人</a>
+				            </dd>
+          </dl>
+
+          <dl><dt><a href="/quality/">质量管理</a></dt>
+            <dd>
+               <a href="/quality/">质量方针</a>
+               <a href="https://oa.orientalsemi.com:8888/wui/index.html#/?logintype=2&_key=82z3gu" target="_blank">合作伙伴门户</a>
+               <a href="/quality/#quality_2">质量管理</a>
+			      <a href="/quality/#quality_3">质量声明</a>
+            </dd>
+          </dl>
+
+          <dl><dt><a href="/investment/">投资者关系</a></dt>
+            <dd>
+               <a href="/investment/">投资者关系</a>
+               <a href="/investment_info/">股本结构</a>
+               <a href="/investment_team/">管理团队</a>
+               <a href="/finance/">财务速查</a>
+               <a href="/communication/">投资者沟通</a>
+            </dd>
+          </dl>
+
+        </div>
+ 
+
+        
+
+
+        <div class="tb">
+            <p>© 2025 苏州东微半导体股份有限公司</p>
+            <a href="https://beian.miit.gov.cn/">苏ICP备18022065号-1</a> 
+			<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js?id=L1xukqMIQRJPWbgT&ck=L1xukqMIQRJPWbgT"></script>
+			<a href="https://v6.51.la/s/8F05hAgc559DLIl" target="_blank">站长统计</a>
+            <a href="http://www.songyi.net" target="_blank">Powered by SE</a>
+        </div>
+
+   </div>
+ </div>
+    
+
+<div class="totop"  ><img src="/style/img/pageup.svg"></div>
+<script>
+		/**返回顶部**/
+			$(function() {
+				$(".totop").click(function() {
+					$("html,body").animate({
+						scrollTop: 0
+					}, 700); //可设置时间
+				});
+			})
+		/**滚动出现和隐藏**/
+			$(document).scroll(function() {
+  			var scroH = $(document).scrollTop();  //滚动高度
+        		var viewH = $(window).height();  //可见高度 
+        		var contentH = $(document).height();  //内容高度
+ 
+ 		if(scroH >500){
+ 					$(".totop").fadeIn()
+ 				}else{
+ 					$(".totop").fadeOut()
+ 				}			
+ 			});
+</script>
+
+
+
+ 
+ 
+<div class="privacy_se" id="privacy_se" >
+    <div class="icenter" >
+            <p>本网站使用Cookie来为您提供个性化的浏览体验，以及分析网站流量。如果您点击“接受”或继续浏览本网站，即表示您同意我们使用Cookie。</p>        
+			<button onclick="setCook('/En')">接受</button>
+    </div>
+</div>
+<script>
+    function setCook(lang){
+        setcookies('is_lang',1,3);
+        document.getElementById('privacy_se').style.display="none";
+    }
+    is_ck();
+    function is_ck(){
+        var ck = getCookies('is_lang');
+        if(ck){
+            document.getElementById('privacy_se').style.display="none";
+        }
+    }
+    function setcookies(key,value,day){
+        var cookie=key+'='+encodeURIComponent(value);
+        if(day>0){
+             var date=new Date();
+             date.setDate(date.getDate()+day);
+             cookie+=';path=/;expires='+date;
+        }
+        document.cookie=cookie;
+    }
+    //读取cookies 
+    function getCookies(name) {
+        var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)");
+        if (arr = document.cookie.match(reg))
+            return unescape(arr[2]);
+        else
+            return null;
+    }
+</script>
+ 
+
+
+    
+
+
+<script>
+    AOS.init({
+        easing: 'ease-out-expo',
+        duration: 700,
+        once: true,
+        disable: window.innerWidth < 1024
+    });  
+</script>
+
+
+
+
+
+
+</body>
+</html>

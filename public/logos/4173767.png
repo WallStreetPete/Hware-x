@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>シチズン時計株式会社－（シチズングループサイト） | シチズンウオッチ　オフィシャルサイト ［CITIZEN-シチズン］</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="CITIZEN-シチズン時計株式会社オフィシャルサイトのページです。シチズンの腕時計についてご紹介しています。">
+    <meta name="keywords" content="シチズン,CITIZEN,シチズン時計,シチズンウオッチ,しちずん,citizen,腕時計,電波時計,時計,ウオッチ">
+    <link rel="SHORTCUT ICON" href="/cms/cwc/favicon.ico" sizes="any">
+    <link rel="apple-touch-icon-precomposed" href="/cms/cwc/favicon.ico">
+    <link rel="icon" href="/cms/cwc/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" type="text/css" href="/cms/cwc/css/initialize.css" media="all">
+    <!-- スペシャルコンテンツカルーセル -->
+    <link rel="stylesheet" type="text/css" href="/cms/cwc/css/owl.carousel.css" media="all">
+    <!-- sp stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/cms/cwc/css/ver2/basic_style_forSP_v2.css" media="only screen and (min-width: 0px) and (max-width: 640px)">
+    <!-- PC stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/cms/cwc/css/ver2/basic_style_forPC_v2.css?220701" media="only screen and (min-width: 641px)">
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="/cms/cwc/css/ver2/basic_style_forPC_v2.css" media="all">
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="/cms/cwc/css/ver2/basic_style_forPC_v2.css" media="print">
+    <script src="/cms/cwc/js/jquery-1.9.1.min.js"></script>
+    <script src="/cms/cwc/js/ver2/common_v2.js"></script>
+    <!-- スペシャルコンテンツカルーセル -->
+    <script src="/cms/cwc/js/owl.carousel.min.js"></script>
+    <script>
+        $(function() {
+            var owl = $(".wrapper-carousel-4items");
+            owl.owlCarousel({
+                items : 4,
+                itemsDesktop : [960,4],
+                itemsDesktopSmall : false,
+                itemsTablet: [600,1],
+                itemsMobile : [640,1],
+                navigation : true
+            });
+        });
+    </script>
+    <style media="screen">
+        .box-contentsmenu-double-tk:hover{
+            opacity:0.7!important;
+        }
+    </style>
+    <style>
+        .wrapper-area-news .wrapper-img{
+            height:unset !important;
+        }
+    </style>
+    <script src="/cms/cwc/js/analytics.js"></script>
+<meta property="og:site_name" content="シチズン時計株式会社">
+<meta property="og:url" content="https://www.citizen.co.jp/favicon.ico">
+<meta property="og:title" content="シチズン時計株式会社－（シチズングループサイト） | シチズンウオッチ　オフィシャルサイト ［CITIZEN-シチズン］">
+<meta property="og:description" content="CITIZEN-シチズン時計株式会社オフィシャルサイトのページです。シチズンの腕時計についてご紹介しています。">
+<meta property="og:image" content="">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+
+<link rel="stylesheet" type="text/css" href="/cms/cwc/css/search_new.css" media="all">
+<script>
+$(document).on('click', '.searchBox-closeBtn',function() {
+    if($(this).hasClass('is-visible')) {
+        $(this).removeClass('is-visible');
+
+    } else {
+        $(this).addClass('is-visible');
+        //$(this).next('.pane-header .mf-search-box .mf-search-bar .mf-search-bar_input').focus();
+    }
+ });
+</script><link rel="canonical" href="https://www.citizen.co.jp/favicon.ico">
+<link rel="next" href="https://www.citizen.co.jp/favicon.ico?absolutepage=2">
+<meta name="facebook-domain-verification" content="xv8egxqw91rw5lqze32hhhcuyo70ra" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/cms/cwc/css/ver2/toppage_v2.css" media="all">
+
+<style type="text/css">
+/*最新ニューススライダー*/
+.news-swiper-wrapper {
+  height: 80px;
+  overflow-y: hidden;
+}
+@media screen and (max-width: 697px ){
+    .news-swiper-wrapper {
+      height: 20vh;
+      max-height: 150px;
+    }
+}
+/*IR ニュース_ニュース*/
+#js-add-news.layout-columns-2-list > li {
+    background-color: #F5F7F6;
+}
+</style>
+<script>
+    window.addEventListener('DOMContentLoaded', function() {
+        //最新ニューススライダー
+        if (document.querySelectorAll('.news-swiper-wrapper .swiper-slide').length > 1) {
+          var mySwiper = new Swiper('.news-swiper-wrapper', {
+              direction: 'vertical',
+              loop: true,
+              autoplay: {
+                  delay: 5000,
+              },
+          });
+        }
+        // ニュース枠2列対応
+        const addTagElm = document.querySelector('.block-news-area');
+        if (addTagElm) {
+            const newsElm = document.querySelectorAll('.block-news-area');
+
+            elemlist = '<section class="layout-columns layout-columns-2 inner-frame"><ul id="js-add-news" class="layout-columns-2-list"></ul></section>';
+            addTagElm.insertAdjacentHTML('beforebegin', elemlist);
+
+            newsElm.forEach(function(e,i){
+                document.getElementById('js-add-news').insertAdjacentHTML('beforeend', '<li />');
+                document.querySelector('#js-add-news li:empty').appendChild(e);
+            });
+        }
+    });
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WBP3VNT');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<script src="/cms/js/smz_ma.js" charset="UTF-8" defer></script>
+<script>
+__smz_ma={
+    'hostname':'www.citizen.co.jp'
+    ,'top_url':'/'
+    ,'is_internal':true
+    ,'bgcolor':'white'
+};
+</script>
+<meta name="google-site-verification" content="knegV5-cfzWhFtOkEBWxJO6yqOsF13CR5t7KMR1o8lk" />
+</head>
+
+<body class="preload">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBP3VNT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+
+
+<div class="wrapper">
+
+<header id="block-header" class="forcms_block pane-header">
+    <div class="inner-frame-w">
+        <div class="header-inner header-left">
+            <div class="js-menu-btn sp-only" id="js-menu-btn"><span></span><span></span><span></span></div>
+            <div class="btn-lang-change pc-only">
+                <p class="selected-lang">JP</p>
+                <ul class="list-select-lang">
+                    <li class="is-selected"><a href="/">JP</a></li>
+                    <li><a href="/global">EN</a></li>
+                    <li><a href="/chinese">CH</a></li>
+                </ul>
+            </div>
+            <nav class="header-menu pc-only">
+                <ul>
+                    <li>
+                        <a href="/business" data-menu="#menu-business-area">事業領域</a>
+                    </li>
+                    <li>
+                        <a href="/company" data-menu="#menu-about-citizen">シチズンについて</a>
+                    </li>
+                    <li>
+                        <a href="/ir" data-menu="#menu-investor">投資家情報</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="block-logo"><a href="/"><img src="/cms/cwc/img/logo_bk.svg" alt="CITIZEN"></a></div>
+        <div class="header-inner header-right">
+            <nav class="header-menu pc-only">
+                <ul>
+                    <li>
+                        <a href="/sustainability/" data-menu="#menu-sustainability">サステナビリティ</a>
+                    </li>
+                    <li>
+                        <a href="/recruit/index.html" data-menu="#menu-human-resources">採用</a>
+                    </li>
+                    <li>
+                        <a href="/release/news" data-menu="#menu-news">ニュース</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="btn-search">
+                <div class="header-search-form mf_finder_header">
+                    <span class="searchBox-closeBtn"></span>
+                    <mf-search-box submit-text="" placeholder="検索テキスト"
+                        ajax-url="https://finder.api.mf.marsflag.com/api/v1/finder_service/documents/afb2c9a1/search"
+                        doctype-hidden options-hidden imgsize-default="3" results-page-url="/search/result.html"
+                        submit-btn-hidden></mf-search-box>
+                </div>
+            </div>
+            <div class="btn-lang-change sp-only">
+                <p class="selected-lang">JP</p>
+                <ul class="list-select-lang">
+                    <li class="is-selected"><a href="/">JP</a></li>
+                    <li><a href="/global">EN</a></li>
+                    <li><a href="/chinese">CH</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- SPメニュー -->
+    <nav class="header-menu sp-only">
+        <ul>
+            <li>
+                <a href="/business" data-menu="#menu-business-area">事業領域</a>
+            </li>
+            <li>
+                <a href="/company" data-menu="#menu-about-citizen">シチズンについて</a>
+            </li>
+            <li>
+                <a href="/ir" data-menu="#menu-investor">投資家情報</a>
+            </li>
+            <li>
+                <a href="/sustainability/" data-menu="#menu-sustainability">サステナビリティ</a>
+            </li>
+            <li>
+                <a href="/recruit/index.html" data-menu="#menu-human-resources">採用</a>
+            </li>
+            <li>
+                <a href="/release/news" data-menu="#menu-news">ニュース</a>
+            </li>
+        </ul>
+    </nav>
+    <!-- //SPメニュー -->
+    <!-- PC/SP共通メニュー -->
+    <div class="block-nav-container" id="navContainer">
+        <div class="block-menu-inner" id="menu-business-area">
+            <div class="menu-wrap inner-frame-w">
+                <div class="menu-inner-list investor-menu01 pc-only">
+                    <h2 class="cate-t pc-onlytl">事業領域</h2>
+                    <p class="is-cate-read">世界の人々の暮らしに広く貢献している４つの事業を紹介します。</p>
+                    <div class="more-btn btn-bk btn-radius"><a href="/business">事業領域TOP</a></div>
+                </div>
+                <div class="menu-inner-list investor-menu02">
+                    <h3 class="is-ttl pc-only">メニュー</h3>
+                    <ul>
+                        <li><a href="/business/watches.html">時計</a></li>
+                        <li><a href="/business/industrial_machinery.html">工作機械</a></li>
+                        <li><a href="/business/electronic_devices.html">デバイス</a></li>
+                        <!-- <li><a href="/business/electronic_product.html">電子機器他</a></li> -->
+                        <li><a href="/findcitizen/index.html" target="_blank">見つけてシチズン</a></li>
+                    </ul>
+                </div>
+                <div class="menu-inner-list investor-menu03 pc-only">
+                    <h3 class="is-ttl pc-only">時計</h3>
+                    <a href="/business/watches.html">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_business-area_250401_img01.jpg" alt="時計">
+                        </figure>
+                    </a>
+                    <p class="is-read">シチズンは腕時計の部品から、完成時計の組み立てまで自社で一貫製造することができるマニュファクチュールとして、世界約140の国と地域でビジネスを展開しています。
+                    </p>
+                </div>
+                <div class="menu-inner-list investor-menu04 pc-only">
+                    <h3 class="is-ttl pc-only">工作機械</h3>
+                    <a href="/business/industrial_machinery.html">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_business-area_img02.jpg" alt="工作機械">
+                        </figure>
+                    </a>
+                    <p class="is-read">
+                        小さく高い精度が要求される時計の部品製造で培った技術やノウハウを活用し、1936年より工作機械の生産を開始。自動車、医療、IT関連業界向けなど幅広い分野で必要不可欠な部品を生み出す工作機械は、世界中の製造業の発展に貢献。
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="block-menu-inner" id="menu-about-citizen">
+            <div class="menu-wrap inner-frame-w">
+                <div class="menu-inner-list about-menu01 pc-only">
+                    <h2 class="cate-t pc-onlytl">シチズンについて</h2>
+                    <p class="is-cate-read">国産の時計をつくりたいとの想いで1918年に創業してから100年を超える年月の中で、シチズングループは幅広い事業へ発展してきました。</p>
+                    <div class="more-btn btn-bk btn-radius"><a href="/company">シチズンについてTOP</a></div>
+                </div>
+                <div class="menu-inner-list about-menu02">
+                    <h3 class="is-ttl pc-only">メニュー</h3>
+                    <ul>
+                        <li><a href="/company/policy.html">企業理念</a></li>
+                        <li><a href="/company/message.html">社長メッセージ</a></li>
+                        <li><a href="/company/outline.html">会社概要</a></li>
+                        <li><a href="/company/officer.html">役員一覧</a></li>
+                        <li><a href="/company/enkaku.html">沿革</a></li>
+                        <li><a href="/company/group">グループ関連会社一覧</a></li>
+                        <li><a href="/company/vision.html">シチズングループビジョン2030</a></li>
+                        <li><a href="/company/profile.html">会社案内動画</a></li>
+                    </ul>
+                </div>
+                <div class="menu-inner-list about-menu04 pc-only">
+                    <h3 class="is-ttl pc-only">企業理念</h3>
+                    <a href="/company/policy.html">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_about-citizen_img02.jpg" alt="企業理念">
+                        </figure>
+                    </a>
+                    <p class="is-read">
+                        市民に愛され市民に貢献する<br><br>シチズンの掲げる企業理念「市民に愛され市民に貢献する」とは、「市民に愛され親しまれるものづくり」を通じて世界の人々の暮らしに広く貢献することです。
+                    </p>
+                </div>
+                <div class="menu-inner-list about-menu03 pc-only">
+                    <h3 class="is-ttl pc-only">社長メッセージ</h3>
+                    <a href="/company/message.html">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_about-citizen_250401_img01.jpg" alt="時計">
+                        </figure>
+                    </a>
+                    <p class="is-read">「豊かな未来（とき）をつなぐ、Crafting a new tomorrow」 持続的な価値の創造に向けて<br><br>代表取締役社長 大治 良高</p>
+                </div>
+            </div>
+        </div>
+        <div class="block-menu-inner" id="menu-investor">
+            <div class="menu-wrap inner-frame-w">
+                <div class="menu-inner-list investor-menu01 pc-only">
+                    <h2 class="cate-t pc-onlytl">投資家情報</h2>
+                    <!--<p class="is-cate-read"></p>-->
+                    <div class="more-btn btn-bk btn-radius"><a href="/ir">投資家情報TOP</a></div>
+                </div>
+                <div class="menu-inner-list investor-menu02">
+                    <h3 class="is-ttl pc-only">メニュー</h3>
+                    <ul>
+                        <li><a href="/ir/news">IRニュース</a></li>
+                        <li><a href="/ir/library.html">最新決算資料</a></li>
+                        <li><a href="/ir/integrated_report.html">CITIZEN REPORT(統合報告書)</a></li>
+                        <li><a href="/company/message.html">社長メッセージ</a></li>
+                        <li><a href="/ir/governance.html">コーポレート・ガバナンス</a></li>
+                        <li><a href="/ir/chart1.html">業績推移</a></li>
+                    </ul>
+                </div>
+                <div class="menu-inner-list investor-menu03 pc-only">
+                    <h3 class="is-ttl pc-only">最新決算資料</h3>
+                    <a href="/ir/library.html">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_investor_img01.jpg" alt="最新決算資料">
+                        </figure>
+                    </a>
+                    <!--<p class="is-read"></p>-->
+                </div>
+                <div class="menu-inner-list investor-menu04 pc-only">
+                    <h3 class="is-ttl pc-only">CITIZEN REPORT(統合報告書)</h3>
+                    <a href="/ir/integrated_report.html">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_investor_img02_2025.jpg" alt="CITIZEN REPORT(統合報告書)">
+                        </figure>
+                    </a>
+                    <!--<p class="is-read"></p>-->
+                </div>
+            </div>
+        </div>
+        <div class="block-menu-inner" id="menu-sustainability">
+            <div class="menu-wrap inner-frame-w">
+                <div class="menu-inner-list sustainability-menu01 pc-only">
+                    <h2 class="cate-t pc-onlytl">サステナビリティ</h2>
+                    <p class="is-cate-read">
+                        私たちは、事業を通じて社会の課題を解決する「サステナブル経営」を推進しています。​
+                    </p>
+                    <div class="more-btn btn-bk btn-radius"><a href="/sustainability/">サステナビリティTOP</a></div>
+                </div>
+                <div class="menu-inner-list sustainability-menu02">
+                    <h3 class="is-ttl pc-only">メニュー</h3>
+                    <ul>
+                        <li><a href="/sustainability/message/">社長メッセージ</a></li>
+                        <li><a href="/sustainability/index.html#management">サステナビリティマネジメント</a></li>
+                        <li><a href="/sustainability/index.html#env">環境</a></li>
+                        <li><a href="/sustainability/index.html#social">社会​</a></li>
+                        <li><a href="/sustainability/index.html#governance">ガバナンス​</a></li>
+                        <li><a href="/sustainability/report/">サステナビリティ・CSR報告書</a></li>
+                    </ul>
+                </div>
+                <div class="menu-inner-list sustainability-menu03 pc-only">
+                    <h3 class="is-ttl pc-only">社長メッセージ</h3>
+                    <a href="/sustainability/message/">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_sustainability_250401_img01.jpg" alt="社長メッセージ">
+                        </figure>
+                    </a>
+                    <p class="is-read">サステナブルプロダクツの創出およびサステナブルファクトリーの実現を通じて、持続可能な社会の実現に貢献します。</p>
+                </div>
+                <div class="menu-inner-list sustainability-menu04 pc-only">
+                    <h3 class="is-ttl pc-only">サステナビリティマネジメント​</h3>
+                    <a href="/sustainability/index.html#management">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_sustainability_img02.jpg" alt="サステナビリティマネジメント​">
+                        </figure>
+                    </a>
+                    <p class="is-read">シチズングループのサステナブル経営​
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="block-menu-inner" id="menu-human-resources">
+            <div class="menu-wrap inner-frame-w">
+                <div class="menu-inner-list adopt-menu01 pc-only">
+                    <h2 class="cate-t pc-onlytl">採用</h2>
+                    <p class="is-cate-read">
+                        シチズングループでは、人財の確保と育成が事業基盤の強化につながると考えています。グループ各社が主体となって多様な人財が活躍できる働きやすい職場環境づくりを進めています。</p>
+                    <div class="more-btn btn-bk btn-radius"><a href="/recruit/index.html">採用TOP</a></div>
+                </div>
+                <div class="menu-inner-list adopt-menu02">
+                    <h3 class="is-ttl pc-only">メニュー</h3>
+                    <ul>
+                        <li><a href="https://citizen-recruit.snar.jp/index.aspx?id=HN48HD1sAn4" target="_blank">新卒採用</a>
+                        </li>
+                        <li><a href="https://citizen-recruit.snar.jp/index.aspx?id=mLqGGGMpvyg"
+                                target="_blank">キャリア採用</a></li>
+                    </ul>
+                </div>
+                <div class="menu-inner-list adopt-menu03 pc-only">
+                    <h3 class="is-ttl pc-only">PROJECT STORY</h3>
+                    <a href="/recruit/story/story01.html" target="_blank">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_adopt_img01.jpg" alt="PROJECT STORY">
+                        </figure>
+                    </a>
+                    <p class="is-read">
+                        サステナブルウオッチを生み出した、CITIZEN Lチームが目指す働き方
+                    </p>
+                </div>
+                <div class="menu-inner-list adopt-menu04 pc-only">
+                    <h3 class="is-ttl pc-only">新卒採用</h3>
+                    <a href="/recruit/top.html" target="_blank">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_adopt_img02.jpg" alt="新卒採用">
+                        </figure>
+                    </a>
+                    <p class="is-read">
+                        「次のシチズンは、私だ」。そんな想いと情熱で、私たちの心を動かしてほしい。これまでにないアイデアで、新しい風を吹き込んでほしい。あなたこそが、次のシチズンの駆動力に。</p>
+                </div>
+            </div>
+        </div>
+        <div class="block-menu-inner" id="menu-news">
+            <div class="menu-wrap inner-frame-w">
+                <div class="menu-inner-list news-menu01 pc-only">
+                    <h2 class="cate-t pc-onlytl">ニュース</h2>
+                    <!--<p class="is-cate-read"></p>-->
+                    <div class="more-btn btn-bk btn-radius"><a href="/release/news">ニュースTOP</a></div>
+                </div>
+                <div class="menu-inner-list news-menu02">
+                    <h3 class="is-ttl pc-only">メニュー</h3>
+                    <ul>
+                        <li><a href="/release/news/cwc_ca_news_ja/clock">時計</a></li>
+                        <li><a href="/release/news/cwc_ca_news_ja/machine">工作機械</a></li>
+                        <li><a href="/release/news/cwc_ca_news_ja/device">デバイス</a></li>
+                        <!-- <li><a href="/release/news/cwc_ca_news_ja/electron">電子機器他</a></li> -->
+                        <li><a href="/release/news/cwc_ca_news_ja/management">経営</a></li>
+                        <li><a href="/release/news/cwc_ca_news_ja/sustainability">サステナビリティ</a></li>
+                        <li><a href="/release/news/cwc_ca_news_ja/topic">お知らせ</a></li>
+                    </ul>
+                </div>
+                <div class="menu-inner-list news-menu03 pc-only">
+                    <h3 class="is-ttl pc-only">時計</h3>
+                    <a href="/release/news/cwc_ca_news_ja/clock">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_news_250401_img01.jpg" alt="CITIZEN">
+                        </figure>
+                    </a>
+                </div>
+                <div class="menu-inner-list news-menu04 pc-only">
+                    <h3 class="is-ttl pc-only">工作機械</h3>
+                    <a href="/release/news/cwc_ca_news_ja/machine">
+                        <figure class="img-block">
+                            <img src="/cms/cwc/img/menu_news_img02.jpg" alt="工作機械事業">
+                        </figure>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- //PC/SP共通メニュー -->
+</header>
+
+
+
+    <div id="contents">
+
+
+<div class="mv-movie forcms_block mgb-spacing-3_5">
+    <div class="inner-frame">
+        <!-- <h2 class="ttl">
+            <span>市民に愛され<span class="dev02"><br></span>市民に貢献する</span>
+        </h2> -->
+        <video src="/cms/cwc/movie/SiteTopmovie2025.mp4" preload autoplay loop muted playsinline class="video"></video>
+    </div>
+</div>
+
+<div class="block-news-area is-ir forcms_block">
+    <div class="title-wrap">
+        <h2 class="title">IR ニュース</h2>
+        <div class="more-btn btn-brbk">
+            <a href="/ir/news"><span class="inner">もっと見る</span></a>
+        </div>
+    </div>
+    
+    <ul class="news-list">
+        
+        <li>
+            
+                <a href="/cms/cwc/files/FY25_3QPs.pdf"  target="_blank" 
+                    >
+                    
+                <time class="is-date">2026/2/13</time>
+                <p class="is-ttl">2025年度第3四半期　決算説明会プレゼン資料（スクリプト付）を公開しました</p>
+                
+            </a>
+            
+        </li>
+        
+        <li>
+            
+                <a href="/cms/cwc/files/FY25_3QQA.pdf"  target="_blank" 
+                    >
+                    
+                <time class="is-date">2026/2/13</time>
+                <p class="is-ttl">2025年度第3四半期　主な質疑応答（要旨）を公開しました</p>
+                
+            </a>
+            
+        </li>
+        
+        <li>
+            
+                <a href="/cms/cwc/files/FY25_3Q.pdf"  target="_blank" 
+                    >
+                    
+                <time class="is-date">2026/2/12</time>
+                <p class="is-ttl">2025年度第3四半期　決算短信を公開しました</p>
+                
+            </a>
+            
+        </li>
+        
+        <li>
+            
+                <a href="/cms/cwc/files/FY25_3QP.pdf"  target="_blank" 
+                    >
+                    
+                <time class="is-date">2026/2/12</time>
+                <p class="is-ttl">2025年度第3四半期　決算説明会プレゼン資料を公開しました</p>
+                
+            </a>
+            
+        </li>
+        
+    </ul>
+    
+</div>
+
+<section class="inner-frame forcms_block">
+    <!-- <div class="title-wrap mgb-spacing-3_0">
+        <h2 class="heading-02">Highlights</h2>
+    </div> -->
+    <div class="layout-columns layout-columns-2">
+        <ul class="layout-columns-2-list" style="flex-wrap: nowrap; gap: 20px;">
+            <li>
+                <a href="/company/message.html">
+                    <picture class="img-block">
+                        <source srcset="/cms/cwc/img/top/bnr_message_250401_sp.jpg" media="(max-width:640px)">
+                        <img src="/cms/cwc/img/top/bnr_message_250401.jpg" alt="社長メッセージ">
+                    </picture>
+                    <p class="caption-01">社長メッセージ</p>
+                </a>
+                
+            </li>
+            <li>
+                <a href="/ir/integrated_report.html">
+                    <picture class="img-block">
+                        <source srcset="/cms/cwc/img/top/bnr_report_01_sp.jpg" media="(max-width:640px)">
+                        <img src="/cms/cwc/img/top/bnr_report_01.jpg" alt="CITIZEN REPORT(統合報告書)">
+                    </picture>
+                    <p class="caption-01">CITIZEN REPORT(統合報告書)</p>
+                </a>
+            </li>
+            <li>
+                <a href="/sustainability/report/#report">
+                    <picture class="img-block">
+                        <source srcset="/cms/cwc/img/top/bnr_groupreport_sp.jpg" media="(max-width:640px)">
+                        <img src="/cms/cwc/img/top/bnr_groupreport.jpg" alt="サステナビリティ・CSR報告書">
+                    </picture>
+                    <p class="caption-01">サステナビリティ・CSR報告書</p>
+                </a>
+            </li>
+            <!-- <li style="text-align: center;">
+                <a href="/coy/award.html">
+                    <picture class="img-block">
+                        <source srcset="/cms/cwc/img/top/bnr_coy_250401_sp.jpg" media="(max-width:640px)">
+                        <img src="/cms/cwc/img/top/bnr_coy_250401.jpg" alt="シチズン･オブ・ザ・イヤー受賞者決定">
+                    </picture>
+                    <p class="caption-01" style="text-align: left;">シチズン･オブ・ザ・イヤー受賞者決定</p>
+                </a>
+            </li> -->
+        </ul>
+    </div>
+</section>
+
+<section class="inner-frame forcms_block">
+    <div class="title-wrap mgb-spacing-3_0">
+        <h2 class="heading-02">事業領域</h2>
+        <div class="more-btn btn-brbk"><a href="/business"><span class="inner">もっと見る</span></a></div>
+    </div>
+    <div class="layout-columns layout-columns-2">
+        <ul class="layout-columns-2-list" style="flex-wrap: nowrap; gap: 20px;">
+            <li>
+                <a href="/business/watches.html">
+                    <picture class="img-block">
+                        <source srcset="/cms/cwc/img/top/bnr_watches_250401_sp.jpg" media="(max-width:640px)">
+                        <img src="/cms/cwc/img/top/bnr_watches_250401.jpg" alt="時計">
+                    </picture>
+                    <p class="caption-01">時計</p>
+                </a>
+            </li>
+            <li>
+                <a href="/business/industrial_machinery.html">
+                    <picture class="img-block">
+                        <source srcset="/cms/cwc/img/top/bnr_machinery_sp.jpg" media="(max-width:640px)">
+                        <img src="/cms/cwc/img/top/bnr_machinery.jpg" alt="工作機械">
+                    </picture>
+                    <p class="caption-01">工作機械</p>
+                </a>
+            </li>
+            <li>
+                <a href="/business/electronic_devices.html">
+                    <picture class="img-block">
+                        <source srcset="/cms/cwc/img/top/bnr_electronic_250401_sp.jpg" media="(max-width:640px)">
+                        <img src="/cms/cwc/img/top/bnr_electronic_250401.jpg" alt="デバイス">
+                    </picture>
+                    <p class="caption-01">デバイス</p>
+                </a>
+            </li>
+            <!-- <li>
+                <a href="/business/electronic_product.html">
+                    <picture class="img-block">
+                        <source srcset="/cms/cwc/img/top/bnr_health_sp.jpg" media="(max-width:640px)">
+                        <img src="/cms/cwc/img/top/bnr_health.jpg" alt="電子機器他">
+                    </picture>
+                    <p class="caption-01">電子機器他</p>
+                </a>
+            </li> -->
+        </ul>
+    </div>
+</section>
+
+<section class="forcms_block inner-frame mgt-spacing-3_0">
+    <div class="title-wrap mgb-spacing-3_0">
+    <h2 class="heading-02">Citizen Contents</h2>
+  </div>
+  <div class="layout-columns layout-columns-2">
+    <ul class="layout-columns-2-list" style="flex-wrap: nowrap; gap: 20px;">
+      <li>
+        <a href="/company">
+          <picture class="img-block">
+            <source srcset="/cms/cwc/img/top/bnr_about_citizen_sp.jpg" media="(max-width:640px)">
+            <img src="/cms/cwc/img/top/bnr_about_citizen.jpg" alt="シチズングループについて">
+          </picture>
+          <p class="caption-01">シチズングループについて</p>
+        </a>
+      </li>
+      <li>
+        <a href="/ir">
+          <picture class="img-block">
+            <source srcset="/cms/cwc/img/top/bnr_investor_relation_sp.jpg" media="(max-width:640px)">
+            <img src="/cms/cwc/img/top/bnr_investor_relation.jpg" alt="投資家情報">
+          </picture>
+          <p class="caption-01">投資家情報</p>
+        </a>
+      </li>
+      <li>
+        <a href="/sustainability/">
+          <picture class="img-block">
+            <source srcset="/cms/cwc/img/top/bnr_sustainability_sp.jpg" media="(max-width: 640px)">
+            <img src="/cms/cwc/img/top/bnr_sustainability.jpg" alt="サステナビリティ">
+          </picture>
+          <p class="caption-01">サステナビリティ</p>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="layout-columns layout-columns-2">
+    <ul class="layout-columns-2-list" style="flex-wrap: nowrap; gap: 20px;">
+      <li>
+        <a href="/recruit/index.html">
+          <picture class="img-block">
+            <source srcset="/cms/cwc/img/top/bnr_recruit_sp.jpg" media="(max-width: 640px)">
+            <img src="/cms/cwc/img/top/bnr_recruit.jpg" alt="採用">
+          </picture>
+          <p class="caption-01">採用</p>
+        </a>
+      </li>
+      <li>
+        <a href="/coy/index.html" target="_blank">
+            <picture class="img-block">
+                <source srcset="/cms/cwc/img/top/bnr_of_the_year_250401_sp.jpg" media="(max-width:640px)">
+                <img src="/cms/cwc/img/top/bnr_of_the_year_250401.jpg" alt="CITIZEN OF THE YEAR">
+            </picture>
+            <p class="caption-01">CITIZEN OF THE YEAR &trade;</p>
+        </a>
+    </li>
+    <li>
+        <a href="https://www.citizen-tabletennisclub.jp/index.html" target="_blank">
+            <picture class="img-block">
+                <source srcset="/cms/cwc/img/top/bnr_table_tennis_sp.jpg" media="(max-width: 640px)">
+                <img src="/cms/cwc/img/top/bnr_table_tennis.jpg" alt="CITIZEN TABLE TENNIS CLUB">
+            </picture>
+            <p class="caption-01">CITIZEN TABLE TENNIS CLUB</p>
+        </a>
+    </li>
+    </ul>
+  </div>
+</section>
+
+<div class="block-news-area forcms_block">
+    <div class="title-wrap">
+        <h2 class="title">ニュース</h2>
+        <div class="more-btn btn-brbk">
+            <a href="/release/news"><span class="inner">もっと見る</span></a>
+        </div>
+    </div>
+    
+    <ul class="news-list">
+        
+        <li>
+            
+                <a href="https://www.citizen.co.jp/release/news/detail/2026/20260423.html" 
+                    >
+                    
+                <time class="is-date">2026/4/23</time>
+                <p class="is-ttl">ゴールデンウイーク休業のお知らせ</p>
+                
+            </a>
+            
+            <div class="tag-group">
+                <span class="news-tag">お知らせ</span>
+            </div>
+        </li>
+        
+        <li>
+            
+                <a href="https://www.citizen.co.jp/release/news/detail/2026/20260319_2.html" 
+                    >
+                    
+                <time class="is-date">2026/3/19</time>
+                <p class="is-ttl">エコ・ドライブ50周年記念限定モデル　立体的にスリットが重なり合う多層文字板の光発電腕時計「Eco-Drive PHOTON」を発売</p>
+                
+            </a>
+            
+            <div class="tag-group">
+                <span class="news-tag">時計</span>
+            </div>
+        </li>
+        
+        <li>
+            
+                <a href="https://www.citizen.co.jp/release/news/detail/2026/20260319_1.html" 
+                    >
+                    
+                <time class="is-date">2026/3/19</time>
+                <p class="is-ttl">『The CITIZEN』エコ・ドライブ50周年限定モデル　初めての草木染緑和紙文字板モデルが登場<br></p>
+                
+            </a>
+            
+            <div class="tag-group">
+                <span class="news-tag">時計</span>
+            </div>
+        </li>
+        
+        <li>
+            
+                <a href="https://www.citizen.co.jp/release/news/detail/2026/20260316.html" 
+                    >
+                    
+                <time class="is-date">2026/3/16</time>
+                <p class="is-ttl">『Q&amp;Q SmileSolar』<br>キャプテンスタッグとのコラボモデル　３種のモデルが登場</p>
+                
+            </a>
+            
+            <div class="tag-group">
+                <span class="news-tag">時計</span>
+            </div>
+        </li>
+        
+    </ul>
+    
+</div>
+
+    </div>
+
+
+
+<footer id="block-footer" class="forcms_block pane-footer">
+    <!--<div class="block-footer-logo"><a href="/"><img src="/cms/cwc/img/logo_bk.svg" alt=""></a></div>-->
+    <nav class="block-footer-menu inner-frame-w">
+        <ul>
+            <li><a href="/sitemap/">サイトマップ</a></li>
+            <li><a href="/support">お問い合わせ</a></li>
+            <li><a href="/policy">法的情報</a></li>
+            <!--<li><a href="/policy/terms.html">ご利用について</a></li>-->
+            <li><a href="/policy/group.html">シチズングループプライバシーポリシー</a></li>
+            <li><a href="/policy/privacy.html">プライバシーポリシー</a></li>
+        </ul>
+    </nav>
+    <p class="block-copyright">&copy; <span id="current-year"></span> CITIZEN WATCH CO., LTD.</p>
+</footer>
+
+</div>
+
+<!-- 検索結果画面用js -->
+<script>
+!function(){
+  var G = GALFSRAM = window.GALFSRAM || {}
+  G.mfx = G.mfx || {}
+  G.mfx.router_mode = 'history'
+}();
+</script>
+<script src="https://ce.mf.marsflag.com/latest/js/mf-search.js"></script>
+<!-- 画像配置IE対応 -->
+<script src="/cms/cwc/js/ofi.min.js"></script>
+<script>objectFitImages();</script>
+
+
+</body>
+</html>

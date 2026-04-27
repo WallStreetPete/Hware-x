@@ -1,0 +1,1589 @@
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <script src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/js/viewport.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="facebook-domain-verification" content="r8ffjoasv8izhxvfljw6k8e7zj97mh">
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/favicon-16x16.png">
+<link rel="manifest" href="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/manifest.json">
+<meta name="msapplication-TileImage" content="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/icon/ms-icon-144x144.png">
+<meta name="format-detection" content="telephone=no">
+    <title>セキュリティやネットワーク、電子部品、産業機構部品の技術商社 | 高千穂交易株式会社 製品サイト</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='toc-screen-css' href='https://www.takachiho-kk.co.jp/wp/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2411.1' type='text/css' media='all' />
+<style id='toc-screen-inline-css' type='text/css'>
+div#toc_container {background: #f1f1f1;border: 1px solid #ffffff;width: 100%;}div#toc_container ul li {font-size: 100%;}
+/*# sourceURL=toc-screen-inline-css */
+</style>
+<link rel='stylesheet' id='theme.reset-css' href='https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/css/reset.css?ver=6.9.4' type='text/css' media='screen, all' />
+<link rel='stylesheet' id='webfont.OpenSans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400i%2C700%2C700i&#038;display=swap&#038;ver=6.9.4' type='text/css' media='screen, all' />
+<link rel='stylesheet' id='webfont.LibreBaskerville-css' href='https://fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C400i%2C700&#038;display=swap&#038;ver=6.9.4' type='text/css' media='screen, all' />
+<link rel='stylesheet' id='slick-css' href='https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/css/slick.css?ver=6.9.4' type='text/css' media='screen, all' />
+<link rel='stylesheet' id='jquery.magnific_popup-css' href='https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/css/magnific-popup.css?ver=6.9.4' type='text/css' media='screen, all' />
+<link rel='stylesheet' id='theme.style-css' href='https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/css/style.css?ver=6.9.4' type='text/css' media='screen, all' />
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/js/jquery-3.4.1.min.js" id="jquery_3.4.1-js"></script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/js/slick.min.js" id="slick-js"></script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/js/jquery.magnific-popup.min.js" id="jquery.magnific_popup-js"></script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/js/jquery.matchHeight.js" id="jquery.matchHeight-js"></script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/js/jquery.tabModule.js" id="jquery.tabModule-js"></script>
+<link rel="canonical" href="https://www.takachiho-kk.co.jp/" />
+<meta name="description" content="高千穂交易株式会社は、防犯カメラ・監視カメラ、顔認証システム、IoTセンサー、RFID、EDR、SASE、エレクトロニクス、メカニクス、ランサムウェア対策など、最先端のセキュリティソリューションを提供している技術商社です。豊富な商材と技術サポートで新しい価値を創造します。">
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:site_name" content="高千穂交易株式会社 製品サイト" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="セキュリティやネットワーク、電子部品、産業機構部品の技術商社 | 高千穂交易株式会社 製品サイト" />
+<meta property="og:description" content="高千穂交易株式会社は、防犯カメラ・監視カメラ、顔認証システム、IoTセンサー、RFID、EDR、SASE、エレクトロニクス、メカニクス、ランサムウェア対策など、最先端のセキュリティソリューションを提供している技術商社です。豊富な商材と技術サポートで新しい価値を創造します。" />
+<meta property="og:url" content="https://www.takachiho-kk.co.jp/" />    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N4XDVF9');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NVM7499');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="HIJrWtbL8cH9uWas-BUCFV_7P2VRn1DwVkuuS6lqNO8" /></head>
+<body id="page__top">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4XDVF9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVM7499"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div id="wrap">
+      <header id="header">
+        <div class="header__inn">
+  <div class="logo"><a class="logo__link" href="/"><img class="logo__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/logo.png" alt=""></a></div>
+
+  <nav class="gnav">
+    <div class="gnav-btn">
+      <span class="gnav-btn__line"></span>
+      <span class="gnav-btn__line"></span>
+      <span class="gnav-btn__line"></span>
+      <span class="gnav-btn__line"></span>
+    </div>
+    <div class="gnav__menu">
+      <div class="gnav__sp-search">
+        <div class="gnav__search">
+          <form class="search-form" action="https://www.takachiho-kk.co.jp/all?s=">
+            <div class="gnav__search-wrap">
+              <div class="gnav__search-input">
+                <input type="text" name="s" placeholder="フリーワード検索" value="" required>
+              </div>
+              <div class="gnav__search-button">
+                <button type="submit">検索</button>
+              </div>
+            </div>
+          </form>
+        </div>
+        <!--/ .gnav__search -->
+      </div>
+      <!--/ .gnav__sp-search -->
+      <ul class="gnav__list">
+        <li class="gnav__item">
+          <a class="gnav__link" href="/prod/">製品情報</a>
+          <span class="gnav__toggle"></span>
+          <div class="megamenu">
+            <div class="megamenu__inn">
+              <ul class="megamenu__list">
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/network/">
+                    <span class="megamenu__link-title">ネットワーク</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/enterleave/">
+                    <span class="megamenu__link-title">入退室管理システム</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/ipcamera/">
+                    <span class="megamenu__link-title">監視カメラシステム</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/cctv/">
+                    <span class="megamenu__link-title">防犯カメラ・映像解析</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/eas/">
+                    <span class="megamenu__link-title">防犯タグ・防犯ゲート</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/traffic/tkcloud/">
+                    <span class="megamenu__link-title">入店カウンター</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/rfid/">
+                    <span class="megamenu__link-title">RFID</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/mechanical/">
+                    <span class="megamenu__link-title">機構部品・機能製品</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/electronics/">
+                    <span class="megamenu__link-title">ケーブル・ハーネス・パワーサプライ・プリント基板</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/semicon/">
+                    <span class="megamenu__link-title">半導体・電子部品・各種モジュール・ソリューション</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/mailing/" target="_blank">
+                    <span class="megamenu__link-title">メーリングソリューション</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/store_security/emlinx/">
+                    <span class="megamenu__link-title">店舗向け情報配信サービス</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/efficiency/">
+                    <span class="megamenu__link-title">リテール業務効率化</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/security/">
+                    <span class="megamenu__link-title">セキュリティ</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/smartoffice/">
+                    <span class="megamenu__link-title">スマートオフィス・ビルディング</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/cloud_ipcamera/">
+                    <span class="megamenu__link-title">クラウド型監視カメラシステム</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/iot/">
+                    <span class="megamenu__link-title">IoTセンサー</span>
+                  </a>
+                </li>
+                <li class="megamenu__list-item">
+                  <a class="megamenu__link" href="/prod/support/">
+                    <span class="megamenu__link-title">サービス＆サポート</span>
+                  </a>
+                </li>
+              </ul>
+              <!--/ .megamenu__list -->
+            </div>
+            <!--/ .megamenu__inn -->
+          </div>
+          <!--/ .megamenu -->
+        </li>
+
+        <li class="gnav__item">
+          <a class="gnav__link" href="/solution/">ソリューション</a>
+          <span class="gnav__toggle"></span>
+          <div class="megamenu type__text">
+            <div class="megamenu__inn">
+              <ul class="megamenu__list">
+                <li class="megamenu__list-item">
+                    <a class="megamenu__link" href="/solution/business/">
+                        <span class="megamenu__link-title">ビジネスソリューション</span>
+                    </a>
+                </li>
+                <li class="megamenu__list-item">
+                    <a class="megamenu__link" href="/solution/retail/">
+                        <span class="megamenu__link-title">リテールソリューション</span>
+                    </a>
+                </li>
+                <li class="megamenu__list-item">
+                    <a class="megamenu__link" href="/solution/mechanics/">
+                        <span class="megamenu__link-title">メカニクスソリューション</span>
+                    </a>
+                </li>
+                <li class="megamenu__list-item">
+                    <a class="megamenu__link" href="/prod/semicon/">
+                        <span class="megamenu__link-title">エレクトロニクスソリューション</span>
+                    </a>
+                </li>
+                <li class="megamenu__list-item">
+                    <a class="megamenu__link" href="/case/">
+                        <span class="megamenu__link-title">導入事例</span>
+                    </a>
+                </li>
+                <li class="megamenu__list-item">
+                    <a class="megamenu__link" href="/solution/#prod-scene">
+                        <span class="megamenu__link-title">シーンから探す</span>
+                    </a>
+                </li>
+                <li class="megamenu__list-item">
+                    <a class="megamenu__link" href="/solution/#prod-app">
+                        <span class="megamenu__link-title">使用用途から探す</span>
+                    </a>
+                </li>
+                <li class="megamenu__list-item">
+                    <a class="megamenu__link" href="/solution/#prod-keyword">
+                        <span class="megamenu__link-title">キーワードから探す</span>
+                    </a>
+                </li>
+              </ul>
+              <!--/ .megamenu__list -->
+            </div>
+            <!--/ .megamenu__inn -->
+          </div>
+          <!--/ .megamenu -->
+        </li>
+
+        <li class="gnav__item">
+          <a class="gnav__link no-toggle" href="/event/">イベント情報</a>
+        </li>
+
+        <li class="gnav__item">
+          <a class="gnav__link no-toggle" href="/news/">最新情報</a>
+        </li>
+
+        <li class="gnav__item">
+          <a class="gnav__link no-toggle" href="/column/">コラム</a>
+        </li>
+
+        <li class="gnav__item gnav-search">
+          <span class="gnav__link">
+            <i class="ico__search">
+              <svg data-name="icon-search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.707 30"><path class="b022f499-a074-4f62-a6df-5b60a5322be5" d="M22.856,20.252a12.626,12.626,0,1,0-2.792,2.708L27.1,30l2.749-2.75ZM12.785,22.361a9.722,9.722,0,1,1,9.722-9.722A9.722,9.722,0,0,1,12.785,22.361Z" transform="translate(-0.147)"/></svg>
+            </i>
+          </span>
+          <span class="gnav__toggle"></span>
+          <div class="megamenu type__text">
+            <div class="megamenu__inn">
+              <div class="gnav__search">
+                <form class="search-form" action="https://www.takachiho-kk.co.jp/all?s=">
+                  <div class="gnav__search-wrap">
+                    <div class="gnav__search-input">
+                      <input type="text" name="s" placeholder="フリーワード検索" value="" required>
+                    </div>
+                    <div class="gnav__search-button">
+                      <button type="submit">検索</button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+              <!--/ .gnav__search -->
+            </div>
+            <!--/ .megamenu__inn -->
+          </div>
+          <!--/ .megamenu -->
+        </li>
+        <li class="gnav__item sp">
+          <a class="gnav__link no-toggle" href="/contact/" target="_blank">お問い合わせ</a>
+        </li>
+        <li class="gnav__item sp">
+          <a class="gnav__link no-toggle-outer" href="https://corp.takachiho-kk.co.jp/" target="_blank">コーポレートサイト</a>
+        </li>
+        <li class="gnav__item sp">
+          <a class="gnav__link no-toggle-outer" href="https://corp.takachiho-kk.co.jp/recruit/" target="_blank">採用情報</a>
+        </li>
+        <li class="gnav__item sp">
+          <a class="gnav__link no-toggle-outer" href="https://www.takachiho-kk.co.jp/en/products.html" target="_blank">English</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <!--/ .gnav -->
+
+  <div class="utility pc">
+    <ul class="utility__language">
+      <li class="utility__language-item opensans">日本語</li>
+      <li class="utility__language-item opensans"><a class="utility__language-link" href="https://www.takachiho-kk.co.jp/en/products.html">English</a></li>
+    </ul>
+    <ul class="utility__corporate">
+      <li class="utility__corporate-item">
+        <a class="utility__corporate-site" href="https://corp.takachiho-kk.co.jp/" target="_blank">コーポレートサイト</a>
+      </li>
+      <li class="utility__corporate-item">
+        <a class="utility__corporate-recruit" href="https://corp.takachiho-kk.co.jp/recruit/" target="_blank">採用情報</a>
+      </li>
+    </ul>
+    <a class="utility__contact" href="/contact/" target="_blank">お問い合わせ</a>
+  </div>
+  <!--/ .utility -->
+</div>
+<!--/ .header__inn -->
+      </header>
+
+      <div id="contents">
+
+                <div class="mv-slider">
+                    <div>
+            <a class="mv-slider__link" href="https://www.takachiho-kk.co.jp/purpose/">              <img class="mv-slider__img pc" src="/wp/wp-content/uploads/2025/07/TK_MV_purpose.jpg" alt="">
+              <img class="mv-slider__img sp" src="/wp/wp-content/uploads/2025/07/TK_MV_SP_purpose.jpg" alt="">
+              </a>          </div>
+                    <div>
+            <a class="mv-slider__link" href="https://www.takachiho-kk.co.jp/prod/network/">              <img class="mv-slider__img pc" src="/wp/wp-content/uploads/2019/11/img_mv04_pc.jpg" alt="">
+              <img class="mv-slider__img sp" src="/wp/wp-content/uploads/2019/11/img_mv04_sp.jpg" alt="">
+              </a>          </div>
+                    <div>
+            <a class="mv-slider__link" href="https://www.takachiho-kk.co.jp/solution/retail/">              <img class="mv-slider__img pc" src="/wp/wp-content/uploads/2025/07/img_mv05-1.jpg" alt="">
+              <img class="mv-slider__img sp" src="/wp/wp-content/uploads/2025/07/img_mv05_sp-1.jpg" alt="">
+              </a>          </div>
+                    <div>
+            <a class="mv-slider__link" href="https://www.takachiho-kk.co.jp/prod/electronics/">              <img class="mv-slider__img pc" src="/wp/wp-content/uploads/2019/10/img_mv03_pc.jpg" alt="">
+              <img class="mv-slider__img sp" src="/wp/wp-content/uploads/2019/10/img_mv03_sp.jpg" alt="">
+              </a>          </div>
+                    <div>
+            <a class="mv-slider__link" href="https://www.takachiho-kk.co.jp/prod/semicon/">              <img class="mv-slider__img pc" src="/wp/wp-content/uploads/2025/07/img_mv04-2.jpg" alt="">
+              <img class="mv-slider__img sp" src="/wp/wp-content/uploads/2025/07/img_mv04_sp-1.jpg" alt="">
+              </a>          </div>
+                  </div>
+        
+        <div class="topMessage">
+          <div class="topMessage__inn">
+            <p>
+              <a href="https://corp.takachiho-kk.co.jp/" target="_blank">
+                4月22日にコーポレートサイト（企業情報・サステナビリティ・IR情報）を新しく開設しました。
+              </a>
+            </p>
+          </div>
+        </div>
+
+        <section class="section news">
+  <div class="section__inn">
+    <h2 class="section__index"> <span class="section__index--main">最新情報</span> <span class="libre">News</span> </h2>
+
+    <div class="navTab-01" data-tab-model="object" data-tab-item="6" data-tab-behavior-sp="row">
+      <ul class="navTab-01__tab">
+        <li class="navTab-01__tabItem"><a class="navTab-01__tabItemLink" href="#navTab-01__content1-1" data-tab-model="nav">全て</a></li>
+        <li class="navTab-01__tabItem"><a class="navTab-01__tabItemLink" href="#navTab-01__content1-2" data-tab-model="nav">お知らせ</a></li>
+        <li class="navTab-01__tabItem"><a class="navTab-01__tabItemLink" href="#navTab-01__content1-3" data-tab-model="nav">プレスリリース</a></li>
+      </ul>
+
+      <div class="navTab-01__wrapper">
+        <div class="navTab-01__content" id="navTab-01__content1-1" data-tab-model="content">
+                  <ul class="news-list">
+                                    <li class="news-list__item">
+                            	  
+                            
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=223&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年4月17日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">高千穂交易、「MEX金沢2026 (第62回機械工業見本市金沢)」に初出展　～工作機械をはじめとする様々な産業機器向けに伝導部品や加工技術製品を展示～</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                            	  
+                            
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=221&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年4月9日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">株式会社やおきん、ランサムウェア対策プラットフォーム「Halcyon」を採用　～ 「止められない業務」を支える、復旧を見据えたセキュリティ対策を実現 ～</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                            	  
+                            
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=222&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年4月8日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">高千穂交易、エージェンティックAI時代の新たなリスクに対応する非人間アイデンティティ（NHI）セキュリティ基盤「Token Security」を販売開始</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                            	  
+                                                                                                              
+                          <a class="news-list__link" href="https://www.takachiho-kk.co.jp/news/news26_04_06/">
+                            <span class="news-list__date">2026年4月6日</span>
+                <span class="news-list__category color__notice">お知らせ</span>
+                <span class="news-list__title">4/29～5/6ゴールデンウィーク休業について</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                            	  
+                            
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=218&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年3月31日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">高千穂交易、住宅設備市場の水まわり環境に向けた自社開発コンセント「フレキシブルコンセントユニット」を販売開始 ～特許申請中～</span>
+              </a>
+            </li>
+                      </ul>
+          <p class="character-bottom"><a class="character-bottom__link" href="/news">一覧へ</a></p>
+        </div>
+
+        <div class="navTab-01__content" id="navTab-01__content1-2" data-tab-model="content">
+                  <ul class="news-list">
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://www.takachiho-kk.co.jp/news/news26_04_06/">
+                            <span class="news-list__date">2026年4月6日</span>
+                <span class="news-list__category color__notice">お知らせ</span>
+                <span class="news-list__title">4/29～5/6ゴールデンウィーク休業について</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=194&dispmid=750&_gl=1*v59ytl*_gcl_au*MTk1NzA3Njg1MS4xNzYwOTI1MDcx" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2025年12月12日</span>
+                <span class="news-list__category color__notice">お知らせ</span>
+                <span class="news-list__title">12/27～1/4 年末年始の休業について</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://www.takachiho-kk.co.jp/news/news24_12_19/">
+                            <span class="news-list__date">2024年12月20日</span>
+                <span class="news-list__category color__notice">お知らせ</span>
+                <span class="news-list__title">記事掲載：商業施設新聞～夜間に強い監視カメラ～</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://www.takachiho-kk.co.jp/news/news24_12_17/">
+                            <span class="news-list__date">2024年12月17日</span>
+                <span class="news-list__category color__notice">お知らせ</span>
+                <span class="news-list__title">記事掲載：セキュリティ産業新聞～熱で人の動きを検知 配線不要のワイヤレスIoTセンサーを販売開始～</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://www.takachiho-kk.co.jp/news/news24_11_26/">
+                            <span class="news-list__date">2024年11月26日</span>
+                <span class="news-list__category color__notice">お知らせ</span>
+                <span class="news-list__title">記事掲載：日刊工業新聞～工場のサイバー対策狙う～</span>
+              </a>
+            </li>
+                      </ul>
+          <p class="character-bottom"><a class="character-bottom__link" href="/news/notice">一覧へ</a></p>
+        </div>
+
+        <div class="navTab-01__content" id="navTab-01__content1-3" data-tab-model="content">
+                  <ul class="news-list">
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=223&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年4月17日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">高千穂交易、「MEX金沢2026 (第62回機械工業見本市金沢)」に初出展　～工作機械をはじめとする様々な産業機器向けに伝導部品や加工技術製品を展示～</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=221&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年4月9日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">株式会社やおきん、ランサムウェア対策プラットフォーム「Halcyon」を採用　～ 「止められない業務」を支える、復旧を見据えたセキュリティ対策を実現 ～</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=222&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年4月8日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">高千穂交易、エージェンティックAI時代の新たなリスクに対応する非人間アイデンティティ（NHI）セキュリティ基盤「Token Security」を販売開始</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=218&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年3月31日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">高千穂交易、住宅設備市場の水まわり環境に向けた自社開発コンセント「フレキシブルコンセントユニット」を販売開始 ～特許申請中～</span>
+              </a>
+            </li>
+                                    <li class="news-list__item">
+                          <a class="news-list__link" href="https://corp.takachiho-kk.co.jp/news/details.html?itemid=216&dispmid=750" target="_blank" rel="noreferrer">
+                            <span class="news-list__date">2026年3月27日</span>
+                <span class="news-list__category color__press">製品情報</span>
+                <span class="news-list__title">高千穂交易、Verkada 社のパートナー制度において最高位「ダイヤモンドパートナー」にアジアで初認定　～JAPAC エリア初の快挙、クラウド型物理セキュリティの普及を牽引し、企業の安全と DX を加速～</span>
+              </a>
+            </li>
+                      </ul>
+          <p class="character-bottom"><a class="character-bottom__link" href="/news/press/">一覧へ</a></p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+                <section class="section event">
+          <div class="section__inn">
+            <h2 class="section__index">
+              <span class="section__index--main">イベント情報</span>
+              <span class="libre">Event Information</span>
+            </h2>
+
+            <div class="trio-slider">
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20260414-28/">
+                  <div class="event__img-wrap">
+                    <img width="1280" height="720" src="/wp/wp-content/uploads/2026/04/fac68ca032b9d4cd4b023e84df223c67.jpg" class="event__img wp-post-image" alt="" decoding="async" fetchpriority="high" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">アーカイブ配信：小売業の課題を解決！<br>期待の２つの新製品を一挙ご紹介<br>『カスハラ対策：ボディ･カメラ』『情報共有DX：バックヤードサイネージ』</h3>
+                    <p class="products-list__text">2026年4月14日 (火) 13:00 ~ 4月28日 (火) 17:00<br>アーカイブ配信</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/mex2026/">
+                  <div class="event__img-wrap">
+                    <img width="382" height="215" src="/wp/wp-content/uploads/2026/04/thumb_mex2026.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">MEX金沢2026 出展：<br>お客様の高い要求にお応えできる産業機器向け機構部品や加工製品をご用意しています</h3>
+                    <p class="products-list__text">MEX金沢2026<br><br>2026年5月14日(木)～16日(土)<br>石川県産業展示館</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/otsuka-shokai_260423/">
+                  <div class="event__img-wrap">
+                    <img width="1024" height="288" src="/wp/wp-content/uploads/2026/04/1a2b53ad954ac7cead2f6bc5fa48f508-1024x288-1.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">株式会社大塚商会様 主催オンラインセミナー<br>工場を止めないためのOTセキュリティ対策</h3>
+                    <p class="products-list__text">株式会社大塚商会様 主催セミナー　2026年4月23日(金)　13:00～13:40<br>オンライン</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/seminar260326/">
+                  <div class="event__img-wrap">
+                    <img width="1919" height="1079" src="/wp/wp-content/uploads/2026/03/72ea58f3ccebb1dee0ebbe46790c9817.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">オンラインセミナー：<BR>【実機デモ公開】Nozomi Guardianで始めるOTセキュリティ可視化<BR>― 現場の「見えない」を解消する最初の一歩 ―</h3>
+                    <p class="products-list__text">2026年3月26日(木)<br>14:00-15:00<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20260325/">
+                  <div class="event__img-wrap">
+                    <img width="1280" height="720" src="/wp/wp-content/uploads/2026/03/9dd276fbbd781ffba794bd31086b4216.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】小売業の課題を解決！期待の２つの新製品を一挙ご紹介『カスハラ対策：ボディ･カメラ』『店舗向け情報共有ツール』</h3>
+                    <p class="products-list__text">2026年3月25日(水)<br>14:00-15:00<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/itweek2026spring/">
+                  <div class="event__img-wrap">
+                    <img width="300" height="250" src="/wp/wp-content/uploads/2026/02/IST251201_300x250_jp.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">第23回情報セキュリティEXPO 出展：<br>巧妙化・高度化するサイバー攻撃に対し、事業継続を見据えた実践的なセキュリティ対策をご紹介します</h3>
+                    <p class="products-list__text">第23回情報セキュリティEXPO<br>2026年 4月8日(水)～4月10日(金)<br>東京ビッグサイト</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/event-retailseminer_20260302-16/">
+                  <div class="event__img-wrap">
+                    <img width="1224" height="673" src="/wp/wp-content/uploads/2026/02/da2e78d5495e1fc765d5c7441130d270.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】アーカイブ配信：<br>『NRF in ニューヨーク 2026レポート』<br>世界の最新リテールテックをご紹介！</h3>
+                    <p class="products-list__text">2026年3月2日（月）13:00 ~ 3月16日（月）17：00</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/seminar260312/">
+                  <div class="event__img-wrap">
+                    <img width="1117" height="628" src="/wp/wp-content/uploads/2026/02/41ea4d9a6db280c0fb5ad7987b151b40.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】オンラインセミナー：<BR>同業他社申し込み厳禁!!EDR安全神話崩壊!! <BR>～EDRだけではランサムウェアから守れない理由と攻撃者のEDR回避テクニック～</h3>
+                    <p class="products-list__text">【開催終了】2026年03月12日(木)<br>14:00-14:45<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/seminar260305/">
+                  <div class="event__img-wrap">
+                    <img width="1024" height="576" src="/wp/wp-content/uploads/2026/02/20260305_akachiho-kk_banner-1024x576-2.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】オンラインセミナー：【再放送】<BR>ID悪用による「横展開（ラテラルムーブ）」は、なぜ止められていないのか ～大手企業の被害で見えた、ランサム侵入から脱却する実践策～</h3>
+                    <p class="products-list__text">【開催終了】2026年03月05日(木)<br>11:00-12:00<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/data-center-japan-2026/">
+                  <div class="event__img-wrap">
+                    <img width="970" height="250" src="/wp/wp-content/uploads/2026/02/970-250.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】Data Center Japan 2026出展：<br>～AI社会を支える重要インフラ～データセンター業界最大級のイベント</h3>
+                    <p class="products-list__text">【開催終了】Data Center Japan 2026<br>2026年3月24日（火）～3月25日（水）<br> 東京都立産業貿易センター</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/security-days-spring-2026/">
+                  <div class="event__img-wrap">
+                    <img width="1200" height="628" src="/wp/wp-content/uploads/2026/02/a571d9d49af3912231a3d50a97c12740.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">Security Days Spring 2026 出展：<br>最新の脅威動向とセキュリティ対策が集結</h3>
+                    <p class="products-list__text">Security Days Spring 2026<br>大阪/2026年3月10日 <br>名古屋/2026年3月19日 <br>東京/2026年3月24日～27日</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/seminar260219/">
+                  <div class="event__img-wrap">
+                    <img width="1117" height="628" src="/wp/wp-content/uploads/2026/02/E38390E3838AE383BCE4BD9CE68890E38386E383B3E38397E383AC-5.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】オンラインセミナー：<BR>鍵を奪え、未来を守れ <BR>暗号化と窃取の二重脅威に挑む <BR>~最新脅威アクターの戦略を暴き、サバイバル方法を教えます~</h3>
+                    <p class="products-list__text">【開催終了】2026年2月19日(木)<br>14:00-14:45<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/seminar260205/">
+                  <div class="event__img-wrap">
+                    <img width="1024" height="576" src="/wp/wp-content/uploads/2026/01/20260205_akachiho-kk_banner-1-1024x576-1.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】オンラインセミナー：ID悪用による「横展開（ラテラルムーブ）」は、なぜ止められていないのか ～大手企業の被害で見えた、ランサム侵入から脱却する実践策～</h3>
+                    <p class="products-list__text">【開催終了】2026年02月05日(木)<br>11:00-12:00<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/cyberseminer260115/">
+                  <div class="event__img-wrap">
+                    <img width="960" height="720" src="/wp/wp-content/uploads/2025/12/55d78c6010c6a35f6f2b55ef2aef5e5a-1.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】オンラインセミナー：EDRだけでは防げない時代― 2025年に発生したインシデント事例から読み解く2026年のランサムウェア対策―</h3>
+                    <p class="products-list__text">【開催終了】2026年1月15日(木)<br>11:00-11:45<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20260120/">
+                  <div class="event__img-wrap">
+                    <img width="354" height="217" src="/wp/wp-content/uploads/2025/12/a531a35cf9b126bfc94d520d00f0b4ab.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】オンラインセミナー：AIで見抜く攻めの万引き対策-万引きの7割は常習犯！</h3>
+                    <p class="products-list__text">2026年1月20日(火)<br>14:00-15:00<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20251209/">
+                  <div class="event__img-wrap">
+                    <img width="354" height="217" src="/wp/wp-content/uploads/2025/11/4fd422029a0577f5f1f6d0a2cb650c04.png" class="event__img wp-post-image" alt="1209 ベルカダ　ヴェルカダ　Verkada　ウェビナー" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】 クラウド型AIカメラ『Verkada』小売店舗での活用術「驚きの最新機能をご紹介」</h3>
+                    <p class="products-list__text">2025年12月9日(火)<br>14:00-15:00オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20251121/">
+                  <div class="event__img-wrap">
+                    <img width="1280" height="720" src="/wp/wp-content/uploads/2025/11/e1862c27856a9c7ae1439bb061f4d1bb.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】人気セミナー再公開！AIが変える小売業の未来 ― 世界の小売業界最新トレンドを徹底解説！</h3>
+                    <p class="products-list__text"><p>無料で視聴登録する いま、AIが小売業界をどう変えているのか？ 世界の小売業界で&#8230;</p>
+</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20251027/">
+                  <div class="event__img-wrap">
+                    <img width="1280" height="720" src="/wp/wp-content/uploads/2025/10/5621deba8a18b839c7a4321764bb05e8.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】アーカイブ配信：海外リテールテックの最前線！</h3>
+                    <p class="products-list__text">2025年10月27日(月)17:00までの期間限定セミナーアーカイブ配信</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20251006/">
+                  <div class="event__img-wrap">
+                    <img width="1600" height="900" src="/wp/wp-content/uploads/2025/09/bnr_retailseminer_20251006.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】アーカイブ配信：株式会社AOKIホールディングス担当者登壇<br>─RFID活用最前線！業務効率化と顧客満足度向上</h3>
+                    <p class="products-list__text">2025年10月6日(月)17:00までの期間限定セミナーアーカイブ配信</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20250826/">
+                  <div class="event__img-wrap">
+                                      </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】オンラインセミナー：AIで見抜く攻めの万引き対策-万引きの6割は常習犯！</h3>
+                    <p class="products-list__text">2025年8月26日(火)<br>14:00-15:00<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/jcpashow2025/">
+                  <div class="event__img-wrap">
+                    <img width="354" height="113" src="/wp/wp-content/uploads/2025/05/thumb_jcpa2025.png" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】第54回国際電子回路産業展 出展：<br />高品質プリント基板技術と製品群を紹介</h3>
+                    <p class="products-list__text">第54回国際電子回路産業展<br><br>2025年6月4日～6日<br>東京ビッグサイト</p>
+                  </div>
+                </a>
+              </div>
+                            <div>
+                <a class="event__link" href="https://www.takachiho-kk.co.jp/event/retailseminer_20250620/">
+                  <div class="event__img-wrap">
+                    <img width="1000" height="563" src="/wp/wp-content/uploads/2025/05/594444e410c157596b878addf524cb5b-1.jpg" class="event__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="event__detail">
+                    <h3 class="event__title">【開催終了】株式会社テリロジーサービスウェア　共催オンラインセミナー</h3>
+                    <p class="products-list__text">2025年6月20日(金)<br>14:00-15:00<br>オンラインセミナー</p>
+                  </div>
+                </a>
+              </div>
+                          </div>
+
+            <a class="btn__basic" href="https://www.takachiho-kk.co.jp/event"><span class="btn__basic-inn">イベント情報トップへ</span></a>
+          </div>
+        </section>
+        
+        <section class="section solution">
+            <div class="section__inn">
+                <h2 class="section__index">
+                    <span class="section__index--main">ソリューション</span>
+                    <span class="libre">Solution</span>
+                </h2>
+                <ul class="products-list col2">
+                    <li class="products-list__item">
+                        <a class="products-list__link" href="/solution/business/">
+                            <div class="products-list__img-wrap">
+                                <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_solution-list01.jpg" alt="">
+                            </div>
+                            <div class="products-list__detail">
+                                <h3 class="products-list__title">ビジネスソリューション</h3>
+                                <p class="products-list__text">ビジネス環境に不可欠な危機管理、ロス管理から情報ネットワークシステムまでトータルソリューションで応えています。</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="products-list__item">
+                        <a class="products-list__link" href="/solution/retail/">
+                            <div class="products-list__img-wrap">
+                                <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_solution-list02.jpg" alt="">
+                            </div>
+                            <div class="products-list__detail">
+                                <h3 class="products-list__title">リテールソリューション</h3>
+                                <p class="products-list__text">さまざまな店舗に対応した各種システムで、「トータルリテールソリューション」を実現しています。</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="products-list__item">
+                        <a class="products-list__link" href="/solution/mechanics/">
+                            <div class="products-list__img-wrap">
+                                <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_solution-list03.jpg" alt="">
+                            </div>
+                            <div class="products-list__detail">
+                                <h3 class="products-list__title">メカニクスソリューション</h3>
+                                <p class="products-list__text">より快適な社会環境・生活環境を実現する“ムーブメント・ソリューション”でお応えします。</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="products-list__item">
+                        <a class="products-list__link" href="/prod/semicon/">
+                            <div class="products-list__img-wrap">
+                                <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_solution-list04.jpg" alt="">
+                            </div>
+                            <div class="products-list__detail">
+                                <h3 class="products-list__title">エレクトロニクスソリューション</h3>
+                                <p class="products-list__text">約半世紀にわたり、国内外の“半導体・IC・電子部品・センサ・各種モジュール”の取り扱いを行っております。</p>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section products">
+          <div class="section__inn">
+            <h2 class="section__index">
+              <span class="section__index--main">製品情報</span>
+              <span class="libre">Products</span>
+            </h2>
+
+                        <ul class="products-list">
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/network/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list01.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">ネットワーク</h3>
+                    <p class="products-list__text">デジタル変革時代に最適なネットワーク・セキュリティソリューションをご提案いたします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/enterleave/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list02.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">入退室管理システム</h3>
+                    <p class="products-list__text">最先端のスマートロック・モバイル認証や顔認証などで物理セキュリティの安心・安全をご提案いたします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/ipcamera/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list03.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">監視カメラシステム</h3>
+                    <p class="products-list__text">お客様へ最適な監視カメラシステムで、安心・安全をご提案いたします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/eas/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list13.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">防犯タグ・防犯ゲート</h3>
+                    <p class="products-list__text">高い精度を誇るAM式に加え、RFID対応システムもラインナップしております。タグに関してもニーズにお応えする様々なタイプをご用意しております。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/traffic/tkcloud/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list14.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">入店カウンター</h3>
+                    <p class="products-list__text">買上率の算出、立地の有効性や施設の利用状況を見える化するなど、多岐にわたるニーズに合わせてご提案いたします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/rfid/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list25.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">RFID</h3>
+                    <p class="products-list__text">多様なRFIDタグやゲート、在庫管理システム、ハンディリーダーを組み合わせ、防犯・リテール業務効率化務効率化をトータルにご提案いたします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/mechanical/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list04.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">機構部品・機能製品</h3>
+                    <p class="products-list__text">“ムーブメントソリューション”を基本コンセプトに、デザインや機能性に優れた製品をラインナップしています。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/electronics/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list05.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">ケーブル・ハーネス・パワーサプライ・プリント基板</h3>
+                    <p class="products-list__text">多様性を求める市場ニーズに対して、高い信頼性と豊富なラインナップ、柔軟なカスタマイズでお応えします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/semicon/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list06.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">半導体・電子部品・各種モジュール・ソリューション</h3>
+                    <p class="products-list__text">国内外の半導体・IC・電子部品・各種モジュールを豊富に取り揃え、技術サポートと共にお客様へご提案しております。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" target="_blank" href="https://www.takachiho-kk.co.jp/prod/mailing/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list12.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">メーリングソリューション</h3>
+                    <p class="products-list__text">大量郵便物発行のインクジェットプリンティング、封入封緘、検査を高速・ハイセキュリテイーで実現。<br>導入・運用・保守をトータルサポートします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/store_security/emlinx/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list11.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">店舗向け情報配信サービス</h3>
+                    <p class="products-list__text">自社だけでは入手困難な、近隣店舗での大量窃盗や常習万引の情報を、いち早く入手し、犯罪予測や未然防止を可能にします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/security/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list21.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">セキュリティ</h3>
+                    <p class="products-list__text">ゼロトラストでセキュリティを強化し、IT、OT等の重要インフラをサイバー攻撃から守ります。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/smartoffice/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list22.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">スマートオフィス・ビルディング</h3>
+                    <p class="products-list__text">CiscoMerakiやVerkadaなどクラウド型機器のAPIを活用した「Cloom（クルーム）」は、オフィスのスマート化への実現をご提案いたします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/cloud_ipcamera/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list23.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">クラウド型監視カメラシステム</h3>
+                    <p class="products-list__text">インターネットに接続して撮影した映像を保存するカメラです。スマートフォンやタブレットなどのモバイル端末やパソコンから、いつでもどこからでも遠隔で操作や確認が可能です。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/iot/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list24.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">IoTセンサー</h3>
+                    <p class="products-list__text">ビックデータの時代に対応した可視化とモニタリングを実現するクラウド型IoTセンサ―をご提案いたします。</p>
+                  </div>
+                </a>
+              </li>
+
+              <li class="products-list__item">
+                <a class="products-list__link" href="https://www.takachiho-kk.co.jp/prod/support/">
+                  <div class="products-list__img-wrap">
+                    <img class="products-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_products-list16.jpg" alt="">
+                  </div>
+                  <div class="products-list__detail">
+                    <h3 class="products-list__title">サービス＆サポート</h3>
+                    <p class="products-list__text">納入・設置・保守等の各種サポートをはじめ、導入後の運用管理、アフターフォローやリプレイスなど。</p>
+                  </div>
+                </a>
+              </li>
+
+            </ul>
+            <a class="btn__basic" href="https://www.takachiho-kk.co.jp/prod"><span class="btn__basic-inn">製品情報トップへ</span></a>
+          </div>
+        </section>
+
+        <section class="section solution-search">
+          <div class="section__inn">
+            <div class="solution-group scene" id="prod-scene">
+  <h3 class="solution-group__index">シーンから探す</h3>
+  <ul class="solution-group__list">
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=office">オフィス</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=factory">工場・物流施設</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=data-center">データセンター</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=school">学校・教育</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=store">商業施設・店舗</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=housing">住宅</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=machinery">機械・装置</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=municipality">自治体</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=stadium-airport">スタジアム・空港</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?scene=car-airplane">車・飛行機</a></li>
+    </ul>
+</div>
+
+
+            <div class="solution-group app" id="prod-app">
+  <h3 class="solution-group__index">使用用途から探す</h3>
+  <ul class="solution-group__list">
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=rfid">RFID</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=pc_av_info">PC・AV・情報家電</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=household_housing">生活家電・住宅設備</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=furniture_furniture">家具・什器</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=mobile_wearable">モバイル・ウェアラブル</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=power_com">電源・通信モジュール</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=com_base">通信機器・基地局</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=vehicle">車載</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=financial_equipment">金融機器</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=medical_equipment">医療機器</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=amusement">アミューズメント機器</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=industrial_robot">産業用ロボット</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=carrier_equipment">搬送機器</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=mfp_com">MFP・商業印刷機</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=semiconductor">半導体製造装置</a></li>
+      <li class="solution-group__list-item"><a class="solution-group__list-link" href="https://www.takachiho-kk.co.jp/?app=other_industrial">その他産業機器</a></li>
+    </ul>
+</div>
+
+
+            <div class="solution-group keyword" id="prod-keyword">
+  <h3 class="solution-group__index">キーワードから探す</h3>
+  <div class="solution-group__inn">
+    <ul class="solution-group__tab">
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">ネットワーク</a></li>
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">入退室管理システム</a></li>
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">監視カメラシステム</a></li>
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">防犯タグ・防犯ゲート</a></li>
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">入店カウンター</a></li>
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">機構部品・機能製品</a></li>
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">ケーブル・ハーネス・パワーサプライ・プリント基板</a></li>
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">半導体・電子部品・各種モジュール・ソリューション</a></li>
+      <li class="solution-group__tab-item"><a class="solution-group__tab-link" href="https://www.takachiho-kk.co.jp/#">店舗向け情報配信サービス</a></li>
+    </ul>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">ネットワーク</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=security_enhancement&post_type=network">セキュリティ強化</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=phishing&post_type=network">フィッシング対策</a></li>
+		<li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=local_breakout&post_type=network">ローカルブレークアウト</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=multi-site_development&post_type=network">多拠点展開</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=overseas_base_development&post_type=network">海外拠点展開</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=telecommuting&post_type=network">在宅勤務</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=public_wireless_lan&post_type=network">公衆無線LAN</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=line_redundancy&post_type=network">回線冗長</a></li>
+      </ul>
+    </div>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">入退室管理システム</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=strengthen_physical_security&post_type=enterleave">物理セキュリティ強化</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=face_recognition&post_type=enterleave">顔認証</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=mobile_authentication&post_type=enterleave">スマートロック・モバイル認証</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=work_time_cooperation&post_type=enterleave">勤怠連携</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=multi-site_development&post_type=enterleave">多拠点展開</a></li>
+      </ul>
+    </div>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">監視カメラシステム</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=strengthen_physical_security&post_type=ipcamera">物理セキュリティ強化</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=motion_detection&post_type=ipcamera">モーション検知</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=number_of_people_detection&post_type=ipcamera">人数検知</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=intrusion_detection&post_type=ipcamera">侵入検出</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=prevention_of_companionship&post_type=ipcamera">共連れ防止</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=face_recognition&post_type=ipcamera">顔認証</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=camera_integrated&post_type=ipcamera">カメラ一体型モニター</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=deterrence&post_type=ipcamera">抑止・牽制</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=cloud_save&post_type=ipcamera">クラウド保存</a></li>
+      </ul>
+    </div>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">防犯タグ・防犯ゲート</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=security_tag&post_type=eas">防犯タグ</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=rfid&post_type=eas">RFID</a></li>
+      </ul>
+    </div>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">入店カウンター</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=purchase_rate&post_type=traffic">買上率（購買決定率）</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=traffic_volume&post_type=traffic">通行量</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=residence_measurement&post_type=traffic">滞留測定</a></li>
+      </ul>
+    </div>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">機構部品・機能製品</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=elevating&post_type=mechanical">昇降</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=quietness&post_type=mechanical">静音性</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=labor_saving&post_type=mechanical">省力化</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=cable_management&post_type=mechanical">ケーブルマネジメント</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=miniaturization&post_type=mechanical">小型化</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=improved_work_efficiency&post_type=mechanical">作業効率向上</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=functional_beauty_design&post_type=mechanical">機能美・デザイン・調光</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=energy_saving_and_eco&post_type=mechanical">省エネ・エコ</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=safety_measure&post_type=mechanical">安全対策</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=high_durability&post_type=mechanical">高耐久</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=linear_motion&post_type=mechanical">直動</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=storage&post_type=mechanical">収納</a></li>
+      </ul>
+    </div>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">ケーブル・ハーネス・パワーサプライ・プリント基板</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=flexibility&post_type=electronics">耐屈曲性</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=emi_resistance&post_type=electronics">耐EMI</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=high_speed_communication&post_type=electronics">高速通信</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=long_distance&post_type=electronics">長距離</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=qi&post_type=electronics">Qi</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=charging&post_type=electronics">充電</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=built-in_furniture&post_type=electronics">家具組込</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=cable_management&post_type=electronics">ケーブルマネジメント</a></li>
+      </ul>
+    </div>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">半導体・電子部品・各種モジュール・ソリューション</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=power_management&post_type=semicon">パワーマネジメント</a></li>        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=discrete&post_type=semicon">ディスクリート</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=audio_device&post_type=semicon">オーディオデバイス</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=micro_dsp_peripheral&post_type=semicon">マイコン・DSP及び周辺IC</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=interface_logic&post_type=semicon">インターフェイス・ロジック</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=communication&post_type=semicon">通信（モジュール・IC・デバイス）</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=connector_pin_rj45&post_type=semicon">コネクタ・ピンヘッダ・RJ45モジュール</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=inductor_magnetics&post_type=semicon">インダクタ・マグネティクス</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=sensor_device&post_type=semicon">センサデバイス</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=power_electronics_device&post_type=semicon">パワーエレクトロニクスデバイス</a></li>
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=special_function&post_type=semicon">スペシャルファンクション</a></li>
+      </ul>
+    </div>
+
+    <div class="solution-sub-group">
+      <h4 class="solution-sub-group__index">店舗向け情報配信サービス</h4>
+      <ul class="solution-sub-group__list">
+        <li class="solution-sub-group__list-item"><a class="solution-sub-group__list-link" href="https://www.takachiho-kk.co.jp/?keyword=strengthen_physical_security&post_type=store_security">物理セキュリティ強化</a></li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+          </div>
+        </section>
+
+                <section class="section case">
+          <div class="section__inn">
+            <h2 class="section__index">
+              <span class="section__index--main">導入事例</span>
+              <span class="libre">Case</span>
+            </h2>
+
+            <div class="trio-slider">
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/rfid-aoki-holdings/">
+                  <div class="case__img-wrap">
+                    <img width="354" height="215" src="/wp/wp-content/uploads/2026/04/pixta_87140936_S-1-1.jpg" class="case__img wp-post-image" alt="" decoding="async" srcset="https://www.takachiho-kk.co.jp/wp/wp-content/uploads/2026/04/pixta_87140936_S-1-1.jpg 354w, https://www.takachiho-kk.co.jp/wp/wp-content/uploads/2026/04/pixta_87140936_S-1-1-300x182.jpg 300w, https://www.takachiho-kk.co.jp/wp/wp-content/uploads/2026/04/pixta_87140936_S-1-1-330x200.jpg 330w" sizes="(max-width: 354px) 100vw, 354px" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">RFIDシステム 導入事例<br>佐川グローバルロジスティクス株式会社 様</h3>
+                                      <p class="case__text">本事例では、災害時の備蓄物資を非接触で一括把握できるRFID在庫管理システムを活用し、 全国8拠点における防災備蓄管理の高度化に取り組んだ事例をご紹介します。 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/yaokin/">
+                  <div class="case__img-wrap">
+                    <img width="300" height="74" src="/wp/wp-content/uploads/2026/04/0bb16672df18a94623d8f0a7f8ee682f-300x74-1.jpg" class="case__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">ランサムウェア対策導入事例｜株式会社やおきん様</h3>
+                                      <p class="case__text">ランサムウェア対策プラットフォーム「Halcyon」導入ユーザーインタビュー </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/verkada/">
+                  <div class="case__img-wrap">
+                    <img width="1200" height="800" src="/wp/wp-content/uploads/2025/03/1681800581705-V8KwyYc5XQ.webp" class="case__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">高千穂交易株式会社</h3>
+                                      <p class="case__text"><p>Verkadaパートナー | 高千穂交易がVerkadaの日本での最初の販売パー&#8230;</p>
+ </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/happy-elements/">
+                  <div class="case__img-wrap">
+                    <img width="960" height="560" src="/wp/wp-content/uploads/2023/09/MicrosoftTeams-image-1.jpg" class="case__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">Happy Elements株式会社様</h3>
+                                      <p class="case__text">Cisco Meraki（クラウド管理型ネットワーク）Verkada（クラウド管理型監視カメラシステム） </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/ishiguro/">
+                  <div class="case__img-wrap">
+                    <img width="1280" height="720" src="/wp/wp-content/uploads/2022/10/ishiguro_eyecatch.jpg" class="case__img wp-post-image" alt="ishiguro_eyecatch" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">【インタビュー記事】釣具専門店(株)イシグロのご担当部長に聞きました！</h3>
+                                      <p class="case__text">自社だけでは入手困難な、近隣店舗での大量窃盗や常習万引の情報を、いち早く入手するためにご採用をいただきました。 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/ichikawabiru/">
+                  <div class="case__img-wrap">
+                    <img width="354" height="215" src="/wp/wp-content/uploads/2021/08/354215.jpg" class="case__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">株式会社市川ビル　様</h3>
+                                      <p class="case__text">万引きなどの常習犯や迷惑行為者対策として顔認証システムを導入いただきました。 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/risetsuboushi/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2021/03/dd6c414b05091a8d7e6fbe7b40e2f02a-2.jpg" class="case__img wp-post-image" alt="" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">離設防止システム</h3>
+                                      <p class="case__text">認知症状が強い方の「徘徊対策」としてRFIDを活用したシステムを導入いただきました。 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/teraokaseiko/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_teraoka.jpg" class="case__img wp-post-image" alt="クラウドマネージドネットワーキング導入事例　株式会社 寺岡精工 様" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">株式会社寺岡精工 様</h3>
+                                      <p class="case__text">CiscoMeraki 『MRシリーズ』 CiscoMeraki 『MSシリーズ』 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/huge/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_huge.jpg" class="case__img wp-post-image" alt="クラウドマネージドネットワーキング導入事例　株式会社HUGE 様" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">株式会社HUGE 様</h3>
+                                      <p class="case__text">CiscoMeraki 『MRシリーズ』 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/design_within_reach/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_design_within_reach.jpg" class="case__img wp-post-image" alt="クラウドマネージドネットワーキング導入事例　Design Within Reach 様（小売業）" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">Design Within Reach 様（小売業）</h3>
+                                      <p class="case__text">CiscoMeraki 『MRシリーズ』 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/maxiautohofe/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_maxiautohofe.jpg" class="case__img wp-post-image" alt="クラウドマネージドネットワーキング導入事例　MAXIAutohöfe 様（小売業）" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">MAXIAutohöfe 様（小売業）</h3>
+                                      <p class="case__text">CiscoMeraki 『MRシリーズ』 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/stanford_university/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_stanford_university.jpg" class="case__img wp-post-image" alt="クラウドマネージドネットワーキング導入事例　スタンフォード大学 様（教育機関）" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">スタンフォード大学 様（教育機関）</h3>
+                                      <p class="case__text">CiscoMeraki 『MRシリーズ』 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/hotel_agora_saint_germain/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_hote_-Agora_Saint_Germain.jpg" class="case__img wp-post-image" alt="クラウドマネージドネットワーキング導入事例　Hotel Agora Saint Germain 様（ホテル）" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">Hotel Agora Saint Germain 様（ホテル）</h3>
+                                      <p class="case__text">CiscoMeraki 『MRシリーズ』 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/westfield/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_westfield.jpg" class="case__img wp-post-image" alt="クラウドマネージドネットワーキング導入事例　Westfield 様（小売業）" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">Westfield 様（小売業）</h3>
+                                      <p class="case__text">CiscoMeraki 『MRシリーズ』 CiscoMeraki 『MXシリーズ』 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/mosaic/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_mosaic.jpg" class="case__img wp-post-image" alt="クラウドマネージドネットワーキング導入事例　Mosaic 様（福祉施設）" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">Mosaic 様（福祉施設）</h3>
+                                      <p class="case__text">CiscoMeraki 『MXシリーズ』 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/mightycube/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_mightycard.jpg" class="case__img wp-post-image" alt="アルミ加工導入事例　マイティカード株式会社 様" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">マイティキューブ株式会社 様</h3>
+                                      <p class="case__text">アルミ加工 </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/nakazatomekki/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_nakazatomekki.jpg" class="case__img wp-post-image" alt="サイクロン式ろ過装置フィルスター導入事例　株式会社中里メッキ 様" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">株式会社中里メッキ 様</h3>
+                                      <p class="case__text">サイクロン式ろ過装置FILSTAR（フィルスター） </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/matoba/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_matoba.jpg" class="case__img wp-post-image" alt="油圧式昇降システムMOVOTEC導入事例　株式会社的場電機製作所 様" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">株式会社的場電機製作所 様</h3>
+                                      <p class="case__text">油圧式昇降システムMOVOTEC </p>
+                                    </div>
+                </a>
+              </div>
+                            <div>
+                <a class="case__link" href="https://www.takachiho-kk.co.jp/case/wataru_hasegawa_architect_studio/">
+                  <div class="case__img-wrap">
+                    <img width="330" height="200" src="/wp/wp-content/uploads/2019/10/eyecatch_wataru_hasegawa_architect_studio.jpg" class="case__img wp-post-image" alt="油圧式昇降システムMOVOTEC導入事例　長谷川ワタル建築研究所 様" decoding="async" />                  </div>
+                  <div class="case__detail">
+                    <h3 class="case__title">長谷川ワタル建築研究所 様</h3>
+                                      <p class="case__text">油圧式昇降システムMOVOTEC </p>
+                                    </div>
+                </a>
+              </div>
+                          </div>
+
+            <a class="btn__basic" href="https://www.takachiho-kk.co.jp/case"><span class="btn__basic-inn">一覧へ</span></a>
+          </div>
+        </section>
+        
+        <section class="section company">
+          <div class="section__inn">
+            <h2 class="section__index">
+              <span class="section__index--main">企業情報</span>
+              <span class="libre">Company</span>
+            </h2>
+
+            <ul class="company-contents">
+              <li class="company-contents__item"><a class="company-contents__link" href="https://corp.takachiho-kk.co.jp/" target="_blank"><img class="company-contents__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/bnr_company.png" alt=""></a></li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="section recruit">
+          <div class="section__inn">
+            <h2 class="section__index">
+              <span class="section__index--main">採用情報</span>
+              <span class="libre">Recruit</span>
+            </h2>
+
+            <div class="recruit-block__wrap">
+              <div class="recruit-block">
+                <img class="recruit-block__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_recruit-block01.jpg" alt="">
+                <div class="recruit-block__detail">
+                  <h3 class="recruit-block__index">新卒採用</h3>
+                  <ul class="recruit-block__list">
+                    <li class="recruit-block__list-item"><a class="recruit-block__list-link" href="/recruit/freshers/">新卒者採用ホームページはこちら</a></li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="recruit-block">
+                <img class="recruit-block__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/img_recruit-block02.jpg" alt="">
+                <div class="recruit-block__detail">
+                  <h3 class="recruit-block__index">中途・アルムナイ採用</h3>
+                  <ul class="recruit-block__list">
+                    <li class="recruit-block__list-item"><a class="recruit-block__list-link" href="https://corp.takachiho-kk.co.jp/recruit/mid-career-recruiting/" target="_blank">中途・アルムナイ採用の募集情報はこちら</a>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="section pickup">
+          <div class="section__inn">
+            <h2 class="section__index">
+              <span class="section__index--main">ピックアップ</span>
+              <span class="libre">Pick up</span>
+            </h2>
+
+            <ul class="pickup-list">
+              <li class="pickup-list__item"><a class="pickup-list__link" href="https://www.monotaro.com/s/b-13299%09%8D%82%90%E7%95%E4%8C%F0%88%D5/q-%8D%82%90%E7%95%E4%8C%F0%88%D5/" target="_blank"><img class="pickup-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/bnr_pickup-list05.png" alt=""></a></li>
+              <li class="pickup-list__item"><a class="pickup-list__link" href="https://www.orange-book.com/ja/c/search/result.html?category=&q=%E9%AB%98%E5%8D%83%E7%A9%82%E4%BA%A4%E6%98%93" target="_blank"><img class="pickup-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/bnr_pickup-list08.png" alt=""></a></li>
+              <li class="pickup-list__item"><a class="pickup-list__link" href="https://note.com/takachiho_koheki/" target="_blank"><img class="pickup-list__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/top_img/note_banner.png" alt=""></a></li>
+            </ul>
+          </div>
+        </section>
+      </div>
+
+      <footer id="footer"><div class="footer__inn pc">
+  <div class="footer-group">
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="/prod/">製品情報</a></h3>
+    <ul class="footer-group__list">
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/network/">ネットワーク</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/enterleave/">入退室管理システム</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/ipcamera/">監視カメラシステム</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/cctv/">防犯カメラ・映像解析</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/eas/">防犯タグ・防犯ゲート</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/traffic/tkcloud/">入店カウンター</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/rfid/">RFID</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/mechanical/">機構部品・機能製品</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/electronics/">ケーブル・ハーネス・パワーサプライ・プリント基板</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/semicon/">半導体・電子部品・各種モジュール・ソリューション</a></li>
+    </ul>
+    <!--/ .footer-group__list -->
+  </div>
+  <!--/ .footer-group -->
+  <div class="footer-group">
+    <ul class="footer-group__list" style="margin-top: 41px;">
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/mailing/" target="_blank">メーリングソリューション</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/store_security/emlinx/">店舗向け情報配信サービス</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/efficiency/">リテール業務効率化</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/security/">セキュリティ</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/smartoffice/">スマートオフィス・ビルディング</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/cloud_ipcamera/">クラウド型監視カメラシステム</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/iot/">IoTセンサー</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/support/">サービス＆サポート</a></li>
+    </ul>
+    <!--/ .footer-group__list -->
+  </div>
+  <!--/ .footer-group -->
+  <div class="footer-group">
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="/solution/">ソリューション</a></h3>
+    <ul class="footer-group__list">
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/solution/business/">ビジネスソリューション</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/solution/retail/">リテールソリューション</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/solution/mechanics/">メカニクスソリューション</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/prod/semicon/">エレクトロニクスソリューション</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/case/">導入事例</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/solution/#prod-scene">シーンから探す</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/solution/#prod-app">使用用途から探す</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="/solution/#prod-keyword">キーワードから探す</a></li>
+    </ul>
+    <!--/ .footer-group__list -->
+  </div>
+  <!--/ .footer-group -->
+  <div class="footer-group">
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="https://corp.takachiho-kk.co.jp/" target="_blank">コーポレートサイト</a></h3>
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="https://corp.takachiho-kk.co.jp/recruit/" target="_blank">採用情報</a></h3>
+    <ul class="footer-group__list">
+      <li class="footer-group__list-item"><a class="footer-group__list-link" target="_blank" href="/recruit/freshers/">新卒者採用</a></li>
+      <li class="footer-group__list-item"><a class="footer-group__list-link" href="https://corp.takachiho-kk.co.jp/recruit/mid-career-recruiting/" target="_blank">中途採用・アルムナイ採用</a></li>
+    </ul>
+    <!--/ .footer-group__list -->
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="/news/">お知らせ</a></h3>
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="/event/">イベント情報</a></h3>
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="/column/">コラム</a></h3>
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="https://www.takachiho-kk.co.jp/en/products.html" target="_blank">English</a></h3>
+    <h3 class="footer-group__index"><a class="footer-group__index-link" href="https://corp.takachiho-kk.co.jp/protection/" target="_blank">個人情報保護方針</a></h3>
+  </div>
+  <!--/ .footer-group -->
+</div>
+<!--/ .footer__inn -->
+<div class="footer__inn sp">
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="/prod/">製品情報</a></h3>
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="/solution/">ソリューション</a></h3>
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="https://corp.takachiho-kk.co.jp/" target="_blank">コーポレートサイト</a></h3>
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="https://corp.takachiho-kk.co.jp/recruit/" target="_blank">採用情報</a></h3>
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="/news/">お知らせ</a></h3>
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="/event/">イベント情報</a></h3>
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="/column/">コラム</a></h3>
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="https://www.takachiho-kk.co.jp/en/products.html" target="_blank">English</a></h3>
+  <h3 class="footer-group__index"><a class="footer-group__index-link" href="https://corp.takachiho-kk.co.jp/protection/" target="_blank">個人情報保護方針</a></h3>
+</div>
+<!--/ .footer__inn -->
+
+<p class="footer__copyright">Copyright <span class="year"></span> TAKACHIHO KOHEKI CO., LTD. all rights reserved.</p>
+
+<div class="pagetop">
+  <a class="pagetop__link" href="#"><img class="pagetop__img" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/img/common/btn_pagetop.png" alt=""></a>
+</div>
+</footer>
+            <div id="dialog-cookie">
+          <p class="text">
+            当サイトでは、個人情報保護方針に基づいた上でお客様の当サイト利用状況把握、利便性向上を目的として、クッキー（Cookie）の取得・使用をしています。<br>
+        詳細は、当社の「<a href="/corp/sustainability/action/protection/" target="_blank">個人情報保護方針</a>」をご確認ください。
+          </p>
+          <ul class="nav">
+              <li><a href="/corp/sustainability/action/protection/" target="_blank">個人情報保護方針へ</a></li>
+              <li><a id="cookie-agree" href="#">閉じる</a></li>
+          </ul>
+      </div>
+      <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp/wp-*.php","/wp/wp-admin/*","/wp/wp-content/uploads/*","/wp/wp-content/*","/wp/wp-content/plugins/*","/wp/wp-content/themes/takachiho/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="toc-front-js-extra">
+/* <![CDATA[ */
+var tocplus = {"visibility_show":"\u8868\u793a","visibility_hide":"\u975e\u8868\u793a","width":"100%"};
+//# sourceURL=toc-front-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2411.1" id="toc-front-js"></script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/js/script.js" id="theme.script-js"></script>
+<script type="text/javascript" src="https://www.takachiho-kk.co.jp/wp/wp-content/themes/takachiho/assets/js/news_script.min.js" id="globalnews_script-js"></script>
+</body>
+</html>

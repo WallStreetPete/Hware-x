@@ -1,0 +1,1089 @@
+<!DOCTYPE html>
+
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>首页</title>
+		<meta name="renderer" content="webkit">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="Author" content="larry" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="format-detection" content="telephone=no">
+		<link rel="Shortcut Icon" href="/favicon.ico" />
+		<link rel="stylesheet" href="/static/css/base.css?ver=1.0">
+		<link rel="stylesheet" href="/static/css/index.css?version=2">
+		<link rel="stylesheet" href="/static/layui/css/layui.css">
+		<link rel="stylesheet" href="/static/css/flowChart.css">
+		<link id="layuicss-atalicdncomtcfont_3165962_gu5s0mdo5picss" rel="stylesheet" href="//at.alicdn.com/t/c/font_3165962_gu5s0mdo5pi.css?v=1670395684439" media="all">
+	</head>
+
+	<body class="xy-pc">
+		
+<script type="text/javascript" src="/static/js/jquery-1.12.4.min.js"></script>
+<header>
+    <div class="nav">
+        <div class="logo">
+            <a href="/front/index" class="logo-img">
+                <img src="/static/images/finemadelogo.jpg" alt="" class="layui-hide-xs">
+                <img src="/static/images/logophone.png" alt="" class="show-phone">
+            </a>
+            <div class="logo-text">
+                <div class="logo-text-tips">
+                    股票简称：富满微
+                </div>
+                <div class="logo-text-tips">
+                    股票代码：300671
+                </div>
+            </div>
+        </div>
+        <div class="header-search-box layui-hide-xs">
+            <div class="kszx"><a href="/front/support">快速咨询</a></div>
+            <div class="globalsearch ">
+                <div class="warp cf">
+                    <form id="J_SearchForm" action="/front/sel" method="post">
+                        <input type="text" name="name" value="" id="q" placeholder="搜索产品型号或关键字">
+                        <input type="submit" value="" class="search-btn">
+                    </form>
+                </div>
+            </div>
+            <div class="change-lang">
+                <a href="/front/index"><span class="lang chinese active">中文</span></a>
+                <a href="/frontEn/index"><span class="lang english">English</span></a>
+            </div>
+        </div>
+        <i class="larry-icon larry-zhankaicaidan" id="phone_menu"></i>
+        <ul class="menu_list">
+            <li class="menu_item">
+                <a class="txt" href="/front/index">首页</a>
+            </li>
+            <li class="menu_item">
+                <a class="txt" href="/front/product_list">产品中心</a>
+                <span class="menu_hook" style="width: 104px;"></span>
+            </li>
+            <li class="menu_item">
+                <a class="txt" href="/front/sample">样品申请</a>
+                <span class="menu_hook" style="width: 104px;"></span>
+            </li>
+            <li class="menu_item">
+                <a class="txt" href="/front/support">支持</a>
+                <span class="menu_hook" style="width: 104px;"></span>
+            </li>
+            <li class="menu_item">
+                <a class="txt" href="javascript:void(0)">关于富满</a>
+                <span class="menu_hook" style="width: 120px;"></span>
+                <dl class="sub_list">
+                    <dd>
+                        <a class="txt" href="/front/culture">企业文化</a>
+                    </dd>
+                    <dd>
+                        <a class="txt" href="/front/news">新闻中心</a>
+                    </dd>
+                    <dd>
+                        <a class="txt" href="/front/contact">加入富满</a>
+                    </dd>
+                    <dd>
+                        <a class="txt" href="/front/about">联系我们</a>
+                    </dd>
+                </dl>
+            </li>
+            <li class="phone-list-lang">
+                <div class="change-lang">
+                    <span>语言版本：</span>
+                    <a href="/front/index"><span class="lang chinese active">中文</span></a>
+                    <span>|</span>
+                    <a href="/frontEn/index"><span class="lang english">English</span></a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</header>
+<script>
+    $('#phone_menu').on('click',function(){
+        if($(this).hasClass('larry-zhankaicaidan')){
+            $(this).addClass('larry-shouqicaidan').removeClass('larry-zhankaicaidan');
+            $(this).parent('.nav').addClass('menu-show');
+            $(this).siblings('.menu_list').removeClass('menu_list_fold');
+            $(this).siblings('.menu_list').addClass('menu_list_open');
+        }else{
+            $(this).addClass('larry-zhankaicaidan').removeClass('arry-shouqicaidan');
+            $(this).parent('.nav').removeClass('menu-show');
+            $(this).siblings('.menu_list').removeClass('menu_list_open');
+            $(this).siblings('.menu_list').addClass('menu_list_fold');
+        }
+    })
+</script>
+		<div class="layui-fluid" style="padding: 0;margin: 0px;">
+
+				<style>
+					.pfont{
+						position: absolute;
+						bottom: 260px;
+						left: 0px;
+						right: 0px;
+					}
+					.pfont .pfont-box{
+						width: 660px;
+						height: 72px;
+						margin: 0 auto;
+						position: relative;
+					}
+					.pfont-box .ul{
+						widows: 100%;
+						position: absolute;
+						top: 0px;
+						left: 0px;
+						bottom: 0px;
+						right: 0px;
+						overflow: hidden;
+					}
+					.pfont-box .ul .lifont{
+						display: inline-block;
+						width: 100%;
+						vertical-align: top;
+						font-size: 72px;
+						position: relative;
+						line-height: 72px;
+						color: #fff;
+						overflow: hidden;
+						letter-spacing: 0px;
+						font-family: "Microsoft YaHei";
+						font-weight: 600;
+						letter-spacing: 20px;
+					}
+					.pfont-box .ul .lifont em{
+						display: inline-block !important;
+						/*display: none;*/
+						width: 72px;
+						height: 72px;
+						line-height: 72px;
+						vertical-align: top;
+					}
+					.pfont-box .xin{
+						display: block;
+						width: 72px;
+						font-family: "Microsoft YaHei";
+						height: 72px;
+						font-weight: 600;
+						color: #fff;
+						font-size: 72px;
+						line-height: 72px;
+						vertical-align: top;
+						position: absolute;
+						letter-spacing: 20px;
+						top: 0px;
+						left: 150px;
+						text-align: center;
+
+					}
+				</style>
+				<div class="box">
+					<section class="section-second">
+						<div class="text" style="height: 680px;">
+							<h1 class="top-index-h1">
+								<div class="pfont">
+									<div class="pfont-box">
+										<div class="xin">芯</div>
+										<div class="ul" id="fontul">
+											<div class="lifont">用 <em></em>改变世界</div>
+											<div class="lifont">一 <em></em>联动你我</div>
+											<div class="lifont">创 <em></em>领航未来</div>
+											<div class="lifont">让 <em></em>赞美生活</div>
+										</div>
+									</div>
+								</div>
+							</h1>
+						</div>
+					</section>
+				</div>
+
+			<div class="index-body">
+				<div class="mod-tab-content">
+					<div class="brand-item  pt pc-tab-brand mobile-tab-brand" id="about-con-1">
+						<div class="mod-con clearfix fjj">
+							<div class="brief-text-box">
+								<!-- <h4>富满微是一家集成电路综合方案提供商</h4> -->
+								<p class="desc item-font">富满微是一家集成电路综合方案提供商<br>通过芯片领域的研发，助力智慧生活<br>我们的愿景是：与您携手，创造科技“芯”生活</p>
+							</div>
+							<div class="mission pc-tab-brand" id="about-con-2">
+								<div class="layui-container">
+									<p class="desc">富满微是国内上市公司中鲜有的在集成电路领域集研发、封装、测试、销售为一体的具有先进业态模式的企业。集团公司目前拥有多家全资子公司及分公司，并于2017年7月5日成功登陆资本市场，在深圳证券交易所创业板挂牌上市。 </p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<style>
+						.history-main-box{
+							width: 434px;
+						}
+					</style>
+					<div class="brand-item pc-tab-brand mobile-tab-brand layui-hide-xs" id="about-con-3">
+						<div class="history-item">
+							<div class="history-header">
+								<h2>发展历程</h2>
+								<div class="progress-bar" style="width: 1180px;">
+									<div class="node active" data-year="2024" >
+										<div class="txt">2024</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2021" >
+										<div class="txt">2021</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2020" >
+										<div class="txt">2020</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2018" >
+										<div class="txt">2018</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2017" >
+										<div class="txt">2017</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2015">
+										<div class="txt">2015</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2014">
+										<div class="txt">2014</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2012">
+										<div class="txt">2012</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2010" >
+										<div class="txt">2010</div>
+										<div class="core"></div>
+									</div>
+									<div class="line"></div>
+									<div class="node" data-year="2001" >
+										<div class="txt">2001</div>
+										<div class="core"></div>
+									</div>
+								</div>
+							</div>
+							<div class="history-button">
+								<div class="mod-con">
+									<div class="line-wrap">
+										<div class="line">
+											<div class="focus" style="width: 0%;"></div>
+										</div>
+									</div>
+									<div class="img">
+
+									</div>
+									<div class="both"></div>
+								</div>
+							</div>
+							<div class="history-content" style="height: 426px;">
+								<div class="mod-con">
+									<div class="history-main" style="left: 0px;">
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="xy-phone-brand-item-box">
+						<h2 style="display: block;width: 100vw;">发展历程</h2>
+						<div class="flowChart">
+							<!--左侧轴-->
+							<div class="flowChart-left">
+								<!--虚线-->
+								<div class="dashed"></div>
+							</div>
+							<!--右侧内容-->
+							<div class="flowChart-right">
+								<!--一个节点-->
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check check-danger">
+										2024
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<!--上-->
+										<div class="li"><div class="left">1月</div><div class="right">控股子公司“富羿”成立</div><div class="both"></div></div>
+										<div class="li"><div class="left">5月</div><div class="right">坪山分公司成立</div><div class="both"></div></div>
+										<div class="li"><div class="left">12月</div><div class="right">福田分公司成立</div><div class="both"></div></div>
+									</div>
+								</div>
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check check-success">
+										2021
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">10月</div><div class="right">公司证券简称由“富满电子”变更为“富满微”</div><div class="both"></div></div>
+										<div class="li"><div class="left">12月</div><div class="right">公司2021年创业板向特定对象发行A股股票上市</div><div class="both"></div></div>
+									</div>
+								</div>
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check check-warning">
+										2020
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">1月</div><div class="right">控股子公司“台慧微”成立</div><div class="both"></div></div>
+										<div class="li"><div class="left">6月</div><div class="right">公司首次非公开发行A股股票上市</div><div class="both"></div></div>
+										<div class="li"><div class="left">11月</div><div class="right">公司更名为“富满微电子集团股份有限公司”</div><div class="both"></div></div>
+									</div>
+								</div>
+
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check check-prime">
+										2018
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">10月</div><div class="right">全资子公司“富满合肥”成立</div><div class="both"></div></div>
+									</div>
+								</div>
+
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check">
+										2017
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">7月</div><div class="right">深交所创业板挂牌上市</div><div class="both"></div></div>
+										<div class="li"><div class="left">11月</div><div class="right">控股子公司“凌矽半导体”成立</div><div class="both"></div></div>
+									</div>
+								</div>
+
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check">
+										2015
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">4月</div><div class="right">控股子公司“云矽半导体”成立</div><div class="both"></div></div>
+									</div>
+								</div>
+
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check">
+										2014
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">7月</div><div class="right">富满电子完成股份制改造暨深圳市富满电子集团股份有限公司成立</div><div class="both"></div></div>
+									</div>
+								</div>
+
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check">
+										2012
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">1月</div><div class="right">富满电子有限公司观澜分公司封装测试厂成立</div><div class="both"></div></div>
+										<div class="li"><div class="left">3月</div><div class="right">富满电子全资子公司“鑫恒富”成立</div><div class="both"></div></div>
+										<div class="li"><div class="left">4月</div><div class="right">富满电子全资子公司“富玺香港”成立</div><div class="both"></div></div>
+									</div>
+								</div>
+
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check">
+										2010
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">9月</div><div class="right">富满电子有限公司南山分公司成立</div><div class="both"></div></div>
+									</div>
+								</div>
+
+								<div class="oneNode">
+									<!--左侧小球-->
+									<div class="check">
+										2001
+									</div>
+									<div class="tag-boder">
+										<div class="tag">
+										</div>
+									</div>
+									<!--右侧内容-->
+									<div class="NodeDetail">
+										<div class="li"><div class="left">11月</div><div class="right">富满电子有限公司成立</div><div class="both"></div></div>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- 研究领域 -->
+				<div class="part-3 layui-container">
+					<h3 class="partTwoTitle">研究与开发</h3>
+					<p class="copy-01 partTwoText">
+						富满微电子在深圳、台湾、上海、长沙等地设有多个研发中心，产品和服务遍布全球20多个国家。
+					</p>
+					<div class="resAndDevelp">
+						<div class="resAndDevelp_data">
+							<div class="dataDiv">
+								<h3 class="dataDiv_h3">20年+</h3>
+								<p class="dataDiv_text">技术积累与沉淀</p>
+							</div>
+							<div class="dataDiv">
+								<h3 class="dataDiv_h3">20+</h3>
+								<p class="dataDiv_text">国家和地区</p>
+							</div>
+							<div class="dataDiv">
+								<h3 class="dataDiv_h3">99+</h3>
+								<p class="dataDiv_text">自主知识产权的芯片</p>
+							</div>
+							<div class="dataDiv">
+								<h3 class="dataDiv_h3">100+</h3>
+								<p class="dataDiv_text">专利</p>
+							</div>
+						</div>
+						<div class="resAndDevelp_image">
+							<picture>
+								<img src="/static/images/xingPic.jpg" alt="一芯联动你我">
+							</picture>
+						</div>
+					</div>
+				</div>
+				<!-- 质量为本 -->
+				<div class="part-3 layui-container">
+					<h3 class="partTwoTitle">质量为本</h3>
+					<p class="copy-01 partTwoText">
+						我们始终坚持品质是企业的生命线;
+					</p>
+					<p class="copy-01 partTwoText">
+						我们精细作业、不断进取，我们锻造行业一流产品;
+					</p>
+					<p class="copy-01 partTwoText">
+						我们为客户提供灵活产品配置方案，我们为客户创造价值;
+					</p>
+					<p class="copy-01 partTwoText">
+						我们以智能制造、全面质量管理贯穿生产运营，为合作伙伴提升作业效率;
+					</p>
+						<div class="resAndDevelp_image" style="text-align: center">
+
+								<img src="/static/images/zhiliang.jpg" alt="" style="display: inline-block; max-width: 1000px;height: auto;margin: 0 auto;">
+
+						</div>
+					</div>
+				</div>
+				<!-- 服务领域 -->
+				<div class="part-3 layui-container">
+					<h3 class="partTwoTitle">服务领域</h3>
+					<p class="copy-01 partTwoText">
+						富满产品覆盖手机终端、大数据、物联网、云计算、无人售货及智能LED等多个领域。
+					</p>
+					<div class="mouseOutIn pc-show lineDiv3box">
+						<div class="slide-item">
+							<div class="slide-item-box">
+								<div class="hd">
+									<a href="javascript:;" class="prev prev-bg"></a>
+									<a href="javascript:;" class="next next-bg"></a>
+								</div>
+								<div class="bd slide-item-body">
+									<ul class="clearfix" style="overflow:visible">
+										
+											<li>
+												<a href="/front/product?id=1">
+													<div class="new-img">
+														<img src="/static/images/product9.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">射频系列</p>
+														<p class="new-body-text">低插损、高线性度、小封装的射频前端产品</p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=2">
+													<div class="new-img">
+														<img src="/static/images/product11.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">电子烟系列</p>
+														<p class="new-body-text"></p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=3">
+													<div class="new-img">
+														<img src="/static/images/product1.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">电源管理</p>
+														<p class="new-body-text">低功耗、应用灵活、高效可靠的AC-DC电源产品</p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=4">
+													<div class="new-img">
+														<img src="/static/images/product2.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">LED显示屏系列</p>
+														<p class="new-body-text">提供恒流驱动、行驱动、逻辑控制等LED显示屏解决方案，性能稳定可靠、电流精度高、功耗低等特点，可实现优质的显示效果</p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=5">
+													<div class="new-img">
+														<img src="/static/images/product3.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">LED照明系列</p>
+														<p class="new-body-text"></p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=6">
+													<div class="new-img">
+														<img src="/static/images/product4.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">PD&QC协议系列</p>
+														<p class="new-body-text">高可靠性、高度集成、极简外围的USBPDSource产品，轻松通过PD认证</p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=7">
+													<div class="new-img">
+														<img src="/static/images/product5.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">功率器件类</p>
+														<p class="new-body-text">沟槽型（Trench）和屏蔽栅沟槽（SGT）功率MOSFET产品，具有导通电阻低、开关特性优、可靠性高等特点。产品广泛应用于电池管理系统、负载开关、通信、消费电子等各个领域</p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=8">
+													<div class="new-img">
+														<img src="/static/images/product6.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">锂电保护系列</p>
+														<p class="new-body-text">提供多样性、高精度、高可靠性的锂电池保护方案，专注市场领域涵盖移动通信、智能穿戴、笔记本计算机、电动工具、电动交通工具、电池储能设备等诸多领域</p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=9">
+													<div class="new-img">
+														<img src="/static/images/product7.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">MCU类</p>
+														<p class="new-body-text"></p>
+													</div>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/front/product?id=10">
+													<div class="new-img">
+														<img src="/static/images/product8.jpg" alt="">
+													</div>
+													<div class="new-body">
+														<p class="new-body-title">智能生活</p>
+														<p class="new-body-text"></p>
+													</div>
+												</a>
+											</li>
+										
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<footer>
+				<div class="m-copyright">
+					<div class="layui-container">
+						<p>©2021富满微电子集团股份有限公司版权所有</p>
+						<p><a href="http://beian.miit.gov.cn">粤ICP备2021053785号-1</a></p>
+					</div>
+				</div>
+			</footer>
+		</div>
+		<!-- 加载js文件-->
+		<script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+		<script type="text/javascript" src="/static/js/vidbg.min.js"></script>
+		<script type="text/javascript" src="/static/layui/layui.js"></script>
+		<script type="text/javascript" src="/static/js/jquery.SuperSlide.2.1.1.js"></script>
+		<script>
+			if($('.xy-phone').length>0){
+				let str = '<video id="customer_video" class="video-background" preload="auto" loop playsinline autoplay src="/static/video/index3.mp4" tabindex="-1" muted="muted" x5-video-player-type="h5"></video>';
+				$('.section-second').append(str);
+				document.getElementById('customer_video').play();
+				//必须在微信Weixin JSAPI的WeixinJSBridgeReady才能生效
+				document.addEventListener("WeixinJSBridgeReady", function () {
+					document.getElementById('customer_video').play();
+				}, false);
+				document.addEventListener('touchstart', function() {
+					var video = document.getElementById("ckplayer_a1");
+					video.play();
+				},false);
+				}else{
+				jQuery(function($) {
+					$('.section-second').vidbg({
+						'mp4': '/static/video/index3.mp4',
+					}, {
+						// Options
+						muted: true,
+						loop: true,
+						overlay: true,
+					});
+				});
+			}
+
+            $(document).scroll(function() {
+                var scroH = $(document).scrollTop(); //滚动高度
+                var viewH = $(window).height(); //可见高度
+                var contentH = $(document).height(); //内容高度
+
+                // if (scroH >= 680) { //距离顶部大于680px时
+                //     // $('.logo h1').show();
+                //     $('.logo h2').hide();
+                //     $('.logo h1').removeClass('hide');
+                //     $('.logo h2').addClass('hide');
+                // } else {
+                //     $('.logo h1').hide();
+                //     $('.logo h1').addClass('hide');
+                //     $('.logo h2').removeClass('hide');
+                //     $('.logo h2').show();
+                // }
+            });
+
+            $(function() {
+                var t = 3000;
+                //每隔两秒进行一次滚动
+                var timing = setInterval("info()", t);
+                $("#fontul .lifont").hover(
+                    function() {
+                        clearInterval(timing);
+                    },
+                    function() {
+                        timing = setInterval("info()", t);
+                    }
+                )
+            });
+
+            function info() {
+                //复制第一个li
+                var lia = $("#fontul .lifont:eq(0)").clone();
+                $("#fontul .lifont:eq(0)").animate({
+                    marginTop: "-60px"
+                }, 500, function() {
+                    //对已经消失的li进行删除
+                    $("#fontul .lifont:eq(0)").remove();
+                    //把复制后的li插入到最后
+                    $("#fontul").append(lia);
+                });
+            }
+            //slide box
+            $(".xy-pc .slide-item-box").slide({
+                titCell: ".hd ul",
+                mainCell: ".bd ul",
+                autoPage: true,
+                effect: "leftLoop",
+                autoPlay: true,
+                scroll: 3,
+                vis: 3,
+                delayTime: 700,
+                trigger: "click"
+            })
+			$(".xy-phone .slide-item-box").slide({
+				titCell: ".hd ul",
+				mainCell: ".bd ul",
+				autoPage: true,
+				effect: "leftLoop",
+				autoPlay: true,
+				scroll: 1,
+				vis: 1,
+				delayTime: 700,
+				trigger: "click"
+			})
+
+            document.body.addEventListener('touchstart', function(){ });
+            // 禁用or启用背景滑动  isDiff默认为flase是可以滑动，为true是不可以滑动。
+            var isDiff = false;
+            var overscroll = function(el){
+                el.addEventListener('touchstart', function(){
+                    var top = el.scrollTop;
+                    var totalScroll = el.scrollHeight;
+                    var currentScroll = top + el.offsetHeight;
+                    if(top === 0) {
+                        el.scrollTop = 1;
+                    }else if(currentScroll === totalScroll){
+                        el.scrollTop = top - 1;
+                    }
+                });
+                el.addEventListener('touchmove', function(evt){
+                    if(el.offsetHeight < el.scrollHeight){
+                        evt._isScroller = true;
+                    }
+                });
+            }
+            document.body.addEventListener('touchmove', function(evt) {
+                if(isDiff && !evt._isScroller){
+                    evt.preventDefault();
+                }
+            }, {passive: false});
+
+            function a(){
+                var minX = {number:999999,object:null};
+                $('.history-main-box').each(function (){
+                    if(minX.number > Math.abs( $(this).offset().left -$('.history-content .mod-con').offset().left)){
+                        minX.number =  Math.abs( $(this).offset().left -$('.history-content .mod-con').offset().left) ;
+                        minX.object = this;
+                    }
+                });
+                $('.progress-bar .node').each(function (index){
+                    if($(this).data('year') == $(minX.object).attr('year')){
+                        $('.progress-bar .node').removeClass('active')
+                        $(this).addClass('active')
+                    }
+                });
+
+
+                var bi = (Math.abs($('.history-main').css('left').split('px')[0])/( ($('.history-main-box').width()+$('.history-main-box').css('margin-right').split('p')[0]*1) * ($('.history-main-box').length - 1  )  ) );
+
+                $('.history-button .focus').css('width',bi*100+'%');
+            }
+
+            $('.mod-con .history-main').mousedown(function(e) {
+                var positionDiv = $(this).offset();
+                var distenceX = e.pageX;
+                var startX = $('.mod-con .history-main')[0].style.left.split('px')[0]*1;
+                $(document).mousemove(function(e) {
+                    var x =  startX+(e.pageX - distenceX);
+                    if(x>0){
+                        x = 0;
+                    }
+                    if(x<-( ($('.history-main-box').width()+$('.history-main-box').css('margin-right').split('p')[0]*1)    * ($('.history-main-box').length - 1)  ) ){
+                        x = -( ($('.history-main-box').width()+$('.history-main-box').css('margin-right').split('p')[0]*1) * ($('.history-main-box').length - 1  )  );
+                    }
+                    $('.mod-con .history-main').css({
+                        'left': x + 'px',
+                    });
+                    a();
+                });
+
+                $(document).mouseup(function() {
+                    $(document).off('mousemove');
+                });
+            });
+
+            $('.mod-con .history-main')[0].ontouchstart = function(e) {
+
+                var positionDiv = $(this).offset();
+                var distenceX = e.touches[0].pageX;
+                var startX = $('.mod-con .history-main')[0].style.left.split('px')[0]*1;
+                $(document)[0].ontouchmove = function(e) {
+                    var x =  startX+(e.touches[0].pageX - distenceX);
+                    if(x>0){
+                        x = 0;
+                    }
+                    if(x<-( ($('.history-main-box').width()+$('.history-main-box').css('margin-right').split('p')[0]*1)    * ($('.history-main-box').length - 1)  ) ){
+                        x = -( ($('.history-main-box').width()+$('.history-main-box').css('margin-right').split('p')[0]*1) * ($('.history-main-box').length - 1  )  );
+                    }
+                    $('.mod-con .history-main').css({
+                        'left': x + 'px',
+                    });
+                    a();
+                }
+
+                $(document)[0].ontouchend = function() {
+                    $(document)[0].ontouchmove = function (){};
+                }
+            }
+
+
+
+            function activeHistory(key){
+                var yearEle = $('[year="'+key+'"]');
+
+                var left = 0;
+
+                if (yearEle.offset()) {
+                    let curretYearOffset = $('[year="'+ 2024 +'"]').offset() ? $('[year="'+ 2024 +'"]').offset().left :  $('[year=2024]').offset().left;
+                    left = $('[year="'+key+'"]').offset().left - curretYearOffset;
+                }
+
+                $('.history-main').css({'left':'-'+left+'px'});
+
+                $('.progress-bar .node').each(function (index){
+                    if($(this).data('year') == key){
+                        $('.progress-bar .node').removeClass('active')
+                        $(this).addClass('active')
+                    }
+                });
+                a();
+            }
+
+            var lang = window.location.pathname.match(/^\/(zh\-(cn|hk)|en\-us)/);
+            lang = lang ? lang[1] : 'zh-cn';
+            var montext = '月';
+            if(lang == 'en-us'){
+                montext = '';
+            }else{
+                montext = '月';
+            }
+
+
+            let histData = {
+                "zh-cn": {
+					"2024":[
+						{
+							"month":"1",
+							"text":"控股子公司“富羿”成立"
+						},
+						{
+							"month":"5",
+							"text":"坪山分公司成立"
+						},
+						{
+							"month":"12",
+							"text":"福田分公司成立"
+						},
+					],
+                    "2021":[
+                        {
+                            "month":"10",
+                            "text":"公司证券简称由“富满电子”变更为“富满微”"
+                        },
+                        {
+                            "month":"12",
+                            "text":"公司2021年创业板向特定对象发行A股股票上市"
+                        },
+                    ],
+                    "2020":[
+                        {
+                            "month":"1",
+                            "text":"控股子公司“台慧微”成立"
+                        },
+                        {
+                            "month":"3",
+                            "text":"控股子公司“佳满鑫”成立"
+                        },
+                        {
+                            "month":"6",
+                            "text":"公司首次非公开发行A股股票上市"
+                        },
+                        {
+                            "month":"11",
+                            "text":"公司更名为“富满微电子集团股份有限公司”"
+                        }
+                    ],
+                    "2018":[
+                        {
+                            "month":"10",
+                            "text":"全资子公司“富满合肥”成立"
+                        },
+
+                    ],
+                    "2017":[
+                        {
+                            "month":"7",
+                            "text":"深交所创业板挂牌上市"
+                        },
+                        {
+                            "month":"11",
+                            "text":"控股子公司“凌矽半导体”成立"
+                        },
+                    ],
+                    "2015":[
+                        {
+                            "month":"4",
+                            "text":"控股子公司“云矽半导体”成立"
+                        },
+                    ],
+                    "2014":[
+                        {
+                            "month":"7",
+                            "text":"富满电子完成股份制改造暨深圳市富满电子集团股份有限公司成立"
+                        }
+                    ],
+                    "2012":[
+                        {
+                            "month":"1",
+                            "text":"富满电子有限公司观澜分公司封装测试厂成立"
+                        },
+                        {
+                            "month":"3",
+                            "text":"富满电子全资子公司“鑫恒富”成立"
+                        }
+                        ,
+                        {
+                            "month":"4",
+                            "text":"富满电子全资子公司“富玺香港”成立"
+                        }
+                    ],
+                    "2010":[
+                        {
+                            "month":"9",
+                            "text":"富满电子有限公司南山分公司成立"
+                        }
+                    ],
+                    "2001":[
+                        {
+                            "month":"11",
+                            "text":"富满电子有限公司成立"
+                        }
+                    ]
+                }
+
+            }
+
+            for(var k in histData[lang]){
+                var html = '<div class="history-main-box" year="'+k+'">';
+                html += '<div class="history-title">'+k+'</div>';
+                for(var key in histData[lang][k]){
+                    html += '<div class="li"><div class="left">'+histData[lang][k][key].month+montext+'</div><div class="right">'+histData[lang][k][key].text+'</div><div class="both"></div></div>';
+                }
+                html += '</div>';
+                $('.history-main').prepend(html);
+            }
+
+            activeHistory(2022);
+
+
+
+            $('.history-button img').click(function (){
+
+                var minX = {number:999999,object:null};
+
+                $('.history-main-box').each(function (){
+                    if(minX.number > Math.abs( $(this).offset().left -$('.history-content .mod-con').offset().left)){
+                        minX.number =  Math.abs( $(this).offset().left -$('.history-content .mod-con').offset().left) ;
+                        minX.object = this;
+                    }
+                });
+                var objI = 0;
+                if($(this).data('direction') == 'left'){
+                    objI = $(minX.object).index()*1-1;
+                }else{
+                    objI = $(minX.object).index()*1+1;
+                }
+
+                if($('.history-main-box').eq(objI)[0]){
+                    activeHistory($('.history-main-box').eq(objI).attr('year'));
+                }
+            });
+
+
+            $('.progress-bar .node').each(function (index){
+                $(this).attr('index',index)
+                $(this).click(function (){
+                    activeHistory($(this).data('year'))
+                });
+            })
+
+            var historyHarr = [];
+            function historyMinHeightFun(){
+                setTimeout(function(){
+                    historyHarr = [];
+                    $('.history-main-box').each(function(){
+                        historyHarr.push($(this).height());
+                    })
+                    var maxHeight = Math.max.apply(null, historyHarr);
+                    $('.history-content').css('height',maxHeight+15+'px');
+                },100);
+            }
+            historyMinHeightFun();
+
+
+            $(window).resize(function () {
+                historyMinHeightFun();
+            })
+
+
+            $('.framework-box .list-ul .li').on('click',function(){
+                $('.framework-box .list-ul .li').removeClass('active-li');
+                $('.framework-box .li-mess-box .mess-text').removeClass('active-mess');
+                $(this).addClass('active-li');
+                $('.framework-box .li-mess-box .mess-text').eq($(this).index()).addClass('active-mess');
+            })
+
+            $('.team-pop .pop-box .close').on('click',function(){
+                $('.team-pop').hide();
+                isDiff = false;
+            })
+
+		</script>
+	</body>
+
+</html>

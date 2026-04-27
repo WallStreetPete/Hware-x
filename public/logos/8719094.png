@@ -1,0 +1,743 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="RF머트리얼즈㈜">
+<meta name="keywords" content="통신, 국방, 레이져 등 모든 산업 분야에  세라믹, 금속가공, 도금, 메탈라이징, 브레이징 모든 process에서 직접 제조" />
+<meta name="description" content="통신, 국방, 레이져 등 모든 산업 분야에  세라믹, 금속가공, 도금, 메탈라이징, 브레이징 모든 process에서 직접 제조" />
+<meta property="og:description" content="통신, 국방, 레이져 등 모든 산업 분야에  세라믹, 금속가공, 도금, 메탈라이징, 브레이징 모든 process에서 직접 제조">
+
+<meta name="fb:card" content="summary">
+<meta name="fb:title" content="RF머트리얼즈㈜">
+<meta name="fb:description" content="통신, 국방, 레이져 등 모든 산업 분야에  세라믹, 금속가공, 도금, 메탈라이징, 브레이징 모든 process에서 직접 제조">
+<meta name="fb:domain" content="RF머트리얼즈㈜">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="RF머트리얼즈㈜">
+<meta name="twitter:description" content="통신, 국방, 레이져 등 모든 산업 분야에  세라믹, 금속가공, 도금, 메탈라이징, 브레이징 모든 process에서 직접 제조">
+<meta name="twitter:domain" content="RF머트리얼즈㈜">
+<meta property="og:image" content="https://rf-materials.com/theme/responsive_rfmaterials/include/img/sns_logo.png">
+<meta property="og:image:width" content="199">
+<meta property="og:image:height" content="104">
+<meta name="fb:image" content="https://rf-materials.com/theme/responsive_rfmaterials/include/img/sns_logo.png">
+<meta name="twitter:image" content="https://rf-materials.com/theme/responsive_rfmaterials/include/img/sns_logo.png">
+<meta property="og:url" content="http://rf-materials.com/">
+<link rel="canonical" href="http://rf-materials.com/">
+<link rel="icon" href="data:;base64,iVBORw0KGgo=">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<title>RF머트리얼즈㈜</title>
+<link rel="stylesheet" href="https://rf-materials.com/theme/responsive_rfmaterials/css/default.css?ver=191202">
+<link rel="stylesheet" href="https://rf-materials.com/js/font-awesome/css/font-awesome.min.css?ver=191202">
+<link rel="stylesheet" href="https://rf-materials.com/theme/responsive_rfmaterials/css/aos.css?ver=191202">
+<link rel="stylesheet" href="https://rf-materials.com/theme/responsive_rfmaterials/include/common.css?ver=191202">
+<link rel="stylesheet" href="https://rf-materials.com/theme/responsive_rfmaterials/include/source/mobile_navi.css?ver=191202">
+<!--[if lte IE 8]>
+<script src="https://rf-materials.com/js/html5.js"></script>
+<![endif]-->
+<script>
+// 자바스크립트에서 사용하는 전역변수 선언
+var g5_url       = "https://rf-materials.com";
+var g5_bbs_url   = "https://rf-materials.com/bbs";
+var g5_is_member = "";
+var g5_is_admin  = "";
+var g5_is_mobile = "";
+var g5_bo_table  = "";
+var g5_sca       = "";
+var g5_editor    = "";
+var g5_cookie_domain = "";
+var g5_theme_shop_url = "G5_THEME_SHOP_URL";
+var g5_shop_url = "G5_SHOP_URL";
+</script>
+
+<script type="text/javascript" >
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-182519844-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-P4BW7HV');</script>
+
+<!-- End Google Tag Manager -->
+<script src="https://rf-materials.com/js/jquery-1.12.4.min.js?ver=191202"></script>
+<script src="https://rf-materials.com/js/jquery-migrate-1.4.1.min.js?ver=191202"></script>
+<script src="https://rf-materials.com/js/common.js?ver=191202"></script>
+<script src="https://rf-materials.com/js/wrest.js?ver=191202"></script>
+<script src="https://rf-materials.com/js/placeholders.min.js?ver=191202"></script>
+</head>
+<body>
+	<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-P4BW7HV
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+<!-- 상단 시작 { -->
+<div id="total_wrap">
+	<div id="wrap">
+
+		<div id="wrap_header">
+			<script type="text/javascript">
+$("document").ready(function () {
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 0) {
+			$('.header_t').addClass("f-nav");
+			$('.header_t').removeAttr( 'style' );
+		} else {
+			$('.header_t').removeClass('f-nav');
+			$('.header_t').removeAttr( 'style' );
+		}
+		var sub_leftojb = $('.header_t').offset();
+		var sub_left_hei = $('.header_t').height();
+		var sub_y = parseInt(sub_leftojb.top) + parseInt(sub_left_hei);
+	});
+
+});
+</script>
+
+<div class="pushy pushy-right pushy_white">
+	
+	<div class="pushy_top">
+		<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/f_logo.svg" alt=""></figure>
+		<div class="pushy_close"><i class="xi-close"></i></div>
+	</div>
+	
+	<nav>
+		<ul>
+							<li class="m_sub m_sub01"><a href="https://rf-materials.com/page/11" ><span class="txt_st1 bold blue2">회사소개</span></a>
+									<ul class="m_sub_sub"><!--sub1 -->
+												<li><a href="https://rf-materials.com/page/11#section1" class="txt_st3 med gray" >인사말</a></li>
+												<li><a href="https://rf-materials.com/page/11#section2" class="txt_st3 med gray" >조직도</a></li>
+												<li><a href="https://rf-materials.com/page/11#section3" class="txt_st3 med gray" >연혁</a></li>
+												<li><a href="https://rf-materials.com/page/11#section4" class="txt_st3 med gray" >ESG방침경영</a></li>
+											</ul>
+									</li>
+							<li class="m_sub m_sub02"><a href="https://rf-materials.com/page/21" ><span class="txt_st1 bold blue2">제품소개</span></a>
+									<ul class="m_sub_sub"><!--sub1 -->
+												<li><a href="https://rf-materials.com/page/21" class="txt_st3 med gray" >PACKAGES</a></li>
+												<li><a href="https://rf-materials.com/page/22" class="txt_st3 med gray" >CERAMICS</a></li>
+												<li><a href="https://rf-materials.com/page/23" class="txt_st3 med gray" >레이져모듈</a></li>
+											</ul>
+									</li>
+							<li class="m_sub m_sub03"><a href="https://rf-materials.com/page/31" ><span class="txt_st1 bold blue2">보유기술</span></a>
+									<ul class="m_sub_sub"><!--sub1 -->
+												<li><a href="https://rf-materials.com/page/31" class="txt_st3 med gray" >핵심기술</a></li>
+												<li><a href="https://rf-materials.com/page/33" class="txt_st3 med gray" >기술인증 및 특허</a></li>
+											</ul>
+									</li>
+							<li class="m_sub m_sub04"><a href="https://rf-materials.com/41" ><span class="txt_st1 bold blue2">투자정보</span></a>
+									<ul class="m_sub_sub"><!--sub1 -->
+												<li><a href="https://rf-materials.com/41" class="txt_st3 med gray" >회사소식 및  <br>투자정보</a></li>
+											</ul>
+									</li>
+							<li class="m_sub m_sub05"><a href="https://rf-materials.com/page/51" ><span class="txt_st1 bold blue2">인재채용</span></a>
+									<ul class="m_sub_sub"><!--sub1 -->
+												<li><a href="https://rf-materials.com/page/51" class="txt_st3 med gray" >인재채용</a></li>
+												<li><a href="https://rf-materials.com/page/52" class="txt_st3 med gray" >인사제도</a></li>
+												<li><a href="https://rf-materials.com/page/53" class="txt_st3 med gray" >채용안내</a></li>
+											</ul>
+									</li>
+							<li class="m_sub m_sub06"><a href="https://rf-materials.com/page/61" ><span class="txt_st1 bold blue2">Contact Us</span></a>
+									<ul class="m_sub_sub"><!--sub1 -->
+												<li><a href="https://rf-materials.com/page/61" class="txt_st3 med gray" >해외 대리점</a></li>
+												<li><a href="https://rf-materials.com/page/62" class="txt_st3 med gray" >오시는 길</a></li>
+												<li><a href="https://rf-materials.com/63" class="txt_st3 med gray" >자료실</a></li>
+												<li><a href="https://rf-materials.com/64/write" class="txt_st3 med gray" >문의</a></li>
+											</ul>
+									</li>
+					</ul>
+	</nav>
+
+	<ul class="mo_lang">
+		<li><a href="https://rf-materials.com" class="on">KOR</a></li>
+		<li><a href="https://rf-materials.com/en/">ENG</a></li>
+	</ul>
+</div><header class="header_t" id="header_t_id">
+	<div class="hd_lt">
+		<div class="header_logo">
+			<a href="https://rf-materials.com">
+				<img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/top_logo.svg" alt="" class="top_logo">
+				<img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/f_logo.svg" alt="" class="fnav_logo">
+			</a>
+		</div>
+	</div>
+	<div class="hd_rt">
+		<div class="header_gnb_bg">
+						
+<script>
+$(function(){
+  })
+</script>
+  <div id="all_nav">
+    <ul class="nav_ul">
+          <li class="txt_st1 med"><a href="https://rf-materials.com/page/11" >회사소개</a>
+                <ul class="sub">
+                    <li><a href="https://rf-materials.com/page/11#section1" >인사말</a></li>
+                    <li><a href="https://rf-materials.com/page/11#section2" >조직도</a></li>
+                    <li><a href="https://rf-materials.com/page/11#section3" >연혁</a></li>
+                    <li><a href="https://rf-materials.com/page/11#section4" >ESG방침경영</a></li>
+                  </ul>
+              </li>
+          <li class="txt_st1 med"><a href="https://rf-materials.com/page/21" >제품소개</a>
+                <ul class="sub">
+                    <li><a href="https://rf-materials.com/page/21" >PACKAGES</a></li>
+                    <li><a href="https://rf-materials.com/page/22" >CERAMICS</a></li>
+                    <li><a href="https://rf-materials.com/page/23" >레이져모듈</a></li>
+                  </ul>
+              </li>
+          <li class="txt_st1 med"><a href="https://rf-materials.com/page/31" >보유기술</a>
+                <ul class="sub">
+                    <li><a href="https://rf-materials.com/page/31" >핵심기술</a></li>
+                    <li><a href="https://rf-materials.com/page/33" >기술인증 및 특허</a></li>
+                  </ul>
+              </li>
+          <li class="txt_st1 med"><a href="https://rf-materials.com/41" >투자정보</a>
+                <ul class="sub">
+                    <li><a href="https://rf-materials.com/41" >회사소식 및  <br>투자정보</a></li>
+                  </ul>
+              </li>
+          <li class="txt_st1 med"><a href="https://rf-materials.com/page/51" >인재채용</a>
+                <ul class="sub">
+                    <li><a href="https://rf-materials.com/page/51" >인재채용</a></li>
+                    <li><a href="https://rf-materials.com/page/52" >인사제도</a></li>
+                    <li><a href="https://rf-materials.com/page/53" >채용안내</a></li>
+                  </ul>
+              </li>
+          <li class="txt_st1 med"><a href="https://rf-materials.com/page/61" >Contact Us</a>
+                <ul class="sub">
+                    <li><a href="https://rf-materials.com/page/61" >해외 대리점</a></li>
+                    <li><a href="https://rf-materials.com/page/62" >오시는 길</a></li>
+                    <li><a href="https://rf-materials.com/63" >자료실</a></li>
+                    <li><a href="https://rf-materials.com/64/write" >문의</a></li>
+                  </ul>
+              </li>
+        </ul>
+  </div>
+  		</div> 
+		<div class="header_lang">
+			<a href="https://rf-materials.com" class="on">KR</a>
+			<a href="https://rf-materials.com/en/">EN</a>
+		</div>
+		<div class="mo_nav" role="navigation">
+			<button type="button" class="navbar-toggle collapsed menu-btn " data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+				<span class="icon-bar top-bar"></span>
+				<span class="icon-bar middle-bar"></span>
+				<span class="icon-bar bottom-bar"></span>
+			</button>
+		</div>
+	</div>
+</header>
+<div class="site-overlay"></div>
+<script src="https://rf-materials.com/theme/responsive_rfmaterials/js/pushy.js"></script>		</div><!-- wrap_header end -->
+
+		<div id="container_skip"></div>
+<!-- 팝업레이어 시작 { -->
+<div id="hd_pop">
+    <h2>팝업레이어 알림</h2>
+
+<span class="sound_only">팝업레이어 알림이 없습니다.</span></div>
+
+<script>
+$(function() {
+    $(".hd_pops_reject").click(function() {
+        var id = $(this).attr('class').split(' ');
+        var ck_name = id[1];
+        var exp_time = parseInt(id[2]);
+        $("#"+id[1]).css("display", "none");
+        set_cookie(ck_name, 1, exp_time, g5_cookie_domain);
+    });
+    $('.hd_pops_close').click(function() {
+        var idb = $(this).attr('class').split(' ');
+        $('#'+idb[1]).css('display','none');
+    });
+    $("#hd").css("z-index", 1000);
+});
+</script>
+<!-- } 팝업레이어 끝 --><script src="https://rf-materials.com/theme/responsive_rfmaterials/js/aos.js"></script>
+<link rel="stylesheet" type="text/css" href="https://rf-materials.com/css/jquery.fullPage.css">
+<script src="https://rf-materials.com/js/jquery.fullPage.js"></script>
+
+<style>
+
+</style>
+<!-- 
+<ul id="m_menu">
+	<li data-menuanchor="sec1" class="active"><a href="#sec1">SECTION01</a></li>
+	<li data-menuanchor="sec2"><a href="#sec2">SECTION02</a></li>
+	<li data-menuanchor="sec3"><a href="#sec3">SECTION03</a></li>
+	<li data-menuanchor="sec4"><a href="#sec4">SECTION04</a></li>
+</ul>
+ -->
+
+
+<div id="fullpage">
+	<div class="section sec1">
+		<link rel="stylesheet" href="https://rf-materials.com/theme/responsive_rfmaterials/skin/latest/slide_basic_01/swiper.css">
+<style>
+.swiper-container {position: relative; width: 100%; height: 100%;}
+.swiper-slide {overflow: hidden;}
+.swiper-slide img {max-width:100%; width:100%; height:auto;}
+.swiper-slide .slide_txt {margin: 0 auto; display: flex; justify-content: center; flex-direction: column; height: 100%; color: #fff;}
+.swiper-slide .slide_txt h3 {font-size: 70px; font-weight: 300; line-height: 1.1428;}
+.swiper-slide .slide_txt .txt_st1 {margin:22px 0 50px; line-height: 1.8;}
+
+/* 양쪽 화살표 이미지 변경하기*/
+.swiper-button-prev, .swiper-button-next {width: 38px; height: 71px; background-size: cover; top: 53%;}
+.swiper-button-prev, .swiper-container-rtl .swiper-button-next {background-image: url(https://rf-materials.com/theme/responsive_rfmaterials/skin/latest/slide_basic_01/slide-prev.png) !important; left: 3.5% !important;}
+.swiper-button-next, .swiper-container-rtl .swiper-button-prev {background-image: url(https://rf-materials.com/theme/responsive_rfmaterials/skin/latest/slide_basic_01/slide-next.png) !important; right: 3.5% !important;}
+/* Swiper 화살표 끝*/
+
+/* pagination 커스텀 시작*/
+.swiper-pagination-bullet {position: relative; width: 10px; height: 10px; text-align: center; line-height: 20px; font-size: 12px; color:#000 !important; opacity: 1; background: rgba(255,255,255,0.7);}
+.swiper-pagination-bullet:before {position: absolute; left:50%; top:50%; transform:translate(-50%, -50%); content:''; width: 0; height: 0; border-radius:100%; border:1px solid #fff; opacity: 0; visibility:hidden; transition:.3s ease all;}
+.swiper-pagination-bullet-active {background: #fff;}
+.swiper-pagination-bullet-active:before {width: 45px; height: 45px; opacity: 1; visibility:visible;}
+/* pagination 커스텀 끝*/
+
+.line_ani {position: absolute; left: 15.4%; bottom: 0;  z-index: 10; overflow: hidden;}
+.line_ani .dot {width: 4px; height: 4px; border-radius:100%; background-color: #fff;}
+.line_ani .line {margin-left: 1px; width: 2px; height: 150px; margin-top: 4px; background-color: rgba(255,255,255,0.5); overflow: hidden;}
+.line_ani .line:before {display: inline-block; content:''; width: 2px; height: 50px; background-color: #fff; animation: lineAni 1.5s infinite;}
+@keyframes lineAni {
+	0% {transform:translateY(-300%);}
+	100% {transform:translateY(300%);}
+}
+
+@media(max-width: 1600px){
+	.swiper-button-prev, .swiper-container-rtl .swiper-button-next {left: 0 !important;}
+	.swiper-button-next, .swiper-container-rtl .swiper-button-prev {right: 0 !important;}
+	.swiper-button-prev, .swiper-button-next {width: 28px; height: 50px;}
+}
+@media(max-width: 1080px){
+	.swiper-button-prev, .swiper-button-next {display: none;}
+	.swiper-slide .slide_txt h3 {font-size: 58px;}
+	.swiper-pagination-bullet {width: 8px; height: 8px;}
+	.swiper-pagination-bullet-active:before {width: 40px; height: 40px;}
+	.swiper-slide .slide_txt .txt_st1 {width: 85%;}
+	.swiper-slide .slide_txt .txt_st1 br {display: none;}
+}
+@media(max-width: 768px){
+	.swiper-slide .slide_txt h3 {font-size: 46px;}
+	.swiper-pagination-bullet {width: 6px; height: 6px;}
+	.swiper-pagination-bullet-active:before {width: 35px; height: 35px;}
+	.line_ani .line {height: 110px;}
+}
+@media(max-width: 500px){
+	.swiper-slide .slide_txt h3 {font-size: 34px;}
+	.swiper-pagination-bullet {width: 4px; height: 4px;}
+	.swiper-pagination-bullet-active:before {width: 30px; height: 30px;}
+}
+
+</style>
+
+<div class="swiper-container">
+	<div class="swiper-wrapper">
+				
+		
+		<div class="swiper-slide" style="background:url('https://rf-materials.com/data/file/main_img/1794428356_r5asCM0L_6394f023ae0919ed455f549f98b1f0b6eaa908af.jpg') no-repeat top center;background-size:cover;width:100%;height:100%;">
+			<div class="slide_txt n_inner">
+				<h3 data-aos="fade-right">
+					<b>Make it Hermetic!<br />
+Make it Reliable!</b>
+				</h3>
+				<p data-aos="fade-right" data-aos-delay="150" class="txt_st1 med">알에프머트리얼즈㈜는 RF(Radio Frequency)산업 외 광통신, 레이저, 국방, 우주 항공, 자동차 등<br />
+여러 다양한 산업에서 필요로 하는 전문화된 Hermetic Package와 Solution을<br />
+제공하고 있는 부품소재 전문기업입니다.</p>
+			</div>
+		</div>
+		
+		
+		<div class="swiper-slide" style="background:url('https://rf-materials.com/data/file/main_img/1794428356_yADrxEa7_8912338bec9aa89f49df3dc8de5a11fbba4dab7d.jpg') no-repeat top center;background-size:cover;width:100%;height:100%;">
+			<div class="slide_txt n_inner">
+				<h3 data-aos="fade-right">
+					<b>Make it Hermetic!<br />
+Make it Reliable!</b>
+				</h3>
+				<p data-aos="fade-right" data-aos-delay="150" class="txt_st1 med">알에프머트리얼즈㈜는 RF(Radio Frequency)산업 외 광통신, 레이저, 국방, 우주 항공, 자동차 등 <br />
+여러 다양한 산업에서 필요로 하는 전문화된 Hermetic Package와 Solution을<br />
+ 제공하고 있는 부품소재 전문기업입니다.</p>
+			</div>
+		</div>
+		
+		
+		<div class="swiper-slide" style="background:url('https://rf-materials.com/data/file/main_img/1794428356_YpL7GKNk_779a29635b0169cdefa18993a2ce46dfd4877cb1.jpg') no-repeat top center;background-size:cover;width:100%;height:100%;">
+			<div class="slide_txt n_inner">
+				<h3 data-aos="fade-right">
+					<b>Make it Hermetic!<br />
+Make it Reliable!</b>
+				</h3>
+				<p data-aos="fade-right" data-aos-delay="150" class="txt_st1 med">알에프머트리얼즈㈜는 RF(Radio Frequency)산업 외 광통신, 레이저, 국방, 우주 항공, 자동차 등<br />
+여러 다양한 산업에서 필요로 하는 전문화된 Hermetic Package와 Solution을<br />
+제공하고 있는 부품소재 전문기업입니다.</p>
+			</div>
+		</div>
+			</div>
+	<div class="swiper-pagination n_inner" ></div>
+	<div class="swiper-button-prev" ></div>
+	<div class="swiper-button-next"></div>
+	<div class="line_ani">
+		<div class="dot"></div>
+		<div class="line"></div>
+	</div>
+</div>
+
+<!-- Swiper JS -->
+<script src="https://rf-materials.com/theme/responsive_rfmaterials/skin/latest/slide_basic_01/swiper.min.js"></script>
+<!-- Include plugin after Swiper -->
+<script>
+	/* ========
+	Debugger plugin, simple demo plugin to console.log some of callbacks
+	======== */
+	var myPlugin = {
+		name: 'debugger',
+		params: {
+			debugger: false,
+		},
+		on: {
+			init: function () {
+				if (!this.params.debugger) return;
+				console.log('init');
+			},
+			click: function (e) {
+				if (!this.params.debugger) return;
+				console.log('click');
+			},
+			tap: function (e) {
+				if (!this.params.debugger) return;
+				console.log('tap');
+			},
+			doubleTap: function (e) {
+				if (!this.params.debugger) return;
+				console.log('doubleTap');
+			},
+			sliderMove: function (e) {
+				if (!this.params.debugger) return;
+				console.log('sliderMove');
+			},
+			slideChange: function () {
+				if (!this.params.debugger) return;
+				console.log('slideChange', this.previousIndex, '->', this.activeIndex);
+			},
+			slideChangeTransitionStart: function () {
+				if (!this.params.debugger) return;
+				console.log('slideChangeTransitionStart');
+			},
+			slideChangeTransitionEnd: function () {
+				if (!this.params.debugger) return;
+				console.log('slideChangeTransitionEnd');
+			},
+			transitionStart: function () {
+				if (!this.params.debugger) return;
+				console.log('transitionStart');
+			},
+			transitionEnd: function () {
+				if (!this.params.debugger) return;
+				console.log('transitionEnd');
+			},
+			fromEdge: function () {
+				if (!this.params.debugger) return;
+				console.log('fromEdge');
+			},
+			reachBeginning: function () {
+				if (!this.params.debugger) return;
+				console.log('reachBeginning');
+			},
+			reachEnd: function () {
+				if (!this.params.debugger) return;
+				console.log('reachEnd');
+			},
+		},
+	};
+</script>
+
+<script>
+	// Install Plugin To Swiper
+	//Swiper.use(myPlugin);
+
+	// Init Swiper
+	var mswiper = new Swiper('.swiper-container', {
+		slidesPerView: 1,							// 동시에 보여줄 슬라이드 갯수
+    	slidesPerGroup: 1,						// 그룹으로 묶을 갯수, Sideperview 와 갯수와 똑같이할때 추천
+		effect: 'slide',							// 효과 바꾸기 "slide", "fade", "cube", "coverflow", "flip"
+		loop: true,										// 슬라이드 연속시 true, 비연속시 false
+		speed:1000,
+		autoplay: {		//slide auto
+			delay: 8000,
+			disableOnInteraction: false
+		},
+		pagination: {
+			el: '.swiper-pagination',
+			clickable: true,
+		},
+		navigation: {
+			nextEl: '.swiper-button-next',	// 이전 버튼 클래스명
+			prevEl: '.swiper-button-prev',	// 이전 버튼 클래스명
+		},
+		on: {
+			slideChangeTransitionStart: function () {
+				$('.slide_txt h3').hide(0);
+				$('.slide_txt h3').removeClass('aos-init').removeClass('aos-animate');
+				$('.slide_txt p').hide(0);
+				$('.slide_txt p').removeClass('aos-init').removeClass('aos-animate');
+			},
+			slideChangeTransitionEnd: function () {
+				$('.slide_txt h3').show(0);
+				$('.slide_txt h3').addClass('aos-animate');
+				$('.slide_txt p').show(0);
+				$('.slide_txt p').addClass('aos-animate');
+			},
+		}
+
+	});
+</script>
+	</div>
+
+	<div class="section sec2">
+		<div class="ct_wrap">
+			<div class="ct_txt">
+				<div class="n_inner">
+					<h2 class="tit_st1" data-aos="fade-in">BUSINESS</h2>
+				</div>
+			</div>
+			<div class="ct_list" data-aos="fade-in" data-aos-delay="200">
+				<div>
+					<figure class="on"><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main02_bg01.jpg" alt=""></figure>
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main02_bg02.jpg" alt=""></figure>
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main02_bg03.jpg" alt=""></figure>
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main02_bg04.jpg" alt=""></figure>
+				</div>
+				<ul>
+					<li>
+						<h3 class="tit_st2 noto">무선통신</h3>
+					</li>
+					<li>
+						<h3 class="tit_st2 noto">광통신</h3>
+					</li>
+					<li>
+						<h3 class="tit_st2 noto">레이져</h3>
+					</li>
+					<li>
+						<h3 class="tit_st2 noto">
+							우주항공 및 군수산업
+						</h3>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="section sec3">
+		<div class="n_inner">
+			<h2 class="tit_st1" data-aos="fade-in">CORE TECHNOLOGY</h2>
+			<ul>
+				<li data-aos="fade-in">
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main03_icon01.png" alt=""></figure>
+					<h4 class="txt_st1 med">이종 소재 접합 기술</h4>
+				</li>
+				<li data-aos="fade-in" data-aos-delay="150">
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main03_icon02.png" alt=""></figure>
+					<h4 class="txt_st1 med">방열 소재 기술</h4>
+				</li>
+				<li data-aos="fade-in" data-aos-delay="300">
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main03_icon03.png" alt=""></figure>
+					<h4 class="txt_st1 med">표면 처리 기술 </h4>
+				</li>
+				<li data-aos="fade-in" data-aos-delay="450">
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main03_icon04.png" alt=""></figure>
+					<h4 class="txt_st1 med">세라믹 소재 기술</h4>
+				</li>
+				<li data-aos="fade-in" data-aos-delay="600">
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main03_icon06.png" alt=""></figure>
+					<h4 class="txt_st1 med">LD모듈 기술</h4>
+				</li>
+				<li data-aos="fade-in" data-aos-delay="750">
+					<figure><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/main03_icon08.png" alt=""></figure>
+					<h4 class="txt_st1 med">초고주파 설계 기술</h4>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="section sec4">
+		<script src="https://rf-materials.com/theme/responsive_rfmaterials/js/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="https://rf-materials.com/theme/responsive_rfmaterials/js/jquery.ui.totop.min.js" type="text/javascript"></script>
+<script>
+$(function(){
+	$().UItoTop({ easingType: 'easeOutQuart' });
+});
+</script>
+<div class="ft_wrap">
+	<div class="ct_wrap">
+		<div class="ct">
+			<a href="https://rf-materials.com/63">
+				<div class="ct_txt">
+					<span class="txt_st1 med">REFERENCE</span>
+					<h3 class="tit_st3">자료실</h3>
+					<p class="more_btn"><span>MORE</span><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/more_arrow.png" alt=""></p>
+				</div>
+			</a>
+		</div>
+		<div class="ct">
+			<a href="https://rf-materials.com/page/62">
+				<div class="ct_txt">
+					<span class="txt_st1 med">LOCATION</span>
+					<h3 class="tit_st3">오시는 길</h3>
+					<p class="more_btn"><span>MORE</span><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/more_arrow.png" alt=""></p>
+				</div>
+			</a>
+		</div>
+	</div>
+	<div class="n_inner">
+		<figure class="footer_logo"><img src="https://rf-materials.com/theme/responsive_rfmaterials/include/img/f_logo.svg" alt="RF머트리얼즈㈜"></figure>
+		<div class="ft_info">
+			<div class="ft_txt">
+				<p>
+					<b class="tit">본사</b><span>경기도 안산시 단원구 강촌로 213, 215 (목내동) 15427</span> <span><b>Tel.</b> +82-31-499-2817~8</span><span><b>Fax.</b> 031-499-2815</span>
+				</p>
+				<p>
+					<b class="tit">2공장</b><span>경기도 안산시 단원구 산단로20번길 49(원시동) 15612</span> <span><b>Tel.</b> +82-31-507-0075</span><span><b>Fax.</b> 070-8228-0849</span>
+				</p>
+				<p class="cprt">
+					COPYRIGHT 2022, RF-Materials CO.,LTD. ALL RIGHTS RESERVED.
+											<a href="https://rf-materials.com/bbs/login.php">관리자</a> 
+										</p>
+			</div>
+			<ul class="ft_sitelink">
+				<li><a href="#null" onclick="window.open('https://rf-materials.com/privacy.php','privacy','width=600,height=400,scrollbars=yes')">개인정보처리방침</a></li>
+				<li><a href="#null" onclick="window.open('https://rf-materials.com/terms.php','terms','width=600,height=400,scrollbars=yes')">이용약관</a></li>
+			</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+</div>
+
+<script>
+$('.header_gnb_bg').mouseenter(function(){
+	$('.header_t').addClass("f-nav");
+}).mouseleave(function(){
+	$('.header_t').removeClass("f-nav");
+});
+
+var a_table = ['sec1', 'sec2', 'sec3', 'sec4', 'sec5'];
+
+$('#fullpage').fullpage({
+	anchors:a_table,
+	onLeave: function(index, nextIndex, direction){
+		for (var i = 0; i < a_table.length; i++) {
+			$('.'+ a_table[i] +'.active').find("[data-aos]").removeClass('aos-init').removeClass('aos-animate');
+		}
+
+		$("#m_menu li").removeClass("active");
+		$("#m_menu li").eq(nextIndex.index).addClass("active");
+		
+		if(nextIndex.index == 0){
+			$('.header_t').removeClass("f-nav")
+			$('.header_gnb_bg').mouseenter(function(){
+				$('.header_t').addClass("f-nav");
+			}).mouseleave(function(){
+				$('.header_t').removeClass("f-nav");
+			});
+		}else if(nextIndex.index == 1){
+			$('.header_t').addClass("f-nav")
+			$('.header_gnb_bg').mouseenter(function(){
+				$('.header_t').addClass("f-nav");
+			}).mouseleave(function(){
+				$('.header_t').addClass("f-nav");
+			});
+		}else if(nextIndex.index == 2){
+			$('.header_gnb_bg').mouseenter(function(){
+				$('.header_t').addClass("f-nav");
+			}).mouseleave(function(){
+				$('.header_t').removeClass("f-nav");
+			});
+		}
+	},
+	afterLoad: function(){       
+		for (var i = 0; i < a_table.length; i++) {
+			$('.'+ a_table[i] +'.active').find("[data-aos]").addClass('aos-animate');
+		}
+	},
+	
+	verticalCentered: true,
+	//scrollOverflow: true,
+	responsiveWidth: 768
+});
+
+$(function(){
+	const bgList = $('.sec2 .ct_list li');
+	const bgImg = $('.sec2 .ct_list div figure');
+	console.log(bgList);
+	console.log(bgImg);
+
+	bgList.mouseover(function(){
+		$(this).each(function(){
+			let cnt = $(this).index();
+
+			bgImg.removeClass('on');
+			bgImg.eq(cnt).addClass('on');
+		});
+	});
+
+})
+</script><!-- 하단 시작 { -->
+		<div id="wrap_footer">
+					</div><!-- wrap_footer end -->
+	</div><!-- wrap end -->
+</div><!-- total_wrap end -->
+
+
+<!-- } 하단 끝 -->
+<div id="ajax_cart" style="display:none;"></div>
+
+
+<!-- ie6,7에서 사이드뷰가 게시판 목록에서 아래 사이드뷰에 가려지는 현상 수정 -->
+<!--[if lte IE 7]>
+<script>
+$(function() {
+    var $sv_use = $(".sv_use");
+    var count = $sv_use.length;
+
+    $sv_use.each(function() {
+        $(this).css("z-index", count);
+        $(this).css("position", "relative");
+        count = count - 1;
+    });
+});
+</script>
+<![endif]-->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js"></script>
+<script src="https://rf-materials.com/theme/responsive_rfmaterials/js/main.js"></script>
+
+<script src="https://rf-materials.com/theme/responsive_rfmaterials/js/aos.js"></script>
+<script>
+	AOS.init({
+		easing: 'ease-in-out-sine',
+		//easing: 'ease-out-back',
+		duration: 1200
+	});
+	$(function(){
+		//$(".sub_content").find("img").css({"width":"100%", "height": "auto"});
+	});
+</script>
+
+</body>
+</html>

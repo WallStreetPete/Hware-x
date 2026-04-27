@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw" dir="ltr">
+
+<head>
+	<!-- Jdoc Include -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="apple-mobile-web-app-capable" content="YES">
+	<meta name="format-detection" content="telephone=no">
+	<title>以客為本的半導體材料供應商 - 合晶科技</title>
+	<link href="/tw/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="以客為本的半導體材料供應商 - 合晶科技">
+	<link href="/tw/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="以客為本的半導體材料供應商 - 合晶科技">
+	<link href="/" rel="mask-icon" color="#000">
+	<link href="/media/templates/site/cadiis/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
+	<link href="/media/plg_system_jcepro/site/css/content.min.css?86aa0286b6232c4a5b58f892ce080277" rel="stylesheet" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.min.css?0072da39200af2a5f0dbaf1a155242cd" rel="stylesheet" />
+	<link href="/templates/cadiis/assets/css/dist/style.css" rel="stylesheet" />
+	<link href="/templates/cadiis/html/mod_kkcontent_custom/assets/css/swipe/swiper-bundle.min.css" rel="stylesheet" />
+	<link href="https://www.waferworks.com/modules/mod_ebstickycookienotice/tmpl/assets/css/cookie.css?v=1626752067" rel="stylesheet" />
+	<link href="https://www.waferworks.com/modules/mod_ebstickycookienotice/tmpl/assets/css/responsive.css?v=177851908" rel="stylesheet" />
+
+	<script src="/media/vendor/metismenujs/js/metismenujs.min.js?1.4.0" defer></script>
+	<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script src="/media/templates/site/cadiis/js/mod_menu/menu-metismenu.min.js?1f140631797448ce84f07f2d5b9bee45" defer></script>
+	<script src="/media/mod_menu/js/menu-es5.min.js?1f140631797448ce84f07f2d5b9bee45" nomodule defer></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.min.js?d67233ea942db0e502a9d3ca48545fb9"></script>
+	<script src="/templates/cadiis/assets/js/lib/CounterUp2/index.js"></script>
+	<script src="/templates/cadiis/assets/js/dist/extensions.js"></script>
+	<script src="/templates/cadiis/assets/js/dist/index.js"></script>
+	<script src="/templates/cadiis/html/mod_kkcontent_custom/assets/js/swipe/swiper-bundle.min.js"></script>
+	<script src="https://www.waferworks.com/modules/mod_ebstickycookienotice/tmpl/assets/js/cookie_script.js?v=858783742"></script>
+	<script>
+  var CWG = {
+            uriroot : "https://www.waferworks.com/"
+          };
+</script>
+	<script>jQuery(document).ready(function(){WfMediabox.init({"base":"\/","theme":"squeeze","width":"","height":"","lightbox":0,"shadowbox":0,"icons":1,"overlay":1,"overlay_opacity":0,"overlay_color":"","transition_speed":300,"close":2,"scrolling":"fixed","labels":{"close":"Close","next":"Next","previous":"Previous","cancel":"Cancel","numbers":"{{numbers}}","numbers_count":"{{current}} of {{total}}","download":"Download"}});});</script>
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-CWRNHQHWGC"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-CWRNHQHWGC');
+	</script>
+	<!-- baidu site management -->
+	<meta name="baidu-site-verification" content="codeva-jDe1O8NXWO" />
+
+
+
+</head>
+
+<body class="site com_content view-featured no-layout no-task itemid-101">
+	<!-- Mobile Header -->
+	<div class="navbar-fixed-top d-lg-none header-mobile">
+		<!-- Logo -->
+		<div class="logo">
+			<a href="/" title="合晶科技">
+				<span>合晶科技</span>
+			</a>
+		</div>
+
+		<!-- Language-m -->
+					<div class="language-btn-m">
+				
+<div id="mod-custom207" class="mod-custom custom">
+    <div class="mod-languages">
+<div class="langChoose langOpen">&nbsp;</div>
+<div class="langList" style="display: none;">
+<div class="animated fadeInDown"><form action="https://www.waferworks.com/" method="post" name="lang"><!-- >>> [PAID] >>> -->
+<div class="trangle">&nbsp;</div>
+<ul class="lang-block">
+<li class="" dir="ltr"><a href="/tw/"> 繁體 </a></li>
+<li dir="ltr"><a href="/en/"> English </a></li>
+<li class="" dir="ltr"><a href="/cn/"> 简体 </a></li>
+<li class="" dir="ltr"><a href="/jp/"> 日本語 </a></li>
+</ul>
+<!-- <<< [PAID] <<< --></form></div>
+</div>
+</div></div>
+
+			</div>
+		
+		<!-- Search -->
+					<div class="search-btn-m">
+				<p><a href="/tw/search"><img src="/uploads/search.svg" alt="search" /></a></p>
+			</div>
+		
+		<div class="menu-btn">
+			<span class="line-1"></span>
+			<span class="line-2"></span>
+			<span class="line-3"></span>
+		</div>
+	</div>
+
+	<!-- Mobile Menu -->
+	<nav class="mobilenav">
+					<div class="m-menu">
+				<ul class="mod-menu mod-menu_dropdown-metismenu metismenu mod-list ">
+	<li class="metismenu-item item-186 level-1 deeper parent"><a href="/tw/about" >關於合晶</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="關於合晶"></button><ul class="mm-collapse"><li class="metismenu-item item-223 level-2"><a href="/tw/history" >公司介紹</a></li><li class="metismenu-item item-197 level-2"><a href="/tw/about/quality" >品質承諾</a></li><li class="metismenu-item item-198 level-2"><a href="/tw/taiwan" >全球據點</a></li><li class="metismenu-item item-199 level-2"><a href="/tw/contact" >聯絡我們</a></li><li class="metismenu-item item-289 level-2"><a href="/tw/criterion-comparison" >文件中心</a></li></ul></li><li class="metismenu-item item-187 level-1 deeper parent"><a href="/tw/products-and-service/service" >客製化矽晶圓服務</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="客製化矽晶圓服務"></button><ul class="mm-collapse"><li class="metismenu-item item-205 level-2"><a href="/tw/products-and-service/service" >服務總覽</a></li><li class="metismenu-item item-225 level-2"><a href="/tw/polished-silicon-wafers" >拋光晶圓</a></li><li class="metismenu-item item-242 level-2"><a href="/tw/epitaxial-wafers" >磊晶晶圓</a></li><li class="metismenu-item item-243 level-2"><a href="/tw/soi-wafers" >SOI晶圓</a></li><li class="metismenu-item item-323 level-2"><a href="/tw/ganepi" >氮化鎵磊晶</a></li><li class="metismenu-item item-244 level-2"><a href="/tw/custom-wafers" >客製化晶圓</a></li></ul></li><li class="metismenu-item item-188 level-1 deeper parent"><a href="/tw/financial-information/company-overview" >投資人關係</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="投資人關係"></button><ul class="mm-collapse"><li class="metismenu-item item-206 level-2"><a href="/tw/financial-information/company-overview" >財務資訊</a></li><li class="metismenu-item item-207 level-2"><a href="/tw/corporate-governance/regulations" >公司治理</a></li><li class="metismenu-item item-208 level-2"><a href="/tw/shareholders/shareholders-service" >股東專區</a></li><li class="metismenu-item item-210 level-2"><a href="/tw/news" >最新消息</a></li><li class="metismenu-item item-279 level-2"><a href="/tw/faq" >常見問答集</a></li><li class="metismenu-item item-211 level-2"><a href="/tw/contact-information" >聯絡資訊</a></li></ul></li><li class="metismenu-item item-177 level-1 deeper parent"><a href="/tw/esg/esg-overview" >ESG</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="ESG"></button><ul class="mm-collapse"><li class="metismenu-item item-190 level-2"><a href="/tw/esg/esg-overview" >ESG</a></li><li class="metismenu-item item-191 level-2"><a href="/tw/sustainable-development" >永續發展</a></li><li class="metismenu-item item-192 level-2"><a href="/tw/corporate-sustainability" >企業永續</a></li><li class="metismenu-item item-193 level-2"><a href="/tw/sustainability-partnerships" >夥伴永續</a></li><li class="metismenu-item item-194 level-2"><a href="/tw/environmental-sustainability" >環境永續</a></li><li class="metismenu-item item-195 level-2"><a href="/tw/social-sustainability" >社會永續</a></li></ul></li><li class="metismenu-item item-189 level-1 deeper parent"><a href="/tw/career-development/learning-development" >人力資源</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="人力資源"></button><ul class="mm-collapse"><li class="metismenu-item item-212 level-2"><a href="/tw/career-development/learning-development" >生涯發展</a></li><li class="metismenu-item item-209 level-2"><a href="/tw/life-in-waferworks/welfare" >合晶人生活</a></li><li class="metismenu-item item-213 level-2"><a href="/tw/policy/human-rights-policy" >人權宣言及多元公平與共融</a></li></ul></li><li class="metismenu-item item-214 level-1 deeper parent"><a href="/tw/contact" >聯絡我們</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="聯絡我們"></button><ul class="mm-collapse"><li class="metismenu-item item-140 level-2"><a href="/tw/contact" >聯絡表單</a></li><li class="metismenu-item item-215 level-2"><a href="/tw/communication" >聯絡窗口</a></li></ul></li></ul>
+			</div>
+			</nav>
+
+	<!-- Slider-m -->
+			<div class="slider-m d-md-none">
+			<!-- Slider main container -->
+<div id="swipe-145" class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+          <!-- Slides -->
+      <div class="swiper-slide">
+        <a href="/esg/esg-overview" target="_self">
+          <span class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_145_17_1662521270_slider01.jpg" alt="">
+                        <span class="fulltext">
+              
+<p><strong>以客為本</strong><br />的半導體材料供應商</p>            </span>
+          </span>
+        </a>
+      </div>
+          <!-- Slides -->
+      <div class="swiper-slide">
+        <a href="/products-and-service/service" target="_self">
+          <span class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_145_316_1665627506_slider03.jpg" alt="">
+                        <span class="fulltext">
+              
+<p><strong>以客為本</strong><br />的半導體材料供應商</p>            </span>
+          </span>
+        </a>
+      </div>
+          <!-- Slides -->
+      <div class="swiper-slide">
+        <a href="/products-and-service/service" target="_self">
+          <span class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_145_317_1665627506_slider04.jpg" alt="">
+                        <span class="fulltext">
+              
+<p><strong>以客為本</strong><br />的半導體材料供應商</p>            </span>
+          </span>
+        </a>
+      </div>
+      </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+</div>
+
+<script type="text/javascript">
+  const swiper145 = new Swiper('#swipe-145', {
+    // Optional parameters
+    loop: true,
+    speed: 1000,
+    effect: "fade",
+    autoplay: {
+      delay: 5000,
+    },
+    // Navigation
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    }
+  });
+</script>
+		</div>
+	
+	<!-- Desktop Header -->
+	<header id="header" class="navbar navbar-fixed-top d-none d-lg-block">
+		<div class="container header">
+			<div class="logo">
+				<a href="/" title="合晶科技">
+					<span>合晶科技</span>
+				</a>
+			</div>
+
+							<nav class="mainmenu" role="navigation">
+					<ul class="mod-menu mod-list nav   cl-effect-17">
+	<li class="nav-item item-186 deeper parent"><a href="/tw/about" >關於合晶</a><ul class="mod-menu__sub list-unstyled small"><li class="nav-item item-223"><a href="/tw/history" >公司介紹</a></li><li class="nav-item item-197"><a href="/tw/about/quality" >品質承諾</a></li><li class="nav-item item-198"><a href="/tw/taiwan" >全球據點</a></li><li class="nav-item item-199"><a href="/tw/contact" >聯絡我們</a></li><li class="nav-item item-289"><a href="/tw/criterion-comparison" >文件中心</a></li></ul></li><li class="nav-item item-187 deeper parent"><a href="/tw/products-and-service/service" >客製化矽晶圓服務</a><ul class="mod-menu__sub list-unstyled small"><li class="nav-item item-205"><a href="/tw/products-and-service/service" >服務總覽</a></li><li class="nav-item item-225"><a href="/tw/polished-silicon-wafers" >拋光晶圓</a></li><li class="nav-item item-242"><a href="/tw/epitaxial-wafers" >磊晶晶圓</a></li><li class="nav-item item-243"><a href="/tw/soi-wafers" >SOI晶圓</a></li><li class="nav-item item-323"><a href="/tw/ganepi" >氮化鎵磊晶</a></li><li class="nav-item item-244"><a href="/tw/custom-wafers" >客製化晶圓</a></li></ul></li><li class="nav-item item-188 deeper parent"><a href="/tw/financial-information/company-overview" >投資人關係</a><ul class="mod-menu__sub list-unstyled small"><li class="nav-item item-206"><a href="/tw/financial-information/company-overview" >財務資訊</a></li><li class="nav-item item-207"><a href="/tw/corporate-governance/regulations" >公司治理</a></li><li class="nav-item item-208"><a href="/tw/shareholders/shareholders-service" >股東專區</a></li><li class="nav-item item-210"><a href="/tw/news" >最新消息</a></li><li class="nav-item item-279"><a href="/tw/faq" >常見問答集</a></li><li class="nav-item item-211"><a href="/tw/contact-information" >聯絡資訊</a></li></ul></li><li class="nav-item item-177 deeper parent"><a href="/tw/esg/esg-overview" >ESG</a><ul class="mod-menu__sub list-unstyled small"><li class="nav-item item-190"><a href="/tw/esg/esg-overview" >ESG</a></li><li class="nav-item item-191"><a href="/tw/sustainable-development" >永續發展</a></li><li class="nav-item item-192"><a href="/tw/corporate-sustainability" >企業永續</a></li><li class="nav-item item-193"><a href="/tw/sustainability-partnerships" >夥伴永續</a></li><li class="nav-item item-194"><a href="/tw/environmental-sustainability" >環境永續</a></li><li class="nav-item item-195"><a href="/tw/social-sustainability" >社會永續</a></li></ul></li><li class="nav-item item-189 deeper parent"><a href="/tw/career-development/learning-development" >人力資源</a><ul class="mod-menu__sub list-unstyled small"><li class="nav-item item-212"><a href="/tw/career-development/learning-development" >生涯發展</a></li><li class="nav-item item-209"><a href="/tw/life-in-waferworks/welfare" >合晶人生活</a></li><li class="nav-item item-213"><a href="/tw/policy/human-rights-policy" >人權宣言及多元公平與共融</a></li></ul></li><li class="nav-item item-214 deeper parent"><a href="/tw/contact" >聯絡我們</a><ul class="mod-menu__sub list-unstyled small"><li class="nav-item item-140"><a href="/tw/contact" >聯絡表單</a></li><li class="nav-item item-215"><a href="/tw/communication" >聯絡窗口</a></li></ul></li></ul>
+				</nav>
+			
+							<div class="search-btn">
+					<p><a href="/tw/search"><img src="/uploads/search.svg" alt="search" /></a></p>
+				</div>
+			
+							<div class="language-btn">
+					
+<div id="mod-custom207" class="mod-custom custom">
+    <div class="mod-languages">
+<div class="langChoose langOpen">&nbsp;</div>
+<div class="langList" style="display: none;">
+<div class="animated fadeInDown"><form action="https://www.waferworks.com/" method="post" name="lang"><!-- >>> [PAID] >>> -->
+<div class="trangle">&nbsp;</div>
+<ul class="lang-block">
+<li class="" dir="ltr"><a href="/tw/"> 繁體 </a></li>
+<li dir="ltr"><a href="/en/"> English </a></li>
+<li class="" dir="ltr"><a href="/cn/"> 简体 </a></li>
+<li class="" dir="ltr"><a href="/jp/"> 日本語 </a></li>
+</ul>
+<!-- <<< [PAID] <<< --></form></div>
+</div>
+</div></div>
+
+				</div>
+					</div>
+	</header>
+	<!-- 判斷是否為首頁 -->
+			<!-- Main Content -->
+		<div class="main-content">
+			<!-- Slider -->
+							<div class="slider d-none d-md-block">
+					<!-- Slider main container -->
+<div id="swipe-128" class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+          <!-- Slides -->
+      <div class="swiper-slide">
+        <a href="/esg/esg-overview" target="_self">
+          <span class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_128_17_1662521270_slider01.jpg" alt="">
+                        <span class="fulltext">
+              
+<p><strong>以客為本</strong><br />的半導體材料供應商</p>            </span>
+          </span>
+        </a>
+      </div>
+          <!-- Slides -->
+      <div class="swiper-slide">
+        <a href="/products-and-service/service" target="_self">
+          <span class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_128_316_1665627506_slider03.jpg" alt="">
+                        <span class="fulltext">
+              
+<p><strong>以客為本</strong><br />的半導體材料供應商</p>            </span>
+          </span>
+        </a>
+      </div>
+          <!-- Slides -->
+      <div class="swiper-slide">
+        <a href="/products-and-service/service" target="_self">
+          <span class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_128_317_1665627506_slider04.jpg" alt="">
+                        <span class="fulltext">
+              
+<p><strong>以客為本</strong><br />的半導體材料供應商</p>            </span>
+          </span>
+        </a>
+      </div>
+      </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+</div>
+
+<script type="text/javascript">
+  const swiper128 = new Swiper('#swipe-128', {
+    // Optional parameters
+    loop: true,
+    speed: 1000,
+    effect: "fade",
+    autoplay: {
+      delay: 5000,
+    },
+    // Navigation
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    }
+  });
+</script>
+				</div>
+			
+			<!-- home-links -->
+							<div class="home-links">
+					
+<div class="fullblock">
+	<div class="container">
+				<table class="table-rwd">
+<tbody>
+<tr>
+<td style="width: 20%;">
+<p style="text-align: center;"><a href="/waferworks-esg/esg-sustainability-report"><img src="/uploads/home/esg-icon.svg" alt="esg icon" /></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="/waferworks-esg/esg-sustainability-report">永續報告書</a></p>
+</td>
+<td style="width: 20%;">
+<p style="text-align: center;"><a href="/tw/financial-information/company-overview"><img src="/uploads/home/finance-icon.svg" alt="esg icon" /></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="/tw/financial-information/company-overview">財務資訊</a></p>
+</td>
+<td style="width: 20%;">
+<p style="text-align: center;"><a href="/tw/taiwan"><img src="/uploads/home/global-icon.svg" alt="esg icon" /></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="/tw/taiwan">全球據點</a></p>
+</td>
+<td style="width: 20%;">
+<p style="text-align: center;"><a href="/tw/contact"><img src="/uploads/home/contact-icon.svg" alt="esg icon" /></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="/tw/contact">聯絡我們</a></p>
+</td>
+<td style="width: 20%;">
+<p style="text-align: center;"><a href="/tw/career-development/learning-development"><img src="/uploads/home/hr-icon.svg" alt="esg icon" /></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="/tw/career-development/learning-development">人才招募</a></p>
+</td>
+</tr>
+</tbody>
+</table>	</div>
+</div>
+
+
+				</div>
+			
+			<!-- home-products -->
+							<div class="home-products">
+					<!-- Slider main container -->
+<div id="swipe-147" class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+          <!-- Slides -->
+      <div class="swiper-slide item">
+          <div class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_147_36_1662616920_product01.jpg" alt="">
+                        <div class="title">
+              拋光晶圓            </div>
+          </div>
+          <a href="/polished-silicon-wafers" target="_self"></a>
+      </div>
+          <!-- Slides -->
+      <div class="swiper-slide item">
+          <div class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_147_37_1662616920_product02.jpg" alt="">
+                        <div class="title">
+              磊晶晶圓            </div>
+          </div>
+          <a href="/epitaxial-wafers" target="_self"></a>
+      </div>
+          <!-- Slides -->
+      <div class="swiper-slide item">
+          <div class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_147_38_1662616920_product03.jpg" alt="">
+                        <div class="title">
+              SOI晶圓            </div>
+          </div>
+          <a href="/soi-wafers" target="_self"></a>
+      </div>
+          <!-- Slides -->
+      <div class="swiper-slide item">
+          <div class="kkcontent">
+                          <img src="/images/KKContentThumbs/thumb_147_39_1662616920_product04.jpg" alt="">
+                        <div class="title">
+              客製化晶圓            </div>
+          </div>
+          <a href="/custom-wafers" target="_self"></a>
+      </div>
+      </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+</div>
+
+<script type="text/javascript">
+  const swiper147 = new Swiper('#swipe-147', {
+    // Optional parameters
+    loop: true,
+    autoplay: {
+      delay: 5000,
+    },
+    slidesPerView: 1,
+      spaceBetween: 1,
+      breakpoints: {
+          768: {
+            slidesPerView: 2,
+          },
+          1024: {
+            slidesPerView: 4
+          },
+        },
+    // Pagination
+    pagination: false,
+    // Navigation
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    }
+  });
+</script>
+				</div>
+			
+			<!-- home-esg -->
+							<div class="home-esg">
+					
+<div class="fullblock">
+	<div class="container">
+				<table class="table-rwd">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: left; vertical-align: middle;">
+<p class="title">致力於提供高品質的</p>
+<p class="title">產品與良好的服務</p>
+</td>
+<td style="width: 50%;">
+<p>成為以客為本的世界級半導體材料供應商乃合晶科技一路走來始終不變的信念。二十一世紀合晶科技所面對的挑戰，除了以客戶的需求為導向，不斷精進技術外，「永續發展」也是重要的課題；而達成這個所有企業皆視為當然目標的必要條件之一，就是真誠地履行企業社會責任，即「企業為求得經濟永續發展，與員工及其家庭，以及社會等共同營造高品質生活的承諾」。</p>
+<p><a href="/tw/about" class="more">了解更多</a></p>
+</td>
+</tr>
+</tbody>
+</table>	</div>
+</div>
+
+
+				</div>
+						<div class="container news-wrap">
+				<div class="main-title">最新消息</div>
+				<div class="row">
+					<div class="col-12 col-md-6">
+						<!-- home-news-focus -->
+													<div class="home-news-focus">
+								
+<div class="item">
+    <img src="/images/KKContentThumbs/thumb_156_57_1663054718_home-news.jpg" alt="">
+    <div class="title-wrap">
+    <div class="title">
+      合晶投入150億進駐中科二林園區投資設廠    </div>
+    <div class="intro">
+      <p></p>
+<p>半導體大廠合晶（6182）將入區籌設新廠，預計租用約10公頃土地，擴增新製程產能，提升功率半導體和邏輯元件用產能及生產技術能力</p>
+    </div>
+    <div class="more">
+      了解更多
+    </div>
+  </div>
+  <a href="https://www.waferworks.com/tw/news/waferworks-stationed-in-zhongke-erlin-park" target="_self">
+  </a>
+</div>
+
+							</div>
+											</div>
+					<div class="col-12 col-md-6">
+						<!-- home-news -->
+													<div class="home-news">
+								<div class="item">
+  <div class="title">
+    榮獲2025年台灣企業永續獎  </div>
+  <div class="date">2026-01-26</div>
+  <div class="intro">
+    合晶科技2025年積極推動ESG，並以實際行動展現成果，更榮獲台灣企業永續獎（TCSA）肯定。
+&nbsp;
+我們榮獲企業永續報告書－銅獎以及企業永續綜合績效－台灣永續企業績優獎。這些對合晶在公司治理、資訊揭露及永續績效的肯定，更驅動我們持續投入ESG的決心。
+展望2026年，我們將深化永續發展策略，強化企業韌性，並與利害關係人攜手合作，為產業及社會創造長遠價值。
+  </div>
+  <div class="more">
+    了解更多
+  </div>
+  <a href="/tw/news/2025" target="_self">
+  </a>
+</div>
+<div class="item">
+  <div class="title">
+    4月3日強烈地震對本公司營運無影響  </div>
+  <div class="date">2024-04-03</div>
+  <div class="intro">
+    (台灣桃園4月3日) 台灣於2024年4月3日發生芮氏規模7.2級有感地震，震央位於台灣東部海域，全台各地陸續傳出災情。本公司龍潭廠生產活動被迫中斷，人員均安全撤出。同時立即成立應變小組檢視廠內及設備情形，並於地震發生後12小時之內完成復工，未有重大影響，其他據點營運一切正常。  </div>
+  <div class="more">
+    了解更多
+  </div>
+  <a href="/tw/news/no-severe-impact-from-the-earthquake-in-taiwan-2" target="_self">
+  </a>
+</div>
+
+							</div>
+											</div>
+				</div>
+			</div>
+			<!-- home-sustainable-->
+							<div class="home-sustainable">
+					
+<div class="fullblock">
+	<div class="container">
+				<p class="title">推行永續發展 善盡公民責任 共創永續未來</p>
+<p class="sub-title">邁向永續與共存的綠色先鋒；成為員工與社會的共好夥伴；強化董事會職能，提升資訊透明</p>
+<p>&nbsp;</p>
+<p><a href="/tw/esg/esg-overview">了解更多</a></p>	</div>
+</div>
+
+
+				</div>
+					</div>
+	
+	<!-- 判斷是否為首頁 -->
+	
+	<!-- Footer -->
+	<footer>
+		<div class="container">
+			<!--footer logo -->
+			<div class="footer-logo">
+				<a href="/" title="合晶科技">
+					<span>合晶科技</span>
+				</a>
+			</div>
+
+			<!-- B-Box -->
+			<div class="bbox row">
+									
+<div class="col-6 col-md-3 item">
+			<h3 class="bbox-header ">關於合晶</h3>		<ul class="mod-menu mod-list nav ">
+	<li class="nav-item item-223"><a href="/tw/history" >公司介紹</a></li><li class="nav-item item-197 active"><a href="/tw/about/quality" >品質承諾</a></li><li class="nav-item item-198"><a href="/tw/taiwan" >全球據點</a></li><li class="nav-item item-199"><a href="/tw/contact" >聯絡我們</a></li><li class="nav-item item-289"><a href="/tw/criterion-comparison" >文件中心</a></li></ul></div>
+
+
+<div class="col-6 col-md-3 item">
+			<h3 class="bbox-header ">客製化矽晶圓服務</h3>		<ul class="mod-menu mod-list nav ">
+	<li class="nav-item item-281"><a href="/tw/products-and-service/service" >服務總覽</a></li><li class="nav-item item-201"><a href="/tw/polished-silicon-wafers" >拋光晶圓</a></li><li class="nav-item item-202"><a href="/tw/epitaxial-wafers" >磊晶晶圓</a></li><li class="nav-item item-203"><a href="/tw/soi-wafers" >SOI晶圓</a></li><li class="nav-item item-318"><a href="/tw/ganepi" >氮化鎵磊晶</a></li><li class="nav-item item-204"><a href="/tw/custom-wafers" >客製化晶圓</a></li></ul></div>
+
+
+<div class="col-6 col-md-3 item">
+			<h3 class="bbox-header ">人力資源</h3>		<ul class="mod-menu mod-list nav ">
+	<li class="nav-item item-245 parent"><a href="/tw/career-development/learning-development" >生涯發展</a></li><li class="nav-item item-248 parent"><a href="/tw/life-in-waferworks/welfare" >合晶人生活</a></li><li class="nav-item item-253 parent"><a href="/tw/policy/human-rights-policy" >人權宣言與多元公平共融</a></li></ul></div>
+
+
+<div class="col-6 col-md-3 item">
+			<h3 class="bbox-header ">投資人關係</h3>		<ul class="mod-menu mod-list nav ">
+	<li class="nav-item item-241 parent"><a href="/tw/financial-information/company-overview" >財務資訊</a></li><li class="nav-item item-261 parent"><a href="/tw/corporate-governance/regulations" >公司治理</a></li><li class="nav-item item-270 parent"><a href="/tw/shareholders/shareholders-service" >股東專區</a></li><li class="nav-item item-274"><a href="/tw/news" >最新消息</a></li><li class="nav-item item-276"><a href="/tw/faq" >常見問答集</a></li><li class="nav-item item-278"><a href="/tw/contact-information" >聯絡資訊</a></li></ul></div>
+
+
+							</div>
+		</div>
+		<div class="footer-wrap">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 col-md-6">
+						<!-- Copyright -->
+													<div class="copyright">
+								<p>版權所有 © 合晶科技股份有限公司 |&nbsp;Designed by CADIIS <a href="https://www.cadiis.com.tw" rel="dofollow">網頁設計</a></p>
+							</div>
+											</div>
+					<div class="col-12 col-md-6">
+						<!-- FootNav -->
+													<div class="footnav text-center">
+								<ul class="mod-menu mod-list nav ">
+	<li class="nav-item item-292"><a href="https://www.waferworks.com/tw/" >合晶科技</a></li><li class="nav-item item-154"><a href="/tw/sitemap?view=html&amp;id=1" >網站地圖</a></li><li class="nav-item item-293"><a href="/tw/privacy-policy" >隱私權政策</a></li></ul>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- Scroll to top -->
+	<button class="scrolltotop" onclick="scrollToTop()"></button>
+
+	
+<!--****************************** COOKIES HTML CODE START HERE ******************************-->
+<div class="notice_div_ribbin ebsticky_bottom" id="eu_cookies">
+	<div class="inner1 ">
+
+		<div class="inner3 eb_contentwrap">
+						<div class="eb_textinfo">
+								<p><div style="line-height: 150%; color: #FFF;">This website uses cookies that are necessary to its functioning and required to achieve the purposes illustrated in the privacy policy. By accepting this OR scrolling this page OR continuing to browse, you agree to our <a style="color:#4a72a9;" href="/privacy-policy" target="_blank">privacy policy</a>.</div></p>			</div>
+		</div>
+		<div class="button_message eb_privacypolicy"> 
+						<a class="button_cookie" href="javascript:void(0);" onclick="calltohide()" id="hideme">Accept</a>
+		</div>
+
+	</div>
+</div>
+<!--****************************** COOKIES HTML CODE END HERE ******************************-->
+
+<!--****************************** COOKIES JAVSCRIPT CODE START HERE -- FOR ACCEPT ******************************-->
+<script type="text/javascript">
+	check_cookie(getBaseURL());
+</script>
+<!--****************************** COOKIES JAVSCRIPT CODE END HERE ******************************-->
+
+<!--****************************** COOKIES CSS START HERE ******************************-->
+<style>
+.notice_div_simplebar,.notice_div_ribbin{background:#000000!important; z-index: 99999!important; }
+.inner3 .heading_title{color:#ffffff!important; font-size: 18px;}
+.inner3 p{color:#cccccc!important; font-size: 12px;}
+.button_cookie{background: #1D467A!important; color:#ffffff!important;}
+.eb_papbtn{background: #1D467A!important; color:#ffffff!important;}
+.eb_contentimagewrap .eb_contentwrap .eb_imagewrap{float:left; width:80px; padding-right:15px;}
+.eb_contentimagewrap .eb_contentwrap .eb_textinfo{float:left; width:calc(100% - 80px);}
+</style>
+<!--****************************** COOKIES CSS END HERE ******************************-->
+</body>
+
+</html>

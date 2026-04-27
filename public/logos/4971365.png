@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>西勝國際--鋰電池模組設計與製造</title>
+    <base href="https://www.c-techone.com/">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
+    <link rel="canonical" href="https://www.c-techone.com/tw" />
+    <link rel="alternate" hreflang="zh-TW" href="https://www.c-techone.com/" />
+    <link rel="alternate" hreflang="en" href="https://www.c-techone.com/en" />
+    <meta name="title" content="西勝國際--鋰電池模組設計與製造">
+    <meta name="description" content="西勝國際為台灣著名鋰電池模組設計與製造公司，主要客户涵蓋LG、HP、Dell及Acer等國際級公司，範圍包括3C/IT電池產品、儲能系統電池模組、輕型電動交通車（LEV）電池模組等。 自成立之初便投入大量的研發資源，致力於開發新技術，提供客戶高品質及全方位的需求。">
+    <meta name="keywords" content=" 3C/IT電池產品、儲能系統電池模組、輕型電動交通車電池模組">
+    <meta name="author" content="西盛國際">
+    <meta name="copyright" content="西盛國際">
+    <link rel="stylesheet" href="assets/ContentBuilder/assets/minimalist-blocks/content.css">
+         <link rel="stylesheet" href="assets/css/all.css?20241213" />
+
+
+<script src="assets/js/master-css.js"></script>
+<script>
+  MasterStyle.extend('colors', {
+    primary: 'E0004D',
+    secondary: '489580',
+    quality:'006BB7',
+    notice:'D82525',
+  });
+  MasterStyle.extend("classes", {
+    btn_icon:'inline-flex jc:center ai:center min-w:240 h:60 f:16 f:20@sm f:medium f:primary bg:transparent b:1|solid|primary r:15 {bg:primary;f:white;}:hover',
+   
+  });
+
+</script>
+    <!--[if lt IE 9]>
+     <script src="assets/js/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+<body class="home">
+<!-- <div class="site-loading fixed top:0 left:0 z:9999 w:full h:full bg:white ovf:hidden ~transform|1s">
+    <div>
+        <div class="flex ai:center jc:center h:400 w:279 test-mask">
+ 
+            <div class="bg:white w:1000 h:1000 rounded block" id="mask"></div>
+
+        </div>
+        
+    </div>
+ 
+
+</div> --><header class="l-header lh:0">
+  <div class="l-header__main bg:white {bg:white}:hover">
+    <a class="l-header__logo " href="tw">
+      <span class="block w:90 h:18 m:23|0|23|30 {w:120;h:24;m:20|0|20|30}@sm m:23|0|23|30@md {w:150;h:30;}@lg ml:60@lg z:1">
+          <img class="w:full" src="assets/img/logo/c-tech-logo.svg" alt="西勝國際" title="西勝國際" />
+      </span>
+    </a>
+    <button
+      class="l-header__btn abs top:20 right:30 w:24 h:24 {top:20;w:28;h:28}@sm outline:0 flex ai:center jc:center "
+      data-href="root" type="button">
+      <span class="bg:white h:2 r:2 w:full"></span>
+      <span class="bg:white h:2 r:2 w:full"></span>
+      <span class="bg:white h:2 r:2 w:full"></span>
+    </button>
+    <div class="l-header__nav ">
+      <div class="l-nav pr:20@md">
+        <div class="l-nav__menu ">
+          <ul class="l-nav__list ">
+            <!--選單有當頁效果，依照不同單元加上當頁class-->
+            <li class="l-nav__item hasnavi">
+              <div class="l-nav__link"> 關於西勝 </div>
+              <div class="l-nav__dropdown l-nav__dropdown--default w:150 w:200:lang(en) rb:20 overflow:hidden lh:1.8">
+                <div class="bg:white flex flex:column bt:1|solid|#f0f0f0 {p:15|20;t:center;f:16;f:medium;lh:1.5}>a f:18>a:lang(zh-TW)@>xl f:20>a:lang(zh-TW)@2xl {f:primary;bg:#f0f0f0}>a:hover">
+                  <a href="tw/about/intro">集團簡介</a>
+                  <a href="tw/about/history">集團沿革</a>
+                  <a href="tw/about/certificate">認證與獎項</a>
+                </div>
+              </div>
+            </li>
+            <li class="l-nav__item hasnavi ">
+              <div class="l-nav__link"> 集團商品 </div>
+              <div class="l-nav__dropdown l-nav__dropdown--default fixed! mx:auto {abs;left:50%}@lg lh:1 w:90vw max-w:1044 rb:20 overflow:hidden">
+                <div class="p:30 bg:white flex flex:nowrap flex:row gap:30 bt:1|solid|#f0f0f0 ">
+
+                                  <a href="tw/product/cate/e_mobility_battery" class="t:center p:30|20 flex:1 {bg:#f0f0f0;r:20;~background|.3s}:hover {f:primary;~color|.3s}:hover>p">
+                    <span class="w:164 h:130"><img src="/uploads/images/products/i-nav-prod-1.svg"></span>
+                    <h6 class="mt:10 lh:1.2">e-mobility battery</h6>
+                    <p class="pt:5 f:17 f:#222"></p>
+                  </a>
+                                  <a href="tw/product/cate/backup_power_system_battery" class="t:center p:30|20 flex:1 {bg:#f0f0f0;r:20;~background|.3s}:hover {f:primary;~color|.3s}:hover>p">
+                    <span class="w:164 h:130"><img src="/uploads/images/products/i-nav-prod-2.svg"></span>
+                    <h6 class="mt:10 lh:1.2">backup power system battery</h6>
+                    <p class="pt:5 f:17 f:#222"></p>
+                  </a>
+                                  <a href="tw/product/cate/ess" class="t:center p:30|20 flex:1 {bg:#f0f0f0;r:20;~background|.3s}:hover {f:primary;~color|.3s}:hover>p">
+                    <span class="w:164 h:130"><img src="/uploads/images/products/i-nav-prod-4.svg"></span>
+                    <h6 class="mt:10 lh:1.2">ESS</h6>
+                    <p class="pt:5 f:17 f:#222"></p>
+                  </a>
+                
+                </div>
+              </div>
+            </li>
+            <li class="l-nav__item hasnavi">
+              <div class="l-nav__link"> 技術優勢 </div>
+              <div class="l-nav__dropdown l-nav__dropdown--default w:170 rb:20 overflow:hidden lh:1.8">
+                <div class="bg:white flex flex:column bt:1|solid|#f0f0f0 {p:15|20;t:center;f:16;f:medium;lh:1.5}>a f:20:lang(zh-TW)>a@>xl {f:primary;bg:#f0f0f0}>a:hover">
+
+                                  <a href="tw/tech/page/競爭優勢">競爭優勢</a>
+                                  <a href="tw/tech/page/品質管理體系">品質管理體系</a>
+                                  <a href="tw/tech/page/製造能力">製造能力</a>
+                
+                </div>
+              </div>
+            </li>
+            <li class="l-nav__item hasnavi">
+              <a class="l-nav__link" href="tw/esg"> 企業永續</a>
+            </li>
+
+            <li class="l-nav__item hasnavi">
+              <div class="l-nav__link"> 投資人專區</div>
+              <div class="l-nav__dropdown l-nav__dropdown--default w:250 rb:20 overflow:hidden">
+                <div
+                  class="bg:white px:10 bt:1|solid|#f0f0f0 flex flex:nowrap {rel;list-style:none;lh:1.5}>ul>li {f:primary;translateX(25);t:underline;~transform|.3s}>ul>li:hover:not(:first-child) {opacity:1;translateX(-25);~opacity|.3s,transform|.3s}>ul>li:hover:not(:first-child)>a>span {f:#555;f:16;mb:10}>ul>li:not(:first-child) {f:#222;f:20;f:medium;mb:16;}>ul>li:first-child ">
+                  <!--<ul class="p:30|40 min-w:220 m:0 mb:-10 flex flex:column br:1|solid|#ddd">
+                    <li><a class="cursor:default">股東專欄</a></li>
+                    <li><a href="tw/investor/shareholder"><span
+                          class="w:15 h:10 abs top:8 translateX(-30); opacity:0 "><img
+                            src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg"></span>年度股東常會</a></li>
+                  </ul>
+                  <ul class="p:30|40 min-w:220 m:0 mb:-10 flex flex:column br:1|solid|#ddd">
+                    <li><a class="cursor:default">財務報表</a></li>
+                    <li><a href="tw/investor/month"><span
+                          class="w:15 h:10 abs top:8 translateX(-30); opacity:0 "><img
+                            src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg"></span>月營收報告</a></li>
+                    <li><a href="tw/investor/report"><span
+                          class="w:15 h:10 abs top:8 translateX(-30); opacity:0 "><img
+                            src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg"></span>財務報告</a></li>
+                    <li><a href="tw/investor/annual"><span
+                          class="w:15 h:10 abs top:8 translateX(-30); opacity:0 "><img
+                            src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg"></span>公司年報</a></li>
+                  </ul>-->
+                  <ul class="p:30|40 m:0 mb:-10 flex flex:column">
+                    <li><a class="cursor:default">公司治理</a></li>
+
+                                      <li>
+                        <a href="tw/investor/governance/公司章程與法律規章">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            公司章程與法律規章                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/組織架構">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            組織架構                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/董事會">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            董事會                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/審計委員會">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            審計委員會                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/薪資報酬委員會">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            薪資報酬委員會                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/永續發展委員會">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            永續發展委員會                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/獨立董事與會計師及稽核主管溝通情形">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            獨立董事與會計師及稽核主管溝通情形                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/誠信經營">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            誠信經營                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/內部稽核">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            內部稽核                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/資通安全">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            資通安全                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/風險管理">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            風險管理                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/利害關係人">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            利害關係人                        </a>
+                    </li>
+                                      <li>
+                        <a href="tw/investor/governance/職場多元化及性別平等">
+                            <span class="w:15 h:10 abs top:8 translateX(-30); opacity:0 ">
+                                <img src="assets/img/icon/i-pc-navi-arrow.svg" class="js-svg">
+                            </span>
+                            職場多元化及性別平等                        </a>
+                    </li>
+                  
+                  </ul>
+                </div>
+              </div>
+            </li>
+
+            <li class="l-nav__item hasnavi">
+              <a class="l-nav__link" href="tw/news/article"> 新聞中心 </a>
+            </li>
+            <li class="l-nav__item hasnavi">
+              <div class="l-nav__link"> 人力資源 </div>
+              <div class="l-nav__dropdown l-nav__dropdown--default w:150 w:200:lang(en) rb:20 overflow:hidden lh:1.8">
+                <div class="bg:white flex flex:column bt:1|solid|#f0f0f0 {p:15|20;t:center;f:16;f:medium;lh:1.5}>a f:18>a:lang(zh-TW)@>xl f:20>a:lang(zh-TW)@2xl {f:primary;bg:#f0f0f0}>a:hover">
+
+                                  <a href="tw/recruit/page/人力發展">人力發展</a>
+                                  <a href="tw/recruit/page/教育訓練">教育訓練</a>
+                                  <a href="tw/recruit/page/薪資福利">薪資福利</a>
+                                  <a href="tw/recruit/page/加入我們">加入我們</a>
+                
+                </div>
+              </div>
+            </li>
+            <li class="l-nav__item hasnavi">
+              <a class="l-nav__link"> 關係企業 </a>
+              <div class="l-nav__dropdown l-nav__dropdown--default w:145 rb:20 overflow:hidden lh:1.8">
+                <div
+                  class="bg:white flex flex:column bt:1|solid|#f0f0f0 {p:15|20;t:center;f:16;f:medium;lh:1.5}>a f:20>a:lang(zh-TW)@>xl {f:primary;bg:#f0f0f0}>a:hover">
+                  <a href="http://msmweb.c-techone.com/" target="_blank">美勝美開發</a>
+                  <!-- <a href="https://www.oolomobility.com/" target="_blank">LEV</a> -->
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="l-nav-minor flex flex:nowrap ai:center jc:center gap-x:16 mr:70 {mr:78;gap-x:20}@sm mr:30@md mr:60@lg {w:24;h:24;flex;ai:center;jc:center;}>a {w:28;h:28}>a@sm {w:30;h:30}>a@>=md">
+        <a href="tw/search"  class="rel w:24 h:24 {w:28;h:28}@sm {w:30;h:30}@lg {@circleAround|1s|linear|infinite;}:hover>span>svg ">
+          <span class="block w:24 h:24 {w:28;h:28}@sm {w:30;h:30}@lg flex ai:center jc:center {w:full;h:auto}_svg ">
+            <img src="assets/img/icon/i-top-mirrow.svg" class="">
+          </span>
+        </a>
+        <div class="rel i-global h:full flex ai:center {content:'';abs;left:0;bottom:0;h:20;w:full;bg:transparent;block}::before {content:'';abs;left:50%;translateX(-50%);bottom:0;h:3;w:0;bg:primary;block;~width|.3s;}::after {w:80%;~width|.3s;}:hover::after">
+          <span class="block w:24 h:24 {w:28;h:28}@sm {w:36;h:36}@lg {w:full;h:auto}_svg ">
+            <img src="assets/img/icon/i-top-global.svg" class="">
+          </span>
+          <div class="language-outer hide abs left:50% translateX(-50%) w:120 top:64 top:76@lg bg:white p:20 ai:center ">
+            <div class="flex flex:column ai:center {f:18;lh:1.25;my:10}>a {f:primary;}>a:hover">
+              <a href="en">English</a>
+              <a href="tw">繁體中文</a>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- <a class="">
+          <span class="block w:24 h:24 {w:28;h:28}@sm {w:30;h:30}@lg flex ai:center jc:center {w:full;h:auto}_svg ">
+            <img src="assets/img/icon/i-top-global.svg" class="">
+          </span>
+        </a> -->
+        <a class=" {@heart|1s|linear|infinite;}:hover>span>svg" href="tw/contact">
+          <span class="w:24 h:17 {w:28;h:20}@sm {w:30;h:21}@lg flex ai:center jc:center {w:full;h:auto}_svg">
+            <img src="assets/img/icon/i-top-mail.svg" class="">
+          </span>
+        </a>
+        <!--fill:white:hover_path-->
+      </div>
+    </div>
+
+
+    <!--mb menu start-->
+      <div class="l-mobile-nav" data-menu="root">
+        <div class="h:full flex flex:column jc:space-between">
+          <div class="overflow:auto bg:#f0f0f0">
+            <ul class="l-mobile-nav__list h:auto!">
+              <li class="l-mobile-nav__item">
+                <div class="l-mobile-nav__header">
+                  <a>關於西勝</a>
+                  <div class="l-mobile-nav__collapse"></div>
+                </div>
+                <ul>
+                  <li class="">
+                    <a class="l-mobile-nav__link " href="tw/about/intro">集團簡介 </a>
+                  </li>
+                  <li class="">
+                    <a class="l-mobile-nav__link " href="tw/about/history">集團沿革 </a>
+                  </li>
+                  <li class="">
+                    <a class="l-mobile-nav__link " href="tw/about/certificate">認證與獎項 </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="l-mobile-nav__item">
+                <div class="l-mobile-nav__header">
+                  <a>集團商品</a>
+                  <div class="l-mobile-nav__collapse"></div>
+                </div>
+                <ul>
+
+                                  <li class="">
+                    <a href="tw/product/cate/e_mobility_battery" class="l-mobile-nav__link "> e-mobility battery </a>
+                  </li>
+                                  <li class="">
+                    <a href="tw/product/cate/backup_power_system_battery" class="l-mobile-nav__link "> backup power system battery </a>
+                  </li>
+                                  <li class="">
+                    <a href="tw/product/cate/ess" class="l-mobile-nav__link "> ESS </a>
+                  </li>
+                
+                </ul>
+              </li>
+              <li class="l-mobile-nav__item">
+                <div class="l-mobile-nav__header">
+                  <a>技術優勢</a>
+                  <div class="l-mobile-nav__collapse"></div>
+                </div>
+                <ul>
+
+                                  <li class="">
+                    <a href="tw/tech/page/競爭優勢" class="l-mobile-nav__link "> 競爭優勢 </a>
+                  </li>
+                                  <li class="">
+                    <a href="tw/tech/page/品質管理體系" class="l-mobile-nav__link "> 品質管理體系 </a>
+                  </li>
+                                  <li class="">
+                    <a href="tw/tech/page/製造能力" class="l-mobile-nav__link "> 製造能力 </a>
+                  </li>
+                
+                </ul>
+              </li>
+              <li class="l-mobile-nav__item">
+                <div class="l-mobile-nav__header">
+                  <a>投資人專區</a>
+                  <div class="l-mobile-nav__collapse"></div>
+                </div>
+                <ul>
+                  <li>
+                    <a class="l-mobile-nav__link hassub" data-href="ir-01"> 股東專欄 </a>
+                  </li>
+                  <li>
+                    <a class="l-mobile-nav__link hassub" data-href="ir-02"> 財務報表 </a>
+                  </li>
+                  <li>
+                    <a class="l-mobile-nav__link hassub" data-href="ir-03"> 公司治理 </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="l-mobile-nav__item">
+                <div class="l-mobile-nav__header">
+                  <a>人力資源</a>
+                  <div class="l-mobile-nav__collapse"></div>
+                </div>
+                <ul>
+
+                                  <li class="">
+                    <a href="tw/recruit/page/人力發展" class="l-mobile-nav__link "> 人力發展 </a>
+                  </li>
+                                  <li class="">
+                    <a href="tw/recruit/page/教育訓練" class="l-mobile-nav__link "> 教育訓練 </a>
+                  </li>
+                                  <li class="">
+                    <a href="tw/recruit/page/薪資福利" class="l-mobile-nav__link "> 薪資福利 </a>
+                  </li>
+                                  <li class="">
+                    <a href="tw/recruit/page/加入我們" class="l-mobile-nav__link "> 加入我們 </a>
+                  </li>
+                
+                </ul>
+              </li>
+
+            </ul>
+            <div class="mt:10 p:20|30 flex flex:nowrap flex:row  {mr:30;f:18;f:#222;f:medium}>a">
+              <a href="tw/esg">企業永續</a>
+              <a href="tw/news/article">新聞中心</a>
+              <a href="tw/contact">聯絡我們</a>
+            </div>
+          
+            <!--投資人>股東專欄，手機選單-->
+            <div class="l-mobile-nav__panel" data-menu="ir-01">
+              <a class="l-mobile-nav__panel-header " href="javascript:;"> 股東專欄 </a>
+              <ul class="l-mobile-nav__list h:auto!">
+                <li class="">
+                  <a href="tw/investor/shareholder">年度股東常會</a>
+                </li>
+              </ul>
+            </div>
+            <!--投資人>財務報表，手機選單-->
+            <div class="l-mobile-nav__panel" data-menu="ir-02">
+              <a class="l-mobile-nav__panel-header " href="javascript:;"> 財務報表 </a>
+              <ul class="l-mobile-nav__list h:auto!">
+                <li>
+                  <a href="tw/investor/month">月營收報告</a>
+                </li>
+                <li>
+                  <a href="tw/investor/report">財務報告</a>
+                </li>
+                <li>
+                  <a href="tw/investor/annual">公司年報</a>
+                </li>
+              </ul>
+            </div>
+            <!--投資人>公司治，手機選單-->
+            <div class="l-mobile-nav__panel" data-menu="ir-03">
+              <a class="l-mobile-nav__panel-header " href="javascript:;"> 公司治理 </a>
+              <ul class="l-mobile-nav__list h:auto!">
+
+                              <li>
+                  <a href="tw/investor/governance/公司章程與法律規章">公司章程與法律規章</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/組織架構">組織架構</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/董事會">董事會</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/審計委員會">審計委員會</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/薪資報酬委員會">薪資報酬委員會</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/永續發展委員會">永續發展委員會</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/獨立董事與會計師及稽核主管溝通情形">獨立董事與會計師及稽核主管溝通情形</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/誠信經營">誠信經營</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/內部稽核">內部稽核</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/資通安全">資通安全</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/風險管理">風險管理</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/利害關係人">利害關係人</a>
+                </li>
+                              <li>
+                  <a href="tw/investor/governance/職場多元化及性別平等">職場多元化及性別平等</a>
+                </li>
+              
+              </ul>
+            </div> 
+
+          </div>
+          <div class="w:full flex flex:nowrap flex:row jc:space-between p:40|30 bg:#f0f0f0">
+            <div class="flex flex:nowrap flex:row ai:end gap-x:16">
+              <a class="outsidelink" href="http://msmweb.c-techone.com/" target="_blank"><img src="assets/img/icon/i-mb-navi-msm.svg"></a>
+              <!-- <a class="outsidelink" href="https://www.oolomobility.com/" target="_blank"><img src="assets/img/icon/i-mb-navi-oolo.svg"></a> -->
+            </div>
+            <div class="flex gap-x:10 flex:nowrap ai:end">
+              <!-- <a href="#"><span class="w:30 h:30 {w:full;h:auto}_svg"><img src="assets/img/icon/i-mb-navi-youtube.svg"
+            class="js-svg"></span></a> -->
+            <a href="tw/contact"><span class="w:30 h:30 {w:full;h:auto}_svg"><img src="assets/img/icon/i-mb-navi-mail.svg"
+            class="js-svg"></span></a>
+            <!-- <a href="#"><span class="w:30 h:30 {w:full;h:auto}_svg"><img src="assets/img/icon/i-mb-navi-in.svg"
+            class="js-svg"></span></a> -->
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</header>    <main class="overflow:hidden">
+        <p class="home-logo abs left:30 top:30 w:90 h:18 z:9 {top:40;w:120;h:24}@sm {left:80;top:50;w:150;h:30}@lg ">
+            <img src="assets/img/logo/c-tech-logo.svg" class="w:full">
+        </p>
+        <section data-cursor>
+            <div class="c-hero rel" >
+                <div class="banner-block h:100vh ">
+                    <div class=" banner-slick h:100vh">
+
+                    
+                                            
+                        
+                        <!--影片-->
+                        <a href="tw/product/cate/e_mobility_battery" target="_self" class="banner-list h:100vh" data-type="video">
+                            <div class="video-box">
+                                <div class="video-mp4">
+                                    <video class="autoplay-video" muted playsinline loop>
+                                        <source src="/uploads/images/video/video-20231024.mp4" type="video/mp4" />
+                                    </video>
+                                </div>
+                            </div>
+                            <div class="c-hero__content c-hero__content--white c-hero__content--left ">
+                                <div class="c-hero__inner mt:-80@lg">
+                                    <!-- <p class="mb:10 f:24 f:32@sm lh:1 f:semibold text-shadow:0|0|10|black/0.16 default-font-en">
+                                        Lithium-ion, Lithium Polymer                                    </p> -->
+                                    <h1 class="inline-block pb:20 mb:20 f:40 f:50@sm f:100@lg lh:1.3 f:semibold bb:5|solid|primary text-shadow:0|0|10|black/0.16 default-font-en">
+                                        A Green Solution Expert                                    </h1>
+                                </div>
+                            </div>
+                        </a>
+
+                        
+                    
+                    
+                    </div>
+                    <div class="slick-slider-dots "></div>
+                    <div class="muted-btn-box ">
+                        <!-- 這個是開啟聲音的-->
+                        <div class="muted-open">
+                            <div
+                                class="flex w:40 h:40 p:0|10 ai:center jc:center bg:white shadow:0|0|10|#ccc rounded {w:60;h:60}@sm">
+                                <img src="assets/img/icon/voice-close.svg" alt="" />
+                            </div>
+                        </div>
+                        <!-- 這個是關閉聲音的 -->
+                        <div class="muted-close" style="display: none">
+                            <div
+                                class="flex w:40 h:40 p:0|10 ai:center jc:center bg:white shadow:0|0|10|#ccc rounded {w:60;h:60}@sm">
+                                <img src="assets/img/icon/voice-open.svg" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="esg_cursor pointer-events:none z:2">
+                    <div class="tbox">
+                       
+                    </div>
+                </div>
+                </div>
+                <div class="banner-decorate white-index">
+                </div>
+                <div class="btn-scrolldown abs left:30 bottom:15% z:99 {right:5vw;left:unset;bottom:22%}@md {right:12.5%;}@2xl">
+                    <a data-anchor="#serviceOuter" class="flex flex:nowrap ai:center jc:center f:20 f:white f:medium default-font-en {rotate(-360);~transform|.3s}:hover>span>img">Scroll Down<span class="w:36 h:36 inline-block ml:20"><img src="assets/img/icon/i-scrolldown.svg" class="rotate(0) ~transform|.3s"></span></a>
+                </div>
+           
+        </section>
+
+            <!--我們的服務-->
+        <section>
+            <div class="rel bg:white bg:#FBFBFB@md  index-prod-outer h:900@>xl" id="serviceOuter">
+                <!---->
+                <div class="abs left:0 bottom:0 w:full h:full z:0">
+                    <picture>
+                        <source media="(min-width: 1024px)" srcset="assets/img/index/index-s2-lg-bg.png" />
+                        <source media="(min-width: 768px)" srcset="assets/img/index/index-s2-md-bg.png" />
+                        <img src="assets/img/index/index-s2-xs-bg.png" class="blend:multiply w:full h:full" />
+                    </picture>
+                </div>
+                <div
+                    class="rel p:60|30|100|30 rel flex flex:column z:2 p:60|30|150|30@sm {pt:100;pb:180;flex:row;flex:nowrap;gap:30;}@md {gap:60}@lg">
+                    <div class="flex flex:column jc:center mb:40 {w:30%;pl:30}@md {w:24.4271%;mb:0;jc:start}@lg pl:8.5416%@>xl"
+                        data-aos="fade-right" data-aos-delay="0">
+
+                        <h2 class="mb:20 {mb:30;}@sm f:30 f:45@sm f:medium lh:1.125">我們的<span
+                                class="f:primary">服務</span>
+                        </h2>
+                        <p>我們擁有優秀的團隊，能完全控制供應鏈系統，高能產量有效穩定，採用效率最高的加工方法，完美的品質管理作業，生產線穩定不超載，保證為您提供準時交期與最高品質。</p>
+                        <div class="w:full flex flex:nowrap mt:40 mt:100@md">
+                            <div
+                                class="swiper-pagination flex gap-x:10 {rel;w:10;h:10;bg:primary;b:1|solid|primary;rounded;~width|.3s,background-color|.3s}_span {w:80;b:1|solid|primary;bg:transparent}_.swiper-pagination-bullet-active {w:full;bg:primary/0.6;~width|1s;@introNav|linear|8s|transform:left;}_.swiper-pagination-bullet-active:before {content:'';abs;left:0;top:0;w:0;h:full;bg:transparent;~width|1s}_span:before">
+                            </div>
+
+
+                        </div>
+                    </div>
+                    <div class=" {w:calc(100%-30%);ml:0}@md w:calc(100%-24.4271%)@lg overflow:hidden"
+                        data-aos="fade-left" data-aos-delay="250">
+                        <div class="swiper">
+                            <div class="swiper-wrapper ">
+
+                                                            <a class="swiper-slide rel flex flex:column ai:center t:center p:40 p:60|50@sm p:50|24@lg bg:#f0f0f0 {content:'';w:full;h:full;abs;left:0;top:0;b:1|solid|black/0.1;r:20}:before {b:1|solid|primary/1}:hover:before r:20 {bg:white;~background|.3s}:hover {height:initial;mt:16;translateX(0);opacity:1;~height|.5s;~transform|.3s}:hover>.des {h:50;mt:40;translateX(0);flex;ai:center;jc:center;opacity:1;~height|.5s;~transform|.3s}:hover>.i-more ~transform|.5s"
+                                    href="tw/product/cate/e_mobility_battery">
+                                    <span class="w:240 h:192 {w:250;h:200}@sm">
+                                        <img src="/uploads/images/products/i-nav-prod-1.svg" class="w:full">
+                                    </span>
+                                    <h4 class="mt:20 f:20 f:24@sm f:30@lg lh:1.3333 f:semibold">
+                                        e-mobility battery                                    </h4>
+                                    <!-- <p class="pt:12 f:18 f:20@lg f:#222">中文名稱</p> -->
+                                    <p class="f:lighter lh:1.5 px:10 des opacity:0 h:0 translateY(50) ~height|.5s ~transform|.5s">
+                                                                            </p>
+                                    <span class="w:50 i-more opacity:0 h:0 translateY(50) ~height|.5s ~transform|.5s">
+                                        <img src="assets/img/index/index-serv-i-more.svg">
+                                    </span>
+                                </a>
+                                                            <a class="swiper-slide rel flex flex:column ai:center t:center p:40 p:60|50@sm p:50|24@lg bg:#f0f0f0 {content:'';w:full;h:full;abs;left:0;top:0;b:1|solid|black/0.1;r:20}:before {b:1|solid|primary/1}:hover:before r:20 {bg:white;~background|.3s}:hover {height:initial;mt:16;translateX(0);opacity:1;~height|.5s;~transform|.3s}:hover>.des {h:50;mt:40;translateX(0);flex;ai:center;jc:center;opacity:1;~height|.5s;~transform|.3s}:hover>.i-more ~transform|.5s"
+                                    href="tw/product/cate/backup_power_system_battery">
+                                    <span class="w:240 h:192 {w:250;h:200}@sm">
+                                        <img src="/uploads/images/products/i-nav-prod-2.svg" class="w:full">
+                                    </span>
+                                    <h4 class="mt:20 f:20 f:24@sm f:30@lg lh:1.3333 f:semibold">
+                                        backup power system battery                                    </h4>
+                                    <!-- <p class="pt:12 f:18 f:20@lg f:#222">中文名稱</p> -->
+                                    <p class="f:lighter lh:1.5 px:10 des opacity:0 h:0 translateY(50) ~height|.5s ~transform|.5s">
+                                                                            </p>
+                                    <span class="w:50 i-more opacity:0 h:0 translateY(50) ~height|.5s ~transform|.5s">
+                                        <img src="assets/img/index/index-serv-i-more.svg">
+                                    </span>
+                                </a>
+                                                            <a class="swiper-slide rel flex flex:column ai:center t:center p:40 p:60|50@sm p:50|24@lg bg:#f0f0f0 {content:'';w:full;h:full;abs;left:0;top:0;b:1|solid|black/0.1;r:20}:before {b:1|solid|primary/1}:hover:before r:20 {bg:white;~background|.3s}:hover {height:initial;mt:16;translateX(0);opacity:1;~height|.5s;~transform|.3s}:hover>.des {h:50;mt:40;translateX(0);flex;ai:center;jc:center;opacity:1;~height|.5s;~transform|.3s}:hover>.i-more ~transform|.5s"
+                                    href="tw/product/cate/ess">
+                                    <span class="w:240 h:192 {w:250;h:200}@sm">
+                                        <img src="/uploads/images/products/i-nav-prod-4.svg" class="w:full">
+                                    </span>
+                                    <h4 class="mt:20 f:20 f:24@sm f:30@lg lh:1.3333 f:semibold">
+                                        ESS                                    </h4>
+                                    <!-- <p class="pt:12 f:18 f:20@lg f:#222">中文名稱</p> -->
+                                    <p class="f:lighter lh:1.5 px:10 des opacity:0 h:0 translateY(50) ~height|.5s ~transform|.5s">
+                                                                            </p>
+                                    <span class="w:50 i-more opacity:0 h:0 translateY(50) ~height|.5s ~transform|.5s">
+                                        <img src="assets/img/index/index-serv-i-more.svg">
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+            </div>
+        </section>
+    
+        <!--亮點實績：-->
+        <section
+            class="rel z:1 mt:-80 pt:80 {mt:-100;pt:100}@sm background-image:url(assets/img/index/index-s3-bg.png) background-repeat:no-repeat background-position:left|top h:900@lg h:1059@>xl background-size:auto|100% background-size:cover@md ">
+            <div class="l-wrapper-large py:80 py:200@>xl highlights-outer">
+                <div class="f:medium" data-aos="fade-up" data-aos-delay="0">
+                    <h2 class="f:32 f:40@sm f:52@lg inline-block f:white">亮點實績</h2>
+                    <h6 class="f:20 mt:16 {ml:16;mt:0;f:24;}@sm f:30@lg inline-block f:white/0.85">企業永續成果</h6>
+                </div>
+                <p class="f:medium mt:30 mb:80 f:white max-w:1200 f:18@sm" data-aos="fade-up" data-aos-delay="250">
+                利害關係人指任何會對組織活動造成衝擊或可能受到組織活動直接或間接衝擊的個人或特定組織(活動包括產品、服務或程序)。 西勝國際的利害關係人有股東 / 投資人、客戶、供應商 / 外包商、員工、政府機關等。                </p>
+                <!--輪播-->
+
+                <div class="swiper h:300@md ">
+                    <div class="swiper-wrapper pr:80@md">
+                                                <div class="swiper-slide">
+                            <div class="flex flex:column gap:40 gap:50@sm">
+                                
+                                <div class="t:center {flex;flex:nowrap;ai:end;jc:start;gap:20}@sm">
+                                    <div
+                                        class="flex flex:nowrap jc:center ai:end gap:10 gap:20@sm  f:white ">
+                                        <span class="f:60 f:100@sm f:semibold lh:1 fs-lato" data-count="17">0</span><span
+                                            class="f:32 f:45@sm f:medium lh:1 mb:10 default-font-en">件</span>
+                                    </div>
+                                    <p class="f:20 {f:24;t:left;mb:10}@sm f:30@lg f:white f:medium lh:1.4666">年度專利累積</p>
+                                </div>
+
+                                <div class="t:center {flex;flex:nowrap;ai:end;jc:start;gap:20}@sm">
+                                    <div
+                                        class="flex flex:nowrap jc:center ai:end gap:10 gap:20@sm f:medium f:white ">
+                                        <span class="f:60 f:100@sm f:semibold lh:1 fs-lato" data-count="50">0</span><span
+                                            class="f:32 f:45@sm f:medium lh:1 mb:10 default-font-en">%</span>
+                                    </div>
+                                    <p class="f:20 {f:24;t:left;mb:10}@sm f:30@lg f:white f:medium lh:1.4666">以上員工投入國際專案計畫</p>
+                                </div>
+
+                            </div>
+                        </div>
+                                                <div class="swiper-slide">
+                            <div class="flex flex:column gap:40 gap:50@sm">
+                                
+                                <div class="t:center {flex;flex:nowrap;ai:end;jc:start;gap:20}@sm">
+                                    <div
+                                        class="flex flex:nowrap jc:center ai:end gap:10 gap:20@sm  f:white ">
+                                        <span class="f:60 f:100@sm f:semibold lh:1 fs-lato" data-count="10">0</span><span
+                                            class="f:32 f:45@sm f:medium lh:1 mb:10 default-font-en">%</span>
+                                    </div>
+                                    <p class="f:20 {f:24;t:left;mb:10}@sm f:30@lg f:white f:medium lh:1.4666">以上總部員工比例投入研發團隊</p>
+                                </div>
+
+                                <div class="t:center {flex;flex:nowrap;ai:end;jc:start;gap:20}@sm">
+                                    <div
+                                        class="flex flex:nowrap jc:center ai:end gap:10 gap:20@sm f:medium f:white ">
+                                        <span class="f:60 f:100@sm f:semibold lh:1 fs-lato" data-count="11.5263">0</span><span
+                                            class="f:32 f:45@sm f:medium lh:1 mb:10 default-font-en">億</span>
+                                    </div>
+                                    <p class="f:20 {f:24;t:left;mb:10}@sm f:30@lg f:white f:medium lh:1.4666">2023營收淨額</p>
+                                </div>
+
+                            </div>
+                        </div>
+                                            </div>
+                    <div
+                        class="rel mt:50 flex flex:row flex:nowrap jc:center ai:center gap:30 z:2 {jc:start;}@sm {w:70;h:220;flex:wrap;flex:column;mt:0;abs;right:0;top:1/2;translateY(-50%);}@md  ">
+                        <div
+                            class="swiper-btn-prev w:45 h:45 flex! jc:center ai:center {rotate(90)}@md fill:primary:hover_path {stoke:white}:hover>g ~.3s">
+                            <svg width="45" height="45" viewBox="0 0 45 45">
+                                <g id="Group_90622" data-name="Group 90622" transform="translate(-88.999 -2332)">
+                                    <g id="Path_24016" data-name="Path 24016"
+                                        transform="translate(133.999 2332) rotate(90)" fill="rgba(0,0,0,0.3)">
+                                        <path
+                                            d="M 22.5 44.00000381469727 C 19.59708023071289 44.00000381469727 16.78152084350586 43.43168258666992 14.13154029846191 42.31083297729492 C 11.57145023345947 41.22801208496094 9.272049903869629 39.67764282226562 7.297210216522217 37.70279312133789 C 5.322360038757324 35.72795486450195 3.771990060806274 33.42855453491211 2.689169883728027 30.86846351623535 C 1.568320035934448 28.21848297119141 1 25.40292358398438 1 22.50000381469727 C 1 19.59708404541016 1.568320035934448 16.78152465820312 2.689169883728027 14.13154411315918 C 3.771990060806274 11.57145404815674 5.322360038757324 9.272053718566895 7.297210216522217 7.29720401763916 C 9.272049903869629 5.32236385345459 11.57145023345947 3.77199387550354 14.13154029846191 2.689173698425293 C 16.78152084350586 1.568323850631714 19.59708023071289 1.000003814697266 22.5 1.000003814697266 C 25.40291976928711 1.000003814697266 28.21847915649414 1.568323850631714 30.86845970153809 2.689173698425293 C 33.42855072021484 3.77199387550354 35.72795104980469 5.32236385345459 37.70278930664062 7.29720401763916 C 39.67763900756836 9.272053718566895 41.22800827026367 11.57145404815674 42.31082916259766 14.13154411315918 C 43.43167877197266 16.78152465820312 44 19.59708404541016 44 22.50000381469727 C 44 25.40292358398438 43.43167877197266 28.21848297119141 42.31082916259766 30.86846351623535 C 41.22800827026367 33.42855453491211 39.67763900756836 35.72795486450195 37.70278930664062 37.70279312133789 C 35.72795104980469 39.67764282226562 33.42855072021484 41.22801208496094 30.86845970153809 42.31083297729492 C 28.21847915649414 43.43168258666992 25.40291976928711 44.00000381469727 22.5 44.00000381469727 Z"
+                                            stroke="none" />
+                                        <path
+                                            d="M 22.5 43.00000381469727 C 25.26836013793945 43.00000381469727 27.95285034179688 42.4582633972168 30.47891044616699 41.38983535766602 C 32.9197883605957 40.35742568969727 35.11235809326172 38.87902450561523 36.99568939208984 36.99569320678711 C 38.87902069091797 35.11236190795898 40.357421875 32.91979217529297 41.38983154296875 30.47891426086426 C 42.45825958251953 27.95285415649414 43 25.26836395263672 43 22.50000381469727 C 43 19.73164367675781 42.45825958251953 17.04714393615723 41.38983154296875 14.52109336853027 C 40.357421875 12.08020401000977 38.87902069091797 9.887643814086914 36.99568939208984 8.004313468933105 C 35.11235809326172 6.120983600616455 32.9197998046875 4.642583847045898 30.47891044616699 3.61017370223999 C 27.95285034179688 2.541743755340576 25.26836013793945 2.000003814697266 22.5 2.000003814697266 C 19.73163986206055 2.000003814697266 17.04714965820312 2.541743755340576 14.52108955383301 3.61017370223999 C 12.0802001953125 4.642583847045898 9.887639999389648 6.120983600616455 8.00430965423584 8.004313468933105 C 6.120979785919189 9.887643814086914 4.642580032348633 12.08020401000977 3.610169887542725 14.52109336853027 C 2.541739940643311 17.04714393615723 2 19.73164367675781 2 22.50000381469727 C 2 25.26836395263672 2.541739940643311 27.95285415649414 3.610169887542725 30.47891426086426 C 4.642580032348633 32.91979217529297 6.120979785919189 35.11236190795898 8.00430965423584 36.99569320678711 C 9.887639999389648 38.87902450561523 12.08020973205566 40.35742568969727 14.52108955383301 41.38983535766602 C 17.04714965820312 42.4582633972168 19.73163986206055 43.00000381469727 22.5 43.00000381469727 M 22.5 45.00000381469727 C 10.07359981536865 45.00000381469727 -3.552713678800501e-15 34.9264030456543 -3.552713678800501e-15 22.50000381469727 C -3.552713678800501e-15 10.07359409332275 10.07359981536865 3.814697265625e-06 22.5 3.814697265625e-06 C 34.92639923095703 3.814697265625e-06 45 10.07359409332275 45 22.50000381469727 C 45 34.9264030456543 34.92639923095703 45.00000381469727 22.5 45.00000381469727 Z"
+                                            stroke="none" fill="#fff" />
+                                    </g>
+                                    <g id="Group_5883" data-name="Group 5883"
+                                        transform="translate(121.246 2347.708) rotate(90)">
+                                        <path id="Path_192" data-name="Path 192" d="M0,0H18.665"
+                                            transform="translate(7.09) rotate(90)" fill="none" stroke="#fff"
+                                            stroke-linecap="round" stroke-width="2" />
+                                        <path id="Path_193" data-name="Path 193" d="M0,13.733,6.866,6.917,0,0"
+                                            transform="translate(13.733 12.562) rotate(90)" fill="none" stroke="#fff"
+                                            stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" />
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                        <div class="swiper-pagination f:white default-font-en flex gap:10"></div>
+
+                        <div
+                            class="swiper-btn-next w:55 h:55 flex! jc:center ai:center rounded {rotate(90)}@md fill:primary:hover_path {stoke:white}:hover>g ~.3s">
+
+                            <svg width="45" height="45" viewBox="0 0 45 45">
+                                <g id="Group_90623" data-name="Group 90623" transform="translate(-255.001 -2332)">
+                                    <g id="Path_24016" data-name="Path 24016"
+                                        transform="translate(300.001 2332) rotate(90)" fill="rgba(0,0,0,0.3)">
+                                        <path
+                                            d="M 22.5 43.99999618530273 C 19.59708023071289 43.99999618530273 16.78152084350586 43.43167495727539 14.13154029846191 42.31082534790039 C 11.57145023345947 41.22800445556641 9.272049903869629 39.67763519287109 7.297210216522217 37.70279693603516 C 5.322360038757324 35.72794723510742 3.771990060806274 33.42854690551758 2.689169883728027 30.86845588684082 C 1.568320035934448 28.21847534179688 1 25.40291595458984 1 22.49999618530273 C 1 19.59707641601562 1.568320035934448 16.78151702880859 2.689169883728027 14.13153648376465 C 3.771990060806274 11.57144641876221 5.322360038757324 9.272046089172363 7.297210216522217 7.297196388244629 C 9.272049903869629 5.322356224060059 11.57145023345947 3.771986246109009 14.13154029846191 2.689166069030762 C 16.78152084350586 1.568316221237183 19.59708023071289 0.9999961853027344 22.5 0.9999961853027344 C 25.40291976928711 0.9999961853027344 28.21847915649414 1.568316221237183 30.86845970153809 2.689166069030762 C 33.42855072021484 3.771986246109009 35.72795104980469 5.322356224060059 37.70278930664062 7.297196388244629 C 39.67763900756836 9.272046089172363 41.22800827026367 11.57144641876221 42.31082916259766 14.13153648376465 C 43.43167877197266 16.78151702880859 44 19.59707641601562 44 22.49999618530273 C 44 25.40291595458984 43.43167877197266 28.21847534179688 42.31082916259766 30.86845588684082 C 41.22800827026367 33.42854690551758 39.67763900756836 35.72794723510742 37.70278930664062 37.70279693603516 C 35.72795104980469 39.67763519287109 33.42855072021484 41.22800445556641 30.86845970153809 42.31082534790039 C 28.21847915649414 43.43167495727539 25.40291976928711 43.99999618530273 22.5 43.99999618530273 Z"
+                                            stroke="none" />
+                                        <path
+                                            d="M 22.5 1.999996185302734 C 19.73163986206055 1.999996185302734 17.04714965820312 2.541736602783203 14.52108955383301 3.610164642333984 C 12.0802001953125 4.642574310302734 9.887641906738281 6.120975494384766 8.004310607910156 8.004306793212891 C 6.120979309082031 9.887638092041016 4.642578125 12.08019638061523 3.61016845703125 14.52108573913574 C 2.541740417480469 17.0471363067627 2 19.73163604736328 2 22.49999618530273 C 2 25.26835632324219 2.541740417480469 27.95285606384277 3.61016845703125 30.47890663146973 C 4.642578125 32.91979598999023 6.120979309082031 35.11235809326172 8.004310607910156 36.99568557739258 C 9.887641906738281 38.8790168762207 12.0802001953125 40.35741424560547 14.52108955383301 41.38982772827148 C 17.04714965820312 42.45825576782227 19.73163986206055 42.99999618530273 22.5 42.99999618530273 C 25.26836013793945 42.99999618530273 27.95285034179688 42.45825576782227 30.47891044616699 41.38982772827148 C 32.9197998046875 40.35741424560547 35.11235809326172 38.8790168762207 36.99568939208984 36.99568557739258 C 38.87902069091797 35.11235809326172 40.357421875 32.91979598999023 41.38983154296875 30.47890663146973 C 42.45825958251953 27.95285606384277 43 25.26835632324219 43 22.49999618530273 C 43 19.73163604736328 42.45825958251953 17.0471363067627 41.38983154296875 14.52108573913574 C 40.357421875 12.08019638061523 38.87902069091797 9.887638092041016 36.99568939208984 8.004306793212891 C 35.11235809326172 6.120975494384766 32.9197998046875 4.642574310302734 30.47891044616699 3.610164642333984 C 27.95285034179688 2.541736602783203 25.26836013793945 1.999996185302734 22.5 1.999996185302734 M 22.5 -3.814697265625e-06 C 34.92639923095703 -3.814697265625e-06 45 10.07358551025391 45 22.49999618530273 C 45 34.92640686035156 34.92639923095703 44.99999618530273 22.5 44.99999618530273 C 10.07360076904297 44.99999618530273 0 34.92640686035156 0 22.49999618530273 C 0 10.07358551025391 10.07360076904297 -3.814697265625e-06 22.5 -3.814697265625e-06 Z"
+                                            stroke="none" fill="#fff" />
+                                    </g>
+                                    <g id="Group_5883" data-name="Group 5883"
+                                        transform="translate(287.182 2347.708) rotate(90)">
+                                        <path id="Path_192" data-name="Path 192" d="M0,0H18.665"
+                                            transform="translate(7.09 19.428) rotate(-90)" fill="none" stroke="#fff"
+                                            stroke-linecap="round" stroke-width="2" />
+                                        <path id="Path_193" data-name="Path 193" d="M0,0,6.866,6.816,0,13.733"
+                                            transform="translate(0 6.866) rotate(-90)" fill="none" stroke="#fff"
+                                            stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" />
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+            <!--技術優勢-->
+        <section class="">
+            <div
+                class="rel rel mt:-30 mb:250 pt:30 h:839 mb:30vw@xs {h:972;mt:-50;pt:50;mb:40vw}@sm h:820@md {h:1000;mt:-100;pt:100;mb:60}@lg h:1100@xl">
+                <!---->
+                <div class="rel l-wrapper-large pt:60 pt:80@sm py:80@lg data-shortcuts ">
+                    <div data-aos="fade-left" data-aos-delay="500"
+                        class="data-shortcuts-circle mb:40 w:full max-w:330 mx:auto {abs;left:0;top:50%;w:160;h:310;mt:-155;z:3}@lg {h:390;mt:-195;}@>xl ">
+                        <div class="swiper overflow:visible! h:310@lg h:390@>xl">
+                            <div class="swiper-wrapper ">
+
+                                                            <div class="swiper-slide ">
+                                    <div class="w:85 h:85 {w:90;h:90}@sm {w:112;h:112}@>xl flex ai:center jc:center bg:white rounded f:primary shadow:0|0|15|black/0.2">
+                                        <span class="w:40">
+                                            <img src="/uploads/images/index/ind-tech-i01.svg" class="w:full">
+                                        </span>
+                                        <span class="f:25 f:semibold default-font-en">01</span>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide ">
+                                    <div class="w:85 h:85 {w:90;h:90}@sm {w:112;h:112}@>xl flex ai:center jc:center bg:white rounded f:primary shadow:0|0|15|black/0.2">
+                                        <span class="w:40">
+                                            <img src="/uploads/images/index/ind-tech-i02.svg" class="w:full">
+                                        </span>
+                                        <span class="f:25 f:semibold default-font-en">02</span>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide ">
+                                    <div class="w:85 h:85 {w:90;h:90}@sm {w:112;h:112}@>xl flex ai:center jc:center bg:white rounded f:primary shadow:0|0|15|black/0.2">
+                                        <span class="w:40">
+                                            <img src="/uploads/images/index/ind-tech-i03.svg" class="w:full">
+                                        </span>
+                                        <span class="f:25 f:semibold default-font-en">03</span>
+                                    </div>
+                                </div>
+                            
+                            </div>
+                        </div>
+                    </div>
+                    <div data-aos="fade-left" data-aos-delay="250" class="rel data-shortcuts-info z:2 {rel;w:600;h:600;ml:50}@lg {w:798;h:798;ml:80}@>xl">
+                        <div class="swiper h:600@lg h:798@>xl">
+                            <div class="swiper-wrapper">
+
+                                                            <div class="swiper-slide h:600@lg h:798@>xl">
+                                    <div class="p:40|30 p:70|40@sm f:white r:10 r:20@sm {h:full;flex;flex:column;ai:center;jc:center}@lg  bg:url(assets/img/index/ind-tech-bg1.jpg) background-repeat:no-repeat background-position:left|top background-size:cover rounded@lg">
+                                        <div class="w:320@lg w:440@>xl w:480:lang(en)@lg">
+                                            <div class="text-content flex flex:nowrap ai:center gap-x:20 gap-x:40@sm  {flex:wrap;flex:column;}@sm">
+                                                <p class="f:45 f:72@sm {f:100;mb:20}@lg f:bold f:white lh:1 default-font-en">
+                                                    01                                                </p>
+                                                <p class="flex flex:nowrap gap-x:16">
+                                                    <span class="w:30 w:42@sm w:45@lg lh:1 hide:lang(en)@<md">
+                                                        <img src="/uploads/images/index/ind-tech-i01.svg" class="w:full">
+                                                    </span>
+                                                    <span class="f:32 f:24:lang(en) f:32:lang(en)@xl f:39@sm f:45@lg f:medium f:white lh:1 lh:1.4:lang(en)">競爭優勢</span>
+                                                </p>
+                                            </div>
+                                            <div class="des">
+                                                <p class="mt:27 mb:20 t:center:lang(en)@lg {mt:40;mb:30}@lg">
+                                                    我們擁有優秀的團隊，能完全控制供應鏈系統，高能產量有效穩定，採用效率最高的加工方法，完美的品質管理作業，生產線穩定不超載，保證為您提供準時交期與最高品質。                                                </p>
+                                                <p class="t:center@lg">
+                                                    <a href="tw/tech/page/競爭優勢" class="rel pb:8 inline-block f:17 bb:2|solid|white  {f:20;f:medium;mx:auto}@lg {content:'';abs;block;left:0;bottom:-1;w:0;bg:primary;h:2;~width|.3s;}:before {w:full;~width|.3s;}:hover:before">了解更多</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide h:600@lg h:798@>xl">
+                                    <div class="p:40|30 p:70|40@sm f:white r:10 r:20@sm {h:full;flex;flex:column;ai:center;jc:center}@lg  bg:url(assets/img/index/ind-tech-bg1.jpg) background-repeat:no-repeat background-position:left|top background-size:cover rounded@lg">
+                                        <div class="w:320@lg w:440@>xl w:480:lang(en)@lg">
+                                            <div class="text-content flex flex:nowrap ai:center gap-x:20 gap-x:40@sm  {flex:wrap;flex:column;}@sm">
+                                                <p class="f:45 f:72@sm {f:100;mb:20}@lg f:bold f:white lh:1 default-font-en">
+                                                    02                                                </p>
+                                                <p class="flex flex:nowrap gap-x:16">
+                                                    <span class="w:30 w:42@sm w:45@lg lh:1 hide:lang(en)@<md">
+                                                        <img src="/uploads/images/index/ind-tech-i02.svg" class="w:full">
+                                                    </span>
+                                                    <span class="f:32 f:24:lang(en) f:32:lang(en)@xl f:39@sm f:45@lg f:medium f:white lh:1 lh:1.4:lang(en)">品質管理體系</span>
+                                                </p>
+                                            </div>
+                                            <div class="des">
+                                                <p class="mt:27 mb:20 t:center:lang(en)@lg {mt:40;mb:30}@lg">
+                                                    我們擁有優秀的團隊，能完全控制供應鏈系統，高能產量有效穩定，採用效率最高的加工方法，完美的品質管理作業，生產線穩定不超載，保證為您提供準時交期與最高品質。                                                </p>
+                                                <p class="t:center@lg">
+                                                    <a href="tw/tech/page/品質管理體系" class="rel pb:8 inline-block f:17 bb:2|solid|white  {f:20;f:medium;mx:auto}@lg {content:'';abs;block;left:0;bottom:-1;w:0;bg:primary;h:2;~width|.3s;}:before {w:full;~width|.3s;}:hover:before">了解更多</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide h:600@lg h:798@>xl">
+                                    <div class="p:40|30 p:70|40@sm f:white r:10 r:20@sm {h:full;flex;flex:column;ai:center;jc:center}@lg  bg:url(assets/img/index/ind-tech-bg1.jpg) background-repeat:no-repeat background-position:left|top background-size:cover rounded@lg">
+                                        <div class="w:320@lg w:440@>xl w:480:lang(en)@lg">
+                                            <div class="text-content flex flex:nowrap ai:center gap-x:20 gap-x:40@sm  {flex:wrap;flex:column;}@sm">
+                                                <p class="f:45 f:72@sm {f:100;mb:20}@lg f:bold f:white lh:1 default-font-en">
+                                                    03                                                </p>
+                                                <p class="flex flex:nowrap gap-x:16">
+                                                    <span class="w:30 w:42@sm w:45@lg lh:1 hide:lang(en)@<md">
+                                                        <img src="/uploads/images/index/ind-tech-i03.svg" class="w:full">
+                                                    </span>
+                                                    <span class="f:32 f:24:lang(en) f:32:lang(en)@xl f:39@sm f:45@lg f:medium f:white lh:1 lh:1.4:lang(en)">製造能力</span>
+                                                </p>
+                                            </div>
+                                            <div class="des">
+                                                <p class="mt:27 mb:20 t:center:lang(en)@lg {mt:40;mb:30}@lg">
+                                                    我們擁有優秀的團隊，能完全控制供應鏈系統，高能產量有效穩定，採用效率最高的加工方法，完美的品質管理作業，生產線穩定不超載，保證為您提供準時交期與最高品質。                                                </p>
+                                                <p class="t:center@lg">
+                                                    <a href="tw/tech/page/製造能力" class="rel pb:8 inline-block f:17 bb:2|solid|white  {f:20;f:medium;mx:auto}@lg {content:'';abs;block;left:0;bottom:-1;w:0;bg:primary;h:2;~width|.3s;}:before {w:full;~width|.3s;}:hover:before">了解更多</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+                <div class="abs left:0 top:0 w:full h:839 z:0 {h:1030;}@sm {h:1180}@xl">
+                    <div class="abs left:0 top:0 w:full h:full z:0 bg:#F5F5F5">
+                        <!-- <picture>
+                            <source media="(min-width: 1024px)" srcset="assets/img/index/index-s4-lg-bg.jpg" />
+                            <source media="(min-width: 768px)" srcset="assets/img/index/index-s4-md-bg.jpg" />
+                            <img src="assets/img/index/index-s4-xs-bg.jpg" class="blend:multiply w:full h:full" />
+                        </picture> -->
+                    </div>
+                    <div class="abs w:full h:9.5vw left:0 bottom:0 bg:white">
+                        <img src="assets/img/index/index-tech-d.svg" class="w:full">
+                    </div>
+
+                </div>
+                <div class="rel mt:40 mx:30 flex ai:center jc:center mt:60@sm mx:0@lg">
+                    <div class="rel w:full hide@<lg  {abs;right:50;w:884;h:991;bottom:-80}@lg ">
+                        <img src="assets/img/index/index-moto-p1.png" class="w:full h:full">
+                    </div>
+                    <div data-aos="fade-up" data-aos-delay="250"
+                        class="rel w:330 h:320 right:0 bottom:0 max-w:520 {w:580;h:560;max-w:unset}@sm {abs;right:80;bottom:-120;w:677;h:657;}@lg z:2 ">
+                        <img class="w:full" src="assets/img/index/index-moto-p2.png">
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+            <!--西勝合作客戶-->
+        <section>
+            <div class="l-wrapper-large index-partner pt:20 pb:80 py:50@sm">
+                <h2 class="f:32 f:40@sm f:45@md mb:24 mb:40@sm f:medium" data-aos="fade-up" data-aos-delay="0"><span class="f:primary">西勝</span>合作客戶</h2>
+                <div class="swiper" data-aos="fade-up" data-aos-delay="500">
+                    <div class="swiper-wrapper ">
+
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/index-brand-01.png"></a>
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/index-brand-02.png"></a>
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/index-brand-03.png"></a>
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/index-brand-04.png"></a>
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/index-brand-05.png"></a>
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/index-brand-06.png"></a>
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/dell.png"></a>
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/hp.png"></a>
+                                            <a class="swiper-slide cursor:default:hover"><img src="/uploads/images/index/acer.png"></a>
+                    
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+            <!--更多西勝相關訊息-->
+        <section>
+            <div class="l-wrapper-large rel pt:20 pb:60 {pt:50;pb:100}@sm pb:120@lg">
+                <h2 data-aos="fade-up" data-aos-delay="250" class="f:32 f:40@sm f:45@md mb:52 mb:40@sm mb:70@lg f:medium"> 更多<span class="f:primary">西勝</span>相關訊息</h2>
+                <div class="flex flex:column {flex;flex:nowrap;flex:row;jc:space-between;gap:30}@md gap:80@lg ">
+
+                                        <a href="tw/news/detail/ctech__a_legacy_of_innovation" data-aos="fade-up" data-aos-delay="500" class="block {w:full}:hover_.more:before {f:primary;~color|.3s}:hover>div>h5 {translate(-50%,-50%)|scale(1.1);~transform|.5s}:hover>div>p>img {w:61.458%;flex;flex:nowrap;jc:space-between;}@md">
+                        <div class="rel mb:30 {w:49.152%;mb:0}@md">
+                            <p class="f:20 lh:1"><span class="f:bold f:primary default-font-en">2025.01.08</span><span
+                                    class="px:10 f:gray/0.6">|</span><span class="f:black/0.5">公司訊息</span></p>
+                            <h5 class="mt:15 mb:30 f:24 f:medium lh:1.5">CTECH: A Legacy of Innovation                            </h5>
+                            <p class="pb:40 pb:0@md">With a dedicated team and complete control over the supply chain system, we ensure high-volume, stable production. By employing the most efficient processing methods and implementing flawless quality management practices, our production lines operate smoothly without overloading. This guarantees on-time delivery and the highest quality products for our valued customers.<br />
+<br />
+<br />
+<br />
+</p>
+                            <span class="more rel f:20 f:medium f:#222 bb:2|solid|black/0.2 {abs;left:0;bottom:0}@md {content:'';abs;block;left:0;bottom:-1;w:0;bg:primary;h:2;~width|.3s;}:before {w:full;~width|.3s;}:hover:before">查看詳細新聞資訊</span>
+                        </div>
+                        <div class="mt:30 {mt:50;mb:60}@sm r:20 overflow:hidden {w:41.8%;my:0;}@md">
+                            <p class="rel block w:full h:full aspect:330/190 aspect:369/407@lg overflow:hidden ">
+                                <img src="/uploads/images/新聞專用/CTECH_web2.jpg" class="abs left:50% top:50% translate(-50%,-50%)|scale(1) ~transform|.5s w:full h:full object-fit:cover">
+                            </p>
+                        </div>
+                    </a>
+                    
+                    <div data-aos="fade-up" data-aos-delay="500" class="w:full {w:32.986%;flex;flex:column;jc:space-between}@md {content:'';abs;block;left:0;bottom:-1;w:0;bg:primary;h:1;~width|.3s;}>a:before {f:primary;~color|0.3s}>a:hover>h5 {w:full;~width|.3s;}>a:hover:before">
+
+                                            <a href="tw/news/detail/西勝國際_3625__董事長黃宗偉贊助社團經費盼員工以健康驅動幸福企業" class="rel w:full py:30 py:40@sm block bb:1|solid|black/0.1">
+                            <p class="f:16 lh:1"><span class="f:bold f:black default-font-en">2026.04.08</span><span
+                                    class="pl:20 f:#222 f:black/0.5@md">公司訊息</span></p>
+                            <h5 class="f:20 mt:18">西勝國際(3625) 董事長黃宗偉贊助社團經費盼員工以健康驅動幸福企業</h5>
+                        </a>
+                                            <a href="tw/news/detail/西勝國際_3625__西勝bbu_pack合作專案持續推進_部分樣品將於上半年陸續交付客戶" class="rel w:full py:30 py:40@sm block bb:1|solid|black/0.1">
+                            <p class="f:16 lh:1"><span class="f:bold f:black default-font-en">2026.03.17</span><span
+                                    class="pl:20 f:#222 f:black/0.5@md">公司訊息</span></p>
+                            <h5 class="f:20 mt:18">西勝國際(3625) 西勝BBU Pack合作專案持續推進　部分樣品將於上半年陸續交付客戶</h5>
+                        </a>
+                                            <a href="tw/news/detail/西勝國際_3625__2025年經智慧財產局核准公告專利7件" class="rel w:full py:30 py:40@sm block bb:1|solid|black/0.1">
+                            <p class="f:16 lh:1"><span class="f:bold f:black default-font-en">2026.03.04</span><span
+                                    class="pl:20 f:#222 f:black/0.5@md">公司訊息</span></p>
+                            <h5 class="f:20 mt:18">西勝國際(3625) 2025年經智慧財產局核准公告專利7件</h5>
+                        </a>
+                    
+                    </div>
+                </div>
+                <a href="tw/news/article" data-aos="fade-up" data-aos-delay="0" class="rel inline-block pt:30 f:20 bb:2|solid|black/0.2 {abs;right:0;top:55;pt:0;}@md {content:'';abs;block;left:0;bottom:-1;w:0;bg:primary;h:2;~width|.5s;}:before {w:full;~width|.5s;}:hover:before">>了解更多</a>
+            </div>
+        </section>
+    
+    </main>
+<footer class="rel z-1">
+  <!---->
+  <div
+    class="bg:#F0F0F0@<lg bt:8|solid|secondary@<lg pt:58 pb:50 {pt:70;pb:80}@md bg:url(assets/img/layout/footerbg.svg)@lg background-size:cover background-repeat:no-repeat  background-position:right|top">
+    <div class="flex flex:column {flex:nowrap;flex:row;jc:space-between;w:calc(100%-120px);mx:auto;}@lg max-w:75vw@2xl">
+      <div
+        class="rel mt:60 p:50|30|0|30 flex flex:column o:2 {py:0;mt:60;flex;flex:nowrap;flex:row;ai:end;jc:space-between}@sm  {p:0;mt:0;flex:column;flex:wrap;jc:start;o:1;w:calc(100%-65%);pr:80}@lg  {bt:1|solid|rgb(85,85,85,0.3)}@<sm">
+        <div class="w:full">
+          <span class="block mb:30 w:220 h:44"><img src="assets/img/logo/i-footer-logo.svg"></span>
+          <ul class="p:0 m:0 mb:-10 {flex;flex:nowrap;list-style:none;mb:8;ai:center;f:black/0.7;lh:1.5}>li">
+            <li>地址：新北市新莊區中正路665號5樓</li>
+            <li>電話：+886-2-2901-6600</li>
+            <li>信箱：<a href="mailto:sales.bu1@c-techone.com">sales.bu1@c-techone.com</a></li>
+          </ul>
+        </div>
+        <div class="w:full">
+          <div class="mt:40 flex flex:nowrap ai:end gap:10 jc:end@sm {jc:start;}@>sm">
+            <a class="mr:16" href="http://msmweb.c-techone.com/" target="_blank"><span class="w:75 h:78"><img src="assets/img/icon/i-mb-navi-msm.svg"></span></a>
+            <!-- <a href="#"><span class="w:30 h:30 {w:full;h:auto}_svg"><img src="assets/img/icon/i-mb-navi-youtube.svg"
+                  class="js-svg"></span></a> -->
+            <a href="tw/contact"><span class="w:30 h:30 {w:full;h:auto}_svg"><img src="assets/img/icon/i-mb-navi-mail.svg"
+                  class="js-svg"></span></a>
+            <!-- <a href="#"><span class="w:30 h:30 {w:full;h:auto}_svg"><img src="assets/img/icon/i-mb-navi-in.svg"
+                  class="js-svg"></span></a> -->
+          </div>
+          <p class="pt:15 f:14! lh:1.71">Copyrights © 2024 All Rights Reserved by <span
+              class="block@<2xs">C-Tech.</span>
+          </p>
+        </div>
+      </div>
+      <div class="o:1 {w:65%;o:2;}@lg">
+        <div
+          class="mx:30 {grid-cols:4;gap-x:30;gap-y:40}@sm {grid-cols:5;gap:30}@>md {bb:1|solid|rgb(85,85,85,0.5);}>div@<sm {hide}>div>ul@<sm {p:0;m:0;mb:-10}>div>ul {list-style:none;mb:10;f:16;lh:1.5}>div>ul>li {rel;py:20;block;f:18;}>div>h6 {f:bold;}>div>h6:lang(en) {f:primary}>div>h6>a:hover {pt:0;pb:12}>div>h6@>=md  {f:#555;}>div>ul>li>a {f:black/0.8;}>div>ul>li>a@lg {f:primary;opcity:1;}>div>ul>li>a:hover">
+          <div class="footer-navi ">
+            <h6 class="">關於西勝                <div class="hide@sm abs w:20 h:20 abs right:0 top:1/2 translateY(-50%) z:1"><span
+                  class="abs w:18 h:2 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span><span
+                  class="abs w:2 h:18 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span>
+                <div>
+            </h6>
+            <ul>
+              <li><a href="tw/about/intro">集團簡介</a></li>
+              <li><a href="tw/about/history">集團沿革</a></li>
+              <li><a href="tw/about/certificate">認證與獎項</a></li>
+            </ul>
+          </div>
+          <div class="footer-navi">
+            <h6>集團商品                <div class="hide@sm abs w:20 h:20 abs right:0 top:1/2 translateY(-50%)"><span
+                  class="abs w:18 h:2 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span><span
+                  class="abs w:2 h:18 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span>
+                <div></div>
+            </h6>
+            <ul>
+
+                          <li><a href="tw/product/cate/e_mobility_battery">e-mobility battery</a></li>
+                          <li><a href="tw/product/cate/backup_power_system_battery">backup power system battery</a></li>
+                          <li><a href="tw/product/cate/ess">ESS</a></li>
+            
+            </ul>
+          </div>
+          <div class="footer-navi">
+            <h6>技術優勢                <div class="hide@sm abs w:20 h:20 abs right:0 top:1/2 translateY(-50%)"><span
+                  class="abs w:18 h:2 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span><span
+                  class="abs w:2 h:18 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span>
+                <div></div>
+            </h6>
+            <ul>
+
+                          <li><a href="tw/tech/page/競爭優勢">競爭優勢</a></li>
+                          <li><a href="tw/tech/page/品質管理體系">品質管理體系</a></li>
+                          <li><a href="tw/tech/page/製造能力">製造能力</a></li>
+            
+            </ul>
+          </div>
+          <div class="footer-navi hide!:lang(en)">
+            <h6>投資人專區<div class="hide@sm abs w:20 h:20 abs right:0 top:1/2 translateY(-50%)"><span
+                  class="abs w:18 h:2 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span><span
+                  class="abs w:2 h:18 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span>
+                <div></div>
+            </h6>
+            <ul>
+              <li><a href="tw/investor/shareholder">股東專欄</a></li>
+              <li><a href="tw/investor/month">財務報表</a></li>
+
+                          <li><a href="tw/investor/governance/公司章程與法律規章">公司治理</a></li>
+
+            </ul>
+          </div>
+          <div class="footer-navi">
+            <h6>人力資源<div class="hide@sm abs w:20 h:20 abs right:0 top:1/2 translateY(-50%)"><span
+                  class="abs w:18 h:2 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span><span
+                  class="abs w:2 h:18 left:1/2 top:1/2 translate(-50%,-50%) block bg:secondary"></span>
+                <div></div>
+            </h6>
+            <ul>
+
+                          <li><a href="tw/recruit/page/人力發展">人力發展</a></li>
+                          <li><a href="tw/recruit/page/教育訓練">教育訓練</a></li>
+                          <li><a href="tw/recruit/page/薪資福利">薪資福利</a></li>
+                          <li><a href="tw/recruit/page/加入我們">加入我們</a></li>
+            
+            </ul>
+          </div>
+          <div class="footer-navi hide@<sm">
+            <h6><a href="tw/esg">企業永續</a></h6>
+          </div>
+          <div class="footer-navi hide@<sm">
+            <h6><a href="tw/news/article">新聞中心</a></h6>
+          </div>
+          <div class="footer-navi hide@<sm">
+            <h6><a href="tw/contact">聯絡我們</a></h6>
+          </div>
+          <!-- <div class="mx:30 flex flex:nowrap flex:row gap-x:30 hide@<=md {mb:1rem;block;f:18}>a">
+            <a href="#">企業永續</a>
+            <a href="../page/news-list.html">新聞中心</a>
+            <a href="../page/contact.html">聯絡我們</a>
+            
+          </div> -->
+        </div>
+        <div class="mx:30 flex flex:nowrap gap-x:30 hide@>=sm {pt:20;f:18}>a ">
+          <a href="tw/esg">企業永續</a>
+          <a href="tw/news/article">新聞中心</a>
+          <a href="tw/contact">聯絡我們</a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+</footer>
+
+<!--top-->
+<button type="button" class="c-top {@flash|1s|linear|infinite;}:hover">
+  <svg xmlns="http://www.w3.org/2000/svg" width="25.999" height="11" viewBox="0 0 25.999 11">
+    <path id="i-side-top" d="M2,30,9.583,17,2,4H5.416L13,17,5.416,30Z" transform="translate(-4.001 13) rotate(-90)"
+      fill="#222" />
+  </svg>
+</button>
+
+<!--cookie-->
+<div class="c-cookie">
+  <div class="l-wrapper">
+    <div class="c-cookie__main">
+      <p>本網站會使用cookies. 若您繼續瀏覽本網站，代表您同意我們使用cookies。若您不同意，請透過瀏覽器設定選擇拒絕接受。</p>
+      <a href="javascript:;" class="c-btn c-btn--default">我了解</a>
+    </div>
+  </div>
+</div>
+
+<!--電子報-->
+<div id="js-eletter" class="c-modal">
+  <div class="c-modal__overlay" data-dismiss="#js-eletter"></div>
+
+  <div class="rel c-modal__main max-w:800! p:0!@>md">
+    <div
+      class="c-modal__content m:auto p:60|60|80|60! bg:white|url(assets/img/esg/e-letterbg.png)! background-size:cover! bg:no-repeat! background-position:center|bottom!">
+      <button type="button" class="c-modal__btn rbl:80 {w:80;h:80;rbl:80}@sm {ml:10;mt:-5}:before {ml:10;mt:-5}:after"
+        data-dismiss="#js-eletter"></button>
+      <div class="c-modal__inner max-w:430 mx:auto">
+        <h2 class="f:medium mt:60 mb:53 t:center">訂閱電子報</h2>
+        <input placeholder="請輸入您的信箱"
+          class="block w:full h:65 px:20 f:1.25rem@>md f:#777 b:1|solid|#404D61 f:primary:focus r:10" type="text" />
+        <p class="my:30">在按下”訂閱”時，表示我已詳閱並充分瞭解<a class="f:#41A4D0 t:underline t:none:hover"
+            href="../page/privacy.html">隱私權政策</a></p>
+        <p class="t:center"><a
+            class="inline-flex ai:center jc:center w:200 h:60 px:30 f:1.25rem f:white bg:#0B1529 t:center r:40  {bg:primary;f:white}:hover">確認送出</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- <a class="c-btn c-btn--default w:full mt:20 {w:120;ml:10;mt:0}@sm" href="../page/buy.html#p-list-anchor"
+      data-dismiss="#js-pagesearch" id="page-search-btn">搜尋</a> --><script src="assets/js/vendor.js"></script>
+<script src="assets/js/app.js"></script>
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+<!-- <script type="module" src="https://unpkg.com/@dotlottie/player-component@2.3.0/dist/dotlottie-player.mjs" ></script> -->    <!-- <script>
+        $(document).ready(function () {
+            var slideWrapper = $(".banner-slick");
+            let video_length = slideWrapper.find("video").length;
+            let slide_length = $('.banner-list').length;
+            // const headerWrapHeight = $(".l-header").height();
+            // const screenHeight = $(window).height();
+            // const indexBannerHeight = screenHeight - headerWrapHeight;
+            // $(".banner-list").css("height", indexBannerHeight + "px");
+
+            window.addEventListener('load', function () {
+                if (video_length == 1 && slide_length == 1) {
+                    slideWrapper.find("video")[0].loop = true;
+                } else if (video_length == 0) {
+                    $('.banner-box').addClass('img-style');
+                }
+                // 初始化 Slick Carousel
+                slideWrapper.slick({
+                    arrows: false,
+                    dots: true,
+                    fade: true,
+                    appendDots: $('.slick-slider-dots'),
+                    // infinite: true,
+                    speed: 1500,
+                    arrows: false,
+                });
+                // 檢查當下幻燈片類型
+                function checkAndPlaySlide() {
+                    var currentSlide = slideWrapper.find(".slick-current");
+                    var slideType = currentSlide.attr("data-type");
+                    if (slideType === "video") {
+                        var video = currentSlide.find("video")[0];
+                        if (video) {
+                            video.play();
+                            slideWrapper.slick('slickPause');
+                            // 播放結束，換下一個
+                            video.addEventListener("ended", function () {
+                                slideWrapper.slick("slickNext");
+                            });
+                        }
+                    } else if (slideType === "image") {
+                        // 如果當下是圖片，開啟自動輪播
+                        slideWrapper.slick('slickPlay');
+                    }
+                }
+                // 初始化執行一次
+                checkAndPlaySlide();
+                // 切換下一張前執行一次
+                slideWrapper.on(
+                    "beforeChange",
+                    function (event, slick, currentSlide, nextSlide) {
+                        var currentSlide = slideWrapper.find(".slick-current");
+                        var slideType = currentSlide.attr("data-type");
+                        if (slideType === "video") {
+                            // 如果當下是影片，暫停影片
+                            var video = currentSlide.find("video")[0];
+                            if (video) {
+                                video.pause();
+                                video.currentTime = 0;
+                            }
+                        }
+                    }
+                );
+                slideWrapper.on("afterChange", function (event, slick, currentSlide) {
+                    checkAndPlaySlide();
+                });
+                // 點.muted-open元素取消所有影片的静音
+                var videos = slideWrapper.find("video");
+                $(".muted-open").on("click", function () {
+                    $(".muted-open").hide();
+                    $(".muted-close").show();
+                    videos.each(function () {
+                        this.muted = false;
+                    });
+                });
+                $(".muted-close").on("click", function () {
+                    $(".muted-close").hide();
+                    $(".muted-open").show();
+                    videos.each(function () {
+                        this.muted = true;
+                    });
+                });
+            });
+
+        });
+    </script> -->
+
+    <script language="javascript">
+        var thumbsSwiper = new Swiper('.data-shortcuts-circle .swiper', {
+            spaceBetween: 30,
+            slidesPerView: 3,
+            watchSlidesVisibility: true, //防止不可点击
+            breakpoints: {
+
+                1280: {
+                    spaceBetween: 20,
+                    centerInsufficientSlides: true,
+                    // centeredSlides: true,
+                    direction: "vertical",
+                },
+
+            },
+        })
+        var gallerySwiper = new Swiper('.data-shortcuts-info .swiper', {
+            spaceBetween: 30,
+            autoplay: {
+                delay: 5000,
+                disableOnInteraction: false,
+            },
+            thumbs: {
+                swiper: thumbsSwiper,
+            },
+            breakpoints: {
+                1280: {
+                    // centeredSlides: true,
+                },
+
+            },
+        })
+    </script>
+
+</body>
+
+</html>

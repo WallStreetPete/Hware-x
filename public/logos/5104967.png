@@ -1,0 +1,519 @@
+<!doctype html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<title>北京电控</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="apple-touch-fullscreen" content="no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="电控,北京电控,北京电子控股有限责任公司"/>
+	<meta name="description" content="北京电控于1997年由北京市电子工业办公室转制而来，是一家以电子信息产业为主导的高科技产业集团，产业主要分布于半导体显示、集成电路、新能源、电子信息服务等领域。北京电控拥有辉煌的发展历程和深厚的历史底蕴，所属部分重点企业被誉为“共和国电子工业的摇篮”，为我国民族工业发展作出了突出贡献。截至2023年，北京电控旗下拥有二级企业15家（含4家上市公司）、事业单位2家，全年营业收入超2000亿元。"/>
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/static/css/fullpage.min.css">
+<link rel="stylesheet" href="/static/css/swiper.min.css">
+<link rel="stylesheet" href="/static/css/style.css?id=2">
+
+<script>
+	var webUrl = "https://www.behc.com.cn";
+</script>
+</head>
+<body>
+    <div class="header">
+<div class="logo">
+	<a href="https://www.behc.com.cn" title="北京电控">
+			<img src="https://www.behc.com.cn/file/2024/09/22/1727002832600.png" alt="北京电控" width="250" height="43" />
+			<img src="https://www.behc.com.cn/file/2024/09/22/1727002844518.png" alt="北京电控" width="250" height="43" />
+	</a>
+</div>
+<div class="header-right">
+	<div class="search">
+		<div class="wrapsearchs">
+            <input class="txt" type="text" name="keyword" id="pcsearchKey" placeholder="请输入搜索关键词"  value=""/>
+			<input class="bt"  type="button" id="pcsearch"  />
+			<div class="search-close"></div>
+        </div>
+		
+	</div>
+
+	<ul>
+		<li  class="on" >
+			<span><a href="https://www.behc.com.cn/" target="_self                           ">首页</a></span>
+			
+		</li>
+		<li  >
+			<span><a href="https://www.behc.com.cn/menu_e7cf69922f454cc7b98a02274b5a69d4.html" target="_self                           ">关于我们</a></span>
+			<div class="sub-nav">
+				<div class="sub-title">
+						<em><a href="https://www.behc.com.cn/company.html" target="_self                           ">公司简介</a></em>
+						<em><a href="https://www.behc.com.cn/wenhua.html" target="_self                           ">企业文化</a></em>
+						<em><a href="https://www.behc.com.cn/zhanlue.html" target="_self                           ">发展战略</a></em>
+						<em><a href="https://www.behc.com.cn/article_4143f8448daa41d69da977fd212eac6b.html" target="_self                           ">组织架构</a></em>
+						<em><a href="https://www.behc.com.cn/links_1e1dccd57ff14aac9d971815f5c7b799.html" target="_self                           ">成员名录</a></em>
+						<em><a href="https://www.behc.com.cn/guanli.html" target="_self                           ">合规管理</a></em>
+				</div>
+			</div>
+			
+		</li>
+		<li  >
+			<span><a href="https://www.behc.com.cn/product_6c464bdca59a4092b826440a7a5f8747.html" target="_self                           ">产业平台</a></span>
+			<div class="sub-nav">
+				<div class="sub-title">
+						<em><a href="https://www.behc.com.cn/product_6c464bdca59a4092b826440a7a5f8747.html" target="_self                           ">半导体显示</a></em>
+						<em><a href="https://www.behc.com.cn/product_b2a2447ce5b843488a77ac465f280423.html" target="_self                           ">半导体装备</a></em>
+						<em><a href="https://www.behc.com.cn/product_79cb0202bc9b463e8f26f2a4bf51f87c.html" target="_self                           ">集成电路制造</a></em>
+						<em><a href="https://www.behc.com.cn/product_ebe800453bae416ba67df055f869fad5.html" target="_self                           ">智能装备</a></em>
+						<em><a href="https://www.behc.com.cn/product_27c9c7aa27d34172b47f4ad55917646c.html" target="_self                           ">仪器仪表</a></em>
+						<em><a href="https://www.behc.com.cn/product_4d79595bafca42139a1bf170197aac7a.html" target="_self                           ">信息服务</a></em>
+						<em><a href="https://www.behc.com.cn/product_b03d6e2248e84e13b0235f7560febf91.html" target="_self                           ">科技服务</a></em>
+						<em><a href="https://www.behc.com.cn/product_4bc8400f8f7947309bc7d02af0d52a29.html" target="_self                           ">文创科技</a></em>
+						<em><a href="https://www.behc.com.cn/product_6d64e9eef78341b6bfa65f20990f71a3.html" target="_self                           ">数字服务</a></em>
+						<em><a href="https://www.behc.com.cn/product_310b2a031be14a1fb2063a38da27c689.html" target="_self                           ">产业投资</a></em>
+						<em><a href="https://www.behc.com.cn/product_f31d0706042e4804a5ffa3c7986e8a12.html" target="_self                           ">调整保障</a></em>
+						<em><a href="https://www.behc.com.cn/product_1b40d43778454bf081350b35f00d7224.html" target="_self                           ">事业单位</a></em>
+				</div>
+			</div>
+			
+		</li>
+		<li  >
+			<span><a href="https://www.behc.com.cn/menu_4af837cbe4cc4facaf23d8e6691a6495.html" target="_self                           ">新闻中心</a></span>
+			<div class="sub-nav">
+				<div class="sub-title">
+						<em><a href="https://www.behc.com.cn/newsList_12a408bda5d340a78360b07f2af6293a_page1.html" target="_self                           ">新闻动态</a></em>
+						<em><a href="https://www.behc.com.cn/special.html" target="_self                           ">专题报道</a></em>
+				</div>
+			</div>
+			
+		</li>
+		<li  >
+			<span><a href="https://www.behc.com.cn/menu_d51936ec991c4a658ca0331815edeca6.html" target="_self                           ">党的建设</a></span>
+			<div class="sub-nav">
+				<div class="sub-title">
+						<em><a href="https://www.behc.com.cn/newsList_5bdc3964b299403ea8f805be3c8a1b01_page1.html" target="_self                           ">党务公开</a></em>
+				</div>
+			</div>
+			
+		</li>
+		<li  >
+			<span><a href="https://www.behc.com.cn/menu_05ac7ca69c9945fe812a5726173a96a6.html" target="_self                           ">信息公开</a></span>
+			<div class="sub-nav">
+				<div class="sub-title">
+						<em><a href="https://www.behc.com.cn/newsList_7367e82f7b8b4ddf86ba67363ac26471_page1.html" target="_self                           ">信息公开</a></em>
+				</div>
+			</div>
+			
+		</li>
+		<li  >
+			<span><a href="https://www.behc.com.cn/join.html" target="_self                           ">加入我们</a></span>
+			
+		</li>
+	</ul>
+	<div class="header-search"><span></span></div>
+</div>
+<div class="menu"><span></span><span></span><span></span></div>    </div>
+    <div class="clr"></div>
+    <!--content-->
+    <div id="fullpage">
+        <div class="section active">
+            <div class="banner">
+                <div class="swiper-container" id="rolls">
+                    <div class="swiper-wrapper">
+                        <!--banner loop-->
+                        <div class="swiper-slide">
+                            <video preload="auto" class="media myVideo"  poster="https://www.behc.com.cn/file/2025/01/10/1736500657295.jpg" src="https://www.behc.com.cn/file/2025/01/10/1736500667345.mp4" muted="muted" playsinline="isiPhoneShowPlaysinline" x5-video-player-type="h5-page" webkit-playsinline="isiPhoneShowPlaysinline" x-webkit-airplay="" autoplay loop></video>
+                        </div>
+                        <div class="swiper-slide">
+                                <img src="https://www.behc.com.cn/file/2024/09/22/1727003684294.jpg" width="1920" height="1080">
+                                <div class="banner-ver">
+                                    <h3 class="h3"></h3>
+                                    <p>科技引领&nbsp;&nbsp;&nbsp;创新驱动</p>
+                                </div>
+                                
+                        </div>
+                        <div class="swiper-slide">
+                                <img src="https://www.behc.com.cn/file/2024/09/22/1727003733164.jpg" width="1920" height="1080">
+                                <div class="banner-ver">
+                                    <h3 class="h3"></h3>
+                                    <p>转型发展&nbsp;&nbsp;&nbsp;创新发展
+<p style="height:100px;margin-top:20px">融合发展 &nbsp; 开放发展&nbsp;&nbsp;&nbsp;共享发展</p>
+</p>
+                                </div>
+                                
+                        </div>
+                        
+                        <!--banner loop end-->
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <div class="content-1">
+                <div class="particles" id="particles1"></div>
+                <div class="content-1center">
+                    <h3 class="h3">建设全球领先的电子信息产业集团</h3>
+                    <div class="content-1ct">
+                        <div class="content-1item  act ">
+                            <a href="https://www.behc.com.cn/company.html" target="_self                           ">
+                                <div class="content-1pic">
+                                    <span><img src="/static/picture/ygindu3zdpg2f5rmuli7flucsvc44el9xsweuipn.jpg" width="408" height="318" alt=""></span>
+                                    <samp><img src="/static/picture/mgflgaksz7upzj3oreheegf5jhabudbsmwkqwwxp.jpg" width="820" height="318" alt=""></samp>
+                                </div>
+                                <div class="content-1ver">
+                                    <img src="static/picture/swzrfie3evosx1q8jmuby3lujuzkyt1hsfyiv9ep.png" alt="公司简介">
+                                    <span>公司简介</span>
+                                    <p>北京电控于1997年由北京市电子工业办公室转制而来，是一家以电子信息产业为主导的高科技产业集团，产业主要分布于半导体显示、半导体装备、集成电路制造、电子信息服务等领域。</p>
+                                    <em>了解详情<samp>></samp></em>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="content-1item ">
+                            <a href="https://www.behc.com.cn/zhanlue.html" target="_self                           ">
+                                <div class="content-1pic">
+                                    <span><img src="/static/picture/6wpolgczoxwlesagv1yx8xmha3ptlnfsvw42fvxg.jpg" width="408" height="318" alt=""></span>
+                                    <samp><img src="/static/picture/ixt878uxhx2pydccareaev11bd6qyxabjbprcm0c.jpg" width="820" height="318" alt=""></samp>
+                                </div>
+                                <div class="content-1ver">
+                                    <img src="/static/picture/0zpgkvm3x2l9awezfnzsuzstclfbndfdq68bgurj.png" alt="发展战略">
+                                    <span>发展战略</span>
+                                    <p>“十五五”期间，我们确定了“一二二一”核心战略，形成了包括总体规划、产业规划、职能规划在内的“三位一体”规划体系，构建了战略统领改革发展全局的管理格局。</p>
+                                    <em>了解详情<samp>></samp></em>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="content-1item ">
+                            <a href="https://www.behc.com.cn/links_1e1dccd57ff14aac9d971815f5c7b799.html" target="_self                           ">
+                                <div class="content-1pic">
+                                    <span><img src="/static/picture/o1ig7l0ykx6axoaekbvrpilfv3msv92cmd8v3h3w.jpg" width="408" height="318" alt=""></span>
+                                    <samp><img src="/static/picture/zq0h05lxevmchgfjpusl3vic5xpnb0qenhkfs9nk.jpg" width="820" height="318" alt=""></samp>
+                                </div>
+                                <div class="content-1ver">
+                                    <img src="/static/picture/dirug5ugfgieckicz30zvgzijogejl07eyani1gn.png" alt="成员名录">
+                                    <span>成员名录</span>
+                                    <p>旗下拥有数百家成员单位，其中二级企业15家（含上市公司4家），事业单位2家。</p>
+                                    <em>了解详情<samp>></samp></em>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <ul>
+                        <li>
+                            <span><em class="counter">130000</em>+</span>
+                            <p>员工总人数</p>
+                        </li>
+                        <li>
+                            <span><em class="counter">5500</em><cite style="font-size:30px">+</cite><sup>亿元<sup></span>
+                            <p>资产总额</p>
+                        </li>
+                        <li>
+                            <span><em class="counter">50000</em>+</span>
+                            <p>累计可使用专利</p>
+                        </li>
+                    </ul>
+                    
+
+                    
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="content-2" style="background-image:url(/static/images/bg-5-1.jpg)">
+                <h3 class="h3">构建以“芯屏”为核心的产业生态</h3>
+                <div class="content-2wz" style="background-image:url(/static/images/icon-103.png)">&nbsp;</div>
+
+<div class="content-2g">&nbsp;</div>
+
+<div class="content-2cir"><samp><img alt="" src="https://www.behc.com.cn/file/2024/09/22/icon-98.png" /></samp> <span><img alt="" src="https://www.behc.com.cn/file/2024/09/22/icon-99.png" /></span>
+
+<p><img alt="" src="https://www.behc.com.cn/file/2024/09/22/icon-100.png" /></p>
+<em><img alt="" src="https://www.behc.com.cn/file/2024/09/22/icon-101.png" /></em></div>
+
+<div class="content-2detail"><a href="product_6c464bdca59a4092b826440a7a5f8747.html">了解详情</a></div>
+
+<div class="content-21">
+<div class="content-2item item0"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>半导体显示</span> </a></div>
+
+<div class="content-2item item1"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>半导体装备</span> </a></div>
+
+<div class="content-2item item2"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>集成电路制造</span> </a></div>
+
+<div class="content-2item item3"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>半导体材料与零部件</span> </a></div>
+</div>
+
+<div class="content-22">
+<div class="content-2item item4"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>智能装备</span> </a></div>
+
+<div class="content-2item item5"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>仪器仪表</span> </a></div>
+
+<div class="content-2item item6"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>特种应用</span> </a></div>
+</div>
+
+<div class="content-23">
+<div class="content-2item item7"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>科技服务</span> </a></div>
+
+<div class="content-2item item8"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>文创科技</span> </a></div>
+
+<div class="content-2item item9"><a> <samp><img alt="" height="138" src="https://www.behc.com.cn/file/2024/09/22/icon-1101.png" width="156" /></samp> <span>数字服务</span> </a></div>
+</div>
+
+<div class="content-2ul">
+<div class="content-2li">Micro OLED</div>
+
+<div class="content-2li">Mini/Micro LED</div>
+
+<div class="content-2li">量子点显示</div>
+
+<div class="content-2li">第三代半导体</div>
+
+<div class="content-2li">先进封装</div>
+
+<div class="content-2li">新型显示</div>
+
+<div class="content-2li">5G</div>
+
+<div class="content-2li">微显示专用芯片</div>
+
+<div class="content-2li">光伏</div>
+
+<div class="content-2li">工业传感器</div>
+
+<div class="content-2li">5G 中高频射频器件</div>
+
+<div class="content-2li">MEMS</div>
+
+<div class="content-2li">汽车电子</div>
+
+<div class="content-2li">物联网</div>
+
+<div class="content-2li">人工智能</div>
+
+<div class="content-2li">工业互联网</div>
+
+<div class="content-2li">大数据</div>
+
+<div class="content-2li">智能制造</div>
+
+<div class="content-2li">工业机器视觉</div>
+
+<div class="content-2li">数实共生</div>
+</div>
+
+            </div>
+        </div>
+        
+        <div class="section">
+            <div class="content-3">
+                <div class="content-3center">
+                    <div class="content-head">
+                        <h3 class="h3">新闻中心</h3>
+                    </div>
+                    <div class="content-3ct">
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="content-list">
+                                        <a href="https://www.behc.com.cn/newsInfo_146a9472f3bd4fb39631c5a200e2aa37.html">
+                                            <samp><img src="https://www.behc.com.cn/file/2026/01/30/1769737827978.jpg" width="520" height="300" alt="北京电控召开2026年度工作会议"></samp>
+                                            <em>2026-01-26</em>
+                                            <span>北京电控召开2026年度工作会议</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="content-list">
+                                        <a href="https://www.behc.com.cn/newsInfo_3188aa1928e145c7bcfe4b03648ed39a.html">
+                                            <samp><img src="https://www.behc.com.cn/file/2026/01/26/1769411711503.png" width="520" height="300" alt="北京电控举办领导干部学习贯彻党的二十届四中全会精神专题研讨班"></samp>
+                                            <em>2026-01-09</em>
+                                            <span>北京电控举办领导干部学习贯彻党的二十届四中全会精神专题研讨班</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="content-pannel">
+                            <div class="content-item">
+                                <a href="https://www.behc.com.cn/newsInfo_55599bda86c943a99583961f65fbd386.html">
+                                    <span>大华公司七九七音响实力亮相北京 InfoComm China 2026</span>
+                                    <em>2026-04-17</em>
+                                </a>
+                            </div>
+                            <div class="content-item">
+                                <a href="https://www.behc.com.cn/newsInfo_29f3830db9824ce58c82e16aaebbe9b1.html">
+                                    <span>大华公司亮相中国电子信息博览会</span>
+                                    <em>2026-04-14</em>
+                                </a>
+                            </div>
+                            <div class="content-item">
+                                <a href="https://www.behc.com.cn/newsInfo_d11c373860104a27b0af7c87e3545edf.html">
+                                    <span>《前线》杂志刊发张劲松署名文章：建设全球领先的电子信息产业集团</span>
+                                    <em>2026-04-04</em>
+                                </a>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                    <style>
+                        .content-3bottom .swiper-scrollbar-drag {
+                            background: url(static/images/icon-8.png) no-repeat 0 center;
+                            background-size: auto;
+                            z-index: 12;
+                            cursor: pointer;
+                        }
+                    </style>
+                    <div class="content-3bottom">
+                        <div class="swiper-scrollbar"></div>
+                        <span><a href="https://www.behc.com.cn/menu_4af837cbe4cc4facaf23d8e6691a6495.html">查看更多</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section fp-auto-height">
+<div class="footer">
+	<div class="footer-center">
+		<div class="footer-1">
+		    			<div class="footer-1left">
+					
+						<div class="footer-item">
+							<span><a href="https://www.behc.com.cn/menu_e7cf69922f454cc7b98a02274b5a69d4.html" target="_self                           ">关于我们</a></span>
+							
+									<ul>
+											<li><a href="https://www.behc.com.cn/company.html" target="_self                           ">公司简介</a></li>
+											<li><a href="https://www.behc.com.cn/wenhua.html" target="_self                           ">企业文化</a></li>
+											<li><a href="https://www.behc.com.cn/zhanlue.html" target="_self                           ">发展战略</a></li>
+											<li><a href="https://www.behc.com.cn/article_4143f8448daa41d69da977fd212eac6b.html" target="_self                           ">组织架构</a></li>
+											<li><a href="https://www.behc.com.cn/links_1e1dccd57ff14aac9d971815f5c7b799.html" target="_self                           ">成员名录</a></li>
+											<li><a href="https://www.behc.com.cn/guanli.html" target="_self                           ">合规管理</a></li>
+									</ul>
+						</div>
+					
+						<div class="footer-item">
+							<span><a href="https://www.behc.com.cn/product_6c464bdca59a4092b826440a7a5f8747.html" target="_self                           ">产业平台</a></span>
+							
+								<div class="footer-pannel">
+									<ul>
+											<li><a href="https://www.behc.com.cn/product_6c464bdca59a4092b826440a7a5f8747.html" target="_self                           ">半导体显示</a></li>
+											<li><a href="https://www.behc.com.cn/product_b2a2447ce5b843488a77ac465f280423.html" target="_self                           ">半导体装备</a></li>
+											<li><a href="https://www.behc.com.cn/product_79cb0202bc9b463e8f26f2a4bf51f87c.html" target="_self                           ">集成电路制造</a></li>
+											<li><a href="https://www.behc.com.cn/product_ebe800453bae416ba67df055f869fad5.html" target="_self                           ">智能装备</a></li>
+											<li><a href="https://www.behc.com.cn/product_27c9c7aa27d34172b47f4ad55917646c.html" target="_self                           ">仪器仪表</a></li>
+											<li><a href="https://www.behc.com.cn/product_4d79595bafca42139a1bf170197aac7a.html" target="_self                           ">信息服务</a></li>
+									</ul>
+									<ul>
+											<li><a href="https://www.behc.com.cn/product_b03d6e2248e84e13b0235f7560febf91.html" target="_self                           ">科技服务</a></li>
+											<li><a href="https://www.behc.com.cn/product_4bc8400f8f7947309bc7d02af0d52a29.html" target="_self                           ">文创科技</a></li>
+											<li><a href="https://www.behc.com.cn/product_6d64e9eef78341b6bfa65f20990f71a3.html" target="_self                           ">数字服务</a></li>
+											<li><a href="https://www.behc.com.cn/product_310b2a031be14a1fb2063a38da27c689.html" target="_self                           ">产业投资</a></li>
+											<li><a href="https://www.behc.com.cn/product_f31d0706042e4804a5ffa3c7986e8a12.html" target="_self                           ">调整保障</a></li>
+											<li><a href="https://www.behc.com.cn/product_1b40d43778454bf081350b35f00d7224.html" target="_self                           ">事业单位</a></li>
+									</ul>
+								</div>
+						</div>
+					
+						<div class="footer-item">
+							<span><a href="https://www.behc.com.cn/menu_4af837cbe4cc4facaf23d8e6691a6495.html" target="_self                           ">新闻中心</a></span>
+							
+									<ul>
+											<li><a href="https://www.behc.com.cn/newsList_12a408bda5d340a78360b07f2af6293a_page1.html" target="_self                           ">新闻动态</a></li>
+											<li><a href="https://www.behc.com.cn/special.html" target="_self                           ">专题报道</a></li>
+									</ul>
+						</div>
+					
+						<div class="footer-item">
+							<span><a href="https://www.behc.com.cn/menu_d51936ec991c4a658ca0331815edeca6.html" target="_self                           ">党的建设</a></span>
+							
+									<ul>
+											<li><a href="https://www.behc.com.cn/newsList_5bdc3964b299403ea8f805be3c8a1b01_page1.html" target="_self                           ">党务公开</a></li>
+									</ul>
+						</div>
+					
+						<div class="footer-item">
+							<span><a href="https://www.behc.com.cn/menu_05ac7ca69c9945fe812a5726173a96a6.html" target="_self                           ">信息公开</a></span>
+							
+									<ul>
+											<li><a href="https://www.behc.com.cn/newsList_7367e82f7b8b4ddf86ba67363ac26471_page1.html" target="_self                           ">信息公开</a></li>
+									</ul>
+						</div>
+					
+						<div class="footer-item">
+							<span><a href="https://www.behc.com.cn/join.html" target="_self                           ">加入我们</a></span>
+							
+							<ul>
+									<li><a href="http://zcps.bjxxcy.com.cn/homepage">职称评审</a></li>
+							</ul>
+							
+						</div>
+				
+				
+
+			</div>
+            
+			<div class="footer-1right">
+				<samp><img src="https://www.behc.com.cn/file/2025/02/10/1739174608741.jpg" width="180" height="180" alt="微信公众号"></samp>
+				<span>微信公众号</span>
+			</div>
+		</div>
+	</div>
+	<div class="footer-3">
+		<div class="footer-3left"><span>版权所有 © Copyright 北京电子控股有限责任公司</span><span><a href="https://beian.miit.gov.cn" target="_blank">京ICP备14037209号-2</a></span>
+<span><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=110401000088" target="_blank">京公网安备110401000088</a></span></div>
+		<div class="footer-3right">联系方式： 84545438（总机） 84544207</div>
+	</div>
+</div>
+<script src="/static/js/jquery.min.js"></script>
+<script src="/static/js/public.js"></script>
+
+<script type="text/javascript">
+$(function(){
+	var pipt = document.getElementById("pcsearchKey");
+		pipt.addEventListener("keyup", function(event) {
+			event.preventDefault();
+			if (event.keyCode === 13) {
+				document.getElementById("pcsearch").click();
+			}
+		});
+	$("#pcsearch").click(function(){
+		var skey = $("#pcsearchKey").val();
+		if(skey==""){
+			alert("请输入搜索关键字");
+		}else{
+			window.location.href=encodeURI(webUrl+"/searchlist.html?key="+skey.replace("|",""));
+		}
+		
+	});
+	$("#nsearch").click(function(){
+		var nkey = $("#nsearchKey").val();
+		if(nkey==""){
+			alert("请输入搜索关键字");
+		}else{
+			window.location.href=encodeURI(webUrl+"/searchlist.html?key="+nkey.replace("|",""));
+		}
+		
+	});
+})
+
+</script>        </div>
+    </div>
+    <!--content end-->
+
+    <script src="/static/js/fullpage.min.js"></script>
+    <script src="/static/js/particles.min.js"></script>
+    <script>
+        if ($(document).width() > 1000) {
+            $(".header ul li").hover(function () { $(".header").addClass("header-active") }, function () { $(".header").removeClass("header-active") });
+        } else {
+            $(".header").addClass("header-change");
+        }
+        if ($(window).width() > 640) {
+            $("#rolls").height($(window).height())
+        }
+    </script>
+
+</body>
+
+</html>

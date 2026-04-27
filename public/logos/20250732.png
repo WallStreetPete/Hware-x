@@ -1,0 +1,2304 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>黑芝麻智能|黑芝麻高级辅助驾驶ADAS-计算机视觉-黑芝麻芯片解决方案</title>
+<meta name="keywords" content="黑芝麻ADAS,黑芝麻感知系统,黑芝麻高级辅助驾驶,黑芝麻计算机视觉,黑芝麻科技公司,黑芝麻人工智能,黑芝麻芯片,黑芝麻芯片解决方案,黑芝麻芯片设计,黑芝麻智能感知,黑芝麻智能驾驶,黑芝麻智能科技,黑芝麻智能科技有限公司,黑芝麻智能芯片,黑芝麻自动驾驶,汽车芯片,自动驾驶芯片">
+<meta name="description" content="黑芝麻智能科技有限公司，全球自动驾驶计算芯片引领者。黑芝麻公司致力于打造人工智能和计算机视觉的核心算法和计算平台。专注于视觉感知技术和自主IP黑芝麻芯片设计开发，构建开放的产业生态。黑芝麻公司集结了20年以上汽车领域和芯片领域从业经验的团队，黑芝麻ADAS、黑芝麻感知系统具有独特优势，为智能社会生活提供完整的解决方案。">
+    <link rel="stylesheet" href="/template/default/css/font-awesome.min.css">
+    <link href="/template/default/css/global.css" rel="stylesheet">
+    <link rel="stylesheet" href="/template/default/css/animate.css">
+    <link rel="stylesheet" href="/template/default/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="/template/default/css/index.css">
+<script src="//res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e6e53d44df3a4472ff43acb5647b9446";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+    wx.config({
+        debug: false,
+        appId: '{wechat:appid}',
+        timestamp: '{wechat:timestamp}',
+        nonceStr: '{wechat:noncestr}',
+        signature: '{wechat:signature}',
+        jsApiList: [
+            'updateAppMessageShareData',
+            'updateTimelineShareData',
+            'onMenuShareWeibo'
+        ]
+    });
+    wx.ready(function () {
+        var title = '黑芝麻智能|黑芝麻高级辅助驾驶ADAS-计算机视觉-黑芝麻芯片解决方案';
+        var desc = '黑芝麻智能科技有限公司，全球自动驾驶计算芯片引领者。黑芝麻公司致力于打造人工智能和计算机视觉的核心算法和计算平台。专注于视觉感知技术和自主IP黑芝麻芯片设计开发，构建开放的产业生态。黑芝麻公司集结了20年以上汽车领域和芯片领域从业经验的团队，黑芝麻ADAS、黑芝麻感知系统具有独特优势，为智能社会生活提供完整的解决方案。';
+        var ico = '{content:ico}';
+        if(ico.indexOf('{')>=0){
+            ico='/static/images/logo.png';
+        }
+        var shareData = {
+            title: title,
+            desc: desc,
+            link: 'https://www.blacksesame.com/zh/favicon.ico',
+            imgUrl: 'https://www.blacksesame.com'+ico
+        };
+        wx.updateAppMessageShareData(shareData);//分享给好友
+        wx.updateTimelineShareData(shareData);//分享到朋友圈
+    });
+    wx.error(function (res) {
+        console.log('Error');
+    });
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e6e53d44df3a4472ff43acb5647b9446";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+<body>
+<div class="cb2">
+    <div class="cbTop2">
+        <a href="javascript:;"><div>联系我们</div></a>
+        <div class="emailClose"><i class="fa fa-remove"></i></div>
+    </div>
+    <a href="mailto:mkt@bst.ai" class="cbItem2"><i class="fa fa-envelope"></i><span>商务合作</span></a>
+    <a href="mailto:recruiting@bst.ai" class="cbItem2"><i class="fa fa-envelope"></i><span>加入我们</span></a>
+    <a href="mailto:pr@bst.ai" class="cbItem2"><i class="fa fa-envelope"></i><span>媒体资讯</span></a>
+</div>
+
+<div class="cb3" style="display:none;">
+    <div class="cbTop3">
+        <a href="javascript:;"><div>选择语言</div></a>
+        <div class="langClose"><i class="fa fa-remove"></i></div>
+    </div>
+    <a href="#" class="cbItem3" >中文</a>
+    <a href="/en/" class="cbItem3">English</a>
+</div>    
+
+
+
+<div class="top">
+    <div class="topNei">
+        <div class="topLeft">
+            <a href="/zh" class="topLogo"><img alt="黑芝麻" src="/template/default/images/500X160.png"></a>
+        </div>
+        <div class="topRight">
+            <div class="topMenu">
+                <div class="topMenuItem ">
+                    <a href="/zh" class="MiTitle">首页</a>
+                </div>
+              
+                <div class="topMenuItem ">
+                    <a href="/zh/company-profile/" class="MiTitle">公司信息</a>
+                    <div class="mtErBox">
+					    
+                            <div class="mtEr">
+                                <a href="/zh/basic-info/" class="mtErTitle">基本介绍</a>
+                                <div class="mtSanBox">
+									
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/basic-info/#about1">概况</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/basic-info/#about3">团队</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/basic-info/#about4">DNA</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/basic-info/#about5">认证</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/basic-info/#about6">发展历程</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/strengths/" class="mtErTitle">公司实力</a>
+                                <div class="mtSanBox">
+									
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/strengths/">奖项</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/qualifications/">认证&amp;资质</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/company-culture/" class="mtErTitle">品牌文化</a>
+                                <div class="mtSanBox">
+									
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/company-culture/#1">品牌愿景</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/company-culture/#2">品牌理念</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/company-culture/#3">品牌使命</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/company-culture/#4">品牌故事</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/cooperation/" class="mtErTitle">合作共赢</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/resources/" class="mtErTitle">资料下载</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                        </div>
+                </div>
+				
+                <div class="topMenuItem ">
+                    <a href="/zh/technology/" class="MiTitle">领先技术</a>
+                    <div class="mtErBox">
+					    
+                            <div class="mtEr">
+                                <a href="/zh/core-ip/" class="mtErTitle">核心IP</a>
+                                <div class="mtSanBox">
+									
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/isp/">ISP</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/npu/">NPU</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/soc-design/" class="mtErTitle">SoC设计</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/shanhai-toolchain/" class="mtErTitle">山海工具链</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                        </div>
+                </div>
+				
+                <div class="topMenuItem ">
+                    <a href="/zh/products/" class="MiTitle">核心产品</a>
+                    <div class="mtErBox">
+					    
+                            <div class="mtEr">
+                                <a href="/zh/huashan-series-chips/" class="mtErTitle">华山系列芯片</a>
+                                <div class="mtSanBox">
+									
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/huashan-series-a2000/">华山A2000家族芯片</a>
+
+                                                
+                                                <div class="mtSi">
+                                                        
+                                                                <a href="/zh/huashan-a2000/">华山A2000</a>
+                                                            
+                                                </div>
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/huashan-series-a1000/">华山A1000家族芯片</a>
+
+                                                
+                                                <div class="mtSi">
+                                                        
+                                                                <a href="/zh/huashan-a1000/">华山A1000</a>
+                                                            
+                                                                <a href="/zh/huashan-a1000l/">华山A1000L</a>
+                                                            
+                                                                <a href="/zh/huashan-a1000pro/">华山A1000 Pro</a>
+                                                            
+                                                </div>
+
+                                        </div>
+                                    
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/wudang/" class="mtErTitle">武当系列芯片</a>
+                                <div class="mtSanBox">
+									
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/wudang-c1296/">武当C1296</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                        <div class="mtSan">
+                                    
+                                            <a href="/zh/wudang-c1236/">武当C1236</a>
+
+                                                
+                                                        
+                                                
+
+                                        </div>
+                                    
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/sesamex/" class="mtErTitle">机器人平台</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/hanhai-middleware/" class="mtErTitle">瀚海中间件</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                        </div>
+                </div>
+				
+                <div class="topMenuItem ">
+                    <a href="/zh/solutions/" class="MiTitle">解决方案</a>
+                    <div class="mtErBox">
+					    
+                            <div class="mtEr">
+                                <a href="/zh/driving-solutions/" class="mtErTitle">智能汽车</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/v2x-solution/" class="mtErTitle">智能道路</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/industry-applications/" class="mtErTitle">行业应用</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/consumer-electronics/" class="mtErTitle">消费电子</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                        </div>
+                </div>
+				
+                <div class="topMenuItem ">
+                    <a href="/zh/news-center/" class="MiTitle">公司动态</a>
+                    <div class="mtErBox">
+					    
+                            <div class="mtEr">
+                                <a href="/zh/news-center/" class="mtErTitle">新闻中心</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="/zh/brand-center/" class="mtErTitle">品牌中心</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                        </div>
+                </div>
+				
+                <div class="topMenuItem ">
+                    <a href="https://ir.blacksesame.com/?lang=zh-cn" class="MiTitle">投资者关系</a>
+                    <div class="mtErBox">
+					    
+                            <div class="mtEr">
+                                <a href="https://ir.blacksesame.com/prospectus.html?lang=zh-cn" class="mtErTitle">招股文件</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="https://ir.blacksesame.com/report.html?lang=zh-cn" class="mtErTitle">业绩报告</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="https://ir.blacksesame.com/announcement.html?lang=zh-cn" class="mtErTitle">公告及通函</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="https://ir.blacksesame.com/governance.html?lang=zh-cn" class="mtErTitle">企业管制</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                            <div class="mtEr">
+                                <a href="https://ir.blacksesame.com/contact.html?lang=zh-cn" class="mtErTitle">投资者关系联络</a>
+                                <div class="mtSanBox">
+									
+                                 </div>
+                            </div>
+                        
+                        </div>
+                </div>
+				
+                <div class="topMenuItem ">
+                    <a href="https://bsthr.zhiye.com/" class="MiTitle">加入我们</a>
+                    <div class="mtErBox">
+					    
+                        </div>
+                </div>
+				
+               
+            </div>
+            <div  class="topIcon" >
+                <a class="lang-switch" style="font-size: 120%;" href="/">EN</a>
+             </div>
+            <div class="topSearch">
+                          
+                <div class="topSearch-img">
+                    <img alt="黑芝麻" src="/template/default/images/t1.png" class="topSearchIcon">
+                    <div class="searchBottom"></div>
+                </div>
+
+                <div class="searchBox">
+                    <form action="/zh/search/" method="get" class="searchForm">
+                        <input type="submit" value="">
+                        <input type="text" name="keyword" >
+                        <img alt="黑芝麻" src="/template/default/images/m2.png" class="searchClose">
+                    </form>
+                    <div class="searchBot">
+                        <div>关键字：</div>
+                                                    <a href="/search/?keyword=自动驾驶芯片">自动驾驶芯片</a>
+                                            
+                                                    <a href="/search/?keyword=车规芯片">车规芯片</a>
+                                            
+                                                    <a href="/search/?keyword=工具链">工具链</a>
+                                            
+                                                    <a href="/search/?keyword=ISP">ISP</a>
+                                            
+                                                    <a href="/search/?keyword=MPU">MPU</a>
+                                            
+                                                    <a href="/search/?keyword=SOC设计">SOC设计</a>
+                                            
+                                                    <a href="/search/?keyword=智能汽车">智能汽车</a>
+                                            
+                                                    <a href="/search/?keyword=数据">数据</a>
+                                            
+                                                    <a href="/search/?keyword=人工智能">人工智能</a>
+                                            
+                                                    <a href="/search/?keyword=智能感应">智能感应</a>
+                                            
+                                                    <a href="/search/?keyword=辅助驾驶">辅助驾驶</a>
+                                            
+                                                    <a href="/search/?keyword=智能道路">智能道路</a>
+                                            
+                                                    <a href="/search/?keyword=核心IP">核心IP</a>
+                                            
+                                                    <a href="/search/?keyword=自动驾驶">自动驾驶</a>
+                                            
+                                                    <a href="/search/?keyword=行泊一体">行泊一体</a>
+                                            
+                                                    <a href="/search/?keyword=ADAS">ADAS</a>
+                                            
+                                            </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- <div class="top-box"></div> -->
+<div class="pcDownBoxWai">
+    <div class="pcDownBox">
+        <div class="pcDown">
+            <div class="pcDownTop">
+                <a href="#" class="pcDownLogo"><img style="width:160px;" src="/template/default/images/c-logo.png"></a>
+                <div class="pcDownIcon"><img alt="黑芝麻" src="/template/default/images/m2.png"></div>
+            </div>
+            <div class="pcDownLine"><img alt="黑芝麻" src="/template/default/images/m1.png"></div>
+            <div class="pcDownTop2">
+                <a href="/">首页
+                    <div class="pcDownTop2-line"></div>
+                </a>
+            </div>
+           
+
+    				
+        <div class="pcDownTop2">
+            <a href="/zh/company-profile/">公司信息
+                <div class="pcDownTop2-line"></div>
+            </a>
+        </div>
+        <ul class="pcDownMenu nav1">
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/basic-info/" class="MenuTitleTitle"><img alt="基本介绍" src="/static/upload/image/20220715/1657859715460862.png"><span>基本介绍</span></a>
+                        
+                            
+                        <div class="downMenuIcon">
+                            <img alt="" src="/template/default/images/m3.png">
+                            <img alt="" src="/template/default/images/m4.png">
+                        </div>
+                        
+                        
+                    </div>
+                    
+                            <div class="downMenuDown">
+                        
+                            
+                                <a href="/zh/basic-info/#about1">概况</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/basic-info/#about3">团队</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/basic-info/#about4">DNA</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/basic-info/#about5">认证</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/basic-info/#about6">发展历程</a>
+                                            
+                                                            
+                                            
+                            
+                    </div>
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/strengths/" class="MenuTitleTitle"><img alt="公司实力" src="/static/upload/image/20220715/1657859738422555.png"><span>公司实力</span></a>
+                        
+                            
+                        <div class="downMenuIcon">
+                            <img alt="" src="/template/default/images/m3.png">
+                            <img alt="" src="/template/default/images/m4.png">
+                        </div>
+                        
+                        
+                    </div>
+                    
+                            <div class="downMenuDown">
+                        
+                            
+                                <a href="/zh/strengths/">奖项</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/qualifications/">认证&amp;资质</a>
+                                            
+                                                            
+                                            
+                            
+                    </div>
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/company-culture/" class="MenuTitleTitle"><img alt="品牌文化" src="/static/upload/image/20220715/1657859755969154.png"><span>品牌文化</span></a>
+                        
+                            
+                        <div class="downMenuIcon">
+                            <img alt="" src="/template/default/images/m3.png">
+                            <img alt="" src="/template/default/images/m4.png">
+                        </div>
+                        
+                        
+                    </div>
+                    
+                            <div class="downMenuDown">
+                        
+                            
+                                <a href="/zh/company-culture/#1">品牌愿景</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/company-culture/#2">品牌理念</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/company-culture/#3">品牌使命</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/company-culture/#4">品牌故事</a>
+                                            
+                                                            
+                                            
+                            
+                    </div>
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/cooperation/" class="MenuTitleTitle"><img alt="合作共赢" src="/static/upload/image/20220715/1657859772778985.png"><span>合作共赢</span></a>
+                        
+                            
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/resources/" class="MenuTitleTitle"><img alt="资料下载" src="/static/upload/image/20220715/1657859772778985.png"><span>资料下载</span></a>
+                        
+                            
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+        </ul>
+    				
+        <div class="pcDownTop2">
+            <a href="/zh/technology/">领先技术
+                <div class="pcDownTop2-line"></div>
+            </a>
+        </div>
+        <ul class="pcDownMenu nav2">
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/core-ip/" class="MenuTitleTitle"><img alt="核心IP" src="/static/upload/image/20220715/1657859789731618.png"><span>核心IP</span></a>
+                        
+                            
+                        <div class="downMenuIcon">
+                            <img alt="" src="/template/default/images/m3.png">
+                            <img alt="" src="/template/default/images/m4.png">
+                        </div>
+                        
+                        
+                    </div>
+                    
+                            <div class="downMenuDown">
+                        
+                            
+                                <a href="/zh/isp/">ISP</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/npu/">NPU</a>
+                                            
+                                                            
+                                            
+                            
+                    </div>
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/soc-design/" class="MenuTitleTitle"><img alt="SoC设计" src="/static/upload/image/20220715/1657859825467781.png"><span>SoC设计</span></a>
+                        
+                            
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/shanhai-toolchain/" class="MenuTitleTitle"><img alt="山海工具链" src="/static/upload/image/20220715/1657859862215246.png"><span>山海工具链</span></a>
+                        
+                            
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+        </ul>
+    				
+        <div class="pcDownTop2">
+            <a href="/zh/products/">核心产品
+                <div class="pcDownTop2-line"></div>
+            </a>
+        </div>
+        <ul class="pcDownMenu nav3">
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/huashan-series-chips/" class="MenuTitleTitle"><img alt="华山系列芯片" src="/static/upload/image/20220715/1657859901736896.png"><span>华山系列芯片</span></a>
+                        
+                            
+                        <div class="downMenuIcon">
+                            <img alt="" src="/template/default/images/m3.png">
+                            <img alt="" src="/template/default/images/m4.png">
+                        </div>
+                        
+                        
+                    </div>
+                    
+                            <div class="downMenuDown">
+                        
+                            
+                                <a href="/zh/huashan-series-a2000/">华山A2000家族芯片</a>
+                                            
+                                                    <div class="downMenuDown">
+                                                            
+                                                                    <a href="/zh/huashan-a2000/">华山A2000</a>
+                                                                
+                                            
+                                                </div>
+                                            
+                            
+                                <a href="/zh/huashan-series-a1000/">华山A1000家族芯片</a>
+                                            
+                                                    <div class="downMenuDown">
+                                                            
+                                                                    <a href="/zh/huashan-a1000/">华山A1000</a>
+                                                                
+                                                                    <a href="/zh/huashan-a1000l/">华山A1000L</a>
+                                                                
+                                                                    <a href="/zh/huashan-a1000pro/">华山A1000 Pro</a>
+                                                                
+                                            
+                                                </div>
+                                            
+                            
+                    </div>
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/wudang/" class="MenuTitleTitle"><img alt="武当系列芯片" src="/static/upload/image/20220715/1657859901736896.png"><span>武当系列芯片</span></a>
+                        
+                            
+                        <div class="downMenuIcon">
+                            <img alt="" src="/template/default/images/m3.png">
+                            <img alt="" src="/template/default/images/m4.png">
+                        </div>
+                        
+                        
+                    </div>
+                    
+                            <div class="downMenuDown">
+                        
+                            
+                                <a href="/zh/wudang-c1296/">武当C1296</a>
+                                            
+                                                            
+                                            
+                            
+                                <a href="/zh/wudang-c1236/">武当C1236</a>
+                                            
+                                                            
+                                            
+                            
+                    </div>
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/sesamex/" class="MenuTitleTitle"><img alt="机器人平台" src=""><span>机器人平台</span></a>
+                        
+                            
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/hanhai-middleware/" class="MenuTitleTitle"><img alt="瀚海中间件" src="/static/upload/image/20220715/1657859933859722.png"><span>瀚海中间件</span></a>
+                        
+                            
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+        </ul>
+    				
+        <div class="pcDownTop2">
+            <a href="/zh/solutions/">解决方案
+                <div class="pcDownTop2-line"></div>
+            </a>
+        </div>
+        <ul class="pcDownMenu nav4">
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/driving-solutions/" class="MenuTitleTitle"><img alt="智能汽车" src="/static/upload/image/20220715/1657859974595241.png"><span>智能汽车</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/v2x-solution/" class="MenuTitleTitle"><img alt="智能道路" src="/static/upload/image/20220715/1657860063321176.png"><span>智能道路</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/industry-applications/" class="MenuTitleTitle"><img alt="行业应用" src="/static/upload/image/20220715/1657860208442562.png"><span>行业应用</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/consumer-electronics/" class="MenuTitleTitle"><img alt="消费电子" src="/static/upload/image/20220715/1657860208442562.png"><span>消费电子</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+        </ul>
+    				
+        <div class="pcDownTop2">
+            <a href="/zh/news-center/">公司动态
+                <div class="pcDownTop2-line"></div>
+            </a>
+        </div>
+        <ul class="pcDownMenu nav5">
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/news-center/" class="MenuTitleTitle"><img alt="新闻中心" src="/template/default/images/m18.png"><span>新闻中心</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="/zh/brand-center/" class="MenuTitleTitle"><img alt="品牌中心" src="/template/default/images/m18.png"><span>品牌中心</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+        </ul>
+    				
+        <div class="pcDownTop2">
+            <a href="https://ir.blacksesame.com/?lang=zh-cn">投资者关系
+                <div class="pcDownTop2-line"></div>
+            </a>
+        </div>
+        <ul class="pcDownMenu nav6">
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="https://ir.blacksesame.com/prospectus.html?lang=zh-cn" class="MenuTitleTitle"><img alt="招股文件" src="/static/upload/image/20240730/1722306182461087.png"><span>招股文件</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="https://ir.blacksesame.com/report.html?lang=zh-cn" class="MenuTitleTitle"><img alt="业绩报告" src="/static/upload/image/20240730/1722306182461087.png"><span>业绩报告</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="https://ir.blacksesame.com/announcement.html?lang=zh-cn" class="MenuTitleTitle"><img alt="公告及通函" src="/static/upload/image/20240730/1722306182461087.png"><span>公告及通函</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="https://ir.blacksesame.com/governance.html?lang=zh-cn" class="MenuTitleTitle"><img alt="企业管制" src="/static/upload/image/20240730/1722306182461087.png"><span>企业管制</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+                <li class="downMenuItem ">
+                    <div class="downMenuTitle">
+                        <a href="https://ir.blacksesame.com/contact.html?lang=zh-cn" class="MenuTitleTitle"><img alt="投资者关系联络" src="/static/upload/image/20240730/1722306182461087.png"><span>投资者关系联络</span></a>
+                        
+                    </div>
+                    
+                            
+                    
+                </li>
+            
+        </ul>
+    				
+        <div class="pcDownTop2">
+            <a href="https://bsthr.zhiye.com/">加入我们
+                <div class="pcDownTop2-line"></div>
+            </a>
+        </div>
+        <ul class="pcDownMenu nav7">
+            
+        </ul>
+    
+           
+        </div>
+    </div>
+</div>
+
+
+<div class="moTop" style="left: 0px;">
+     <a href="/"style="width: 84px;height:26px;"><img alt="黑芝麻" src="/template/default/images/500X160.png" class="moLogo"></a>
+    
+    
+        <div class="topSearch">
+            <div  class="topIcon">
+                <a class="lang-switch" style="font-size: 120%;" href="/">EN</a>
+             </div>
+            <div class="topSearch-img top-btn">
+                <img alt="黑芝麻" src="/template/default/images/t1.png" class="topSearchIcon">
+            </div>
+    
+            <div class="searchBox">
+                <form action="/zh/search/" method="get" class="searchForm">
+                    <input type="submit" value="">
+                    <input type="text" name="keyword" >
+                    <img alt="黑芝麻" src="/template/default/images/m2.png" class="searchClose">
+                </form>
+                <div class="searchBot">
+                    <div>关键字：</div>
+                                                    <a href="/search/?keyword=自动驾驶芯片">自动驾驶芯片</a>
+                                            
+                                                    <a href="/search/?keyword=车规芯片">车规芯片</a>
+                                            
+                                                    <a href="/search/?keyword=工具链">工具链</a>
+                                            
+                                                    <a href="/search/?keyword=ISP">ISP</a>
+                                            
+                                                    <a href="/search/?keyword=MPU">MPU</a>
+                                            
+                                                    <a href="/search/?keyword=SOC设计">SOC设计</a>
+                                            
+                                                    <a href="/search/?keyword=智能汽车">智能汽车</a>
+                                            
+                                                    <a href="/search/?keyword=数据">数据</a>
+                                            
+                                                    <a href="/search/?keyword=人工智能">人工智能</a>
+                                            
+                                                    <a href="/search/?keyword=智能感应">智能感应</a>
+                                            
+                                                    <a href="/search/?keyword=辅助驾驶">辅助驾驶</a>
+                                            
+                                                    <a href="/search/?keyword=智能道路">智能道路</a>
+                                            
+                                                    <a href="/search/?keyword=核心IP">核心IP</a>
+                                            
+                                                    <a href="/search/?keyword=自动驾驶">自动驾驶</a>
+                                            
+                                                    <a href="/search/?keyword=行泊一体">行泊一体</a>
+                                            
+                                                    <a href="/search/?keyword=ADAS">ADAS</a>
+                                            
+                                    </div>
+                <div class="mask"></div>
+            </div>
+            <img alt="黑芝麻" src="/template/default/images/menu.png" class="openDown top-btn" style="opacity: 1;width:17px;height:17px">
+        </div>
+       
+    </div>
+</div>
+
+<div class="moMenuBox">
+    <div class="moMenu">
+        <div style=" width: 100%; display: flex; align-items: center; justify-content: space-between; flex-direction: row-reverse; border-bottom: rgba(255,255,255,0.50) solid 1px;">
+            <img alt="黑芝麻" src="/template/default/images/icon18.png" id="closeMoMenu" >
+            <a href="/" class="moDropLogo"><img alt="黑芝麻" src="/template/default/images/c-logo.png"></a>
+        </div>
+        <ul class="moDrop">
+            
+            <li class="yiji">
+                <div class="yijiTitle">
+                    <a class="yijiTitleText" href="/zh/company-profile/">公司信息</a>
+                    <span class="yijiTitleIcon">
+                          <img alt="黑芝麻" src="/template/default/images/icon21.png">
+                          <img alt="黑芝麻" src="/template/default/images/icon17.png">
+                   </span>
+                </div>
+                <div class="erjiDrop">
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/basic-info/" class="erjiTitleText">基本介绍</a>
+											 <div class="sanji">
+									
+                                        <a href="/zh/basic-info/#about1">概况</a>
+                                    
+                                        <a href="/zh/basic-info/#about3">团队</a>
+                                    
+                                        <a href="/zh/basic-info/#about4">DNA</a>
+                                    
+                                        <a href="/zh/basic-info/#about5">认证</a>
+                                    
+                                        <a href="/zh/basic-info/#about6">发展历程</a>
+                                    
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/strengths/" class="erjiTitleText">公司实力</a>
+											 <div class="sanji">
+									
+                                        <a href="/zh/strengths/">奖项</a>
+                                    
+                                        <a href="/zh/qualifications/">认证&amp;资质</a>
+                                    
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/company-culture/" class="erjiTitleText">品牌文化</a>
+											 <div class="sanji">
+									
+                                        <a href="/zh/company-culture/#1">品牌愿景</a>
+                                    
+                                        <a href="/zh/company-culture/#2">品牌理念</a>
+                                    
+                                        <a href="/zh/company-culture/#3">品牌使命</a>
+                                    
+                                        <a href="/zh/company-culture/#4">品牌故事</a>
+                                    
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/cooperation/" class="erjiTitleText">合作共赢</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/resources/" class="erjiTitleText">资料下载</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                    </div>
+            </li>
+           
+            <li class="yiji">
+                <div class="yijiTitle">
+                    <a class="yijiTitleText" href="/zh/technology/">领先技术</a>
+                    <span class="yijiTitleIcon">
+                          <img alt="黑芝麻" src="/template/default/images/icon21.png">
+                          <img alt="黑芝麻" src="/template/default/images/icon17.png">
+                   </span>
+                </div>
+                <div class="erjiDrop">
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/core-ip/" class="erjiTitleText">核心IP</a>
+											 <div class="sanji">
+									
+                                        <a href="/zh/isp/">ISP</a>
+                                    
+                                        <a href="/zh/npu/">NPU</a>
+                                    
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/soc-design/" class="erjiTitleText">SoC设计</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/shanhai-toolchain/" class="erjiTitleText">山海工具链</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                    </div>
+            </li>
+           
+            <li class="yiji">
+                <div class="yijiTitle">
+                    <a class="yijiTitleText" href="/zh/products/">核心产品</a>
+                    <span class="yijiTitleIcon">
+                          <img alt="黑芝麻" src="/template/default/images/icon21.png">
+                          <img alt="黑芝麻" src="/template/default/images/icon17.png">
+                   </span>
+                </div>
+                <div class="erjiDrop">
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/huashan-series-chips/" class="erjiTitleText">华山系列芯片</a>
+											 <div class="sanji">
+									
+                                        <a href="/zh/huashan-series-a2000/">华山A2000家族芯片</a>
+                                    
+                                        <a href="/zh/huashan-series-a1000/">华山A1000家族芯片</a>
+                                    
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/wudang/" class="erjiTitleText">武当系列芯片</a>
+											 <div class="sanji">
+									
+                                        <a href="/zh/wudang-c1296/">武当C1296</a>
+                                    
+                                        <a href="/zh/wudang-c1236/">武当C1236</a>
+                                    
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/sesamex/" class="erjiTitleText">机器人平台</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/hanhai-middleware/" class="erjiTitleText">瀚海中间件</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                    </div>
+            </li>
+           
+            <li class="yiji">
+                <div class="yijiTitle">
+                    <a class="yijiTitleText" href="/zh/solutions/">解决方案</a>
+                    <span class="yijiTitleIcon">
+                          <img alt="黑芝麻" src="/template/default/images/icon21.png">
+                          <img alt="黑芝麻" src="/template/default/images/icon17.png">
+                   </span>
+                </div>
+                <div class="erjiDrop">
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/driving-solutions/" class="erjiTitleText">智能汽车</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/v2x-solution/" class="erjiTitleText">智能道路</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/industry-applications/" class="erjiTitleText">行业应用</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/consumer-electronics/" class="erjiTitleText">消费电子</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                    </div>
+            </li>
+           
+            <li class="yiji">
+                <div class="yijiTitle">
+                    <a class="yijiTitleText" href="/zh/news-center/">公司动态</a>
+                    <span class="yijiTitleIcon">
+                          <img alt="黑芝麻" src="/template/default/images/icon21.png">
+                          <img alt="黑芝麻" src="/template/default/images/icon17.png">
+                   </span>
+                </div>
+                <div class="erjiDrop">
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/news-center/" class="erjiTitleText">新闻中心</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="/zh/brand-center/" class="erjiTitleText">品牌中心</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                    </div>
+            </li>
+           
+            <li class="yiji">
+                <div class="yijiTitle">
+                    <a class="yijiTitleText" href="https://ir.blacksesame.com/?lang=zh-cn">投资者关系</a>
+                    <span class="yijiTitleIcon">
+                          <img alt="黑芝麻" src="/template/default/images/icon21.png">
+                          <img alt="黑芝麻" src="/template/default/images/icon17.png">
+                   </span>
+                </div>
+                <div class="erjiDrop">
+                                            <div class="erji"><div class="erjiTitle"><a href="https://ir.blacksesame.com/prospectus.html?lang=zh-cn" class="erjiTitleText">招股文件</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="https://ir.blacksesame.com/report.html?lang=zh-cn" class="erjiTitleText">业绩报告</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="https://ir.blacksesame.com/announcement.html?lang=zh-cn" class="erjiTitleText">公告及通函</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="https://ir.blacksesame.com/governance.html?lang=zh-cn" class="erjiTitleText">企业管制</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                            <div class="erji"><div class="erjiTitle"><a href="https://ir.blacksesame.com/contact.html?lang=zh-cn" class="erjiTitleText">投资者关系联络</a>
+											 <div class="sanji">
+									
+											</div>
+											
+											
+											</div></div>
+                                       
+                                    </div>
+            </li>
+           
+            <li class="yiji">
+                <div class="yijiTitle">
+                    <a class="yijiTitleText" href="https://bsthr.zhiye.com/">加入我们</a>
+                    <span class="yijiTitleIcon">
+                          <img alt="黑芝麻" src="/template/default/images/icon21.png">
+                          <img alt="黑芝麻" src="/template/default/images/icon17.png">
+                   </span>
+                </div>
+                <div class="erjiDrop">
+                                    </div>
+            </li>
+           
+           
+        </ul>
+    </div>
+</div>
+
+<div class="otherBox">
+    <form method="get" action="search" class="moSearch other">
+        <input type="text" name="keywords" id="keywords">
+        <input type="submit" value="">
+    </form>
+    <div class="moLeng other">
+        <a href="/zh" class="on">CHN</a>
+        <a href="javascript:;">KOR</a>
+        <a href="/?p=/Do/area&lg=en">ENG</a>
+    </div>
+</div>
+
+
+
+<div class="cebian">
+    <div class="cebian-box">
+        <a href="/zh/">
+            <img style="width:17px;max-width:none!important;" src="/template/default/images/c1.png" class="img2">
+        </a>
+    </div>
+    <div class="cebian-box emailBox">
+        <a href="javascript:;">
+            <img style="width:17px;max-width:none!important;" src="/template/default/images/c2.png" class="img2">
+            <!--        <div class="erweima"><div><img alt="辅助驾驶芯片" src="--><!--"></div></div>-->
+        </a>
+    </div>
+    <div class="cebian-box langBox">
+        <a href="javascript:;">
+            <img style="width:17px;max-width:none!important;" src="/template/default/images/c3.png" class="img2">
+        </a>
+    </div>
+    <!--    <div class="cebian-box">-->
+    <!--        <a href="javascript:;"><img alt="辅助驾驶芯片" src="--><!--" class="img2"></a>-->
+    <!--    </div>-->
+    <div class="cebian-box cebian-top">
+        <a style="border: none" href="javascript:;" onClick="$('body,html').animate({scrollTop:0},1000); "><img alt="辅助驾驶芯片" src="/template/default/images/c5.png" class="img2"></a>
+    </div>
+</div>
+<div class="banBox">
+    <div class="banBoxZhan"></div>
+    <ul class="banBoxDesc"></ul>
+    <div class="banner">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide" style="background:url(/static/images/banner-20260417-cn.png) no-repeat 50%/cover">
+                    
+                </div>
+                <div class="swiper-slide" style="background:url(/static/images/banner-20260420-cn.png) no-repeat 50%/cover">
+                    <div class="banText">
+                        <div class="banText1"></div>
+                        <div class="banText2"></div>
+                    </div>
+                    <a href="/zh/list_8/956.html" class="banBoxMore"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+                </div>
+
+                <div class="swiper-slide" style="background:url(/static/images/banner816.png) no-repeat 50%/cover">
+                    <div class="banText">
+                        <div class="banText1"></div>
+                        <div class="banText2"></div>
+                    </div>
+                    <a href="/zh/list_9/816.html" class="banBoxMore"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+                </div>
+
+                <div class="swiper-slide" style="background:url(/template/default/images2/A2000_banner.png) no-repeat 50%/cover">
+                    <div class="banText">
+                        <div class="banText1"></div>
+                        <div class="banText2"></div>
+                    </div>
+                    <a href="/zh/huashan-a2000/" class="banBoxMore"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+                </div>
+                <div class="swiper-slide" style="background:url(/template/default/images/bannerwdn.jpg) no-repeat 50%/cover">
+                    <div class="banText">
+                        <div class="banText1"></div>
+                        <div class="banText2"></div>
+                    </div>
+                    <a href="/zh/wudang-c1200/" class="banBoxMore"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+                </div>
+                <div class="swiper-slide" style="background:url(/template/default/images/bannern1.jpg) no-repeat 50%/cover">
+                    <div class="banText">
+                        <div class="banText1">用超前科技  做非凡产品</div>
+                        <div class="banText2">BEST TECH ·  BEST LIFE</div>
+                    </div>
+                    <a href="/zh/huashan-series-chips/" class="banBoxMore"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+                </div>
+              
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="bannerBiao"><img alt="黑芝麻" src="/template/default/images/a1.png"></div>
+
+<div class="index1 wow fadeInUp" >
+    
+    
+    <video  src="/template/default/images/index1.mp4" id="video1" class="index-bg index-sp" autoplay loop muted></video>
+    <img class="index-tu index-bg" style="width:1920px;" src="/template/default/images/index1.gif">
+    <div class="index11">BEST TECH · BEST LIFE</div>
+    <div class="indexTitle">
+        <img alt="黑芝麻智能" src="/template/default/images/i1.png">
+        <span>领先技术</span>
+        <img alt="黑芝麻" src="/template/default/images/i17.png">
+    </div>
+    <div class="index14"><img alt="人工智能驾驶" src="/template/default/images/i18.png"></div>
+    <div class="index12">
+        <div class="index121">黑芝麻DNA—— </div>
+        <div class="index122"><span>Al</span><sup>3</sup></div>
+    </div>
+    <div class="index13">自主可控核心IP（ISP+NPU）,&emsp;让一切看得更清、看得更远、看得更懂。</div>
+    <div class="index15"></div>
+    <div class="index16">
+           <a href="/zh/technology/" class="more"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+    </div>
+</div>
+
+<div class="index2 wow fadeInUp">
+   <video  src="/template/default/images/index2.mp4" id="video1" class="index-bg index-sp" autoplay loop muted></video>
+    <img class="index-tu index-bg" style="width:1920px;" src="/template/default/images/index2.gif">
+    <div class="indexTitle">
+        <img alt="黑芝麻感知系统" src="/template/default/images/i6.png">
+        <span>核心产品</span>
+        <img alt="黑芝麻感知系统" src="/template/default/images/i7.png">
+    </div>
+    <div class="index21"><img alt="黑芝麻感知系统" src="/template/default/images/i18.png"></div>
+    <div class="index22">
+        <p>车规级辅助驾驶计算芯片</p>
+        <p>赋能未来智慧出行</p>
+    </div>
+    <div class="index23">
+        <p>从华山A1000到A1000 Pro，黑芝麻智能始终致力高性能低功耗车规级芯片<br>的嵌入式研发, 为智能驾驶提供多种定制化解决方案</p>
+    </div>
+    <div class="index24"></div>
+    <div class="index16">
+           <a href="/zh/products/" class="more"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+    </div>
+</div>
+
+<div class="index3 wow fadeInUp">
+    
+    
+    
+    <video  src="/template/default/images/index3.mp4" id="video1" class="index-bg index-sp" autoplay loop muted></video>
+    <img class="index-tu index-bg" style="width:1920px;" src="/template/default/images/index3.jpg">       
+
+   
+   
+   
+
+   
+   
+   
+    <div class="indexTitle">
+        <img alt="黑芝麻ADAS" src="/template/default/images/i1.png">
+        <span>解决方案</span>
+        <img alt="黑芝麻ADAS" src="/template/default/images/i17.png">
+    </div>
+    <div class="index21"><img alt="黑芝麻ADAS" src="/template/default/images/i18.png"></div>
+    <div class="index31">既做聪明的车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;也做智慧的路</div>
+    <ul class="index32">
+        <li>
+            <p>凭借自适应光控传感技术<br>和全球领先的图像处理能力<br>完善的SoC设计能力</p>
+        </li>
+        <li>
+            <p>黑芝麻融合智能影像技术<br>
+                让所见更精准，更全面<br>
+                让车更聪明，让路更智慧</p>
+        </li>
+    </ul>
+    <div class="index16">
+        <a href="/zh/solutions/" class="more"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+    </div>
+</div>
+
+<div class="index4 wow fadeInUp">
+    <div class="indexTitle">
+        <img alt="黑芝麻高级辅助驾驶" src="/template/default/images/i1.png">
+        <span>公司动态</span>
+        <img alt="黑芝麻高级辅助驾驶" src="/template/default/images/i17.png">
+    </div>
+    <div class="index21"><img alt="黑芝麻高级辅助驾驶" src="/template/default/images/i18.png"></div>
+
+    <div class="list2 wow fadeInUp list2-h">
+               
+		
+                <a href="/zh/list_8/968.html" class="ppItem2 tra">
+
+            <div class="ppItemImg"><img alt="《2026自动驾驶生态报告》在京发布，黑芝麻智能助力行业“进击-进阶-进化”" src="/runtime/image/w602_h404_1777201695823197.png" class="imgs"></div>
+            <div class="ppItemText">
+                <div class="ppItemTitle">《2026自动驾驶生态报告》在京发布，黑芝麻智能助力行业“进击-进阶-进化”</div>
+                <div class="ppItemSmall">
+                    <div class="ppItemSmallLeft"> 黑芝麻智能特别支持的《2026自动驾驶生态报告》正式发布，报告以前瞻视角勾勒出中国自动驾驶领域“进击—进阶—进化”的全景图谱。4月24日，北京国际车展黑芝麻智能展台，上海财经大学数字经济研究院与轩辕矩阵旗下《汽车商业评论》杂志联合发布了《2026自动驾驶生态报告》。作为本次发布会的特别支持方，黑芝麻智能创始人兼</div>
+                    <div class="ppItemMore2">
+                        <img alt="《2026自动驾驶生态报告》在京发布，黑芝麻智能助力行业“进击-进阶-进化”" src="/template/default/images/b90.png">
+                        <div>详情</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+		
+                <a href="/zh/list_11/967.html" class="ppItem2 tra">
+
+            <div class="ppItemImg"><img alt="从原型到量产，快人一步｜黑芝麻智能华山A2000全新自研高效易用山海 AI 工具链" src="/runtime/image/w602_h404_1777201006587352.png" class="imgs"></div>
+            <div class="ppItemText">
+                <div class="ppItemTitle">从原型到量产，快人一步｜黑芝麻智能华山A2000全新自研高效易用山海 AI 工具链</div>
+                <div class="ppItemSmall">
+                    <div class="ppItemSmallLeft"> 黑芝麻智能新一代山海AI工具链以“高效易用”为核心理念，打通智驾算法开发全链路壁垒，真正实现了“从原型到量产，高效上手，快人一步”。在智能驾驶产业飞速发展迭代的当下，作为连接算法模型与底层芯片的核心桥梁，高效的AI开发工具链已成为推动智能驾驶技术落地的关键因素，直接决定了智驾方案从实验室走向量产的速度。</div>
+                    <div class="ppItemMore2">
+                        <img alt="从原型到量产，快人一步｜黑芝麻智能华山A2000全新自研高效易用山海 AI 工具链" src="/template/default/images/b90.png">
+                        <div>详情</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+		
+                <a href="/zh/list_9/966.html" class="ppItem2 tra">
+
+            <div class="ppItemImg"><img alt="黑芝麻智能加入理想星环OS开源生态，共建智能汽车底层技术底座" src="/runtime/image/w602_h404_1777199963108180.png" class="imgs"></div>
+            <div class="ppItemText">
+                <div class="ppItemTitle">黑芝麻智能加入理想星环OS开源生态，共建智能汽车底层技术底座</div>
+                <div class="ppItemSmall">
+                    <div class="ppItemSmallLeft"> 黑芝麻智能加入理想星环OS开源生态，双方将围绕开源共建展开深度合作，携手推动智能汽车底层技术的开放协同与产业创新。4月26日，黑芝麻智能正式宣布加入理想星环OS开源生态。双方将围绕开源共建展开深度合作，基于黑芝麻智能全系列芯片平台，对星环OS进行深度适配与性能优化，携手推动智能汽车底层技术的开放协同与产业创新</div>
+                    <div class="ppItemMore2">
+                        <img alt="黑芝麻智能加入理想星环OS开源生态，共建智能汽车底层技术底座" src="/template/default/images/b90.png">
+                        <div>详情</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+		
+                <a href="/zh/list_8/965.html" class="ppItem2 tra">
+
+            <div class="ppItemImg"><img alt="黑芝麻智能亮相2026北京车展，展示全场景立体化算力版图" src="/runtime/image/w602_h404_1777195195786873.png" class="imgs"></div>
+            <div class="ppItemText">
+                <div class="ppItemTitle">黑芝麻智能亮相2026北京车展，展示全场景立体化算力版图</div>
+                <div class="ppItemSmall">
+                    <div class="ppItemSmallLeft"> 黑芝麻智能携全系列产品与全场景解决方案参与北京车展，并带来产业链协同创新的丰硕成果，清晰呈现出全场景、立体化的算力芯片战略布局。4月24日，2026北京车展盛大开幕，超2000家中外企业同台诠释“领时代·智未来”的主题。黑芝麻智能（展位号：E108）携全系列产品与全场景解决方案参展，并带来产业链协同创新的丰硕成果，</div>
+                    <div class="ppItemMore2">
+                        <img alt="黑芝麻智能亮相2026北京车展，展示全场景立体化算力版图" src="/template/default/images/b90.png">
+                        <div>详情</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+		
+                <a href="/zh/list_9/964.html" class="ppItem2 tra">
+
+            <div class="ppItemImg"><img alt="黑芝麻智能与东风汽车达成平台级合作，武当C1296芯片赋能东风天元智舱Plus" src="/runtime/image/w602_h404_1777194785742309.png" class="imgs"></div>
+            <div class="ppItemText">
+                <div class="ppItemTitle">黑芝麻智能与东风汽车达成平台级合作，武当C1296芯片赋能东风天元智舱Plus</div>
+                <div class="ppItemSmall">
+                    <div class="ppItemSmallLeft"> 黑芝麻智能与东风汽车达成平台级深度合作，共同打造首个本土舱驾一体量产化平台——天元智舱Plus。黑芝麻智能将持续与东风汽车等产业链伙伴深化合作，携手推动汽车成为可持续成长的智能终端。4月24日，黑芝麻智能在2026北京车展现场举办“芯连万物 智赋全域”发布会，东风汽车集团有限公司研发总院智能化技术总工程师冯超与</div>
+                    <div class="ppItemMore2">
+                        <img alt="黑芝麻智能与东风汽车达成平台级合作，武当C1296芯片赋能东风天元智舱Plus" src="/template/default/images/b90.png">
+                        <div>详情</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+		
+                <a href="/zh/list_11/963.html" class="ppItem2 tra">
+
+            <div class="ppItemImg"><img alt="2026北京车展｜一图看懂黑芝麻智能展台核心亮点" src="/runtime/image/w602_h404_1777194376729310.png" class="imgs"></div>
+            <div class="ppItemText">
+                <div class="ppItemTitle">2026北京车展｜一图看懂黑芝麻智能展台核心亮点</div>
+                <div class="ppItemSmall">
+                    <div class="ppItemSmallLeft"> </div>
+                    <div class="ppItemMore2">
+                        <img alt="2026北京车展｜一图看懂黑芝麻智能展台核心亮点" src="/template/default/images/b90.png">
+                        <div>详情</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+		
+            </div>
+   
+    
+    
+        <!--移动端变轮播-->
+        <div class="list2 list2-swiper">
+            <!-- Slider main container -->
+            <div class="swiper swiper-list">
+                <!-- Additional required wrapper -->
+                <div class="swiper-wrapper">
+                    <!-- Slides -->
+                   
+		
+                    <div class="swiper-slide" style="background-color: transparent;">
+                        <a href="/zh/list_8/968.html" class="ppItem2 tra">
+                            <div class="ppItemImg"><img alt="《2026自动驾驶生态报告》在京发布，黑芝麻智能助力行业“进击-进阶-进化”" src="/runtime/image/w520_h298_1777201695823197.png"
+                                    class="imgs"></div>
+                            <div class="ppItemText">
+                                <div class="ppItemTitle">《2026自动驾驶生态报告》在京发布，黑芝麻智能助力行业“进击-进阶-进化” </div>
+                                <div class="ppItemSmall">
+                                    <div class="ppItemSmallLeft">
+                                      黑芝麻智能特别支持的《2026自动驾驶生态报告》正式发布，报告以前瞻视角勾勒出中国自动驾驶领域“进击—进阶—进化”的全景图谱。4月24日，北京国际车展黑芝麻智能展台，上海财经大学数字经济研究院与轩辕矩阵旗下《汽车商业评论》杂志联合发布了《2026自动驾驶生态报告》。作为本次发布会的特别支持方，黑芝麻智能创始人兼
+                                    </div>
+                                    <div class="ppItemMore2">
+                                        
+                                        <div>详情</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					
+                    <div class="swiper-slide" style="background-color: transparent;">
+                        <a href="/zh/list_11/967.html" class="ppItem2 tra">
+                            <div class="ppItemImg"><img alt="从原型到量产，快人一步｜黑芝麻智能华山A2000全新自研高效易用山海 AI 工具链" src="/runtime/image/w520_h298_1777201006587352.png"
+                                    class="imgs"></div>
+                            <div class="ppItemText">
+                                <div class="ppItemTitle">从原型到量产，快人一步｜黑芝麻智能华山A2000全新自研高效易用山海 AI 工具链 </div>
+                                <div class="ppItemSmall">
+                                    <div class="ppItemSmallLeft">
+                                      黑芝麻智能新一代山海AI工具链以“高效易用”为核心理念，打通智驾算法开发全链路壁垒，真正实现了“从原型到量产，高效上手，快人一步”。在智能驾驶产业飞速发展迭代的当下，作为连接算法模型与底层芯片的核心桥梁，高效的AI开发工具链已成为推动智能驾驶技术落地的关键因素，直接决定了智驾方案从实验室走向量产的速度。
+                                    </div>
+                                    <div class="ppItemMore2">
+                                        
+                                        <div>详情</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					
+                    <div class="swiper-slide" style="background-color: transparent;">
+                        <a href="/zh/list_9/966.html" class="ppItem2 tra">
+                            <div class="ppItemImg"><img alt="黑芝麻智能加入理想星环OS开源生态，共建智能汽车底层技术底座" src="/runtime/image/w520_h298_1777199963108180.png"
+                                    class="imgs"></div>
+                            <div class="ppItemText">
+                                <div class="ppItemTitle">黑芝麻智能加入理想星环OS开源生态，共建智能汽车底层技术底座 </div>
+                                <div class="ppItemSmall">
+                                    <div class="ppItemSmallLeft">
+                                      黑芝麻智能加入理想星环OS开源生态，双方将围绕开源共建展开深度合作，携手推动智能汽车底层技术的开放协同与产业创新。4月26日，黑芝麻智能正式宣布加入理想星环OS开源生态。双方将围绕开源共建展开深度合作，基于黑芝麻智能全系列芯片平台，对星环OS进行深度适配与性能优化，携手推动智能汽车底层技术的开放协同与产业创新
+                                    </div>
+                                    <div class="ppItemMore2">
+                                        
+                                        <div>详情</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					
+                    <div class="swiper-slide" style="background-color: transparent;">
+                        <a href="/zh/list_8/965.html" class="ppItem2 tra">
+                            <div class="ppItemImg"><img alt="黑芝麻智能亮相2026北京车展，展示全场景立体化算力版图" src="/runtime/image/w520_h298_1777195195786873.png"
+                                    class="imgs"></div>
+                            <div class="ppItemText">
+                                <div class="ppItemTitle">黑芝麻智能亮相2026北京车展，展示全场景立体化算力版图 </div>
+                                <div class="ppItemSmall">
+                                    <div class="ppItemSmallLeft">
+                                      黑芝麻智能携全系列产品与全场景解决方案参与北京车展，并带来产业链协同创新的丰硕成果，清晰呈现出全场景、立体化的算力芯片战略布局。4月24日，2026北京车展盛大开幕，超2000家中外企业同台诠释“领时代·智未来”的主题。黑芝麻智能（展位号：E108）携全系列产品与全场景解决方案参展，并带来产业链协同创新的丰硕成果，
+                                    </div>
+                                    <div class="ppItemMore2">
+                                        
+                                        <div>详情</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					
+                    <div class="swiper-slide" style="background-color: transparent;">
+                        <a href="/zh/list_9/964.html" class="ppItem2 tra">
+                            <div class="ppItemImg"><img alt="黑芝麻智能与东风汽车达成平台级合作，武当C1296芯片赋能东风天元智舱Plus" src="/runtime/image/w520_h298_1777194785742309.png"
+                                    class="imgs"></div>
+                            <div class="ppItemText">
+                                <div class="ppItemTitle">黑芝麻智能与东风汽车达成平台级合作，武当C1296芯片赋能东风天元智舱Plus </div>
+                                <div class="ppItemSmall">
+                                    <div class="ppItemSmallLeft">
+                                      黑芝麻智能与东风汽车达成平台级深度合作，共同打造首个本土舱驾一体量产化平台——天元智舱Plus。黑芝麻智能将持续与东风汽车等产业链伙伴深化合作，携手推动汽车成为可持续成长的智能终端。4月24日，黑芝麻智能在2026北京车展现场举办“芯连万物 智赋全域”发布会，东风汽车集团有限公司研发总院智能化技术总工程师冯超与
+                                    </div>
+                                    <div class="ppItemMore2">
+                                        
+                                        <div>详情</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					
+                    <div class="swiper-slide" style="background-color: transparent;">
+                        <a href="/zh/list_11/963.html" class="ppItem2 tra">
+                            <div class="ppItemImg"><img alt="2026北京车展｜一图看懂黑芝麻智能展台核心亮点" src="/runtime/image/w520_h298_1777194376729310.png"
+                                    class="imgs"></div>
+                            <div class="ppItemText">
+                                <div class="ppItemTitle">2026北京车展｜一图看懂黑芝麻智能展台核心亮点 </div>
+                                <div class="ppItemSmall">
+                                    <div class="ppItemSmallLeft">
+                                      
+                                    </div>
+                                    <div class="ppItemMore2">
+                                        
+                                        <div>详情</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					
+                </div>
+
+                <!-- If we need pagination -->
+                <div class="swiper-pagination" style="position:relative; margin-top:20px; "></div>
+            </div>
+        </div>
+
+
+    
+
+    <div class="index16">
+         <a href="/zh/news-center/" class="more"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+    </div>
+</div>
+
+<div class="index5 wow fadeInUp bg">
+    <div class="indexTitle">
+        <img alt="黑芝麻" src="/template/default/images/i1.png">
+        <span>加入我们</span>
+        <img alt="黑芝麻" src="/template/default/images/i17.png">
+    </div>
+    <div class="index21"><img alt="黑芝麻" src="/template/default/images/i18.png"></div>
+    <div class="index51">你在寻找未来<br>我们正在创造未来</div>
+    <div class="index52">加入我们吧，一起用芯，为美好生活赋能</div>
+    <div class="index53"></div>
+    <div class="index16">
+      <a href="https://bsthr.zhiye.com/" class="more"><span>了解更多</span><i class="fa fa-angle-right"></i></a>
+    </div>
+</div>
+
+
+
+<div class="footer1">
+    <div class="foNei1">
+        <div class="foNeiItem1">
+            <div>关注我们：</div>
+            <a href="javascript:;" class="openWechat">
+                <img alt="黑芝麻" src="/template/default/images/36X32-1.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/wechat.jpg" alt=""></div>
+            </a>
+            <a href="javascript:;" class="openVideo">
+                <img alt="黑芝麻" src="/template/default/images/36X32-2.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/video.jpg" alt=""></div>
+            </a>
+            <a href="https://weibo.com/u/7779026077" rel="nofollow" target="_blank"><img alt="黑芝麻" src="/template/default/images/36X32-3.png"></a>
+            <a href="https://www.zhihu.com/org/hei-zhi-ma-zhi-neng-ke-ji/posts" target="_blank"><img alt="黑芝麻" src="/template/default/images/36X32-4.png"></a>
+            <a href="https://space.bilibili.com/46296483?spm_id_from=333.337.0.0" target="_blank"><img alt="黑芝麻" src="/template/default/images/66X30-6.png"></a>
+        </div>
+        <!-- <div class="foNeiItem1">
+            <div>分享此页：</div>
+            <a href="javascript:;" class="openWechat">
+                <img alt="黑芝麻" src="/template/default/images/36X32-1.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <a href="javascript:;" class="openVideo">
+                <img alt="黑芝麻" src="/template/default/images/36X32-2.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <a href="http://service.weibo.com/share/share.php?title=黑芝麻 http://www.blacksesame.com.cn&pic=/template/default/images/500X160.png" rel="nofollow" target="_blank"><img alt="黑芝麻" src="/template/default/images/36X32-3.png"></a>
+            <a href="javascript:;" class="openWechat" target="_blank">
+                <img alt="黑芝麻" src="/template/default/images/36X32-4.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <a href="javascript:;" class="openWechat" target="_blank">
+                <img alt="黑芝麻" src="/template/default/images/66X30-6.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <a href="https://www.douyin.com/discover" rel="nofollow" class="openWechat" target="_blank">
+                <img alt="黑芝麻" src="/template/default/images/36X32-5.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <!--            <a href="#"><img alt="黑芝麻" src="--><!--"></a>-->
+            <!--            <a href="#"><img alt="黑芝麻" src="--><!--"></a>-->
+        </div> -->
+    </div>
+</div>
+
+<div class="footer4">
+    <div class="foNei1">
+        <div class="foNeiItem1">
+            <div>关注我们：</div>
+            <a href="javascript:;" class="openWechat">
+                <img alt="黑芝麻" src="/template/default/images/36X32-1.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/wechat.jpg" alt=""></div>
+            </a>
+            <a href="javascript:;" class="openVideo">
+                <img alt="黑芝麻" src="/template/default/images/36X32-2.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/video.jpg" alt=""></div>
+            </a>
+            <a href="https://weibo.com/u/7779026077" target="_blank"><img alt="黑芝麻" src="/template/default/images/36X32-3.png"></a>
+            <a href="https://www.zhihu.com/org/hei-zhi-ma-zhi-neng-ke-ji/posts" target="_blank"><img alt="黑芝麻" src="/template/default/images/36X32-4.png"></a>
+            <a href="https://space.bilibili.com/46296483?spm_id_from=333.337.0.0" target="_blank"><img alt="黑芝麻" src="/template/default/images/66X30-6.png"></a>
+        </div>
+        <!-- <div class="foNeiItem1">
+            <div>分享此页：</div>
+            <a href="javascript:;" class="openWechat">
+                <img alt="黑芝麻" src="/template/default/images/36X32-1.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <a href="javascript:;" class="openVideo">
+                <img alt="黑芝麻" src="/template/default/images/36X32-2.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <a href="http://service.weibo.com/share/share.php?title=黑芝麻 http://www.blacksesame.com.cn&pic=/template/default/images/500X160.png" target="_blank"><img alt="黑芝麻" src="/template/default/images/36X32-3.png"></a>
+            <a href="javascript:;" class="openWechat" target="_blank">
+                <img alt="黑芝麻" src="/template/default/images/36X32-4.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <a href="javascript:;" class="openWechat" target="_blank">
+                <img alt="黑芝麻" src="/template/default/images/66X30-6.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <a href="https://www.douyin.com/discover" class="openWechat" target="_blank">
+                <img alt="黑芝麻" src="/template/default/images/36X32-5.png">
+                <div class="wechatCode"><img alt="黑芝麻" src="/template/default/images/web_url.jpg" alt=""></div>
+            </a>
+            <!--            <a href="#"><img alt="黑芝麻" src="--><!--"></a>-->
+            <!--            <a href="#"><img alt="黑芝麻" src="--><!--"></a>-->
+        </div> -->
+    </div>
+</div>
+
+<div class="footer2">
+    <div class="foNei2">
+        <div class="foTop">
+            <div class="foTopLeft"><img alt="黑芝麻" src="/template/default/images/c-logo.png"></div>
+            <ul class="foTopRight">
+                <li class="foRightItem" style="border-bottom: #FFFFFF solid 0px;">
+               
+                        <div style="
+    font-size: 14px;
+">黑芝麻智能科技有限公司</div>
+                </li>
+                <li class="foRightItem">
+                    <div>媒体资讯：</div>
+                    <div><a href="mailto:pr@bst.ai">pr@bst.ai</a></div>
+                </li>
+                <li class="foRightItem">
+                    <div>商务合作：</div>
+                    <div><a href="mailto:mkt@bst.ai">mkt@bst.ai</a></div>
+                </li>
+                <li class="foRightItem">
+                    <div>简历投递：</div>
+                    <div><a href="mailto:recruiting@bst.ai">recruiting@bst.ai</a></div>
+                </li>
+            </ul>
+        </div>
+        <ul class="foBot">
+      
+            <li class="foBotItem">
+                <a href="/zh/company-profile/" rel="nofollow" class="foBotTitle">公司信息</a>
+				
+                <a rel="nofollow" href="/zh/basic-info/">基本介绍</a>
+                
+                <a rel="nofollow" href="/zh/strengths/">公司实力</a>
+                
+                <a rel="nofollow" href="/zh/company-culture/">品牌文化</a>
+                
+                <a rel="nofollow" href="/zh/cooperation/">合作共赢</a>
+                
+                <a rel="nofollow" href="/zh/resources/">资料下载</a>
+                
+                            </li>
+      
+            <li class="foBotItem">
+                <a href="/zh/technology/" rel="nofollow" class="foBotTitle">领先技术</a>
+				
+                <a rel="nofollow" href="/zh/core-ip/">核心IP</a>
+                
+                <a rel="nofollow" href="/zh/soc-design/">SoC设计</a>
+                
+                <a rel="nofollow" href="/zh/shanhai-toolchain/">山海工具链</a>
+                
+                            </li>
+      
+            <li class="foBotItem">
+                <a href="/zh/products/" rel="nofollow" class="foBotTitle">核心产品</a>
+				
+                <a rel="nofollow" href="/zh/huashan-series-chips/">华山系列芯片</a>
+                
+                <a rel="nofollow" href="/zh/wudang/">武当系列芯片</a>
+                
+                <a rel="nofollow" href="/zh/sesamex/">机器人平台</a>
+                
+                <a rel="nofollow" href="/zh/hanhai-middleware/">瀚海中间件</a>
+                
+                            </li>
+      
+            <li class="foBotItem">
+                <a href="/zh/solutions/" rel="nofollow" class="foBotTitle">解决方案</a>
+				
+                <a rel="nofollow" href="/zh/driving-solutions/">智能汽车</a>
+                
+                <a rel="nofollow" href="/zh/v2x-solution/">智能道路</a>
+                
+                <a rel="nofollow" href="/zh/industry-applications/">行业应用</a>
+                
+                <a rel="nofollow" href="/zh/consumer-electronics/">消费电子</a>
+                
+                            </li>
+      
+            <li class="foBotItem">
+                <a href="/zh/news-center/" rel="nofollow" class="foBotTitle">公司动态</a>
+				
+                <a rel="nofollow" href="/zh/news-center/">新闻中心</a>
+                
+                <a rel="nofollow" href="/zh/brand-center/">品牌中心</a>
+                
+                            </li>
+      
+            <li class="foBotItem">
+                <a href="https://ir.blacksesame.com/?lang=zh-cn" rel="nofollow" class="foBotTitle">投资者关系</a>
+				
+                <a rel="nofollow" href="https://ir.blacksesame.com/prospectus.html?lang=zh-cn">招股文件</a>
+                
+                <a rel="nofollow" href="https://ir.blacksesame.com/report.html?lang=zh-cn">业绩报告</a>
+                
+                <a rel="nofollow" href="https://ir.blacksesame.com/announcement.html?lang=zh-cn">公告及通函</a>
+                
+                <a rel="nofollow" href="https://ir.blacksesame.com/governance.html?lang=zh-cn">企业管制</a>
+                
+                <a rel="nofollow" href="https://ir.blacksesame.com/contact.html?lang=zh-cn">投资者关系联络</a>
+                
+                            </li>
+      
+            <li class="foBotItem">
+                <a href="https://bsthr.zhiye.com/" rel="nofollow" class="foBotTitle">加入我们</a>
+				
+                            </li>
+      
+ <li class="foBotItem">
+                <a href="/zh/contact-us/" rel="nofollow" class="foBotTitle">联系我们</a>
+                <div class="addT">
+                   <div class="addt1"> 
+                        <div>武汉总部</div>
+                        <div class="addOpen">+</div>
+                        <div class="addClose">-</div>
+                   </div>
+                   <div class="addt2">
+                       地址: 湖北省武汉市洪山区徐东大街79号中兴时代·数贸港A栋29层/30层
+                     
+                   </div>
+                   <div class="addt2">
+                      电话: 027-86434706
+                   </div>
+                </div>
+                
+                <div class="addT">
+                   <div class="addt1"> 
+                        <div>上海</div>
+                        <div class="addOpen">+</div>
+                        <div class="addClose">-</div>
+                   </div>
+                   <div class="addt2">
+                    地址: 上海市浦东新区金科园金沪路358弄2号
+                   </div>
+                   <div class="addt2">
+                       电话: 021-58380278
+                   </div>
+                </div>
+                
+                <div class="addT">
+                   <div class="addt1"> 
+                        <div>北京</div>
+                        <div class="addOpen">+</div>
+                        <div class="addClose">-</div>
+                   </div>
+                  <div class="addt2">
+                    地址: 北京市海淀区中关村东路1号院清华科技园8号楼科技大厦D座7层
+                   </div>
+                    
+                </div>
+                
+                <div class="addT">
+                   <div class="addt1"> 
+                        <div>深圳</div>
+                        <div class="addOpen">+</div>
+                        <div class="addClose">-</div>
+                   </div>
+                   <p class="addt2">
+                       地址: 深圳市南山区粤海街道高新区社区科技南路18号深圳湾科技生态园12栋B1座32层
+                   </p>
+                   <div class="addt2">
+                       电话: 0755-86952165
+                   </div>
+                </div>
+                
+                <div class="addT">
+                   <div class="addt1"> 
+                        <div>成都</div>
+                        <div class="addOpen">+</div>
+                        <div class="addClose">-</div>
+                   </div>
+                   <div class="addt2">
+                       地址: 四川省成都市高新区天华二路219号4栋1单元3层
+                   </div>
+                   <div class="addt2">
+                       电话: 028-81198576
+                   </div>
+                </div>
+                
+                <div class="addT">
+                   <div class="addt1"> 
+                        <div>重庆</div>
+                        <div class="addOpen">+</div>
+                        <div class="addClose">-</div>
+                   </div>
+                  <div class="addt2">
+                       地址: 重庆市渝北区仙桃数据谷中路9号B11栋21楼
+                   </div>
+                    <div class="addt2">
+                       电话: 023-67451527
+                   </div>
+                </div>
+                
+                <div class="addT">
+                   <div class="addt1"> 
+                        <div>美国</div>
+                        <div class="addOpen">+</div>
+                        <div class="addClose">-</div>
+                   </div>
+                   <div class="addt2">
+                       地址: 2290 North First Street, STE100，San Jose, CA 95131
+                   </div>
+                   <div class="addt2">
+                       电话: +1 669-9008311
+                   </div>
+                </div>
+                
+                <div class="addT">
+                   <div class="addt1"> 
+                        <div>新加坡</div>
+                        <div class="addOpen">+</div>
+                        <div class="addClose">-</div>
+                   </div>
+                   <div class="addt2">
+                       地址: 福士大道1号索拉里斯大厦南楼 4层，05和06办公室 新加坡邮编：138628
+                   </div>
+                   <div class="addt2">
+                       电话: +0065 69082986
+                   </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="footer3">
+    <div class="footerNei3">
+        <div class="footerLeft3">
+            <!--<a href="/zh/contact-us/">联系我们</a>-->
+            <a href="/zh/website-map/">网站地图</a>
+            <a href="/zh/intellectual-property-rights-statement/">知识产权声明</a>
+        </div>
+        <div class="footerRight3">
+            <div class="footerRight31"><img alt="黑芝麻" src="/template/default/images/gongan.png"><a href="http://beian.miit.gov.cn/" target="_blank">鄂ICP备2022002574号-2</a>&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank">鄂公网安备42010702000658号</a></div>
+            <div class="footerRight32">Copyright © 2022 Black Sesame Technologies.All rights reserved</div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript" src="/template/default/js/jquery-1.8.3.min.js"></script>
+<script src="/template/default/js/global.js"></script>
+<script src="/template/default/js/wow.min.js"></script>
+<script>
+    var wow = new WOW({
+        boxClass: 'wow',
+        animateClass: 'animated',
+        offset: 0,
+        mobile: false,
+        live: true
+    });
+    wow.init();
+
+    // $('.openWechat').click(function () {
+    //     $(this).children('.wechatCode').toggle();
+    // })
+    // $('.openVideo').click(function () {
+    //     $(this).children('.wechatCode').toggle();
+    // })
+    $('.openWechat').hover(
+      function () {
+         $(this).children('.wechatCode').toggle();
+      },
+      function () {
+         $(this).children('.wechatCode').toggle();
+      }
+    );
+    
+    $('.openVideo').hover(
+      function () {
+         $(this).children('.wechatCode').toggle();
+      },
+      function () {
+         $(this).children('.wechatCode').toggle();
+      }
+    );
+    // function openWechat() {
+    //     $('.wechatCode').
+    // }
+    
+    $(window).scroll(function() {
+        // console.log($(document).scrollTop())
+        // console.log($('.footer2').offset().top)
+        // 总高度
+        let scrollHeight = document.documentElement.scrollHeight || document.body.scrollHeight
+        // 可视区高度
+        let windowHeight = document.documentElement.clientHeight || document.body.clientHeight
+        // 变量scrollTop为当前页面的滚动条纵坐标位置
+        let scrollTop = document.documentElement.scrollTop || document.body.scrollTop
+        // 获取距离底部的高度
+        var scrollBottom = scrollHeight - windowHeight - scrollTop
+        if (scrollBottom < ($('.footer2').height() + $('.footer3').height())) {
+          $('.footer1').css({'position':'static'})
+        }else{
+            $('.footer1').css('position','fixed')
+        }
+
+    });
+    
+    $('.addt1').click(function () { 
+        $(this).siblings().stop().slideToggle()
+        $(this).children('.addClose').toggle()
+        $(this).children('.addOpen').toggle()
+        $(this).parent().siblings().children('.addt2').stop().slideUp().siblings().children('.addClose').hide().siblings('.addOpen').show()
+    })
+
+    
+</script>
+
+</body>
+</html><script>
+    var wow = new WOW({
+        boxClass: 'wow',
+        animateClass: 'animated',
+        offset: 0,
+        mobile: false,
+        live: true
+    });
+    wow.init();
+</script>
+
+<script src="/template/default/js/swiper-bundle.min.js"></script>
+<script>
+    var swiper = new Swiper(".mySwiper", {
+        autoplay: {
+            delay: 5000,
+            stopOnLastSlide: false,
+            disableOnInteraction: false,
+        },
+        pagination: {
+            el: '.banBoxDesc',
+            clickable :true,
+        },
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+        loop:true,
+        speed:1000
+    });
+    
+    $('.point span').click(function(){
+        console.log($(this).index())
+        $(this).addClass('active').siblings().removeClass("active");
+        let w = $('.list2-swiper a').eq($(this).index()).outerWidth(true)* -($(this).index())
+        console.log(w )
+        $('.list2-swiper .ppItem2').css({
+            transform: 'translateX(' +w + 'px)'
+        },1000)
+    })
+    
+</script>
+<script>
+        new Swiper('.swiper-list', {
+            speed: 400,
+   spaceBetween: 10,
+            pagination: {
+                el: ".swiper-pagination",
+            },
+        });
+    </script>
+<style>
+#preventTran
+{
+    display:none!important;
+    
+}
+</style>

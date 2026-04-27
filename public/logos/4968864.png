@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="久威國際股份有限公司 JUIC INTERNATIONAL CORPORATION" />
+  <meta name="theme-color" content="#ffffff" />
+  <title>JUIC 久威國際股份有限公司</title>
+  <script type="module" crossorigin src="/assets/index-D9YlHIKR.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/vendor-ui-XYSHNI68.js">
+  <link rel="modulepreload" crossorigin href="/assets/vendor-react-DhBaIpdh.js">
+  <link rel="stylesheet" crossorigin href="/assets/index-BEVv1WGL.css">
+</head>
+
+<body>
+  <div id="root"></div>
+</body>
+
+</html>

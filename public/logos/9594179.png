@@ -1,0 +1,43 @@
+﻿<!DOCTYPE>
+<html>
+
+<head>
+    <title>404页面不存在</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta name="keywords" content="404页面不存在" />
+    <meta name="description" content="404页面不存在" />
+    <meta name="author" content="" />
+    <link rel="shortcut icon" href="http://mftest10.no6.35nic.com/favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="jscript/jquery-1.11.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css_style/layout.css" />
+</head>
+
+<body>
+    <div class="error-row">
+        <div class="error-box">
+            <div class="error-img">
+                <div class="error-img-row1">
+                    <img src="images/Error_icon1.png"/>
+                </div>
+                <div class="error-img-row2">
+                    <img src="images/Error_icon2.png"/>
+                </div>
+
+            </div>
+            <div class="error-text">
+                    <p>我们正在联系最牛的工程师为您施工，要返回静心等待哟~</p>
+                    <div class="error-btn">
+                    <a href="/">返回首页</a>
+                    <a href="/sitemap.html">站点地图</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+ </body>
+
+</html>

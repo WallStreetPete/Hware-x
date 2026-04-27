@@ -1,0 +1,950 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10,user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="format-detection" content="telephone=no">
+<title>동진테크윈</title>
+
+<link rel="stylesheet" href="https://dongjine.com/theme/business/css/default.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/js/font-awesome/css/font-awesome.min.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/js/owlcarousel/owl.carousel.css?ver=250402c">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css?ver=250402c">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css?ver=250402c">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&display=swap&subset=korean">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@xpressengine/xeicon@2.3.3/xeicon.min.css?ver=250402c">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans&amp;display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.min.css?ver=250402c">
+<link rel="stylesheet" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css?ver=250402c">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/static/pretendard.css?ver=250402c">
+<link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://dongjine.com/css/bootstrap/4.5.1/css/bootstrap.css?ver=250402c">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/extend/sections/header/dongjine_header/css/style.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/extend/sections/banner/dongjine_banner/css/style.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/extend/sections/hidden_menu/dongjine_hidden_menu/css/style.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/extend/sections/main_visual/dongjine_visual/css/style.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/extend/contents/dongjine_c1/css/style.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/extend/contents/dongjine_c2/css/style.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/extend/contents/dongjine_c3/css/style.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/skin/latest/dongjine_news/style.css?ver=250402c">
+<link rel="stylesheet" href="https://dongjine.com/theme/business/extend/sections/footer/dongjine_footer/css/style.css?ver=250402c">
+
+
+<!--[if lte IE 8]>
+<script src="https://dongjine.com/js/html5.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+
+<script>
+// 자바스크립트에서 사용하는 전역변수 선언
+var g5_url       = "https://dongjine.com";
+var g5_bbs_url   = "https://dongjine.com/bbs";
+var g5_is_member = "";
+var g5_is_admin  = "";
+var g5_is_mobile = "";
+var g5_bo_table  = "";
+var g5_sca       = "";
+var g5_editor    = "";
+var g5_cookie_domain = ".dongjine.com";
+
+var g5_theme_product_url = "";
+var g5_product_url = "";
+</script>
+
+
+<script>
+var g5_msg_tmp_saved_del_error = "임시 저장된글을 삭제중에 오류가 발생하였습니다.";
+var g5_msg_ipin = "아이핀";
+var g5_msg_hphone = "휴대폰";
+var g5_msg_confirm_completed = "이미 본인확인을 완료하셨습니다";
+var g5_msg_reconfirm = "이전 인증을 취소하고 다시 인증하시겠습니까?";
+var g5_msg_unrecoverable = "한번 삭제한 자료는 복구할 방법이 없습니다.";
+var g5_msg_delete_really = "정말 삭제하시겠습니까?";
+var g5_msg_daum_file_unloaded = "다음 우편번호 파일이 로드되지 않았습니다.";
+var g5_msg_unfold_button = "접기 버튼";
+var g5_msg_close_button = "닫기 버튼";
+var g5_msg_opened = "열린";
+var g5_msg_required = "필수";
+var g5_msg_option = "선택";
+var g5_msg_input = "입력";
+var g5_msg_is = "입니다";
+var g5_msg_tel_form_not_right = "전화번호 형식이 올바르지 않습니다.";
+var g5_msg_input_hyp = "하이픈(-)을 포함하여 입력하세요.";
+var g5_msg_not_email_form = "이메일주소 형식이 아닙니다.";
+var g5_msg_not_han = "한글이 아닙니다.";
+var g5_msg_only_inc_ja_mo = "자음, 모음 조합된 한글만 가능";
+var g5_msg_not_han_en_num = "한글, 영문, 숫자가 아닙니다.";
+var g5_msg_not_han_en = "한글, 영문이 아닙니다.";
+var g5_msg_not_num = "숫자가 아닙니다.";
+var g5_msg_not_en = "영문이 아닙니다.";
+var g5_msg_not_en_num = "영문 또는 숫자가 아닙니다.";
+var g5_msg_not_en_num_ub = "영문, 숫자, _ 가 아닙니다.";
+var g5_msg_min = "최소";
+var g5_msg_input_above_min = "글자 이상 입력하세요.";
+var g5_msg_not_image = "이미지 파일이 아닙니다.";
+var g5_msg_file_only = "파일만 가능합니다.";
+var g5_msg_no_space = "공백이 없어야 합니다.";
+var g5_msg_token_info_not_correct = "토큰 정보가 올바르지 않습니다.";
+var g5_msg_select_si_gun_gu = "시군구 선택";
+var g5_msg_no_exist = "없슴";
+var g5_msg_use_after_login = "회원 로그인 후 이용해 주십시오.";
+var g5_msg_downloaded_coupon = "이미 다운로드하신 쿠폰입니다.";
+var g5_msg_coupon_published = "쿠폰이 발급됐습니다.";
+// 2018.12.26
+var g5_msg_input_eng_num_under = "영문자, 숫자, _ 만 입력하세요.";
+var g5_msg_input_above_3_chars = "최소 3자이상 입력하세요.";
+var g5_msg_id_using = "이미 사용중인 아이디 입니다.";
+var g5_msg_no_avail_reserv_id = "예약어로 사용할 수 없는 아이디 입니다.";
+var g5_msg_avail_id = "사용하셔도 좋은 아이디 입니다.";
+var g5_msg_wrong_access = "잘못된 접근입니다.";
+var g5_msg_no_nickname_form = "별명은 공백없이 한글, 영문, 숫자만 입력 가능합니다.";
+var g5_msg_above_2han_4eng = "한글 2글자, 영문 4글자 이상 입력 가능합니다.";
+var g5_msg_used_nickname = "이미 존재하는 별명입니다.";
+var g5_msg_avail_nickname = "사용하셔도 좋은 별명 입니다.";
+var g5_msg_input_email = "E-mail 주소를 입력하십시오.";
+var g5_msg_wrong_email_form = "E-mail 주소가 형식에 맞지 않습니다.";
+var g5_msg_used_email = "이미 존재하는 E-mail 주소입니다.";
+var g5_msg_avail_email = "사용하셔도 좋은 E-mail 주소입니다.";
+/// 2019.07.10
+var g5_msg_captcha_input_wrong = "자동등록방지 입력 글자가 틀렸거나 입력 횟수가 넘었습니다.";
+var g5_msg_reload_input= "새로고침을 클릭하여 다시 입력해 주십시오.";
+</script>
+<script src="https://dongjine.com/js/jquery-1.12.4.min.js?ver=250402c"></script>
+<script src="https://dongjine.com/js/jquery-migrate-1.4.1.min.js?ver=250402c"></script>
+<script src="https://dongjine.com/js/jquery.menu.js?ver=250402c"></script>
+<script src="https://dongjine.com/js/common.js?ver=250402c"></script>
+<script src="https://dongjine.com/js/wrest.js?ver=250402c"></script>
+<script src="https://dongjine.com/js/placeholders.min.js?ver=250402c"></script>
+<script src="https://dongjine.com/dwebs/lib/function.js?ver=250402c"></script>
+<script src="https://dongjine.com/js/owlcarousel/owl.carousel.js?ver=250402c"></script>
+<script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/js/swiper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bPopup/0.11.0/jquery.bpopup.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/js/bootstrap.min.js" integrity="sha384-XEerZL0cuoUbHE4nZReLT7nx9gQrQreJekYhJD9WNWhH8nEW+0c5qq7aIo2Wl30J" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script src="https://dongjine.com/theme/business/extend/sections/header/dongjine_header/js/style.js?ver=250402c"></script>
+<script src="https://dongjine.com/theme/business/extend/sections/banner/dongjine_banner/js/style.js?ver=250402c"></script>
+<script src="https://dongjine.com/theme/business/extend/sections/hidden_menu/dongjine_hidden_menu/js/style.js?ver=250402c"></script>
+<script src="https://dongjine.com/theme/business/extend/sections/main_visual/dongjine_visual/js/style.js?ver=250402c"></script>
+<script src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/js/style.js?ver=250402c"></script>
+<script src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/js/style.js?ver=250402c"></script>
+<script src="https://dongjine.com/theme/business/extend/contents/dongjine_c3/js/style.js?ver=250402c"></script>
+<script src="https://dongjine.com/theme/business/extend/sections/footer/dongjine_footer/js/style.js?ver=250402c"></script>
+</head>
+<body style="min-width:100%;">
+
+<!-- 팝업레이어 시작 { -->
+<div id="hd_pop">
+    <h2>팝업레이어 알림</h2>
+
+<span class="sound_only">팝업레이어 알림이 없습니다.</span></div>
+
+<script>
+$(function() {
+    $(".hd_pops_reject").click(function() {
+        var id = $(this).attr('class').split(' ');
+        var ck_name = id[1];
+        var exp_time = parseInt(id[2]);
+        $("#"+id[1]).css("display", "none");
+        set_cookie(ck_name, 1, exp_time, g5_cookie_domain);
+    });
+    $('.hd_pops_close').click(function() {
+        var idb = $(this).attr('class').split(' ');
+        $('#'+idb[1]).css('display','none');
+    });
+    $("#hd").css("z-index", 1000);
+});
+</script>
+<!-- } 팝업레이어 끝 --><div id="header_wrap" style="min-width:100%" class="main index">
+    <div id="header">
+        <div class="header-inner">
+            <h1 id="logo"><a href="/"></a></h1>
+            <nav id="top_nav">
+                <ul class="gnb">
+                                            <li class="lm">
+                            <a href="/page.php?p_id=about" target="_self" class="" >회사 소개</a>
+
+                            <ul class="snb" >
+                                                                                                        <li class="sm"><a href="/page.php?p_id=about" target="_self" class="" >동진 소개</a></li>
+                                                                            <li class="sm"><a href="/page.php?p_id=history" target="_self" class="" >동진 연혁</a></li>
+                                                                            <li class="sm"><a href="/page.php?p_id=sales" target="_self" class="" >매출 추이</a></li>
+                                                                            <li class="sm"><a href="/page.php?p_id=location" target="_self" class="" >오시는 길</a></li>
+                                                                                            </ul>
+                        </li>
+                                            <li class="lm">
+                            <a href="/page.php?p_id=qa" target="_self" class="" >품질 보증</a>
+
+                            <ul class="snb" >
+                                                                                                        <li class="sm"><a href="/page.php?p_id=qa" target="_self" class="" >품질 보증</a></li>
+                                                                                            </ul>
+                        </li>
+                                            <li class="lm">
+                            <a href="/bbs/board.php?bo_table=notice" target="_self" class="" >고객센터</a>
+
+                            <ul class="snb" >
+                                                                                                        <li class="sm"><a href="/bbs/board.php?bo_table=notice" target="_self" class="" >공지사항</a></li>
+                                                                            <li class="sm"><a href="/bbs/write.php?bo_table=contact" target="_self" class="" >고객 문의</a></li>
+                                                                                            </ul>
+                        </li>
+                                            <li class="lm">
+                            <a href="/bbs/board.php?bo_table=job" target="_self" class="" >채용 정보</a>
+
+                            <ul class="snb" >
+                                                                                                        <li class="sm"><a href="/bbs/board.php?bo_table=job" target="_self" class="" >채용 공고</a></li>
+                                                                                            </ul>
+                        </li>
+                                    </ul>
+            </nav>
+            <div id="hd_btns">
+                <ul class="select_lang">
+                    <li class="active"><a href="/language.php?lang_code=ko_KR">KR</a></li>
+                    <li><a href="/language.php?lang_code=en_US">EN</a></li>
+                </ul>
+                <div class="menu_slider_btn"></div>
+            </div>
+        </div>
+        <div class="snb_bg"></div>
+    </div>
+
+</div>
+<div class="hidden_nav">
+    <div class="menu_slider_btn2">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
+    <ul class="h_gnb">
+                    <li class="h_lm">
+                <a href="/page.php?p_id=about" target="_self" class="" >회사 소개</a>
+
+                                    <ul class="h_lnb">
+                                                    <li class=""><a href="/page.php?p_id=about" target="_self" class="" >동진 소개</a></li>
+                                                    <li class=""><a href="/page.php?p_id=history" target="_self" class="" >동진 연혁</a></li>
+                                                    <li class=""><a href="/page.php?p_id=sales" target="_self" class="" >매출 추이</a></li>
+                                                    <li class=""><a href="/page.php?p_id=location" target="_self" class="" >오시는 길</a></li>
+                                            </ul>
+                            </li>
+                    <li class="h_lm">
+                <a href="/page.php?p_id=qa" target="_self" class="" >품질 보증</a>
+
+                                    <ul class="h_lnb">
+                                                    <li class=""><a href="/page.php?p_id=qa" target="_self" class="" >품질 보증</a></li>
+                                            </ul>
+                            </li>
+                    <li class="h_lm">
+                <a href="/bbs/board.php?bo_table=notice" target="_self" class="" >고객센터</a>
+
+                                    <ul class="h_lnb">
+                                                    <li class=""><a href="/bbs/board.php?bo_table=notice" target="_self" class="" >공지사항</a></li>
+                                                    <li class=""><a href="/bbs/write.php?bo_table=contact" target="_self" class="" >고객 문의</a></li>
+                                            </ul>
+                            </li>
+                    <li class="h_lm">
+                <a href="/bbs/board.php?bo_table=job" target="_self" class="" >채용 정보</a>
+
+                                    <ul class="h_lnb">
+                                                    <li class=""><a href="/bbs/board.php?bo_table=job" target="_self" class="" >채용 공고</a></li>
+                                            </ul>
+                            </li>
+            </ul>
+
+    <ul class="link_list">
+        <li>
+            <a href="/index2.php">
+                가전사업부                <i class="xi-external-link"></i>
+            </a>
+        </li>
+        <li>
+            <a href="/index3.php">
+                자동차사업부                <i class="xi-external-link"></i>
+            </a>
+        </li>
+    </ul>
+
+</div>
+<!-- //hidden_sitemap-->
+<div class="hidden_nav_box"></div>
+
+
+<div id="q_banner">
+    <a href="/index2.php">
+        가전사업부        <i class="xi-external-link"></i>
+    </a>
+
+    <a href="/index3.php">
+        자동차사업부        <i class="xi-external-link"></i>
+    </a>
+</div>
+
+
+<div id="open-button">
+    <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
+    <div style="position:relative;">
+        <div class="navicon-line nl1"></div>
+        <div class="navicon-line nl2"></div>
+        <div class="navicon-line nl3"></div>
+    </div>
+</div>
+
+<div id="right-side">
+    <div class="top_flex">
+        <ul class="select_lang">
+            <li class="active"><a href="/language.php?lang_code=ko_KR">KR</a></li>
+            <li><a href="/language.php?lang_code=en_US">EN</a></li>
+        </ul>
+    </div>
+    <nav class="side_gnb">
+                <ul class="menu-list">
+                            <li class="">
+                    <a href="/page.php?p_id=about" target="_self" class="" >회사 소개 <i class="fa fa-arrow-left"></i></a>
+
+                                            <ul class="depth-2" >
+                                                            <li class="sm"><a href="/page.php?p_id=about" target="_self" class="" >동진 소개</a></li>
+                                                            <li class="sm"><a href="/page.php?p_id=history" target="_self" class="" >동진 연혁</a></li>
+                                                            <li class="sm"><a href="/page.php?p_id=sales" target="_self" class="" >매출 추이</a></li>
+                                                            <li class="sm"><a href="/page.php?p_id=location" target="_self" class="" >오시는 길</a></li>
+                                                    </ul>
+                                    </li>
+                            <li class="">
+                    <a href="/page.php?p_id=qa" target="_self" class="" >품질 보증 <i class="fa fa-arrow-left"></i></a>
+
+                                            <ul class="depth-2" >
+                                                            <li class="sm"><a href="/page.php?p_id=qa" target="_self" class="" >품질 보증</a></li>
+                                                    </ul>
+                                    </li>
+                            <li class="">
+                    <a href="/bbs/board.php?bo_table=notice" target="_self" class="" >고객센터 <i class="fa fa-arrow-left"></i></a>
+
+                                            <ul class="depth-2" >
+                                                            <li class="sm"><a href="/bbs/board.php?bo_table=notice" target="_self" class="" >공지사항</a></li>
+                                                            <li class="sm"><a href="/bbs/write.php?bo_table=contact" target="_self" class="" >고객 문의</a></li>
+                                                    </ul>
+                                    </li>
+                            <li class="">
+                    <a href="/bbs/board.php?bo_table=job" target="_self" class="" >채용 정보 <i class="fa fa-arrow-left"></i></a>
+
+                                            <ul class="depth-2" >
+                                                            <li class="sm"><a href="/bbs/board.php?bo_table=job" target="_self" class="" >채용 공고</a></li>
+                                                    </ul>
+                                    </li>
+                    </ul>
+    </nav>
+
+    <ul class="link_list">
+        <li>
+            <a href="/index2.php">
+                가전사업부                <i class="xi-external-link"></i>
+            </a>
+        </li>
+        <li>
+            <a href="/index3.php">
+                자동차사업부                <i class="xi-external-link"></i>
+            </a>
+        </li>
+    </ul>
+
+    <!-- 장치 변환 버튼 -->
+    </div>
+
+
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />-->
+<link rel="stylesheet" href="https://dongjine.com/theme/business/css/reset.css" />
+<link rel="stylesheet" href="https://dongjine.com/theme/business/css/spacing.css" />
+
+<!-- 콘텐츠 시작 -->
+<div id="wrapper" class="">
+    <!--    <div id="container_wr">-->
+
+    <div id="container" class="mb0" style="max-width:100%;">
+
+
+<div id="main_vis" >
+    <div id="main_vis_slider">
+        <div class="main_slide img01 ani"></div>
+    </div>
+
+    <div class="main_typo_wrap">
+        <div class="main_typo">
+            <h3 data-aos="fade-up">DONGJIN TECHWIN</h3>
+            <h2 data-aos="fade-up" data-aos-delay="100">BEYOND THE WORLD</h2>
+            <p data-aos="fade-up" data-aos-delay="200">동진테크윈은 끊임없는 변화와 혁신으로 더 큰 미래를 도약합니다.</p>
+        </div>
+    </div>
+
+    <div id="scroll_down">
+        <a href="javascript:move_scroll_y('#c1_wrap', 0)">
+            <img src="https://dongjine.com/theme/business/extend/sections/main_visual/dongjine_visual/img/scroll.png" alt="" title="">
+        </a>
+    </div>
+
+
+</div>
+
+
+
+
+<div id="c1_wrap">
+    <article class="c_inner">
+        <div class="flex_wrap">
+            <div class="txt_area" data-aos="fade-right">
+                <div class="c_tit">
+                    <h3>DONGGIN TECHWIN</h3>
+                    <h2 class="fs_90">Company</h2>
+                </div>
+                <p class="fs_22">
+                    동진테크윈은 고객의 만족을 위해 언제나 최선을 다하고 있습니다.<br>
+                    동진테크윈은 1981년 설립 이후 사출, 압출, 판금 성형에 대한<br>
+                    축적된 기술력과 품질경영을 통해 글로벌 무대에서<br>
+                    가전사업과 자동차사업으로 인정받고 있습니다.
+                </p>
+                <div class="flex">
+                    <div class="arrows"></div>
+                    <div class="dots"></div>
+                </div>
+            </div>
+            <!-- //left -->
+
+            <div class="slide_area" data-aos="fade-left" data-aos-delay="100" >
+                <ul class="slider">
+                    <li>
+                        <a href="/page.php?p_id=about">
+                            <div class="txt">
+                                <span class="eng_tit">Introduction</span>
+                                <h3 class="fs_36">동진 소개</h3>
+                                <p class="fs_18">
+                                    내일을 위한 준비,<br>
+                                    ㈜동진테크윈
+                                </p>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                            <div class="icon">
+                                <img src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/img/c1_icon1.png" alt="">
+                                <img src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/img/c1_icon1_hv.png" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/page.php?p_id=history">
+                            <div class="txt">
+                                <span class="eng_tit">History</span>
+                                <h3 class="fs_36">동진 연혁</h3>
+                                <p class="fs_18">
+                                    ㈜동진테크윈이 성장하며<br>
+                                    걸어온 길입니다.
+                                </p>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                            <div class="icon">
+                                <img src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/img/c1_icon2.png" alt="">
+                                <img src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/img/c1_icon2_hv.png" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/page.php?p_id=sales">
+                            <div class="txt">
+                                <span class="eng_tit">Sales trend</span>
+                                <h3 class="fs_36">매출 추이</h3>
+                                <p class="fs_18">
+                                    지속적인 R&D 투자,<br>
+                                    보다 투명한 경영
+                                </p>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                            <div class="icon">
+                                <img src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/img/c1_icon3.png" alt="">
+                                <img src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/img/c1_icon3_hv.png" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/page.php?p_id=location">
+                            <div class="txt">
+                                <span class="eng_tit">Location</span>
+                                <h3 class="fs_36">오시는길</h3>
+                                <p class="fs_18">
+                                    편리한 방문을 위해<br>
+                                    오시는 길 정보를 안내드립니다.
+                                </p>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                            <div class="icon">
+                                <img src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/img/c1_icon4.png" alt="">
+                                <img src="https://dongjine.com/theme/business/extend/contents/dongjine_c1/img/c1_icon4_hv.png" alt="">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <!-- //slide -->
+            </div>
+            <!-- //right -->
+        </div>
+
+    </article>
+    <!-- //inner -->
+
+</div>
+
+
+<section id="c2_wrap">
+    <div class="c_inner">
+        <div class="txt_area">
+            <div class="c_tit" data-aos="fade-left">
+                <h3>Department Information</h3>
+                <h2 class="fs_90">Business</h2>
+            </div>
+            <p class="fs_22" data-aos="fade-left" data-aos-delay="100">동진테크윈은 한국, 태국, 베트남, 멕시코에<br> 총 6개의 사업부를 두고 세계를 무대로 꾸준히 성장하고 있습니다.</p>
+        </div>
+        <!-- //left -->
+
+        <div class="slide_area" id="c2_slider" data-aos="fade-up" data-aos-delay="100">
+            <ul class="slider">
+                <li>
+                    <a href="/page.php?p_id=location#map1">
+                        <div class="box">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img1.jpg" alt="" /></div>
+                            <div class="txt">
+                                <div>
+                                    <h3 class="fs_18">가전사업부</h3>
+                                    <h2 class="fs_36">창원 가전사업부</h2>
+                                </div>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                        <div class="cover">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img1_ov.jpg" alt="" /></div>
+                            <div class="txt">
+                                <div>
+                                    <h3 class="fs_18">가전사업부</h3>
+                                    <h2 class="fs_36">창원 가전사업부</h2>
+                                </div>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/page.php?p_id=location#map2">
+                        <div class="box">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img2.jpg" alt="" /></div>
+                            <div class="txt">
+                                <div>
+                                    <h3 class="fs_18">가전사업부</h3>
+                                    <h2 class="fs_36">태국 가전사업부</h2>
+                                </div>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                        <div class="cover">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img2_ov.jpg" alt="" /></div>
+                            <div class="txt">
+                                <h3 class="fs_18">가전사업부</h3>
+                                <h2 class="fs_36">태국 가전사업부</h2>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/page.php?p_id=location#map3">
+                        <div class="box">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img3.jpg" alt="" /></div>
+                            <div class="txt">
+                                <div>
+                                    <h3 class="fs_18">가전사업부</h3>
+                                    <h2 class="fs_36">베트남 가전사업부</h2>
+                                </div>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                        <div class="cover">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img3_ov.jpg" alt="" /></div>
+                            <div class="txt">
+                                <h3 class="fs_18">가전사업부</h3>
+                                <h2 class="fs_36">베트남 가전사업부</h2>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/page.php?p_id=location#map5">
+                        <div class="box">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img5.jpg" alt="" /></div>
+                            <div class="txt">
+                                <div>
+                                    <h3 class="fs_18">가전사업부</h3>
+                                    <h2 class="fs_36">멕시코 가전사업부</h2>
+                                </div>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                        <div class="cover">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img5_ov.jpg" alt="" /></div>
+                            <div class="txt">
+                                <h3 class="fs_18">가전사업부</h3>
+                                <h2 class="fs_36">멕시코 가전사업부</h2>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/page.php?p_id=location#map6">
+                        <div class="box">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img6.jpg" alt="" /></div>
+                            <div class="txt">
+                                <div>
+                                    <h3 class="fs_18">자동차사업부</h3>
+                                    <h2 class="fs_36">멕시코 자동차사업부</h2>
+                                </div>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                        <div class="cover">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img6_ov.jpg" alt="" /></div>
+                            <div class="txt">
+                                <h3 class="fs_18">자동차사업부</h3>
+                                <h2 class="fs_36">멕시코 자동차사업부</h2>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/page.php?p_id=location#map4">
+                        <div class="box">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img3.jpg" alt="" /></div>
+                            <div class="txt">
+                                <div>
+                                    <h3 class="fs_18">자동차사업부</h3>
+                                    <h2 class="fs_36">베트남 자동차사업부</h2>
+                                </div>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                        <div class="cover">
+                            <div class="img"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c2/img/c2_img3_ov.jpg" alt="" /></div>
+                            <div class="txt">
+                                <h3 class="fs_18">자동차사업부</h3>
+                                <h2 class="fs_36">베트남 자동차사업부</h2>
+                                <span class="more">more view<i class="btn_arrow"></i></span>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+
+            </ul>
+            <!-- //slide -->
+        </div>
+        <!-- //right -->
+
+        <p class="num" data-aos="fade-up"  data-aos-delay="100" data-aos-anchor="#c2_slider"><span>01</span><b></b></p>
+    </div>
+    <!-- //inner -->
+</section>
+
+
+<div id="c3_wrap">
+    <article class="c_inner">
+        <div class="flex_wrap">
+            <div class="txt_area" data-aos="fade-right">
+                <div class="c_tit">
+                    <h3>NEWS&PROMOTION</h3>
+                    <h2 class="fs_90">News</h2>
+                </div>
+                <p class="fs_22">동진테크윈의 소식을 전합니다.</p>
+                <div class="flex">
+                    <div class="arrows"></div>
+                    <div class="dots"></div>
+                </div>
+            </div>
+            <!-- //left -->
+
+
+            <div class="slide_area" data-aos="fade-left" data-aos-delay="100" >
+                <ul class="slider"  >
+                    
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=15">
+            <h2>News.</h2>
+            <h1>[공지] 2025년 스마트 생태공장 구축 사업 완료 안내</h1>
+            <p>
+                [공지]
+2025년 스마트 생태공장 구축 사업 완료 안내
+
+
+
+(주)동진테크윈은
+친환경 생산 체계 구축을 위한 '스마트
+생태공장'
+사업을 성공적으로 마무리했습니다.&hellip;            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-12-26</span>
+        </a>
+    </li>
+
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=13">
+            <h2>News.</h2>
+            <h1>동진테크윈 로고</h1>
+            <p>
+                동진테크윈 CI&amp;BI 입니다.            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-02-17</span>
+        </a>
+    </li>
+
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=12">
+            <h2>News.</h2>
+            <h1>(주)동진테크윈 회사홍보영상</h1>
+            <p>
+                https://youtu.be/x_tBgrEMmSY?si=U-aVoWATOv5aNlD3            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-02-17</span>
+        </a>
+    </li>
+
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=11">
+            <h2>News.</h2>
+            <h1>IBK기업은행 감사패 수상</h1>
+            <p>
+                우리회사가 지난 2021년4월22일자로 주거래 은행인 IBK 기업은행이 선정하는 국가 경제발전과 중소기업 지위향상에 기여한 기업으로 인정받아 감사패를 수상하였습니다. 감사패 전달은&hellip;            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-02-17</span>
+        </a>
+    </li>
+
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=10">
+            <h2>News.</h2>
+            <h1>LG유플러스, 동진테크윈에 'AI비전검사' 구축... 中企 스마…</h1>
+            <p>
+                LG유플러스, 동진테크윈에 AI비전검사 구축... 中企 스마트팩토리 사업 박차LG유플러스가 전자부품 제조 전문기업 동진테크윈에 인공지능(AI) 기술이 적용된스마트팩토리를 구축한다.&hellip;            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-02-17</span>
+        </a>
+    </li>
+
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=9">
+            <h2>News.</h2>
+            <h1>LG전자 Best Supplier Award 동반성장부문 수상</h1>
+            <p>
+                2022년 한 해 동안 건전한 부품 공급망 구축을 통하여 동반성장 문화확산에 크게 기여한 것으로 인정받아LG전자 Best Supplier Award 동반성장부문 수상하였습니다.&n&hellip;            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-02-17</span>
+        </a>
+    </li>
+
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=8">
+            <h2>News.</h2>
+            <h1>LG전자 H&A 사업부 원가혁신상 부문 수상</h1>
+            <p>
+                2023년 LG전자 H&amp;A 사업부 공정 개선활동을 통해 원가 경쟁력 확보에 크게 기여한 것으로 인정받아2024년 1월 19일 LG전자 23년 H&amp;A 사업부 원가혁신상&hellip;            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-02-17</span>
+        </a>
+    </li>
+
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=7">
+            <h2>News.</h2>
+            <h1>LG전자 리빙솔루션 사업부 품질 우수 협력회사 부문 수상</h1>
+            <p>
+                2022년 LG전자 리빙솔루션 사업 성장 발전에 크게 기여한 것으로 인정받아LG전자 22년 리빙솔루션 사업부 품질 우수 협력회사 부문 수상하였습니다.&nbsp;            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-02-17</span>
+        </a>
+    </li>
+
+    <li class="slide_box">
+        <a href="https://dongjine.com/bbs/board.php?bo_table=notice&amp;wr_id=6">
+            <h2>News.</h2>
+            <h1>SQ 인증서 취득</h1>
+            <p>
+                2021년 7월 13일 현대자동차 SQ인증서를 취득하였습니다.            </p>
+            <span class="date"><i class="xi-time-o"></i>2025-02-17</span>
+        </a>
+    </li>
+
+
+                    <!-- <li class="slide_box">
+                        <a href="#">
+                            <h2>News.</h2>
+                            <h1>동진테크윈 공지사항 제목입니다. 2023년도 신입사원...</h1>
+                            <p>
+                                안녕하세요 동진테크윈 홈페이지가
+                                오픈했습니다. 반갑습니다. 게시판
+                                내용부분입니다. 2024년...
+                            </p>
+                            <span class="date"><i class="xi-time-o"></i>2021-04-14</span>
+                        </a>
+                    </li> -->
+                </ul>
+            </div>
+        </div>
+
+        <ul class="list">
+            <li data-aos="fade-up">
+                <a href="https://www.youtube.com/watch?v=x_tBgrEMmSY" target="_blank">
+                    <div class="txt">
+                        <h3 class="fs_36">홍보영상</h3>
+                        <p class="fs_18">홍보영상을 확인하세요.</p>
+                    </div>
+                    <i class="icon"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c3/img/c3_icon1.png" alt=""></i>
+                </a>
+            </li>
+            <li data-aos="fade-up" data-aos-delay="100">
+                <a href="#" target="_blank">
+                    <div class="txt">
+                        <h3 class="fs_36">카탈로그</h3>
+                        <p class="fs_18">카탈로그를 보실 수 있습니다.</p>
+                    </div>
+                    <i class="icon"><img src="https://dongjine.com/theme/business/extend/contents/dongjine_c3/img/c3_icon2.png" alt=""></i>
+                </a>
+            </li>
+        </ul>
+
+    </article>
+
+</div>
+
+
+
+    </div>
+</div>
+<!-- } 콘텐츠 끝 -->
+
+
+<footer>
+    <div class="footer_con">
+        <div class="top">
+            <div class="customer">
+                <h1><img src="https://dongjine.com/theme/business/extend/sections/footer/dongjine_footer/img/ft_logo.png" alt=""></h1>
+                <div>
+                    <p class="ft_copy pc">
+                        동진테크윈 ㅣ
+                        대표이사 : 조승민  ㅣ
+                        사업자등록번호 : 609-81-31143<br>
+                        주소 : 경상남도 창원시 성산구 성산패총로 38번길 7 ㅣ
+                        대표전화 : 055-210-9015 ㅣ
+                        FAX : 055-287-6779                    </p>
+                    <p class="ft_copy mob">
+                        동진테크윈 ㅣ
+                        대표이사 : 조승민<br>
+                        사업자등록번호 : 609-81-31143<br>
+                        주소 : 경상남도 창원시 성산구 성산패총로 38번길 7<br>
+                        대표전화 : 055-210-9015 ㅣ
+                        FAX : 055-287-6779                    </p>
+                </div>
+            </div>
+            <div class="ft_fm">
+              <button class="ft_btn">Family Site 바로가기<img src="https://dongjine.com/theme/business/extend/sections/footer/dongjine_footer/img/fm_arrow.png" alt="" /></button>
+              <ul style="display: none;">
+                  <li><a href="http://scm.dongjine.com/" target="_blank">자사 SCM 사이트</a></li>
+                  <li><a href="https://gw.dongjine.com" target="_blank">자사 그룹웨어 사이트</a></li>
+              </ul>
+            </div>
+        </div>
+
+        <div class="btm">
+            <div class="info">
+                <span class="pc">COPYRIGHTⓒ 동진테크윈 All rights reserved ㅣ <a href="https://www.dwebs.kr" target="_blank">Designed by DWEBS.</a></span>
+                <span class="mob">COPYRIGHTⓒ 동진테크윈 All rights reserved<br> <a href="https://www.dwebs.kr" target="_blank">Designed by DWEBS.</a></span>
+            </div>
+            <!-- <div class="logo"><img src="/img/ft_logo.png" alt=""></div> -->
+        </div>
+    </div>
+</footer>
+
+<button type="button" id="top_btn" class="main"><i class="xi-angle-up"></i></button>
+
+
+
+<!-- } 하단 끝 -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.6/holder.min.js"></script>-->
+
+
+<script>
+$(function() {
+    // 폰트 리사이즈 쿠키있으면 실행
+    font_resize("container", get_cookie("ck_font_resize_rmv_class"), get_cookie("ck_font_resize_add_class"));
+});
+</script>
+
+
+
+
+<script>
+    $(window).resize(function() {
+        // getBrowserSize();
+    });
+    $(document).ready(function(){
+        // getBrowserSize();
+
+        // getScaleSize();
+    });
+</script>
+
+
+<!-- ie6,7에서 사이드뷰가 게시판 목록에서 아래 사이드뷰에 가려지는 현상 수정 -->
+<!--[if lte IE 7]>
+<script>
+$(function() {
+    var $sv_use = $(".sv_use");
+    var count = $sv_use.length;
+
+    $sv_use.each(function() {
+        $(this).css("z-index", count);
+        $(this).css("position", "relative");
+        count = count - 1;
+    });
+});
+</script>
+<![endif]-->
+
+<script>
+var sc_option = {
+    // Scrolling Core
+    animationTime    : 400, // [ms]
+    stepSize         : 50, // [px]
+
+    // Acceleration
+    accelerationDelta : 50,  // 50
+    accelerationMax   : 3,   // 3
+
+    // Keyboard Settings
+    keyboardSupport   : true,  // option
+    arrowScroll       : 50,    // [px]
+
+    // Pulse (less tweakable)
+    // ratio of "tail" to "acceleration"
+    pulseAlgorithm   : true,
+    pulseScale       : 4,
+    pulseNormalize   : 1,
+
+    // Other
+    touchpadSupport   : false, // ignore touchpad by default
+    fixedBackground   : true,
+    excluded          : ''
+};
+window.SmoothScrollOptions = (sc_option);
+
+AOS.init({once:true, duration: 800});
+</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js"></script>
+
+
+</body>
+</html>

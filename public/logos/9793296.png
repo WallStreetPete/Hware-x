@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="format-detection" content="telephone=no" />
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>404，很抱歉您访问的页面不存在</title>
+<link rel="stylesheet" type="text/css" href="/plugins/template/css/error.css" />
+</head>
+
+<body>
+<div class="bg">
+  <div class="cont">
+    <div class="error"> </div>
+    <h1>404，很抱歉您访问的页面不存在</h1>
+    <h2>请检查网址是否正确！ <span id="time"></span></h2>
+    <p></p>
+    <div class="btn-area"> <a class="btn btn_primary" href="/"  class="button">确　定</a> <a class="btn btn_default" href="javascript:history.back();" >返　回</a> </div>
+  </div>
+</div>
+ <div class="footer">
+  <p class="links"> 技术支持：<a href="http://www.bacocis.com" target="_blank">巴可信息技术</a> </p>
+  <p class="text">Copyright © 2003-2026</p>
+</div>
+<script>var timeout = 3;var showbox = document.getElementById('time');show();function show(){showbox.innerHTML = timeout+ ' 秒后自动跳转';timeout--;if (timeout == 0) {window.location.href = '/';}else {setTimeout(function(){show();}, 1000);}}</script>
+</body>
+</html>

@@ -1,0 +1,847 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="title" content="Woori Technology">
+    <meta name="description" content="We, Woori Technology, are trying our best to satisfy customers with continuous R&D and innovation.">
+    <meta name="keywords" content="">
+
+    <meta property="og:type" content="website"> 
+    <meta property="og:image" content="">
+    <meta property="og:title" content="Woori Technology">
+    <meta property="og:description" content="We, Woori Technology, are trying our best to satisfy customers with continuous R&D and innovation.">
+    <meta property="og:url" content="https://www.wooritg.com/">
+
+    <!-- FAVICON -->
+    <link rel="apple-touch-icon" sizes="120x120" href="https://wooritg.com/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://wooritg.com/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://wooritg.com/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://wooritg.com/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://wooritg.com/assets/favicon/safari-pinned-tab.svg" color="#003471">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
+
+    <title>Woori Technology</title>
+
+    <script>
+    // 자바스크립트에서 사용하는 전역변수 선언
+    var $ROOT       = "";
+    var g5_bbs_url   = "https://wooritg.com/admin/bbs";
+    var g5_is_member = "";
+    var g5_is_admin  = "";
+    var g5_is_mobile = "";
+    var g5_bo_table  = "";
+    var g5_sca       = "";
+    var g5_editor    = "";
+    var g5_cookie_domain = "";
+    </script>
+
+    <!-- Plugins -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper@8.4.7/swiper-bundle.min.css"/>
+    <script src="https://unpkg.com/swiper@8.4.7/swiper-bundle.min.js"></script>
+    <script src="https://wooritg.com/lib/plugin/jquery-1.12.4.min.js"></script>
+    
+    <!-- Fontawesome -->
+    <link href="https://wooritg.com/lib/fontawesome/css/fontawesome.css" rel="stylesheet">
+    <link href="https://wooritg.com/lib/fontawesome/css/brands.css" rel="stylesheet">
+    <link href="https://wooritg.com/lib/fontawesome/css/solid.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Noto+Sans+KR:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://wooritg.com/assets/css/common.css?ver=1.0.7">
+    <link rel="stylesheet" href="https://wooritg.com/assets/css/mainpage.css?ver=1.0.7">
+    <link rel="stylesheet" href="https://wooritg.com/assets/css/board.css?ver=1.0.7">
+    <link rel="stylesheet" href="https://wooritg.com/assets/css/en.css?ver=1.0.7">
+    
+    <!-- JS -->
+    <script src="https://wooritg.com/assets/js/common.js?ver=1.0.7" defer></script>
+    <script src="https://wooritg.com/assets/js/scroll-ani.js?ver=1.0.7" defer></script>
+    <script src="https://wooritg.com/assets/js/form.js?ver=1.0.7" defer></script>
+
+          <script src="https://wooritg.com/assets/js/pages/mainpage.js?ver=1.0.7" defer></script>
+      </head>
+  <body class="en mainpage">
+
+            
+
+<header id="header" class="header">
+  <div class="container header-container">
+    <a href="https://wooritg.com/en" class="logo">
+      <img src="https://wooritg.com/assets/images/common/logo-white-en.svg" alt="" class="light">
+      <img src="https://wooritg.com/assets/images/common/logo-color-en.svg" alt="" class="dark">
+    </a>
+    <ul class="header-gnb">
+      <li class="header-gnb-item">
+        <a href="https://wooritg.com/en/company/greeting.php">Company</a>
+        <ul class="header-submenu">
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/company/greeting.php">CEO Greetings</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/company/overview.php">Overview</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/company/history.php">History</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/company/location.php">Directions</a></li>
+        </ul>
+      </li>
+      <li class="header-gnb-item">
+        <a href="https://wooritg.com/en/business/biz-field.php">Business</a>
+        <ul class="header-submenu">
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/business/biz-field.php">Business Area</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/business/system/">SYSTEM Biz.</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/business/soc/">SOC Biz.</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/business/offshore-wind-power/">WINDPOWER Biz.</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/business/defense/">DEFENSE Biz.</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/business/smart-farm/">SMARTFARM Biz.</a></li>
+        </ul>
+      </li>
+      <li class="header-gnb-item">
+        <a href="https://wooritg.com/en/management/management-policy.php">Management</a>
+        <ul class="header-submenu">
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/management/management-policy.php">Management Policy</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/management/quality-policy.php">Quality Safety Policy</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/management/ethics-policy.php">Ethics Policy</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/management/esg.php">ESG Policy</a></li>
+        </ul>
+      </li>
+      <li class="header-gnb-item">
+        <a href="https://wooritg.com/en/pr-center/press.php">PR center</a>
+        <ul class="header-submenu">
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/pr-center/press.php">News & Notice</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/pr-center/disclosure-info.php">Disclosure Information</a></li>
+          <li class="header-submenu-item"><a href="https://wooritg.com/en/pr-center/video.php">PR Video</a></li>
+        </ul>
+      </li>
+    </ul>
+    <div class="etc-nav">
+      <div class="lang-nav">
+        <div class="lang-ls">
+          <a href="https://wooritg.com/ko/" class="">KOR</a>
+          <a href="https://wooritg.com/en/" class="active">ENG</a>
+        </div>
+      </div>
+      <nav class="family-site-dropdown">
+        <span class="trigger">Family sites <i class="arrow down"></i></span>
+        <ul>
+          <li><a href="http://www.woorids.com/" target="_blank" rel="noopener noreferrer">WooriDS</a></li>
+          <li><a href="http://woorihq.com/" target="_blank" rel="noopener noreferrer">WooriHQ</a></li>
+          <li><a href="https://www.cgo.global/" target="_blank" rel="noopener noreferrer">CGO</a></li>
+          <li><a href="http://woorismartbio.com/" target="_blank" rel="noopener noreferrer">Woorismartbio</a></li>
+        </ul>
+      </nav>
+      <button id="btn--sitemap-open" class="btn--sitemap-toggle">
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div id="sitemap" class="sitemap">
+  <div id="sitemap__dim" class="sitemap__dim"></div>
+  <div class="sitemap__container">
+    <div class="body">
+      <div class="block">
+        <nav class="sitemap__lang">
+          <a href="https://wooritg.com/ko/" class="">Korean</a>
+          <a href="https://wooritg.com/en/" class="active">English</a>
+        </nav>
+      </div>
+      <div class="block">
+        <ul class="sitemap_gnb">
+          <li class="sitemap_gnb__item ">
+            <a href="javascript:void(0);" class="trigger">Company <i class="ico--plus"></i></a>
+            <div class="sitemap_submenu">
+              <ul class="sitemap_submenu__ls">
+                <li class="item "><a href="https://wooritg.com/en/company/greeting.php">CEO Greetings</a></li>
+                <li class="item "><a href="https://wooritg.com/en/company/overview.php">Overview</a></li>
+                <li class="item "><a href="https://wooritg.com/en/company/history.php">History</a></li>
+                <li class="item "><a href="https://wooritg.com/en/company/location.php">Directions</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="sitemap_gnb__item ">
+            <a href="javascript:void(0);" class="trigger">Business <i class="ico--plus"></i></a>
+            <div class="sitemap_submenu">
+              <ul class="sitemap_submenu__ls">
+                <li class="item "><a href="https://wooritg.com/en/business/biz-field.php">Business Area</a></li>
+                <li class="item "><a href="https://wooritg.com/en/business/system/">SYSTEM Biz.</a></li>
+                <li class="item "><a href="https://wooritg.com/en/business/soc/">SOC Biz.</a></li>
+                <li class="item "><a href="https://wooritg.com/en/business/offshore-wind-power/">WINDPOWER Biz.</a></li>
+                <li class="item "><a href="https://wooritg.com/en/business/defense/">DEFENSE Biz.</a></li>
+                <li class="item "><a href="https://wooritg.com/en/business/smart-farm/">SMARTFARM Biz.</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="sitemap_gnb__item ">
+            <a href="javascript:void(0);" class="trigger">Management <i class="ico--plus"></i></a>
+            <div class="sitemap_submenu">
+              <ul class="sitemap_submenu__ls">
+                <li class="item "><a href="https://wooritg.com/en/management/management-policy.php">Management Policy</a></li>
+                <li class="item "><a href="https://wooritg.com/en/management/quality-policy.php">Quality Safety Policy</a></li>
+                <li class="item "><a href="https://wooritg.com/en/management/ethics-policy.php">Ethics Policy</a></li>
+                <li class="item "><a href="https://wooritg.com/en/management/esg.php">ESG Policy</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="sitemap_gnb__item ">
+            <a href="javascript:void(0);" class="trigger">PR Center <i class="ico--plus"></i></a>
+            <div class="sitemap_submenu">
+              <ul class="sitemap_submenu__ls">
+                <li class="item "><a href="https://wooritg.com/en/pr-center/press.php">News & Notice</a></li>
+                <li class="item "><a href="https://wooritg.com/en/pr-center/disclosure-info.php">Disclosure Information</a></li>
+                <li class="item "><a href="https://wooritg.com/en/pr-center/video.php">PR Video</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="popup_list">
+
+    
+</div>
+
+<script>
+var g5_cookie_domain = "";
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="https://wooritg.com/admin/js/common.js?ver=210618"></script>
+<script>
+$(function() {
+    $('.button__reject').on('click', function() {
+        const id = $(this).closest('.popup').attr('id');
+        set_cookie(id, 1, 1, g5_cookie_domain);
+        $(this).closest('.popup').hide();
+    });
+    $('.button__close').on('click', function() {
+        $(this).closest('.popup').hide();
+    });
+
+    const popup = $('.popup');
+
+    function checkPosition() {
+        if (popup.length == 0) return;
+        let $left = popup.offset().left;
+        let $width = popup.width();
+        let $delta = $left + $width;
+        let winWidth = $(window).width();
+
+        if ($delta > winWidth) {
+            popup.css({'left' : 'auto', 'right' : '20px'});
+        }
+    }
+
+    $(document).ready(function() {
+        checkPosition();
+        $(window).on('resize', function() {
+            checkPosition();
+        });
+    });
+
+});
+
+</script>
+<main id="mainpage" class="mainpage-wrapper">
+
+  <section class="section">
+    <div class="main-visual swiper">
+      <div class="swiper-wrapper">
+        <div class="main-visual-slide swiper-slide">
+          <video src="https://wooritg.com/assets/images/main/main-visual-1.mp4?ver=3" alt="" class="main-visual-bg" autoplay muted loop playsinline></video>
+          <div class="container content">
+            <h2 class="title">
+              Global Leading Company <br>
+              Beyond  <br>
+              Successful Localization
+            </h2>
+            <p class="desc">
+              Global control & measurement company <br class="pc-br">
+              beyond successful localization, Woori Technology 
+            </p>
+          </div>
+        </div>
+        <div class="main-visual-slide swiper-slide">
+          <video src="https://wooritg.com/assets/images/main/main-visual-2.mp4?ver=3" alt="" class="main-visual-bg" muted loop playsinline></video>
+          <div class="container content">
+            <h2 class="title">
+              High-Tech Solution <br>
+              Towards <br>
+              The Next Value
+            </h2>
+            <p class="desc">
+            High-tech solution towards <br class="pc-br">
+            the next value, Woori Technology
+            </p>
+          </div>
+        </div>
+        <div class="main-visual-slide swiper-slide">
+          <video src="https://wooritg.com/assets/images/main/main-visual-3.mp4?ver=3" alt="" class="main-visual-bg" muted loop playsinline></video>
+          <div class="container content">
+            <h2 class="title">
+              Everlasting Innovation <br>
+              Preparing <br>
+              A Better Future
+            </h2>
+            <p class="desc">
+            Everlasting innovation <br class="pc-br">
+            preparing for the future, Woori Technology
+            </p>
+          </div>
+        </div>
+      </div>
+      <nav class="main-visual-controls slide-controls">
+        <div class="wrapper container">
+          <div class="slide-paging"></div>
+        </div>
+      </nav>
+    </div>
+  </section>
+
+  <section class="section mp-section mp-company sc_eft">
+    <div class="bars">
+      <div class="container">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+    <div class="container">
+        <div class="mp-section-head sc_eft__elem fadeleft">
+          <span class="mp-section-tag">Company</span>
+          <h2 class="mp-section-title">
+            We, <b class="fc--primary">Woori Technology</b>, are trying our best <br class="pc-br">
+            to satisfy customers with <b>continuous R&D and innovation</b>.
+          </h2>
+        </div>
+        <img src="https://wooritg.com/assets/images/main/company-typo-mo.png" alt="" class="mo-typo sc_eft__elem fadeup">
+        <ul class="contents">
+          <li class="sc_eft__elem fadeup">
+            <img src="https://wooritg.com/assets/images/main/company-typo-w.png" alt="">
+            <div class="cont">
+              <span class="tit">
+                World <br>
+                Best
+              </span>
+              <p class="desc">
+                The first and only localization of <br class="pc-br"><br class="m-br">
+                <span class="fc--primary">MMIS DCS for nuclear power plant</span>
+              </p>
+            </div>
+          </li>
+          <li class="sc_eft__elem fadeup">
+            <img src="https://wooritg.com/assets/images/main/company-typo-o-1.png" alt="">
+            <div class="cont">
+              <span class="tit">
+                One <span class="ff--primary">&</span> Only <br>
+                Solution
+              </span>
+              <p class="desc">
+                The optimal solution for <br class="pc-br"><br class="m-br">
+                <span class="fc--primary">K-Defense industry</span>
+              </p>
+            </div>
+          </li>
+          <li class="sc_eft__elem fadeup">
+            <img src="https://wooritg.com/assets/images/main/company-typo-o-2.png" alt="">
+            <div class="cont">
+              <span class="tit">
+                Offshore <br>
+                Windpower
+              </span>
+              <p class="desc">
+                Pioneer of domestic <br class="pc-br"><br class="m-br">
+                <span class="fc--primary">offshore wind power business</span>
+              </p>
+            </div>
+          </li>
+          <li class="sc_eft__elem fadeup">
+            <img src="https://wooritg.com/assets/images/main/company-typo-r.png" alt="">
+            <div class="cont">
+              <span class="tit">
+                Railway <br>
+                PSD
+              </span>
+              <p class="desc">
+                New standard for <br class="pc-br">railway system with <br class="pc-br"><br class="m-br">
+                <span class="fc--primary">the highest safety SIL4 certification</span>
+              </p>
+            </div>
+          </li>
+          <li class="sc_eft__elem fadeup">
+            <img src="https://wooritg.com/assets/images/main/company-typo-i.png" alt="">
+            <div class="cont">
+              <span class="tit">
+                Indoor <br class="pc-br">
+                Smartfarm
+              </span>
+              <p class="desc">
+                Smart farm business leader with <br class="pc-br"><br class="m-br">
+                <span class="fc--primary">cutting-edge AI & Big Data</span>
+              </p>
+            </div>
+          </li>
+        </ul>
+    </div>
+  </section>
+
+    <section class="section mp-section mp-biz sc_eft">
+    <div class="container sc_eft__elem fadeup">
+      <div class="mp-biz-carousal swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide" data-slide-name="SYSTEM Biz.">
+            <div class="mp-section-head">
+              <span class="mp-section-tag">Business Area</span>
+              <h2 class="mp-section-title">
+                Control and measurement system for nuclear power plant <br class="pc-br">
+                to ensure <b class="fw--600">energy stability</b>
+              </h2>
+            </div>
+            <div class="thumb-wrap">
+              <img src="https://wooritg.com/assets/images/main/biz-slide-1-en.jpg?ver=3" alt="">
+              <a href="business/system/" class="more-link fade-on-hover">
+                <div class="val">VIEW MORE</div>
+                <div class="icon">
+                  <i class="arrow right"></i>
+                </div>
+              </a>
+            </div>
+            <a href="business/system/" class="m-tag"></a>
+          </div>
+          <div class="swiper-slide" data-slide-name="SOC Biz.">
+            <div class="mp-section-head">
+              <span class="mp-section-tag">Business Area</span>
+              <h2 class="mp-section-title">
+                Railway control system and PSD based on <b class="fw--600">SIL4 Grade technology</b>
+              </h2>
+            </div>
+            <div class="thumb-wrap">
+              <img src="https://wooritg.com/assets/images/main/biz-slide-2.jpg?ver=2" alt="">
+              <a href="business/soc/" class="more-link fade-on-hover">
+                <div class="val">VIEW MORE</div>
+                <div class="icon">
+                  <i class="arrow right"></i>
+                </div>
+              </a>
+            </div>
+            <a href="business/soc/" class="m-tag"></a>
+          </div>
+          <div class="swiper-slide" data-slide-name="WINDPOWER Biz.">
+            <div class="mp-section-head">
+              <span class="mp-section-tag">Business Area</span>
+              <h2 class="mp-section-title">
+                Offshore Windpower as <b class="fw--600">the most sustainable <br class="pc-br">
+                and renewable energy</b>
+              </h2>
+            </div>
+            <div class="thumb-wrap">
+              <img src="https://wooritg.com/assets/images/main/biz-slide-3.jpg?ver=3" alt="">
+              <a href="business/offshore-wind-power/" class="more-link fade-on-hover">
+                <div class="val">VIEW MORE</div>
+                <div class="icon">
+                  <i class="arrow right"></i>
+                </div>
+              </a>
+            </div>
+            <a href="business/offshore-wind-power/" class="m-tag"></a>
+          </div>
+          <div class="swiper-slide" data-slide-name="DEFENSE Biz.">
+            <div class="mp-section-head">
+              <span class="mp-section-tag">Business Area</span>
+              <h2 class="mp-section-title">
+                Special military vehicle system <br class="pc-br">
+                and components for <b class="fw--600">K-Defense industry</b>
+              </h2>
+            </div>
+            <div class="thumb-wrap">
+              <img src="https://wooritg.com/assets/images/main/biz-slide-4.jpg?ver=2" alt="">
+              <a href="business/defense/" class="more-link fade-on-hover">
+                <div class="val">VIEW MORE</div>
+                <div class="icon">
+                  <i class="arrow right"></i>
+                </div>
+              </a>
+            </div>
+            <a href="business/defense/" class="m-tag"></a>
+          </div>
+          <div class="swiper-slide" data-slide-name="SMARTFARM Biz.">
+            <div class="mp-section-head">
+              <span class="mp-section-tag">Business Area</span>
+              <h2 class="mp-section-title">
+                Innovative Smartfarm technology for <br class="pc-br">
+                <b class="fw--600">the future agriculture and healthcare</b>
+              </h2>
+            </div>
+            <div class="thumb-wrap">
+              <img src="https://wooritg.com/assets/images/main/biz-slide-5.jpg?ver=2" alt="">
+              <a href="business/smart-farm/" class="more-link fade-on-hover">
+                <div class="val">VIEW MORE</div>
+                <div class="icon">
+                  <i class="arrow right"></i>
+                </div>
+              </a>
+            </div>
+            <a href="business/smart-farm/" class="m-tag"></a>
+          </div>
+        </div>
+        <nav class="btn-wrap">
+          <button type='button' class="btn prev"><i class="arrow left"></i></button>
+          <button type='button' class="btn next"><i class="arrow right"></i></button>
+        </nav>
+        <nav class="pagination"></nav>
+      </div>
+    </div>
+  </section>
+
+  <section class="section mp-section mp-etc sc_eft">
+    <div class="container">
+      <div class="mp-etc-block mp-news sc_eft__elem fadeup">
+        <div class="bar"></div>
+        <div class="wrap">
+          <div class="mp-news__head">
+            <h3 class="title">
+              News
+            </h3>
+            <a href="pr-center/press.php" class="more-link fade-on-hover">
+              <div class="val">NEWS LIST</div>
+              <div class="icon">
+                <i class="arrow right"></i>
+              </div>
+            </a>
+          </div>
+          
+<ul class="mp-news__ls">
+</ul>        </div>
+      </div>
+      <div class="mp-etc-block mp-quick">
+        <ul class="quick_card">
+          <li class="quick_card__item sc_eft__elem fadeup">
+            <a href="pr-center/press.php" class="fade-on-hover">
+              <img src="https://wooritg.com/assets/images/main/quick_pr.jpg" alt="" class="thumb">
+              <div class="cont">
+                <h4 class="tit h5">PR Center</h4>
+                <span class="more-link" style="--theme: var(--gray3);">
+                  View More <i class="arrow right"></i>
+                </span>
+              </div>
+            </a>
+          </li>
+          <li class="quick_card__item sc_eft__elem fadeup">
+            <a href="pr-center/disclosure-info.php" class="fade-on-hover">
+              <img src="https://wooritg.com/assets/images/main/quick_ir.jpg" alt="" class="thumb">
+              <div class="cont">
+                <h4 class="tit h5">IR Center</h4>
+                <span class="more-link" style="--theme: var(--gray3);">
+                  View More <i class="arrow right"></i>
+                </span>
+              </div>
+            </a>
+          </li>
+          <li class="quick_card__item sc_eft__elem fadeup">
+            <a href="company/location.php" class="fade-on-hover">
+              <img src="https://wooritg.com/assets/images/main/quick_contact.jpg" alt="" class="thumb">
+              <div class="cont">
+                <h4 class="tit h5">Directions</h4>
+                <span class="more-link" style="--theme: var(--gray3);">
+                  View More <i class="arrow right"></i>
+                </span>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-col footer-col-head">
+      <img src="https://wooritg.com/assets/images/common/logo-white-en.svg" alt="Woori Technology" class="footer-logo">
+    </div>
+    <div class="footer-col footer-col-body">
+      <address>
+      World Cup Buk-ro 46 gil 9, Mapo-gu, Seoul <br>
+      (Woori Technology Bldg. 4F, Sangam-dong)
+      </address>
+      <span class="slogan">
+        World Best Woori Technology
+      </span>
+      <p class="copyright">
+        Copyright © 2026 WOORI TECHNOLOGY INC. All Rights Reserved
+      </p>
+    </div>
+    <div class="footer-col footer-col-foot">
+      <ul>
+        <li>
+          <span class="tag">TEL</span>
+          <span class="val">+82-2-2102-5100</span>
+        </li>
+        <li>
+          <span class="tag">FAX</span>
+          <span class="val">+82-2-2102-5111</span>
+        </li>
+        <li>
+          <span class="tag">E-mail</span>
+          <span class="val">director@wooritg.com</span>
+        </li>
+      </ul>
+    </div>
+    <a href="#" class="top-button">
+      <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+        <rect width="48" height="48" fill="#0091ff"/>
+        <path d="M20.679,0,10.34,10.339,0,0" transform="translate(34.525 29.012) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      </svg>
+    </a>
+  </div>
+</footer>
+<div id="modal-privacy-total" class="modal">
+  <div class="dim"></div>
+  <div class="container">
+    <div class="head">
+      <button class="btn--close"><i class="ico--times"></i></button>
+      <div class="wrap">
+        <h4 class="title h5 fc--black">개인정보처리방침</h4>
+      </div>
+    </div>
+    <div class="content">
+      <div class="policy-doc">
+  <p class="sp-p1">
+    (주)우리기술 (이하 ‘회사’라 한다)은 개인정보 보호법 제30조에 따라 정보주체의 개인정보를 보호하고 이와 관련된 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리지침을 수립ㆍ공개합니다.
+  </p>
+  <br>
+  <dl>
+    <dt>제1조(개인정보의 처리목적)</dt>
+    <dd>
+      <p>
+        회사는 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며, 이용 목적이 변경되는 경우에는 개인정보 보호법 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.
+      </p>
+      <ol class="indent">
+        <li>
+          1. 홈페이지 고객문의에 대한 답변 제공 및 현황관리
+        </li>
+      </ol>
+    </dd>
+    <dt>제2조(개인정보의 처리 및 보유기간)</dt>
+    <dd>
+      <ol class="indent">
+        <li>
+          1. 회사는 법령에 따른 개인정보 보유 이용기간 또는 정보주체로부터 개인정보를 수집시에 동의받은 개인정보 보유 이용기간내에서 개인정보를 처리 보유합니다.
+        </li>
+        <li>
+          2. 처리 및 보유기간은 다음과 같습니다.
+          <p class="indent">
+            - 홈페이지 고객문의 접수일로부터 3년이내 <br>
+          </p>
+        </li>
+      </ol>
+    </dd>
+    <dt>제3조(개인정보의 제3자 제공)</dt>
+    <dd>
+      <ol class="indent">
+        <li>
+          회사는 개인정보를 사전 고지한 범위내에서 사용하며, 정보주체의 사전 동의 없이는 동 범위를 초과하여 이용하거나 원칙적으로 개인정보를 외부에 공개하지 않습니다. 다만, 아래의 경우에는 예외로 합니다. <br>
+          - 정보주체가 사전에 동의한 경우 <br>
+          - 법령의 규정에 의거하거나, 수사 목적으로 법령에 정해진 절차와 방법에 따라 수사기관의 요구가 있는 경우
+        </li>
+      </ol>
+    </dd>
+    <dt>제4조(개인정보처리의 위탁) </dt>
+    <dd>
+      <ol class="indent">
+        <li>
+          원칙적으로 이용자의 동의 없이 해당 개인정보의 처리를 위탁하지 않습니다. 다만, 회사는 원활하고 향상된 고객서비스를 위하여 개인정보를 제한된 범위에서 타 업체에게 위탁하여 관리하도록 할 수 있습니다. 위탁 계약 시, 관계 법령에 따라 위탁대상자, 위탁업무내용, 위탁기간, 위탁계약 내용(개인정보보호관련 법규의 준수, 개인정보에 관한 제3자 제공 금지 및 책임부담 등을 규정) 및 개인정보의 안전한 관리에 대한 사항을 공지사항 및 개인정보처리방침을 통해 고지하며, 필요한 경우 사전 동의를 받도록 하겠습니다.
+        </li>
+      </ol>
+    </dd>
+    <dt>제5조(정보주체의 권리 의무 및 행사방법)</dt>
+    <dd>
+      <ol class="indent">
+        <li>
+          1. 정보주체는 회사에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
+          <p class="indent">
+            - 개인정보 열람 요구 <br>
+            - 오류 등이 있을 경우 정정 요구 <br>
+            - 삭제 요구 <br>
+            - 처리정지 요구
+          </p>
+        </li>
+        <li>2. 제1항에 따른 권리 행사는 회사에 대해 서면, 전화, 전자우편을 통해 하실 수 있으며 회사는 이에 대해 지체없이 조치하겠습니다.</li>
+        <li>3. 정보주체가 개인정보의 오류 등에 대한 정정 또는 삭제를 요구한 경우에는 회사는 정정 또는 삭제를 완료할 때까지 당해 개인정보를 이용하거나 제공하지 않습니다.</li>
+        <li>4. 제1항에 따른 권리행사는 정보주체의 법정대리인이나 위임을 받은 자 등 대리인을 통하여 하실 수 있습니다. 이 경우 개인정보 보호법 시행규칙 별치 제11호 서식에 따른 위임장을 제출하셔야 합니다.</li>
+        <li>5. 정보주체는 개인정보 보호법 등 관계법령을 위반하여 회사가 처리하고 있는 정보주체 본인이나 타인의 개인정보 및 사생활을 침해하여서는 아니됩니다.</li>
+      </ol>
+    </dd>
+    <dt>제6조 (처리하는 개인정보 항목) 회사는 다음의 개인정보 항목을 처리하고 있습니다.</dt>
+    <dd>
+      <ol class="indent">
+        <li>
+          1. 홈페이지 고객문의에 대한 답변 제공 및 현황관리
+          <p class="indent">
+            - 필수항목: 성명, 연락처(전화번호, 이메일 주소), 회사명
+          </p>
+        </li>
+        <li>
+          2. 인터넷 서비스 이용과정에서 아래 개인정보 항목이 자동으로 생성되어 수집될 수 있습니다.
+          <p class="indent">
+            - IP 주소, 쿠키, MAC 주소, 서비스 이용기록, 방문기록, 불량이용기록 등
+          </p>
+        </li>
+      </ol>
+    </dd>
+    <dt>제7조(개인정보의 파기)</dt>
+    <dd>
+      <ol class="indent">
+        <li>
+          1. 회사는 개인정보 보유기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 지체없이 해당 개인정보를 파기합니다
+        </li>
+        <li>
+          2. 개인정보 파기의 절차 및 방법은 다음과 같습니다.
+          <p class="indent">
+            - 파기절차 <br>
+            회사는 파기 사유가 발생한 개인정보를 선정하고, 회사의 개인정보 보호책임자의 승인을 받아 개인정보를 파기합니다. <br>
+            - 파기방법 <br>
+            종이에 출력된 개인정보는 분쇄기로 분쇄하거나 소각을 통하여 파기합니다. 전자적 파일 형태로 저장된 개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여 삭제합니다.
+          </p>
+        </li>
+      </ol>
+    </dd>
+    <dt>제8조(개인정보의 안전성 확보조치)</dt>
+    <dd>
+      <ol class="indent">
+        <li>회사는 개인정보의 안전성 확보를 위해 다음과 같은 조치를 취하고 있습니다.</li>
+        <li class="indent">1. 관리적 조치: 내부관리계획 수립, 시행, 정기적 직원교육 등</li>
+        <li class="indent">2. 기술적 조치: 개인정보처리시스템 등의 접근권한 관리</li>
+      </ol>
+    </dd>
+    <dt>제9조(개인정보 자동 수집 장치의 설치, 운영 및 거부에 관한 사항)</dt>
+    <dd>
+      <ol class="indent">
+        <li>1. 회사는 이용자에게 개별적인 맞춤서비스를 제공하기 위해 이용정보를 저장하고 수시로 불러오는 ‘쿠키(cookie)'를 사용합니다.</li>
+        <li>2. 쿠키는 웹사이트를 운영하는데 이용되는 서버(http)가 이용자의 컴퓨터 브라우저에게 보내는 소량의 정보이며 이용자들의 PC 컴퓨터 내의 하드디스크에 저장되기도 합니다.</li>
+        <li>3. 쿠키의 사용목적: 이용자가 방문한 각 서비스와 웹사이트들에 대한 방문 및 이용형태, 인기 검색어, 보안접속 여부, 등을 파악하여 이용자에게 최적화된 정보제공을 위해 사용됩니다.</li>
+        <li>4. 쿠키의 설치, 운영 및 거부: 웹브라우저 상단의 도구 〉 인터넷옵션 〉 개인정보 메뉴의 옵션 설정을 통해 쿠키 저장을 거부할 수 있습니다.</li>
+        <li>5. 쿠키 저장을 거부할 경우 맞춤형 서비스 이용에 어려움이 발생할 수 있습니다.</li>
+      </ol>
+    </dd>
+    <dt>제 11조(권익침해 구제방법)</dt>
+    <dd>
+      <ol class="indent">
+        <li>정보주체는 아래의 기관에 대해 개인정보 침해에 대한 피해구제, 상담 등을 문의하실 수 있습니다. (아래의 기관은 회사와는 별개의 기관으로서, 회사의 자체적인 개인정보 불만처리, 피해구제 결과에 만족하지 못하시거나 보다 자세한 도움이 필요하시면 문의하여 주시기 바랍니다)</li>
+        <li>
+          <div class="indent">
+            1. 개인정보침해신고센터(한국인터넷진흥원 운영)
+            <div class="indent">
+              - 소관업무 : 개인정보 침해사실 신고, 상담 신청 <br>
+              - 홈페이지 : privacy.kisa.or.kr <br>
+              - 전화 : (국번없이) 118 <br>
+              - 주소 : (58324) 전남 나주시 진흥길 9(빛가람동 301-2) 3층 개인정보침해신고센터
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="indent">
+            2. 개인정보 분쟁조정위원회 <br>
+            <div class="indent">
+              - 소관업무 : 개인정보 분쟁조정신청, 집단분쟁조정 (민사적 해결) <br>
+              - 홈페이지 : www.kopico.go.kr <br>
+              - 전화 : (국번없이) 1833-6972 <br>
+              - 주소 : (03171)서울특별시 종로구 세종대로 209 정부서울청사 12층
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="indent">
+            3. 대검찰청 사이버범죄수사단 : 02-3480-3573 (www.spo.go.kr)
+          </div>
+        </li>
+        <li>
+          <div class="indent">
+            4. 경찰청 사이버안전국 : 182 (cyberbureau.police.go.kr)
+          </div>
+        </li>
+      </ol>
+    </dd>
+    <dt>제 12 조. 개인정보처리방침 변경</dt>
+    <dd>
+      <ol class="indent">
+        <li>
+          이 개인정보 처리방침은 2024.12.1 일부터 적용됩니다.
+        </li>
+      </ol>
+    </dd>
+  </dl>
+</div>    </div>
+  </div>
+</div><div id="modal-emailpolicy" class="modal">
+  <div class="dim"></div>
+  <div class="container">
+    <div class="head">
+      <button class="btn--close"><i class="ico--times"></i></button>
+      <div class="wrap">
+        <h4 class="title h5 fc--black">이메일 무단수집 거부</h4>
+      </div>
+    </div>
+    <div class="content">
+      <div class="policy-doc">
+  <div class="sp-p1">
+    큐로직 홈페이지 이용자에게 무차별적으로 보내지는 타사의 메일을 차단하기 위해,
+    본 웹사이트에 게시된 이메일 주소가 전자우편 수집 프로그램이나
+    그 밖의 기술적 장치를 이용하여 무단으로 수집되는 것을 거부하며,
+    이를 위반 시 정보통신망법에 의해 형사처벌됨을 유념하시기 바랍니다.
+    <br><br>
+    <p class="ta--r">
+      <strong>게시일: 2024년 4월 1일</strong>
+    </p>
+  </div>
+  <br>
+  <dl>
+    <dt><h6 class="h7">정보통신망 이용촉진 및 정보보호 등에 관한 법률</h6></dt>
+    <dt>제48조 (정보통신망 침해행위 등의 금지)</dt>
+    <dd>
+      <ol>
+        <li>
+          1. 누구든지 정당한 접근권한 없이 또는 허용된 접근권한을 넘어 정보통신망에 침입하여서는 아니 된다.
+        </li>
+        <li>
+          2. 누구든지 정당한 사유 없이 정보통신시스템, 데이터 또는 프로그램 등을 훼손ㆍ멸실ㆍ변경ㆍ위조하거나 그 운용을 방해할 수 있는 프로그램 (이하 “악성프로그램”이라 한다)을 전달 또는 유포하여서는 아니 된다.
+        </li>
+        <li>
+          3. 누구든지 정보통신망의 안정적 운영을 방해할 목적으로 대량의 신호 또는 데이터를 보내거나 부정한 명령을 처리하도록 하는 등의 방법으로 정보통신망에 장애가 발생하게 하여서는 아니 된다.
+        </li>
+      </ol>
+    </dd>
+    <dt>제65조 (벌칙)</dt>
+    <dd>
+      <ol>
+        <li>
+          1. 다음 각 호의 어느 하나에 해당하는 자는 5년 이하의 징역 또는 5천만원 이하의 벌금에 처한다.
+        </li>
+        <li>
+          2. 제1항제9호의 미수범은 처벌한다.
+        </li>
+      </ol>
+    </dd>
+  </dl>
+</div>    </div>
+  </div>
+</div>    
+
+  </body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>403 Forbidden</title>
+  <link rel="stylesheet" href="https://static.gabia.com/responsive/assets/common/scss/common.css">
+  <style>
+  body {background: #F0F4F9;}
+  .hosting-wrap {width: 780px; margin: 50px auto; background: #fff;box-shadow: 1px 1px 5px #0000000D;}
+  .hosting-wrap dl {float: left; width: calc(100% - 105px); margin-left: 30px;padding-top: 40px;}
+  .hosting-wrap dt {font-size: 18px; padding-bottom: 5px;}
+  .hosting-wrap dd {padding-top: 10px;font-size: 16px; font-weight: 300; display: table;}
+  .hosting-wrap dd:before {display: table-cell; width: 15px; content:'\2022'}
+  .hosting-wrap .point-color {color: #1D7ABD;}
+  .hosting-wrap a.point-color:hover {text-decoration: underline;}
+  .hosting-wrap .hosting-button {display: inline-block;margin: 5px 0 0; padding: 2px 17px 3px; border:1px solid #999; border-radius: 2px; font-size: 14px; color: #666;}
+  .hosting-wrap .hosting-button i {margin-left: 5px;}
+  .hosting-wrap .hosting-button:hover {border:1px solid #1D7ABD; color: #1D7ABD;}
+  .hosting-header h1 {padding-top: 40px; padding-left: 40px;}
+  .hosting-header header {padding-top: 80px; text-align: center; font-weight: bold; font-size: 36px;}
+  .hosting-header p {padding: 16px 0 80px;text-align: center; font-size: 20px ;font-weight: 300;}
+  .hosting-connect {margin: 0 40px;padding: 60px 0;border-top: 1px solid #D8D8D8;}
+  .hosting-connect:after {clear: both; display: block; content:''}
+  .hosting-connect header, .hosting-consult header {padding-bottom: 10px;font-size: 26px; color: #000; font-weight: 400; text-align: center;}
+  .hosting-connect ul {padding-top: 10px;}
+  .hosting-connect li {display: table; color: #666;}
+  .hosting-connect li:before {display: table-cell; width: 15px; content:'–'; color: #666;}
+  .hosting-icon {display: inline-block; width: 72px;height: 72px; float: left;}
+  .hosting-icon.is-https {margin: 40px 0 0; background: url('https://static.gabia.com/responsive/assets/images/hosting/agencyDbImage/ico-imagehosting-2.svg') 0 0 no-repeat; background-size: 72px;}
+  .hosting-icon.is-index {margin: 40px 0 0; background: url('https://static.gabia.com/www/hosting/webhosting/icon-ssh.png') 0 0 no-repeat;}
+  .hosting-icon.is-domain {margin: 40px 0 0; background: url('https://static.gabia.com/responsive/assets/images/hosting/agencyDbImage/ico-dbhosting-4.svg') 0 0 no-repeat; background-size: 72px;}
+  .hosting-icon.is-dns {margin: 40px 0 0; background: url('https://static.gabia.com/responsive/assets/images/idc/icon_vps_1.svg') 0 0 no-repeat; background-size: 72px;}
+  .hosting-icon.is-ip {margin: 40px 0 0; background: url('https://static.gabia.com/responsive/assets/images/idc/icon_vps_3.svg') 0 0 no-repeat; background-size: 72px;}
+  .hosting-icon.is-user {margin: 40px 0 0; background: url('https://static.gabia.com/responsive/assets/images/hosting/icon_item_relocation1.svg') 0 0 no-repeat; background-size: 72px;}
+  .hosting-consult {background: #F8F8F8; text-align: center; padding: 60px 0;}
+  .hosting-consult .customer-title {font-size: 20px; padding-top: 40px; padding-bottom: 30px;}
+  .hosting-consult .customer-number li {display: inline-block; }
+  .hosting-consult .customer-number li:not(:first-child) {border-left: 1px solid #E5E5E5;padding: 0 35px;}
+  .hosting-consult .customer-number li:first-child {padding: 0 75px;}
+  .hosting-consult .customer-number .number {color: #1D7ABD; font-size: 20px; padding-top: 10px;}
+  .hosting-consult .customer-time {padding-top: 30px; font-weight: 300;}
+  .hosting-consult .customer-desc {padding-top: 30px;}
+  .hosting-wrap footer {padding: 50px 0;text-align: center;}
+  .hosting-wrap footer a {color: #666; font-weight: 300;}
+  .hosting-wrap footer a:not(:nth-of-type(1)):before {display: inline-block; width: 20px; content:'|'; color: #D8D8D8;}
+  </style>
+</head>
+<body>
+  <div class="hosting-wrap">
+    <section class="hosting-header">
+      <h1><a href="https://www.gabia.com/" target="_blank" rel="noopener"><img src="https://static.gabia.com/www/common/img/logo.png" alt="gabia"></a></h1>
+      <header><span class="point-color">403</span> Forbidden</header>
+      <p>요청한 페이지에 접근 권한이 없습니다.</p>
+    </section>
+    <section class="hosting-connect">
+      <header>사이트 관리자이신가요?</header>
+      <div class="hosting-app">
+        <span class="hosting-icon is-https"></span>
+        <dl>
+          <dt>HTTPS 접속 여부 확인</dt>
+          <dd>SSL 인증서가 설치되지 않은 경우 HTTPS 방식으로 접근할 수 없습니다.</dd>
+          <dd>HTTP 방식으로 접근하시거나, https://로 접속이 필요한 경우 SSL 보안서버 인증서를 신청해 주시기 바랍니다.</dd>
+          <dd>SSL 보안서버 인증서 사양과 요금은 <a href="https://sslhosting.gabia.com/service" class="point-color" target="_blank" rel="noopener" title="새창">[SSL 보안서버 인증서]</a> 페이지에서 확인할 수 있습니다.</dd>
+        </dl>
+      </div>
+      <div class="hosting-app">
+        <span class="hosting-icon is-index"></span>
+        <dl>
+          <dt>인덱스 페이지 존재 여부 확인</dt>
+          <dd>서버 내 인덱스 페이지가 존재하지 않는다면 사이트에 접속할 수 없습니다.</dd>
+          <dd>FTP 프로그램을 통해 서버 내 아래 파일이 존재하는지 확인해 보시기 바랍니다.
+            <ul>
+              <li>PHP 호스팅: index.html 또는 index.php</li>
+              <li>ASP 호스팅: index.asp</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+      <div class="hosting-app">
+        <span class="hosting-icon is-domain"></span>
+        <dl>
+          <dt>도메인 연결 설정 여부 확인</dt>
+          <dd>호스팅 관리 콘솔을 통한 도메인 연결 없이 IP만 설정한 경우, 사이트에 접속할 수 없습니다.</dd>
+          <dd>호스팅 관리 콘솔을 통해 도메인 연결을 설정해 주시기 바랍니다.</dd>
+          <dd>도메인 연결 신청 방법은 <a href="https://customer.gabia.com/manual/hosting/2681/2683" class="point-color" target="_blank" rel="noopener" title="새창">[도메인 연결/해지하기 매뉴얼]</a>에서 확인할 수 있습니다.</dd>
+        </dl>
+      </div>
+      <div class="hosting-app">
+        <span class="hosting-icon is-dns"></span>
+        <dl>
+          <dt>DNS 레코드 정상 설정 확인</dt>
+          <dd>도메인에 올바른 웹 서버 IP를 설정했는지 확인해 보시기 바랍니다.</dd>
+          <dd>웹 서버 IP 확인하기: <a href="https://my.gabia.com/service" class="point-color" target="_blank" rel="noopener" title="새창">[gabia.com 로그인 > My가비아 > 서비스 관리]</a> > 이용중인 호스팅 우측 [콘솔] 버튼 클릭 > [웹 서버 > IP]에서 IP를 확인할 수 있습니다.</dd>
+        </dl>
+      </div>
+      <div class="hosting-app">
+        <span class="hosting-icon is-ip"></span>
+        <dl>
+          <dt>접근 IP 차단 설정 여부 확인</dt>
+          <dd>IP 접근이 차단된 경우 사이트에 접속할 수 없습니다.</dd>
+          <dd>호스팅 관리 콘솔의 보안 기능을 통해 웹사이트 접근 IP 제한 설정이 되어 있는지 확인해 보시기 바랍니다.</dd>
+          <dd>접근 IP 차단 설정 확인 방법은 <a href="https://customer.gabia.com/manual/hosting/1888/3597" class="point-color" target="_blank" rel="noopener" title="새창">[웹사이트 접근 IP 관리하기 매뉴얼]</a>에서 확인할 수 있습니다.</dd>
+        </dl>
+      </div>
+    </section>
+    <section class="hosting-connect">
+        <header>사이트 사용자이신가요?</header>
+        <div class="hosting-app">
+            <span class="hosting-icon is-user"></span>
+            <dl>
+              <dt>사이트 관리자에게 내용 전달</dt>
+              <dd>오류가 발생하는 경로를 사이트 관리자에게 전달해 주세요.</dd>
+            </dl>
+          </div>
+    </section>
+    <section class="hosting-consult">
+      <header style="margin-bottom: 20px;">문의 사항이 있으신가요?</header>
+      <ul class="customer-number">
+        <li>
+          <p class="title">게시판</p>
+          <p class="number"><a href="https://customer.gabia.com/ask/onetoone" class="point-color" target="_blank" rel="noopener" title="새창">[1:1 문의]</a></p>
+        </li>
+        <li>
+          <p class="title">이메일</p>
+          <p class="number">hosting@gabia.com</p>
+        </li>
+      </ul>
+      <p class="customer-time">운영시간: 평일 9:00 ~ 18:00 (주말, 공휴일 제외)</p>
+      <p class="customer-desc">※ 문의 시, 문제가 발생하는 URL과 상세 오류 내용을 함께 전달해 주세요.</p>
+    </section>
+    <footer>
+      <a href="https://domain.gabia.com/" target="_blank" rel="noopener">도메인</a>
+      <a href="https://cloud.gabia.com/" target="_blank" rel="noopener">클라우드</a>
+      <a href="https://idc.gabia.com/" target="_blank" rel="noopener">IDC</a>
+      <a href="https://webhosting.gabia.com/" target="_blank" rel="noopener">호스팅</a>
+      <a href="https://biz.gabia.com/" target="_blank" rel="noopener">메일/그룹웨어</a>
+      <a href="https://freehome.gabia.com/" target="_blank" rel="noopener">홈페이지</a>
+      <a href="https://firstmall.kr/index.php" target="_blank" rel="noopener">쇼핑몰</a>
+    </footer>
+  </div>
+</body>
+</html>

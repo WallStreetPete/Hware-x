@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+    <title>维通利电气</title>
+    <meta name="keywords" content="维通利电气">
+    <meta name="description" content="维通利电气">
+    <script type="text/javascript" src="/statics/fer/fan/rem.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="/statics/fer/css/animate.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="/statics/fer/css/rest.css" />
+    <link rel="stylesheet" type="text/css" href="/statics/fer/css/comm.css?ti=1777232854" />
+
+    <script type="text/javascript" src="/statics/fer/lib/jquery-1.10.2.js?asdf"></script>
+    <script type="text/javascript" charset="utf-8" src="/statics/fer/lib/jquery-resizeEnd.min.js"></script>
+
+    <script type="text/javascript" charset="utf-8" src="/statics/fer/lib/velocity.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/statics/fer/lib/velocity.ui.min.js"></script>
+
+    <link type="text/css" rel="stylesheet" href="/statics/fer/lib/swiper/swiper-bundle.min.css">
+    <script type="text/javascript" charset="utf-8" src="/statics/fer/lib/swiper/swiper-bundle.min.js"></script>
+
+    <link href="/statics/fer/lib/viewer/viewer.css" rel="stylesheet">
+    <script src="/statics/fer/lib/viewer/viewer.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/statics/fer/css/video.css" />
+    <script type="text/javascript" src="/statics/fer/fan/videotc.js"></script>
+
+    <link href="/statics/fer/lib/layui/css/layui.css" rel="stylesheet">
+    <script src="/statics/fer/lib/layui/layui.js"></script>
+
+
+</head>
+<body class="in_body">
+     <!--头部-->
+ <div class="wrap topfr">
+    <div class="wrap_in">
+        <div class="fl"><a href="/"><i><img src="/statics/fer/upimg/logo.svg" class="img1" /><img src="/statics/fer/upimg/logo_01.svg" class="img2" /></i></a></div>
+        <div class="fr">
+            <div class="menufr font18">
+                <ul>
+                    <li class="on"><div class="mu_t"><a href="/">首页</a></div></li>
+                                                            <li ><div class="mu_t"><a   href='/list-1-1.html?dw=dw1' >产品与服务</a></div></li>
+                                        <li ><div class="mu_t"><a   href='/list-8-1.html' >应用场景</a></div></li>
+                                        <li ><div class="mu_t"><a   href='/list-9-1.html' >新闻中心</a></div></li>
+                                        <li ><div class="mu_t"><a   href='/list-10-1.html' >关于我们</a></div></li>
+                                                        </ul>
+            </div>
+            <div class="tpr_o">
+                <div class="c">
+                    <a href="/?m=search" class="a1"></a>
+                    <a href="http://en.vtle.com/" class="a2"></a>
+                    <div class="mtmenu_click"><a href="javascript:void(0);"></a></div>
+                </div>
+            </div>                
+        </div>
+    </div>
+</div>
+
+<!--end 头部-->
+    <div class="wrap banner">
+        <div class="bs_slide">
+            <div class="swiper-wrapper">
+                                                <div class="swiper-slide">
+                    <div class="bg_bg">
+                        <img src="/uploadfile/2024/0708/20240708090741697.jpg" />
+                    </div>
+                    <div class="bs_c">
+                        <div class="c">
+                            <div class="wrap_c">
+                                <div class="p p1 font42">——</div>
+                                <div class="p p2 font68">创新 高效 奋斗 共赢</div>
+                                <div class="p p3 font24"></div>
+                                                                <div class="p p4 font20"><a href="/list-10-1.html"><span>了解更多</span></a></div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="swiper-slide">
+                    <div class="bg_bg">
+                        <img src="/uploadfile/2024/0708/20240708092801921.jpg" />
+                    </div>
+                    <div class="bs_c">
+                        <div class="c">
+                            <div class="wrap_c">
+                                <div class="p p1 font42">——</div>
+                                <div class="p p2 font68">成为电气连接领域的卓越引领者 持续赋能人类美好生活</div>
+                                <div class="p p3 font24"></div>
+                                                                <div class="p p4 font20"><a href="/list-10-1.html"><span>了解更多</span></a></div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="swiper-slide">
+                    <div class="bg_bg">
+                        <img src="/uploadfile/2024/1106/20241106023630751.jpg" />
+                    </div>
+                    <div class="bs_c">
+                        <div class="c">
+                            <div class="wrap_c">
+                                <div class="p p1 font42">——</div>
+                                <div class="p p2 font68">非标生产 快速响应</div>
+                                <div class="p p3 font24"></div>
+                                                                <div class="p p4 font20"><a href="/list-10-1.html"><span>了解更多</span></a></div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                                            </div>
+        </div>
+        <div class="bs_b wow fadeInUp" data-wow-delay=".3s" style="opacity:0;">
+            <div class="wrap_c">
+                <div class="bsb_spfr">
+                    <div class="bsb_sp"></div>
+                </div>
+                <div class="bsb_r">
+                    <div class="c"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <b class="in_01_bg"></b>
+    <div class="wrap in_01">
+        <div class="wrap_c">
+                                    <div class="in_01_t font24 wow fadeInRight" data-wow-delay=".3s">
+                <a href="/list-10-1.html">走进维通利</a>
+            </div>
+            <div class="in_01_t1 font42 wow fadeInRight" data-wow-delay=".5s">
+                <p>致力于<br />成为电气连接领域的卓越引领者<br /></p>
+            </div>
+            <div class="in_01_t2 font18 wow fadeInRight" data-wow-delay=".7s">
+                <p><p><span style="font-size: 16px;">为电力电工、新能源汽车、风光储、轨道交通等行业提供电连接解决方案</span></p><p><br/></p></p>
+            </div>
+            <div class="in_01_t3"></div>
+            <div class="in_01_c">
+                <ul>
+                                                            <li class="wow fadeInUp" data-wow-delay=".8s">
+                        <div class="em em1"><img src="/statics/fer/upimg/in_02.png" /></div>
+                        <div class="em em2">
+                            <div class="p p1 font24">使命</div>
+                            <div class="p p2 font18"><i style="color:#a83132">维</i>新<i style="color:#a83132">维</i>远<br/><i style="color:#a83132">通</i>江<i style="color:#a83132">通</i>海<br/><i style="color:#a83132">利</i>国<i style="color:#a83132">利</i>民</div>
+                        </div>
+                    </li>
+                                        <li class="wow fadeInUp" data-wow-delay=".8s">
+                        <div class="em em1"><img src="/statics/fer/upimg/in_03.png" /></div>
+                        <div class="em em2">
+                            <div class="p p1 font24">愿景</div>
+                            <div class="p p2 font18">成为电气连接领域的卓越引领者 持续赋能人类美好生活</div>
+                        </div>
+                    </li>
+                                        <li class="wow fadeInUp" data-wow-delay=".8s">
+                        <div class="em em1"><img src="/statics/fer/upimg/in_04.png" /></div>
+                        <div class="em em2">
+                            <div class="p p1 font24">价值观</div>
+                            <div class="p p2 font18">创新 高效 奋斗 共赢</div>
+                        </div>
+                    </li>
+                                                        </ul>
+            </div>
+            <div class="in_01_video wow fadeInRight" data-wow-delay=".8s">
+                <a href="javascript:;" class="m-video" data-src="/statics/1.mp4">
+                    <em class="em1">
+                        <img src="/uploadfile/2024/0704/20240704040201449.png" />
+                    </em>
+                    <em class="em2 font16">
+                        <b></b><span>观看视频</span>
+                    </em>
+                </a>
+            </div>
+                                </div>
+    </div>
+
+    <div class="wrap in_02">
+        <div class="wrap_c">
+            <div class="in_02_slide wow fadeInRight" data-wow-delay=".5s">
+                <div class="swiper-wrapper">
+                                                            <div class="swiper-slide swiper-no-swiping">
+                        <div class="in_02sfr">
+                            <div class="fl">
+                                <div class="an c">
+                                    <div class="in_01_t font24">
+                                        <a href="/list-2-1.html?dw=dw1">产品与服务</a>
+                                    </div>
+                                    <div class="in_02_t font42">硬连接</div>
+                                    <div class="in_02_c font18">
+                                        <p><p>铜/铝制导电硬母排</p></p>
+                                    </div>
+                                    <div class="in_02_b">
+                                        <a href="javascript:;" class="in_02s_prev"></a>
+                                        <a href="javascript:;" class="in_02s_next"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="an fr">
+                                <img src="/uploadfile/2024/0703/20240703082753816.png" />
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="swiper-slide swiper-no-swiping">
+                        <div class="in_02sfr">
+                            <div class="fl">
+                                <div class="an c">
+                                    <div class="in_01_t font24">
+                                        <a href="/list-3-1.html">产品与服务</a>
+                                    </div>
+                                    <div class="in_02_t font42">柔性连接</div>
+                                    <div class="in_02_c font18">
+                                        <p><p>铜/铝制柔性导电连接</p></p>
+                                    </div>
+                                    <div class="in_02_b">
+                                        <a href="javascript:;" class="in_02s_prev"></a>
+                                        <a href="javascript:;" class="in_02s_next"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="an fr">
+                                <img src="/uploadfile/2024/0703/20240703082203609.png" />
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="swiper-slide swiper-no-swiping">
+                        <div class="in_02sfr">
+                            <div class="fl">
+                                <div class="an c">
+                                    <div class="in_01_t font24">
+                                        <a href="/list-4-1.html">产品与服务</a>
+                                    </div>
+                                    <div class="in_02_t font42">触头组件</div>
+                                    <div class="in_02_c font18">
+                                        <p><p>动触头、静触头、组装触头系统</p></p>
+                                    </div>
+                                    <div class="in_02_b">
+                                        <a href="javascript:;" class="in_02s_prev"></a>
+                                        <a href="javascript:;" class="in_02s_next"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="an fr">
+                                <img src="/uploadfile/2024/0703/20240703082216472.png" />
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="swiper-slide swiper-no-swiping">
+                        <div class="in_02sfr">
+                            <div class="fl">
+                                <div class="an c">
+                                    <div class="in_01_t font24">
+                                        <a href="/list-5-1.html">产品与服务</a>
+                                    </div>
+                                    <div class="in_02_t font42">同步分解器</div>
+                                    <div class="in_02_c font18">
+                                        <p><p>流体在通道内强制对流把热量带走的热交换器</p></p>
+                                    </div>
+                                    <div class="in_02_b">
+                                        <a href="javascript:;" class="in_02s_prev"></a>
+                                        <a href="javascript:;" class="in_02s_next"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="an fr">
+                                <img src="/uploadfile/2024/0703/20240703082228971.png" />
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="swiper-slide swiper-no-swiping">
+                        <div class="in_02sfr">
+                            <div class="fl">
+                                <div class="an c">
+                                    <div class="in_01_t font24">
+                                        <a href="/list-6-1.html">产品与服务</a>
+                                    </div>
+                                    <div class="in_02_t font42">集成母排</div>
+                                    <div class="in_02_c font18">
+                                        <p><p>铜/铝板、绝缘膜多层复合式导电连接</p></p>
+                                    </div>
+                                    <div class="in_02_b">
+                                        <a href="javascript:;" class="in_02s_prev"></a>
+                                        <a href="javascript:;" class="in_02s_next"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="an fr">
+                                <img src="/uploadfile/2024/0703/20240703082317419.png" />
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="swiper-slide swiper-no-swiping">
+                        <div class="in_02sfr">
+                            <div class="fl">
+                                <div class="an c">
+                                    <div class="in_01_t font24">
+                                        <a href="/list-7-1.html">产品与服务</a>
+                                    </div>
+                                    <div class="in_02_t font42">其他</div>
+                                    <div class="in_02_c font18">
+                                        <p><p>同步分解器、连接器、散热器、电缆附件</p></p>
+                                    </div>
+                                    <div class="in_02_b">
+                                        <a href="javascript:;" class="in_02s_prev"></a>
+                                        <a href="javascript:;" class="in_02s_next"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="an fr">
+                                <img src="/uploadfile/2024/0703/20240703082702770.png" />
+                            </div>
+                        </div>
+                    </div>
+                                                            
+                    
+                </div>
+            </div>
+            <div class="in_02_r font18 wow fadeInRight" data-wow-delay=".7s">
+                <div class="c">
+                    <ul>
+                                                                        <li class="on"><a href="javascript:;"><span>硬连接</span><b></b></a></li>
+                                                <li ><a href="javascript:;"><span>柔性连接</span><b></b></a></li>
+                                                <li ><a href="javascript:;"><span>触头组件</span><b></b></a></li>
+                                                <li ><a href="javascript:;"><span>同步分解器</span><b></b></a></li>
+                                                <li ><a href="javascript:;"><span>集成母排</span><b></b></a></li>
+                                                <li ><a href="javascript:;"><span>其他</span><b></b></a></li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="wrap in_03">
+        <div class="wrap_c">
+            <div class="in_03_t font42 wow fadeInUp" data-wow-delay=".3s">产能布局</div>
+            <div class="in_03_c">
+                <div class="in_03c_b wow fadeInRight" data-wow-delay=".4s" >
+                    <ul style="display:none">
+                                                                        <li class="wow in_05c_an" data-m="400">
+                            <!--
+                            <div class="c">
+                                <div class="p p1 font36"><span data-num="2003">0</span><i class="i1 font16">年</i></div>
+                                <div class="p p2 font18">公司成立</div>
+                            </div>
+                            -->
+                            <div class="c">
+                                <div class="p p1 font22">年产能铜铝加工</div>
+                                <div class="p p2 font18">30000吨</div>
+                            </div>
+                        </li>
+                        <li class="wow in_05c_an" data-m="500">
+                            <!--
+                            <div class="c">
+                                <div class="p p1 font36"><span data-num="5">0</span></div>
+                                <div class="p p2 font18">制造基地</div>
+                            </div>
+                            -->
+                            <div class="c">
+                                <div class="p p1 font22">模具与工装</div>
+                                <div class="p p2 font18">年加工能力500套</div>
+                            </div>
+                        </li>
+                        <li class="wow in_05c_an" data-m="600">
+                            <!--
+                            <div class="c">
+                                <div class="p p1 font36"><span data-num="600">0</span><sup class="font20">+</sup></div>
+                                <div class="p p2 font18">公司产品数量</div>
+                            </div>
+                            -->
+                            <div class="c">
+                                <div class="p p1 font22">配套电镀厂</div>
+                                <div class="p p2 font18">镀锡/银/镍、阳极氧化等</div>
+                            </div>
+                        </li>
+                                                                    </ul>
+                </div>
+                <div class="in_03cbgfr">
+                    <div class="in_03c_bg">
+                        <img src="/statics/fer/upimg/in_06.jpg" />
+                    </div>
+                    <div class="in_03c_more font18 wow fadeInRight" data-wow-delay=".9s">
+                                                                        <a href="javascript:;" class="a1"><b></b><span>塞尔维亚</span></a>
+                                                <a href="javascript:;" class="a2"><b></b><span>北京</span></a>
+                                                <a href="javascript:;" class="a3"><b></b><span>堰桥</span></a>
+                                                <a href="javascript:;" class="a4"><b></b><span>玉祁</span></a>
+                                                <a href="javascript:;" class="a5"><b></b><span>株洲</span></a>
+                                                                    </div>
+                </div>
+                <div class="in_03c_tip font16">
+                    <dl>
+                                                                        <dd>
+                            <div class="fl"><img src="/statics/fer/upimg/in_07.jpg" /></div>
+                            <div class="fr">
+                               <ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p>塞尔维亚斯梅代雷沃</p></li><li><p>欧洲基地</p></li><li><p>触头、叠层母排、电车三电产品</p></li></ul>                            </div>
+                        </dd>
+                                                <dd>
+                            <div class="fl"><img src="/uploadfile/2024/0522/20240522031441502.jpg" /></div>
+                            <div class="fr">
+                               <ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p>北京总部</p></li><li><p>研发、销售中心</p></li><li><p>柔性连接、硬连接、散热器<br/></p></li></ul>                            </div>
+                        </dd>
+                                                <dd>
+                            <div class="fl"><img src="/uploadfile/2024/0522/20240522032908350.jpg" /></div>
+                            <div class="fr">
+                               <ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p>无锡堰桥</p></li><li><p>触头基地</p></li><li><p>ACB/MCCB触头、中低压触刀<br/></p></li></ul>                            </div>
+                        </dd>
+                                                <dd>
+                            <div class="fl"><img src="/uploadfile/2024/0522/20240522031341899.jpg" /></div>
+                            <div class="fr">
+                               <ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p>无锡玉祁</p></li><li><p>新能源基地</p></li><li><p>电车三电导电连接件</p></li></ul>                            </div>
+                        </dd>
+                                                <dd>
+                            <div class="fl"><img src="/uploadfile/2024/0522/20240522031528890.jpg" /></div>
+                            <div class="fr">
+                               <ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p dir="ltr">湖南株洲</p></li><li><p dir="ltr">战略产品基地</p></li><li><p dir="ltr">叠层母排、CCS、旋转变压器、连接器、电缆附件<br/></p></li></ul>                            </div>
+                        </dd>
+                                                                        
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!--mapTip-->
+    <div class="maptipfr">
+        <div class="maptip_c font16">
+            
+        </div>
+        <b></b>
+    </div>
+    <!--end mapTip-->
+
+    <div class="wrap in_04" style='background: url("/statics/fer/images/in_12.webp") 50% no-repeat;background-size:cover;display:none;'>
+        <div class="wrap_c">
+            <div class="in_04_t wow fadeInUp" data-wow-delay=".3s">
+                <span class="sp1 font42">行业案例</span>
+                <a href="/list-8-1.html" class="more font18">探索更多</a>
+            </div>
+
+            <div class="in_04_tab wow fadeInUp" data-wow-delay=".5s">
+                <div class="fl font16">
+                    <ul>
+                                                 
+                                                <li class="on">
+                            <a href="javascript:;">电力电工</a>
+                            <div class="in_04_hid">
+                                <dl>
+                                                                                                            <dd>
+                                        <a href="/list-8-1.html">
+                                            <em class="em1"><img src="/uploadfile/2024/0618/20240618021340396.jpg" /></em>
+                                            <em class="em2 font24">
+                                                <span>电力电工应用场景</span>
+                                            </em>
+                                        </a>
+                                    </dd>
+                                                                                                        </dl>
+                            </div>
+                        </li>
+                         
+                                                <li >
+                            <a href="javascript:;">新能源汽车</a>
+                            <div class="in_04_hid">
+                                <dl>
+                                                                                                            <dd>
+                                        <a href="/list-8-1.html">
+                                            <em class="em1"><img src="/uploadfile/2024/0618/20240618022829615.jpg" /></em>
+                                            <em class="em2 font24">
+                                                <span>新能源汽车应用场景</span>
+                                            </em>
+                                        </a>
+                                    </dd>
+                                                                                                        </dl>
+                            </div>
+                        </li>
+                         
+                                                <li >
+                            <a href="javascript:;">风光电伏</a>
+                            <div class="in_04_hid">
+                                <dl>
+                                                                                                            <dd>
+                                        <a href="/list-8-1.html">
+                                            <em class="em1"><img src="/uploadfile/2024/0618/20240618024911693.jpg" /></em>
+                                            <em class="em2 font24">
+                                                <span>风光电伏应用场景</span>
+                                            </em>
+                                        </a>
+                                    </dd>
+                                                                                                        </dl>
+                            </div>
+                        </li>
+                         
+                                                <li >
+                            <a href="javascript:;">轨道交通</a>
+                            <div class="in_04_hid">
+                                <dl>
+                                                                                                            <dd>
+                                        <a href="/list-8-1.html">
+                                            <em class="em1"><img src="/uploadfile/2024/0618/20240618031755788.jpg" /></em>
+                                            <em class="em2 font24">
+                                                <span>轨道交通应用场景</span>
+                                            </em>
+                                        </a>
+                                    </dd>
+                                                                                                        </dl>
+                            </div>
+                        </li>
+                         
+                                                <li >
+                            <a href="javascript:;">储能</a>
+                            <div class="in_04_hid">
+                                <dl>
+                                                                                                            <dd>
+                                        <a href="/list-8-1.html">
+                                            <em class="em1"><img src="/uploadfile/2024/0618/20240618030445160.jpg" /></em>
+                                            <em class="em2 font24">
+                                                <span>储能应用场景</span>
+                                            </em>
+                                        </a>
+                                    </dd>
+                                                                                                        </dl>
+                            </div>
+                        </li>
+                                                                    </ul>
+                </div>
+                <div class="fr">
+                    <div class="in_04c_spfr">
+                        <div class="in_04c_sp font30"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearheight"></div>
+
+            <div class="in_04_c wow fadeInUp" data-wow-delay=".7s">
+                <div class="in_04c_slide">
+                    <div class="swiper-wrapper">
+                                                                        <div class="swiper-slide">
+                            <a href="/list-8-1.html">
+                                <em class="em1"><img src="/uploadfile/2024/0618/20240618021340396.jpg" /></em>
+                                <em class="em2 font24">
+                                    <span>电力电工应用场景</span>
+                                </em>
+                            </a>
+                        </div>
+                                                                       
+                    </div>
+                </div>
+                <a href="javascript:;" class="in_04c_prev"></a>
+                <a href="javascript:;" class="in_04c_next"></a>
+            </div>
+
+
+        </div>
+    </div>
+<div class="wrap btnfr">
+    <div class="wrap_c">
+        <div class="btn_01">
+            <div class="fl font16">
+                <dl>
+                    <dt class="font20"><a href="/">首页</a></dt>
+                </dl>
+                                                <dl>
+                    <dt class="font20"><a href="/list-1-1.html">产品与服务</a></dt>
+                                                                                                    <dd><a href="/list-2-1.html?dw=dw1">硬连接</a></dd>
+                                                                                <dd><a href="/list-3-1.html?dw=dw1">柔性连接</a></dd>
+                                                                                <dd><a href="/list-4-1.html?dw=dw1">触头组件</a></dd>
+                                                                                <dd><a href="/list-5-1.html?dw=dw1">同步分解器</a></dd>
+                                                                                <dd><a href="/list-6-1.html?dw=dw1">集成母排和CCS</a></dd>
+                                                                                <dd><a href="/list-7-1.html?dw=dw1">其他</a></dd>
+                                                                                                    <!--  -->
+                                    </dl>
+                                <dl>
+                    <dt class="font20"><a href="/list-8-1.html">应用场景</a></dt>
+                                                                                                    <dd><a href="/list-43-1.html?dw=dw1">行业应用场景</a></dd>
+                                                                                                    <!--                                                                         <dd class="dd1"><a href="/show-43-4-1.html">电力电工</a></dd>
+                                                <dd class="dd1"><a href="/show-43-3-1.html">风电光伏</a></dd>
+                                                <dd class="dd1"><a href="/show-43-2-1.html">储能</a></dd>
+                                                <dd class="dd1"><a href="/show-43-5-1.html">新能源汽车</a></dd>
+                                                <dd class="dd1"><a href="/show-43-1-1.html">轨道交通</a></dd>
+                                                                     -->
+                                    </dl>
+                                <dl>
+                    <dt class="font20"><a href="/list-9-1.html">新闻中心</a></dt>
+                                                                                                    <dd><a href="/list-41-1.html?dw=dw1">公司新闻</a></dd>
+                                                                                                    <!--  -->
+                                    </dl>
+                                <dl>
+                    <dt class="font20"><a href="/list-10-1.html">关于我们</a></dt>
+                                                                                                    <dd><a href="/list-10-1.html?dw=dw1">公司简介</a></dd>
+                                                                                <dd><a href="/list-10-1.html?dw=dw2">荣誉资质</a></dd>
+                                                                                <dd><a href="/list-10-1.html?dw=dw3">企业文化</a></dd>
+                                                                                <dd><a href="/list-16-1.html?dw=dw1">联系我们</a></dd>
+                                                                                                    <!--  -->
+                                    </dl>
+                                               
+                <!-- <dl>
+                    <dt class="font20"><a href="#">关于我们</a></dt>
+                    <dd><a href="#">公司简介</a></dd>
+                    <dd><a href="#">荣誉资质</a></dd>
+                    <dd><a href="#">企业文化</a></dd>
+                    <dd><a href="#">联系我们</a></dd>
+
+                    <dd class="dd1"><a href="#">人力资源</a></dd>
+                    <dd class="dd1"><a href="#">社会招聘</a></dd>
+                    <dd class="dd1"><a href="#">校园招聘</a></dd>
+                </dl> -->
+            </div>
+                                                                            <div class="fr">
+                <p class="p1"><img src="/statics/fer/upimg/in_09.jpg" /></p>
+                <p class="p2 font16">扫码关注微信公众号</p>
+            </div>
+        </div>
+        <div class="btn_02 font16">
+            <div class="em em1"><a href="/"><img src="/statics/fer/upimg/logo_01.svg" /></a></div>
+            <div class="em em2">
+                <div class="c">
+                    <p>地址：北京市通州区聚富苑聚富南路8号 邮编：101105</p>
+                    <p>电话：（国内业务）010-80863075/010-80576574</p>
+                    <p>电话：（投诉）17710588053</p>
+                </div>
+            </div>
+            <div class="em em3">
+                <div class="c">
+                    <p>传真：（国内业务）010-81583804-8005 </p>
+                    <p>E-mail：bv-marketing@vtle.com</p>
+                    <p>E-mail：tousu@vtle.com</p>
+                </div>
+            </div>
+        </div>
+        <div class="btn_03 font16">
+            <div class="fr"><a href="/list-22-1.html">法律声明</a><a href="/list-21-1.html">免责声明</a></div>
+            <div class="fl"><p>Copyright @ 2012-2024 istarshine.com.All rights reserved. 京ICP备14055724号</p></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<script type="text/javascript" src="/statics/fer/fan/inpage.js"></script>
+<script type="text/javascript" src="/statics/fer/lib/wow.min.js"></script>
+<script type="text/javascript">
+    var _page = "";
+    var wow = new WOW(
+        {
+            boxClass: 'wow',
+            animateClass: 'animated',
+            offset: 0,
+            mobile: true,
+            live: true,
+            callback: function (box) {
+                $(box).css({ "opacity": "1" });
+
+                if ($(box).hasClass("in_05c_an")) {
+                    if (!$(box).hasClass("aned")) {
+                        if ($(box).attr("data-m") != "") {
+                            $(box).find(".p").each(function () {
+                                var _thas = $(this);
+                                setTimeout(function () {
+                                    countup1(_thas.find("span"));
+                                }, $(box).attr("data-m"));
+                            });
+                            $(box).addClass("aned");
+                        }
+                    }
+                }
+
+                if ($(box).closest(".anleft").attr("class") == "anleft") {
+                    setTimeout(function () {
+                        $(box).addClass("active");
+                    }, $(box).attr("data-num"));
+                }
+                
+                
+            },
+            scrollContainer: null
+        }
+    );
+    wow.init();
+</script>
+<script type="text/javascript" src="/statics/fer/fan/home.js?1777232854"></script>
+</body>
+</html>

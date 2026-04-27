@@ -1,0 +1,883 @@
+<style>
+
+@media screen and (max-width: 768px) {
+    .facebook-icon {
+        color: #1877F2; /* Facebook 藍 */
+    }
+}
+
+</style>
+
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta http-equiv="Content-Type" content="text/html,charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="/image/icon/metatech.ico" type="image/x-icon" />
+    <title>首頁 | 三顧股份有限公司</title>
+    
+    
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@700&family=EB+Garamond:ital@1&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet" data-optimized-fonts="true">
+    <link rel='stylesheet' id='mytheme-body-font-css' href='https://fonts.googleapis.com/css?family=Noto+Serif+TC%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6.3.2' type='text/css' media='all' />
+
+    <link href="/Content/css?v=3y44jTyyi67pFVsPrt36p1aGVhmeZ9nNKMZE6O0Ed8w1" rel="stylesheet"/>
+
+    
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+    <script src="/bundles/jquery?v=8Oos0avDZyPg-cbyVzvkIfERIE1DGSe3sRQdCSYrgEQ1"></script>
+
+    
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-K6N8Z2R');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Google tag GA4 (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DCJX863Q9M"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-DCJX863Q9M');
+    </script>
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6N8Z2R"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+   
+<header class="header-wrap">
+    <div class="header-container container">
+        <div class="brand">
+            <img />
+        </div>
+        <nav class="nav-wrap">
+            <div class="nav-container-s">
+                <div class="lang-text">
+                    
+                    <p>Language</p>
+                    <ul class="lang-list">
+                        <li class="active"><a href="/tw">中文</a></li>
+                        <li><a href="/en">English</a></li>
+                        
+                    </ul>
+            </div>
+        </div>
+        <ul class="nav-container">
+            <li class="nav-content">
+                <span class="nav-label">
+                    關於三顧
+                </span>
+                <div class="menu-wrap">
+                    <div class="menu-containter">
+                        <div class="menu-head">
+                            <p>關於三顧</p>
+                            <p>三顧股份有限公司成立於1998年，業務發展包含兩大事業群－電子與生醫。</p>
+
+                        </div>
+                        <div class="menu-body">
+                            <a href="/tw/company/about" class="menu-content">
+                                <div class="menu-img" style="">
+                                    <img src="/image/banner/%e8%b5%b0%e5%bb%8a06.jpg" alt="">
+                                </div>
+                                <div class="menu-label">
+                                    <i class="fas fa-sign-in-alt"></i>
+                                    <p>公司簡介</p>
+                                </div>
+                            </a>
+                            <a href="/tw/company/team" class="menu-content">
+                                <div class="menu-img">
+                                    <img src="/image/banner/49525889.jpg" alt="">
+                                </div>
+                                <div class="menu-label">
+                                    <i class="fas fa-sign-in-alt"></i>
+                                    <p>管理團隊</p>
+                                </div>
+                            </a>
+                            <a href="/tw/company/organization" class="menu-content">
+                                <div class="menu-img">
+                                    <img src="/image/banner/42063304.jpg" alt="">
+                                </div>
+                                <div class="menu-label">
+                                    <i class="fas fa-sign-in-alt"></i>
+                                    <p>組織架構</p>
+                                </div>
+                            </a>
+                            <a href="/tw/company/history" class="menu-content">
+                                <div class="menu-img">
+                                    <img src="/image/banner/pocket-watch.jpg" alt="">
+                                </div>
+                                <div class="menu-label">
+                                    <i class="fas fa-sign-in-alt"></i>
+                                    <p>歷史沿革</p>
+                                </div>
+                            </a>
+                            <a href="https://www.104.com.tw/company/7nhfxeg" target="_blank" class="menu-content">
+                                <div class="menu-img">
+                                    <img src="/image/banner/49525889.jpg" alt="">
+                                </div>
+                                <div class="menu-label">
+                                    <i class="fas fa-sign-in-alt"></i>
+                                    <p>加入我們</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-content">
+                <span class="nav-label">
+                    新聞與活動
+                    
+                        </span>
+                        <div class="menu-wrap">
+                            <div class="menu-containter">
+                                <div class="menu-head">
+                                    <p>新聞與活動</p>
+                                    <p>新聞、專欄報導與三顧公司各式公告</p>
+                                </div>
+                                <div class="menu-body">
+                                    <a href="/tw/news/newsreport" class="menu-content">
+                                        <div class="menu-img">
+                                            <img src="/image/banner/video-bg.jpg" alt="">
+                                        </div>
+                                        <div class="menu-label">
+                                            <i class="fas fa-sign-in-alt"></i>
+                                            <p>新聞報導</p>
+                                        </div>
+                                    </a>
+                                    <a href="/tw/news/events" class="menu-content">
+                                        <div class="menu-img">
+                                            <img src="/image/banner/%e9%87%8d%e5%a4%a7%e8%a8%8a%e6%81%af.jpeg" alt="">
+                                        </div>
+                                        <div class="menu-label">
+                                            <i class="fas fa-sign-in-alt"></i>
+                                            <p>公司公告</p>
+                                        </div>
+                                    </a>
+                                    <a href="/tw/news/charity" class="menu-content">
+                                        <div class="menu-img">
+                                            <img src="/image/charity/2022082703.jpg" alt="">
+                                        </div>
+                                        <div class="menu-label">
+                                            <i class="fas fa-sign-in-alt"></i>
+                                            <p>公益活動</p>
+                                        </div>
+                                    </a>
+                                    <a href="/tw/news/Bio_Active" class="menu-content">
+                                        <div class="menu-img">
+                                            <img src="/image/bio/active/20240714 Workshop - iPSC儲存 家族健康規畫新選擇/iPSC家族健康規劃新選擇01.JPG" alt="">
+                                        </div>
+                                        <div class="menu-label">
+                                            <i class="fas fa-sign-in-alt"></i>
+                                            <p>生醫活動</p>
+                                        </div>
+                                    </a>
+                                    <a href="https://mops.twse.com.tw/mops/web/t05st01?firstin=true&co_id=3224&year=112" target="_blank" class="menu-content">
+                                        <div class="menu-img">
+                                            <img src="/image/banner/notice.png" alt="">
+                                        </div>
+                                        <div class="menu-label">
+                                            <i class="fas fa-sign-in-alt"></i>
+                                            <p>重大訊息</p>
+                                        </div>
+                                    </a>
+                                    <a href="/tw/news/statement" class="menu-content">
+                                        <div class="menu-img">
+                                            <img src="/image/news/n2023062801.jpg" alt="">
+                                        </div>
+                                        <div class="menu-label">
+                                            <i class="fas fa-sign-in-alt"></i>
+                                            <p>公司聲明</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        </li>
+                        <li class="nav-content">
+                            <span class="nav-label ">
+                                投資人專區
+                                
+                            </span>
+                            <div class="menu-wrap nav-investor">
+                                <div class="menu-containter">
+                                    <div class="menu-head">
+                                        <p>投資人專區</p>
+                                        <p></p>
+                                    </div>
+                                    <div class="menu-body">
+                                        <a href="/tw/ir/quarterly" class="menu-content">
+                                            <div class="menu-img" style="">
+                                                <img src="/image/banner/42063300.jpg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>財務資訊</p>
+                                            </div>
+                                        </a>
+                                        <a href="/tw/ir/directors" class="menu-content">
+                                            <div class="menu-img" style="">
+                                                <img src="/image/banner/%e4%b8%89%e9%a1%a714F%e5%a4%a7%e6%9c%83%e8%ad%b0%e5%ae%a4.jpg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>公司治理</p>
+                                            </div>
+                                        </a>
+                                        <a href="/tw/ir/shareholder" class="menu-content">
+                                            <div class="menu-img" style="">
+                                                <img src="/image/banner/96158985_m.jpg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>投資人服務</p>
+                                            </div>
+                                        </a>
+                                        <a href="/tw/ir/csr" class="menu-content">
+                                            <div class="menu-img">
+                                                <img src="/image/banner/134198561_m.jpg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>企業永續發展</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-content">
+                            <span class="nav-label">
+                                電子事業
+                                
+                            </span>
+                            <div class="menu-wrap nav-product">
+                                <div class="menu-containter">
+                                    <div class="menu-head">
+                                        <p>電子事業</p>
+                                        <p></p>
+                                    </div>
+                                    <div class="menu-body">
+                                        <a href="/tw/electronic/productline" class="menu-content">
+                                            <div class="menu-img">
+                                                <img src="/image/banner/SAMTEC%e5%9c%96-3.jpg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>產品線</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://ec.metatech-ec.com/" class="menu-content" target="_blank">
+                                            <div class="menu-img">
+                                                <img src="/image/banner/%e9%9b%bb%e5%ad%90-2016071902.jpg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>電子事業</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-content">
+                            <a class="nav-label" href="https://bio.metatech.com.tw" target="_blank" style="color:white;">
+                                生醫事業
+                                
+                            </a>
+                            
+                        </li>
+
+
+                        <li class="nav-content">
+                            <span class="nav-label">
+                                聯絡我們
+                            </span>
+                            <div class="menu-wrap nav-contact">
+                                <div class="menu-containter">
+                                    <div class="menu-head">
+                                        <p>聯絡我們</p>
+                                        <p>若有產品業務詢問、或投資人服務需求，請與我們聯繫!</p>
+                                    </div>
+                                    <div class="menu-body">
+                                        <a href="/tw/contact/info" class="menu-content">
+                                            <div class="menu-img">
+                                                <img src="/image/banner/contactad.png" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>聯絡資訊</p>
+                                            </div>
+                                        </a>
+                                        <a href="/tw/contact/global" class="menu-content">
+                                            <div class="menu-img">
+                                                <img src="/image/banner/build.jpg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>經營據點</p>
+                                            </div>
+                                        </a>
+                                        <a href="/tw/contact/ethicalreport" class="menu-content">
+                                            <div class="menu-img">
+                                                <img src="/image/banner/%e9%81%95%e5%8f%8d%e5%be%9e%e6%a5%ad%e9%81%93%e5%be%b7%e8%88%89%e5%a0%b1.jpeg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>違反從業道德舉報</p>
+                                            </div>
+                                        </a>
+                                        <a href="https://www.104.com.tw/company/7nhfxeg" target="_blank" class="menu-content">
+                                            <div class="menu-img">
+                                                <img src="/image/banner/49525889.jpg" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>加入我們</p>
+                                            </div>
+                                        </a>
+                                        <a href="/tw/contact/contract" class="menu-content">
+                                            <div class="menu-img">
+                                                <img src="/image/banner/contactad.png" alt="">
+                                            </div>
+                                            <div class="menu-label">
+                                                <i class="fas fa-sign-in-alt"></i>
+                                                <p>信託合約查詢</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+        </nav>
+        <input class="menu-trigger" type="checkbox" id="menu-trigger" />
+        <label class="hamburger-menu" for="menu-trigger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <div class="overlay" id="fullscreen_nav">
+            <ul class="menu-links">
+                <li>
+                    <a href="/tw/company/about"> 關於三顧</a>
+                </li>
+                <li>
+                    <a href="/tw/news/newsreport"> 新聞與活動</a>
+                </li>
+                <li>
+                    <a href="/tw/ir/quarterly"> 投資人專區</a>
+                </li>
+                <li>
+                    <a href="/tw/electronic/productline"> 電子事業</a>
+                </li>
+                <li>
+                    <a href="https://bio.metatech.com.tw/" target="_blank"> 生醫事業</a>
+                </li>
+                <li>
+                    <a href="/tw/contact/info"> 聯絡我們</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+    <main>
+        
+<style>
+    .header-wrap {
+        display: none !important;
+    }
+
+
+    footer {
+        display: none !important;
+    }
+
+    /* 修改 grid-1-2 類別的樣式 */
+    .grid-1-2 {
+      display: grid;
+      grid-gap: 60px;
+      grid-template-columns: 1fr 2fr;
+      grid-auto-rows: 150px;
+      grid-auto-flow: row dense;
+      max-width: 1250px;
+      width: 100%;
+      margin: 30px auto 0;
+      box-sizing: border-box;
+
+      /* 確保填滿網格區域 */
+      justify-items: stretch;
+      align-items: stretch;
+    }
+
+    /* 左側元素 */
+    .left-column {
+      grid-row-end: span 2;
+      /* 高度為兩個基本單位 */
+    }
+
+    /* 右側輪播 */
+    .right-column {
+      grid-row-end: span 2;
+      /* 確保輪播區域高度與左側相同 */
+      transform: translateX(-30px); /* 向左偏移 30px，可以根據需要調整數值 */
+      width: calc(100% + 30px); /* 增加寬度，補償左移後右側可能出現的空白 補償左偏移(-60px)並增加右延伸(+30px)*/
+      margin-right: -30px; /* 向右擴展，確保內容能夠延伸到右邊緣 */
+    }
+
+    /* 右側輪播 */
+    .carousel-container {
+      position: relative;
+    }
+
+    /* 讓輪播內的圖片填滿容器 */
+    .carousel-container .carousel,
+    .carousel-container .carousel-inner,
+    .carousel-container .carousel-item {
+      height: 100%;
+    }
+
+    .carousel-container .carousel-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    @media (max-width: 768px) {
+      .grid {
+        grid-template-columns: 1fr;
+        /* 小螢幕上變為單列 */
+      }
+
+      .grid-1-2 {
+        grid-template-columns: 1fr;
+        /* 小螢幕上變為單列 */
+        grid-gap: 30px; /* 減少間距，從 60px 減小到 30px */
+        margin:30px auto 0;
+      }
+
+      .right-column {
+        width: 100%; /* 恢復正常寬度 */
+        margin-right: 0;
+        transform: none;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .grid {
+        grid-gap: 30px; /* 調整手機版間距 */
+        grid-template-columns: 1fr; /* 改為單列布局 */
+      }
+
+      /* 添加手機版 item 高度調整 */
+      .grid .item {
+        grid-row-end: span 1; /* 確保所有 item 在手機版只佔一個單位高度 */
+        height: 10rem; /* 設定適合手機版的固定高度 */
+      }
+
+      .grid .item--medium,
+      .grid .item--large {
+        grid-row-end: span 1; /* 覆蓋原本的 span 設定 */
+      }
+
+      /* 調整手機版內容物間距 */
+      .item__details {
+        padding: 8px;
+      }
+
+      /* 調整手機版標題大小 */
+      .item__details h1 {
+        font-size: 1.6rem;
+        margin-bottom: 0;
+      }
+    }
+    /* 在現有的 CSS 樣式中添加以下代碼 */
+    @media (max-width: 768px) {
+      /* 手機版隱藏輪播控制按鈕 */
+      .carousel-control-prev,
+      .carousel-control-next {
+        display: none;
+      }
+    }
+    /* 增加輪播控制按鈕的 z-index，使其高於 item 的連結 */
+    .carousel-control-prev,
+    .carousel-control-next {
+        z-index: 5; /* 高於 item a 的 z-index: 2 */
+    }
+
+    /*圓點指示器顏色*/
+    .carousel-indicators button {
+        background-color: #999; /* 預設灰色 */
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        opacity: 0.5;
+    }
+
+    .carousel-indicators .active {
+        background-color: gray; /* 當前選中的圓點顏色 */
+        opacity: 1;
+    }
+
+    /* RWD 影片容器：有高度、不被覆蓋 */
+    .video-box {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%; /* 16:9，可改 65%、70% 想更高 */
+        background: #000;
+        overflow: hidden;
+        z-index: 1; /* 確保在覆蓋層之上 */
+    }
+
+        .video-box iframe {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+            display: block;
+            object-fit: cover; /* 電腦版不留黑邊（會略裁切） */
+            pointer-events: auto;
+        }
+
+        /* 若你的 .item 有全覆蓋連結或 ::after，避免它干擾影片點擊 */
+        .video-box a {
+            display: none !important;
+        }
+
+        .video-box::after {
+            content: none !important;
+        }
+
+    /* 桌機想更滿可以加高（選用） */
+    @media (min-width: 768px) {
+        .video-box {
+            height: 80vh;
+            padding-bottom: 0;
+
+        }
+        /* 或改成 height:80vh; padding-bottom:0; */
+
+
+    }
+    /* 影片區寬度與上方 grid 對齊 */
+    .video-section {
+        max-width: 1250px; /* 與 .grid 一致 */
+        width: 100%;
+        margin: 0 auto; /* 置中 */
+        margin-bottom: clamp(60px, 8vh, 120px); /* 自適應下方留白 */
+    }
+
+    /* 影片容器，確保有高度 */
+    .video-box {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%; /* 16:9 */
+        background: #000;
+        overflow: hidden;
+        z-index: 1;
+    }
+
+        .video-box iframe {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+            display: block;
+            object-fit: cover; /* 電腦不留黑邊（會略裁切） */
+            pointer-events: auto;
+        }
+
+    /* 桌機想更高就用視窗高；保留 @media 給 Razor */
+    @media (min-width: 992px) {
+        .video-box {
+            padding-bottom: 0; /* 停用 16:9 */
+            height: 70vh; /* 可改 80vh 看喜好 */
+        }
+    }
+
+    /* 手機下方留白稍微小一點 */
+    @media (max-width: 768px) {
+        .video-section {
+            margin-bottom: 50px;
+        }
+    }
+
+</style>
+
+<div id="overlay">
+    <div id="progstat"></div>
+    <div id="progress"></div>
+</div>
+
+<div class="test-wrap">
+    <div class="container">
+        <div class="index-brand">
+            <div class="brand">
+                <img />
+            </div>
+            <div>
+                <a href="/tw">中文</a>
+                <i style="margin:0 1rem;">/</i>
+                <a href="/en">English Version</a>
+                
+            </div>
+        </div>
+
+                <div class="grid">
+                    <div class="item item--large">
+                        <img src="/image/index/index_%e9%9b%bb%e5%ad%90%e4%ba%8b%e6%a5%ad_s.jpg" />
+                        <div class="item__details">
+                            <p style="font-size: 38px; color: white; text-shadow: 4px 4px 5px #595757; line-height: 1.1;">
+                                電子<br />事業
+                            </p>
+                        </div>
+                        <a href="/tw/electronic/productline"></a>
+                    </div>
+                    <div class="item item--large">
+                        <img src="/image/index/index_%e9%97%9c%e6%96%bc%e4%b8%89%e9%a1%a7_s.jpg" />
+                        <div class="item__details">
+                            <p style="font-size: 38px; color: white; text-shadow: 4px 4px 5px #595757; line-height: 1.1;">
+                                關於<br />三顧
+                            </p>
+                        </div>
+                        <a href="/tw/company/about"></a>
+                    </div>
+
+                    <!--<div class="item item--medium">-->
+                    <div class="item item--large">
+                        <img src="/image/index/index_%e7%94%9f%e9%86%ab%e4%ba%8b%e6%a5%ad_s.jpg" />
+                        <div class="item__details">
+                            <p style="font-size: 38px; color: white; text-shadow: 4px 4px 5px #595757; line-height: 1.1;">
+                                生醫<br />事業
+                            </p>
+                        </div>
+                        <a href="https://bio.metatech.com.tw" target="_blank"></a>
+                    </div>
+                </div>
+                <!-- 替換第二個 grid 區塊的 HTML -->
+                <div class="grid-1-2">
+                    <!-- 左側元素 (1/3 寬度) -->
+                    <div class="item left-column">
+                        <img src="/image/news/n2023062801.jpg" />
+                        <div class="item__details">
+                            <h4>重要資訊</h4>
+                        </div>
+                        <a href=".\upload\news\三顧_聲明書_20251029.pdf" target="_blank"></a>
+                    </div>
+
+                    <!-- 右側輪播元素 (2/3 寬度) -->
+                    <div class="item carousel-container right-column">
+                        <!-- Bootstrap 輪播 (Carousel) -->
+                        <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+
+                            <!-- 圓點指示器 -->
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></button>
+                            </div>
+
+                            <!-- 輪播內容 -->
+                            <div class="carousel-inner">
+
+                                <div class="carousel-item active">
+                                    <img src="/image/index/index_%e8%b6%85%e6%b3%8c%e9%ab%94.JPG" class="d-block w-100">
+                                    <a target="_blank" href="https://bio.metatech.com.tw/products-detail/iPSCEV/"></a>
+                                    <h1></h1>
+                                </div>
+                            </div>
+
+                            <!-- 左右切換箭頭 -->
+                            <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true" style="filter: invert(100%);"></span>
+                                <span class="visually-hidden">上一張</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true" style="filter: invert(100%);"></span>
+                                <span class="visually-hidden">下一張</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <br />
+
+    </div>
+</div>
+<!-- 可選：使用 JavaScript 初始化輪播並設置全局間隔時間 -->
+
+<script>
+    var myCarousel = document.querySelector('#myCarousel');
+    var carousel = new bootstrap.Carousel(myCarousel, {
+        interval: 500, // 全局間隔時間為 4000 毫秒
+        ride: 'carousel'
+    });
+</script>
+
+
+
+<!--
+                    <section class="section">
+                    
+                    <br />
+                    <div class="index__statement">
+                        <p>重要訊息</p>
+                        
+                        <a href=".\upload\news\三顧_聲明書_20240628.pdf" target="_blank"></a>
+                    </div>
+                </section>
+-->
+
+    </main>
+    <footer id="footer">
+        <div class=" container">
+            <div class="row">
+                <div class="col-lg-4 footer-info">
+                    <div class="footer-imgbox">
+                        <a href="https://www.metatech.com.tw/" target="_blank">
+                            <img alt="三顧股份有限公司" class="locus" src="/image/logo/%e4%b8%89%e9%a1%a7%e5%85%ac%e5%8f%b8LOGO_%e7%99%bd_%e6%a9%ab.png" />
+                        </a>
+                        <div class="footer-contact">
+                            <ul>
+                                <br />
+                                <li>
+
+                                    <p>　營業時間：09:00 ~ 18:00</p>
+                                </li>
+                                <li>
+                                    <p>　午休時間：12:00 ~ 13:00</p>
+                                </li>
+                                <li>
+                                    <p>　股務相關：stock@metatech.com.tw</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="col-lg-4 footer-info">
+                    <div class="container">
+                        <span class="footer_capsule">電子事業</span>
+                    </div>
+                    <div class="footer-contact">
+                        <ul>
+                            <li>
+                                <p style="line-height: 2.8;">新北市汐止區新台五路一段75號14樓之3　　</p>
+                            </li>
+                            <li>
+                                <p>電話：(02)2698-3466 轉接1</p>
+                            </li>
+                            <li>
+                                <p>傳真：(02)2697-2992</p>
+                            </li>
+                            <li>
+                                <p>Email：sales@metatech.com.tw</p>
+                            </li>
+                        </ul>
+                    </div>
+
+
+                </div>
+                <div class="col-lg-4 footer-info">
+                    <div class="container">
+                        <span class="footer_capsule">生醫事業</span>
+                    </div>
+                    <div class="footer-contact">
+                        <ul>
+                            <li>
+                                <p style="line-height: 2.8;">新北市汐止區新台五路一段99號21樓之12　　</p>
+                            </li>
+                            <li>
+                                <p>電話：(02)2698-3466 轉接2</p>
+                            </li>
+                            <li>
+                                <p>傳真：(02)2697-2992</p>
+                            </li>
+                            <li>
+                                <p>Email：</p>
+                            </li>
+                            <li>
+                                <p>合作諮詢：bio@metatech.com.tw</p>
+                            </li>
+                            <li>
+                                <p>產品諮詢：bioservice@metatech.com.tw</p>
+                            </li>
+
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div>
+                    <ul>
+                        <li class="social-links" style="text-align: center; color: white; margin-bottom: 20px;">
+                            FOLLOW US　
+                            <a href="https://www.youtube.com/channel/UCWAInHo7xhb7JhcukUbmlDQ" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a>
+                            <a href="https://www.facebook.com/MetaTechBio/" target="_blank" class="facebook"><i class="fab fa-facebook facebook-icon"></i></a>
+                            <a href="https://lin.ee/iLQo9eN" target="_blank" class="line"><i class="fab fa-line"></i></a>
+                            <a href="https://www.instagram.com/metatech1998/" target="_blank" class="instagram" style="color: #C13584;"><i class="fab fa-instagram-square"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-bottom">
+                    <div class="links-listContainer">
+                        <ul class="links-list" style="text-align: center;">
+                            <li style="text-align: center; color: white; margin-bottom: 20px;">
+                                <a href="/tw/company/about" style="color: white;">關於三顧</a> |
+                                <a href="/tw/news/newsreport" style="color: white;">新聞與活動</a> |
+                                <a href="/tw/ir/quarterly" style="color: white;">投資人專區</a> |
+                                <a href="/tw/electronic/productline" style="color: white;">電子事業</a> |
+                                <a href="https://bio.metatech.com.tw" target="_blank" style="color: white;">生醫事業</a> |
+                                <a href="/tw/contact/info" style="color: white;">聯絡我們</a> |
+                                <a href="/tw/home/privacy" style="color: white;">隱私權政策</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <p style="text-align: center; color: white; line-height: 0.8; margin-bottom: 20px;">
+                    &copy;
+                    <strong>2026 Metatech</strong> All Rights Reserved
+                </p>
+                
+
+            </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/bundles/bootstrap?v=4xk_MoODmJAnsMy2sTeG1AoO-wn2tXILqDHA8pXL-vY1"></script>
+
+    <script src="/bundles/swipe?v=t0Rw_TtNKBNgourqaQNMLGUKDHIRFqLyfyB_gL7feeM1"></script>
+
+    <script src="/bundles/mt?v=nO90lxK90ZzsD6KyXHZwe5bj2qRGvXEXrb9X0WmpxS01"></script>
+
+    
+</body>
+</html>

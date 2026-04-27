@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─────────── DARK (default) ───────────
+   All colors stored as space-separated R G B triplets so Tailwind's
+   `bg-bg-2/80` syntax works via `rgb(var(--bg-2) / <alpha-value>)`. */
+:root, [data-theme="dark"] {
+  --bg:        0 0 0;
+  --bg-1:      5 5 7;
+  --bg-2:      10 10 13;
+  --bg-3:      17 17 22;
+  --line:      36 36 44;
+  --ink:       245 245 247;
+  --ink-dim:   161 161 170;
+  --ink-mute:  107 107 117;
+  --accent:        255 42 42;
+  --accent-glow:   255 77 77;
+  --accent-deep:   163 0 0;
+  --grid-line: 255 255 255;
+  --grid-line-alpha: 0.025;
+  --selection-bg: 255 42 42;
+  --selection-fg: 0 0 0;
+  color-scheme: dark;
+}
+
+/* ─────────── LIGHT ─────────── */
+[data-theme="light"] {
+  --bg:        250 250 249;
+  --bg-1:      255 255 255;
+  --bg-2:      244 244 242;
+  --bg-3:      236 236 234;
+  --line:      218 218 216;
+  --ink:       10 10 10;
+  --ink-dim:   75 75 82;
+  --ink-mute:  138 138 146;
+  --accent:        209 0 0;
+  --accent-glow:   255 42 42;
+  --accent-deep:   122 0 0;
+  --grid-line: 0 0 0;
+  --grid-line-alpha: 0.04;
+  --selection-bg: 209 0 0;
+  --selection-fg: 255 255 255;
+  color-scheme: light;
+}
+
+html, body {
+  background: rgb(var(--bg));
+  color: rgb(var(--ink));
+  font-feature-settings: "ss01", "cv11", "tnum";
+}
+
+body {
+  background-image:
+    radial-gradient(ellipse 80% 60% at 50% -10%, rgb(var(--accent) / 0.10), transparent 60%),
+    linear-gradient(rgba(var(--grid-line), var(--grid-line-alpha)) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--grid-line), var(--grid-line-alpha)) 1px, transparent 1px);
+  background-size: auto, 48px 48px, 48px 48px;
+  min-height: 100vh;
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: rgb(var(--bg-1)); }
+::-webkit-scrollbar-thumb { background: rgb(var(--bg-3)); border-radius: 6px; }
+::-webkit-scrollbar-thumb:hover { background: rgb(var(--accent)); }
+
+::selection { background: rgb(var(--selection-bg)); color: rgb(var(--selection-fg)); }
+:focus-visible { outline: 1px solid rgb(var(--accent)); outline-offset: 2px; }
+
+/* Hairline borders */
+.hairline   { border: 1px solid rgb(var(--line)); }
+.hairline-b { border-bottom: 1px solid rgb(var(--line)); }
+.hairline-t { border-top: 1px solid rgb(var(--line)); }
+.hairline-r { border-right: 1px solid rgb(var(--line)); }
+.hairline-l { border-left: 1px solid rgb(var(--line)); }
+
+/* Glow */
+.glow-text { text-shadow: 0 0 12px rgb(var(--accent) / 0.5), 0 0 28px rgb(var(--accent) / 0.25); }
+.shadow-glow    { box-shadow: 0 0 24px rgb(var(--accent) / 0.35), 0 0 60px rgb(var(--accent) / 0.10); }
+.shadow-glow-sm { box-shadow: 0 0 12px rgb(var(--accent) / 0.40); }
+
+/* Corner brackets */
+.bracket { position: relative; }
+.bracket::before, .bracket::after {
+  content: ""; position: absolute; width: 10px; height: 10px;
+  border-color: rgb(var(--accent)); opacity: 0.6;
+}
+.bracket::before { top: -1px; left: -1px; border-top: 1px solid; border-left: 1px solid; }
+.bracket::after { bottom: -1px; right: -1px; border-bottom: 1px solid; border-right: 1px solid; }
+
+/* Scanlines (only dark) */
+.scanlines {
+  background-image: repeating-linear-gradient(
+    to bottom, rgba(255,255,255,0.02) 0, rgba(255,255,255,0.02) 1px, transparent 1px, transparent 3px
+  );
+  pointer-events: none;
+}
+[data-theme="light"] .scanlines { display: none; }
+
+/* React Flow theming — ALL theme-aware now */
+.react-flow__background { background: transparent !important; }
+.react-flow__edge-path {
+  stroke: rgb(var(--accent)); stroke-opacity: 0.35; stroke-width: 1;
+}
+.react-flow__edge.selected .react-flow__edge-path,
+.react-flow__edge:hover .react-flow__edge-path {
+  stroke: rgb(var(--accent-glow)); stroke-width: 1.5;
+  filter: drop-shadow(0 0 6px rgb(var(--accent) / 0.4));
+}
+.react-flow__handle {
+  background: rgb(var(--accent)) !important;
+  border: 1px solid rgb(var(--bg)) !important;
+  width: 6px !important; height: 6px !important;
+}
+.react-flow__controls {
+  background: rgb(var(--bg-2)) !important;
+  border: 1px solid rgb(var(--line)) !important;
+  box-shadow: none !important;
+}
+.react-flow__controls button {
+  background: rgb(var(--bg-2)) !important;
+  color: rgb(var(--ink)) !important;
+  border-bottom: 1px solid rgb(var(--line)) !important;
+  fill: rgb(var(--ink)) !important;
+}
+.react-flow__controls button:hover { background: rgb(var(--bg-3)) !important; color: rgb(var(--accent)) !important; }
+.react-flow__controls button svg { fill: currentColor !important; }
+.react-flow__minimap {
+  background: rgb(var(--bg-1)) !important;
+  border: 1px solid rgb(var(--line)) !important;
+}
+.react-flow__attribution { display: none !important; }
+.react-flow__node.selected > div { box-shadow: 0 0 0 2px rgb(var(--accent)) !important; }
+.react-flow__selection { background: rgb(var(--accent) / 0.10) !important; border: 1px solid rgb(var(--accent)) !important; }
+
+/* Animations */
+@keyframes flicker { 0%,100% { opacity: 1 } 50% { opacity: 0.85 } }
+.animate-flicker { animation: flicker 3s ease-in-out infinite; }
+
+/* line-clamp helpers */
+.line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* Form controls in light mode */
+[data-theme="light"] select, [data-theme="light"] input {
+  background-color: rgb(var(--bg-2));
+  color: rgb(var(--ink));
+}
+select option { background: rgb(var(--bg-1)); color: rgb(var(--ink)); }

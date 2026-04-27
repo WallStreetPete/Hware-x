@@ -1,0 +1,850 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1, user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="baidu-site-verification" content="codeva-ZiEC9C0Wvn" />
+<title>Wellav | Better Audio & Video Delivery</title>
+<meta name="keywords" content="High Quality Video Distribution,DTV headend,Media Gateway Device Manufacturer" />
+<meta name="description" content="Wellav is a leading provider of video delivery solutions for broadcasters,pay-TV providers and enterprise IPTV systems. Wellav is a factory which can provide high quantity OEM/ODM service." />
+<meta name="msvalidate.01" content="BFAE3DE606029A245C859915755A7275" />
+    <meta property="og:image" content=""/>
+<meta property="og:title" content="Wellav | Better Audio & Video Delivery"/>
+<link href="/uploadfile/userimg/d876dfac3157b629ea32b99b0531e9d6.png" rel="shortcut icon"  />
+<link rel="stylesheet" type="text/css" href="/images/moban.css"/>
+<link rel="alternate" hreflang="en" href="https://www.wellav.com/" />
+<link rel="alternate" href="https://www.wellav.com/" hreflang="x-default" />
+<link type="text/css" rel="stylesheet" href="/template/css/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="/template/css/animate.css" />
+<link type="text/css" rel="stylesheet" href="/template/css/style.css">
+ <script type="text/javascript" src="/template/js/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="/js/front/common.js"></script>
+<script type="text/javascript" src="/template/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/template/js/swiper.min.js"></script>
+
+<script type="text/javascript">
+	$(document).on("scroll",function(){
+		if($(document).scrollTop()>20){ 
+			$("header").removeClass("large").addClass("small");
+		}
+		else{
+			$("header").removeClass("small").addClass("large");
+		}
+	});
+</script>
+<!--[if ie9]
+<script src="/template/js/html5shiv.min.js"></script>
+<script src="/template/js/respond.min.js"></script>
+-->
+
+
+
+
+
+
+
+
+
+<!--[if IE 8]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+  
+ <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?932fce992c5b8b58e6b9f6fbdfe68bd4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script >
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+	$(function () {       
+		$('.newm img').attr("style","");
+		$(".newm img").attr("width","");
+		$(".newm img").attr("height","");     
+
+	})
+}
+</script>
+ 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5WQLW9GN');</script>
+<!-- End Google Tag Manager --></head>
+<body>
+ 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WQLW9GN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> 
+ 
+<svg xlmns="http://www.w3.org/2000/svg" version="1.1" class="hidden">
+  <symbol id="icon-arrow-nav" viewBox="0 0 1024 1024">
+		<path d="M581.632 781.824L802.816 563.2H99.328a51.2 51.2 0 0 1 0-102.4h703.488l-221.184-218.624a51.2 51.2 0 0 1 0-72.192 46.592 46.592 0 0 1 68.096 0l310.272 307.2a55.296 55.296 0 0 1 0 74.752l-310.272 307.2a46.592 46.592 0 0 1-68.096 0 51.2 51.2 0 0 1 0-77.312z"  p-id="9162"></path>
+  </symbol>
+  <symbol id="icon-home" viewBox="0 0 1024 1024" >
+  <path d="M840.192497 1024h-178.309309a64.604822 64.604822 0 0 1-64.604823-64.604822V646.06179H419.615104v311.395243a64.604822 64.604822 0 0 1-64.604822 64.604822H181.22331a64.604822 64.604822 0 0 1-64.604822-64.604822V525.250772H76.563498a58.14434 58.14434 0 0 1-58.790388-38.762893A64.604822 64.604822 0 0 1 31.340122 416.068622L470.652914 18.102917a64.604822 64.604822 0 0 1 89.800703 0l432.852309 396.673609a64.604822 64.604822 0 0 1-45.869424 109.828198h-44.577327v436.728598a64.604822 64.604822 0 0 1-62.666678 62.666678zM422.199297 585.979305h179.601406a64.604822 64.604822 0 0 1 64.604822 64.604822v313.333388h175.725117V465.168287h109.182149L515.876289 64.618389 76.563498 462.584094h107.890053v501.333421h178.955358v-310.749195a64.604822 64.604822 0 0 1 58.790388-67.189015z" p-id="2464"></path>
+  </symbol>
+  <symbol id="icon-product" viewBox="0 0 1024 1024" >
+  <path d="M491.093 444.587c-21.76 0-42.538-4.31-58.624-12.246L112.085 274.688c-21.93-10.795-34.56-28.117-34.688-47.488-0.128-19.627 12.587-37.376 34.902-48.725L436.053 14.08C453.12 5.419 475.093 0.683 498.005 0.683c21.76 0 42.539 4.352 58.624 12.245l320.384 157.653c21.931 10.795 34.56 28.16 34.688 47.531 0.128 19.627-12.586 37.376-34.901 48.683L553.045 431.189c-17.066 8.662-39.04 13.44-61.994 13.44zM135.68 226.688l320.427 157.696c8.704 4.267 21.418 6.741 34.901 6.741 14.464 0 28.203-2.773 37.76-7.637l323.755-164.395a22.699 22.699 0 0 0 0.81-0.426L532.907 61.013c-8.704-4.266-21.462-6.784-34.944-6.784-14.422 0-28.16 2.774-37.718 7.638L136.533 226.219a98.816 98.816 0 0 0-0.81 0.426z m288.853 796.672c-11.093 0-22.613-2.944-34.432-8.661l-0.682-0.384-286.294-150.187c-34.261-16.939-60.074-53.205-60.074-84.48V374.741c0-28.373 20.864-48.981 49.536-48.981 11.093 0 22.613 2.901 34.432 8.661l0.682 0.342 286.294 150.186c34.261 16.939 60.074 53.206 60.074 84.523v404.907c0 28.373-20.821 48.981-49.536 48.981z m-10.624-56.661c2.688 1.28 4.864 2.048 6.571 2.517V569.515c0-8.662-12.075-27.648-30.379-36.608l-0.682-0.342L103.21 382.38a35.84 35.84 0 0 0-6.571-2.475v399.701c0 8.662 12.117 27.648 30.379 36.608l0.682 0.342L413.91 966.74z m164.566 56.661c-28.715 0-49.494-20.608-49.494-48.981V569.472c0-31.317 25.771-67.584 60.032-84.48l286.976-150.57c11.776-5.76 23.339-8.662 34.432-8.662 28.672 0 49.494 20.608 49.494 48.981v404.864c0 31.318-25.771 67.584-60.032 84.48L612.907 1014.7a78.592 78.592 0 0 1-34.432 8.661zM899.84 382.379L612.95 532.907c-18.305 8.96-30.422 27.946-30.422 36.608v399.701a36.992 36.992 0 0 0 6.613-2.517L876.032 816.17c18.261-8.918 30.379-27.904 30.379-36.566V379.904a36.395 36.395 0 0 0-6.571 2.475z" p-id="3372"></path>
+  </symbol>
+  <symbol id="con-mes" viewBox="0 0 1024 1024" >
+  <path d="M832 128H192c-70.656 0-128 57.344-128 128v384c0 70.656 57.344 128 128 128h127.808v65.408c0 24 13.44 45.568 34.944 56.192 8.896 4.288 18.368 6.464 27.776 6.464 13.504 0 26.88-4.416 38.08-12.992L570.048 768H832c70.656 0 128-57.344 128-128V256c0-70.656-57.344-128-128-128z m64 512c0 35.392-28.608 64-64 64l-272.576-0.064c-7.04 0-13.888 2.304-19.456 6.592L383.744 833.472v-97.536c0-17.664-14.336-31.936-31.936-31.936H192c-35.392 0-64-28.608-64-64V256c0-35.392 28.608-64 64-64h640c35.392 0 64 28.608 64 64v384zM320 384c-35.392 0-64 28.608-64 64 0 35.392 28.608 64 64 64 35.392 0 64-28.608 64-64 0-35.392-28.608-64-64-64z m192 0c-35.392 0-64 28.608-64 64 0 35.392 28.608 64 64 64 35.392 0 64-28.608 64-64 0-35.392-28.608-64-64-64z m192 0c-35.392 0-64 28.608-64 64 0 35.392 28.608 64 64 64 35.392 0 64-28.608 64-64 0-35.392-28.608-64-64-64z" p-id="7771"></path>
+  </symbol>
+  <symbol id="con-whatsapp" viewBox="0 0 1024 1024" >
+  <path d="M713.5 599.9c-10.9-5.6-65.2-32.2-75.3-35.8-10.1-3.8-17.5-5.6-24.8 5.6-7.4 11.1-28.4 35.8-35 43.3-6.4 7.4-12.9 8.3-23.8 2.8-64.8-32.4-107.3-57.8-150-131.1-11.3-19.5 11.3-18.1 32.4-60.2 3.6-7.4 1.8-13.7-1-19.3-2.8-5.6-24.8-59.8-34-81.9-8.9-21.5-18.1-18.5-24.8-18.9-6.4-0.4-13.7-0.4-21.1-0.4-7.4 0-19.3 2.8-29.4 13.7-10.1 11.1-38.6 37.8-38.6 92s39.5 106.7 44.9 114.1c5.6 7.4 77.7 118.6 188.4 166.5 70 30.2 97.4 32.8 132.4 27.6 21.3-3.2 65.2-26.6 74.3-52.5 9.1-25.8 9.1-47.9 6.4-52.5-2.7-4.9-10.1-7.7-21-13z m211.7-261.5c-22.6-53.7-55-101.9-96.3-143.3-41.3-41.3-89.5-73.8-143.3-96.3C630.6 75.7 572.2 64 512 64h-2c-60.6 0.3-119.3 12.3-174.5 35.9-53.3 22.8-101.1 55.2-142 96.5-40.9 41.3-73 89.3-95.2 142.8-23 55.4-34.6 114.3-34.3 174.9 0.3 69.4 16.9 138.3 48 199.9v152c0 25.4 20.6 46 46 46h152.1c61.6 31.1 130.5 47.7 199.9 48h2.1c59.9 0 118-11.6 172.7-34.3 53.5-22.3 101.6-54.3 142.8-95.2 41.3-40.9 73.8-88.7 96.5-142 23.6-55.2 35.6-113.9 35.9-174.5 0.3-60.9-11.5-120-34.8-175.6z m-151.1 438C704 845.8 611 884 512 884h-1.7c-60.3-0.3-120.2-15.3-173.1-43.5l-8.4-4.5H188V695.2l-4.5-8.4C155.3 633.9 140.3 574 140 513.7c-0.4-99.7 37.7-193.3 107.6-263.8 69.8-70.5 163.1-109.5 262.8-109.9h1.7c50 0 98.5 9.7 144.2 28.9 44.6 18.7 84.6 45.6 119 80 34.3 34.3 61.3 74.4 80 119 19.4 46.2 29.1 95.2 28.9 145.8-0.6 99.6-39.7 192.9-110.1 262.7z" p-id="2166"></path>
+  </symbol>
+  <symbol id="con-email" viewBox="0 0 1024 1024" >
+	<path d="M860.7 192.6h-697c-27.5 0-49.8 22.3-49.8 49.8V780c0 27.5 22.3 49.8 49.8 49.8h697c3.7 0 7.4-0.4 11-1.2 6.3 0 12.3-2.3 16.9-6.5v-1.5c13.5-9.1 21.7-24.3 21.9-40.6V242.3c0-27.5-22.3-49.7-49.8-49.7zM512.2 556L169.9 248.6h686.6L512.2 556zM163.7 309.8l229.5 206.4-229.5 228.7V309.8z m266.6 238.7l66.2 59.5c9.4 8.4 23.7 8.4 33.1 0l70.5-63 215.8 235H198.8l231.5-231.5z m206.3-36.8l224-199.1v443.1l-224-244z m0 0" p-id="2380"></path>
+  </symbol>
+  <symbol id="con-tel" viewBox="0 0 1024 1024" >
+  <path d="M506.189667 655.677307c3.924379 7.848759 11.773138 11.773138 19.621896 15.697517 19.621896 15.697517 39.243793 11.773138 47.092551 7.848759l39.243793-58.865689 0 0c7.848759-7.848759 15.697517-11.773138 23.546276-19.621896 7.848759-3.924379 15.697517-7.848759 27.470655-7.848759l0 0c7.848759-3.924379 19.621896 0 27.470655 0l3.924379 0c7.848759 3.924379 15.697517 7.848759 23.546276 15.697517L863.306134 722.390731l3.924379 0c7.848759 7.848759 11.773138 15.697517 15.697517 23.546276l0 0c3.924379 7.848759 7.848759 19.621896 7.848759 27.470655 0 11.773138 0 23.546276-3.924379 31.395034l0 0c-3.924379 11.773138-11.773138 19.621896-19.621896 27.470655-7.848759 7.848759-19.621896 15.697517-35.319413 23.546276l0 3.924379c-11.773138 7.848759-31.395034 15.697517-47.092551 19.621896-82.411965 27.470655-168.747285 23.546276-251.158227-3.924379-7.848759-3.924379-19.621896-7.848759-27.470655-11.773138l0-62.790068c15.697517 3.924379 31.395034 11.773138 47.092551 15.697517 70.638827 23.546276 145.20101 31.395034 211.915457 7.848759 15.697517-3.924379 27.470655-11.773138 35.319413-15.697517l3.924379-3.924379c7.848759-3.924379 15.697517-11.773138 23.546276-15.697517 0-3.924379 3.924379-3.924379 3.924379-7.848759l0 0 0 0c0 0 0 0 0-3.924379 0-3.924379 0-3.924379 0-3.924379l0 0c0-3.924379-3.924379-3.924379-3.924379-3.924379l0-3.924379L682.785711 651.752928l0 0c-3.924379 0-3.924379 0-7.848759 0l0 0-3.924379 0 0 0c-3.924379 0-3.924379 0-3.924379 0l0 0 0 0c-3.924379 0-3.924379 3.924379-3.924379 3.924379l0 0 0 0-47.092551 62.790068c0 3.924379-3.924379 7.848759-7.848759 7.848759 0 0-47.092551 31.395034-102.032838 3.924379L506.189667 655.677307zM298.198589 153.35983l113.805976 145.20101 0 3.924379c3.924379 7.848759 7.848759 15.697517 11.773138 23.546276 0 7.848759 3.924379 19.621896 0 27.470655 0 11.773138-3.924379 19.621896-7.848759 27.470655l0 3.924379c-7.848759 7.848759-11.773138 11.773138-19.621896 19.621896l-3.924379 0-54.94131 39.243793c-3.924379 7.848759-7.848759 27.470655 7.848759 47.092551 23.546276 35.319413 51.016931 70.638827 82.410941 98.108458l0 0 0 0c23.546276 23.546276 51.016931 47.092551 78.487585 66.714448l0 74.563206c-3.924379-3.924379-11.773138-7.848759-15.697517-11.773138-39.243793-27.470655-74.563206-54.94131-105.957217-86.335321l0 0c-31.395034-31.395034-62.790068-66.714448-86.335321-105.957217-47.092551-62.790068-7.848759-117.730355-7.848759-117.730355 0-3.924379 3.924379-3.924379 7.848759-7.848759l58.865689-43.168172 3.924379-3.924379c0 0 0 0 3.924379 0l0-3.924379c0 0 0 0 0-3.924379l0-3.924379c0-3.924379 0-3.924379 0-3.924379l0 0 0 0L251.107061 188.67822l0 0c-3.924379 0-3.924379 0-3.924379-3.924379l-3.924379 0c0 0 0 0-3.924379 0l-3.924379 0 0 0c-3.924379 0-3.924379 3.924379-7.848759 3.924379-3.924379 7.848759-11.773138 15.697517-15.697517 23.546276-7.848759 11.773138-15.697517 23.546276-19.621896 39.243793-23.546276 66.714448-15.697517 141.27663 7.848759 211.915457 23.546276 78.487585 74.563206 153.049768 137.352251 215.839837 51.016931 51.016931 105.957217 94.184079 168.747285 121.654734l0 62.790068c-78.487585-31.395034-149.125389-82.410941-211.915457-141.27663-66.714448-70.638827-121.654734-153.049768-153.049768-239.386112-27.470655-82.410941-31.395034-168.747285-3.924379-251.158227 7.848759-19.621896 15.697517-35.319413 23.546276-47.092551l0 0 0 0c7.848759-15.697517 15.697517-27.470655 23.546276-35.319413 7.848759-7.848759 15.697517-15.697517 27.470655-19.621896l3.924379 0c7.848759-3.924379 15.697517-3.924379 27.470655-3.924379 11.773138 0 19.621896 3.924379 27.470655 7.848759l3.924379 0L298.198589 153.35983zM298.198589 153.35983 298.198589 153.35983 298.198589 153.35983 298.198589 153.35983zM298.198589 153.35983 298.198589 153.35983 298.198589 153.35983 298.198589 153.35983z" p-id="3578"></path>
+  </symbol>
+  <symbol id="con-skype" viewBox="0 0 1024 1024" >
+  <path d="M352 128c-123.36 0-224 100.64-224 224 0 32.992 10.112 63.616 23.008 92A368.896 368.896 0 0 0 144 512c0 202.88 165.12 368 368 368 23.36 0 45.888-2.88 68-7.008 28.384 12.896 59.008 23.008 92 23.008 123.36 0 224-100.64 224-224 0-32.992-10.112-63.616-23.008-92 4.16-22.112 7.008-44.64 7.008-68 0-202.88-165.12-368-368-368-23.36 0-45.888 2.88-68 7.008C415.616 138.112 384.992 128 352 128z m0 64c27.616 0 53.376 6.72 76 19.008a32 32 0 0 0 22.016 2.976A306.784 306.784 0 0 1 512 208c168.256 0 304 135.744 304 304 0 21.376-1.888 41.888-6.016 62.016a32 32 0 0 0 3.008 21.984c12.256 22.624 19.008 48.384 19.008 76 0 88.736-71.264 160-160 160-27.616 0-53.376-6.72-76-19.008a32 32 0 0 0-22.016-2.976A306.784 306.784 0 0 1 512 816 303.552 303.552 0 0 1 208 512c0-21.376 1.888-41.888 6.016-62.016a32 32 0 0 0-3.008-21.984A158.592 158.592 0 0 1 192 352c0-88.736 71.264-160 160-160z m155.008 100.992c-79.136 0-164 33.504-164 123.008 0 43.136 15.232 88.736 100 110.016l105.984 25.984c31.872 7.872 40 25.888 40 42.016 0 26.88-26.624 52.992-74.976 52.992-94.528 0-82.4-72-133.024-72-22.72 0-39.008 15.616-39.008 37.984 0 43.648 53.632 101.024 172.032 101.024 112.608 0 168-54.4 168-127.04 0-46.976-21.632-96-107.008-114.976l-78.016-18.016c-29.632-6.72-64-15.104-64-42.976 0-28 23.744-48 67.008-48 87.136 0 79.744 60 123.008 60 22.72 0 41.984-12.992 41.984-36 0-53.76-85.12-94.016-157.984-94.016z" p-id="10267"></path>
+  </symbol>
+  <symbol id="con-code" viewBox="0 0 1024 1024" >
+  <path d="M112 195.84A83.84 83.84 0 0 1 195.84 112h202.992a83.84 83.84 0 0 1 83.84 83.84v202.992a83.84 83.84 0 0 1-83.84 83.84H195.84A83.84 83.84 0 0 1 112 398.832V195.84zM195.84 176A19.84 19.84 0 0 0 176 195.84v202.992c0 10.96 8.88 19.84 19.84 19.84h202.992a19.84 19.84 0 0 0 19.84-19.84V195.84A19.84 19.84 0 0 0 398.832 176H195.84z m345.488 19.84A83.84 83.84 0 0 1 625.168 112H828.16A83.84 83.84 0 0 1 912 195.84v202.992a83.84 83.84 0 0 1-83.84 83.84H625.184a83.84 83.84 0 0 1-83.84-83.84V195.84z m83.84-19.84a19.84 19.84 0 0 0-19.84 19.84v202.992c0 10.96 8.88 19.84 19.84 19.84H828.16A19.84 19.84 0 0 0 848 398.832V195.84A19.84 19.84 0 0 0 828.16 176H625.184zM112 625.168a83.84 83.84 0 0 1 83.84-83.84h202.992a83.84 83.84 0 0 1 83.84 83.84V828.16A83.84 83.84 0 0 1 398.832 912H195.84A83.84 83.84 0 0 1 112 828.16V625.184z m83.84-19.84a19.84 19.84 0 0 0-19.84 19.84V828.16c0 10.944 8.88 19.824 19.84 19.824h202.992a19.84 19.84 0 0 0 19.84-19.84V625.184a19.84 19.84 0 0 0-19.84-19.84H195.84z m345.488-32a32 32 0 0 1 32-32h88.16a32 32 0 0 1 32 32v86.832h49.088v-86.832a32 32 0 0 1 32-32h95.84a32 32 0 0 1 0 64h-63.84v86.832a32 32 0 0 1-32 32h-113.072a32 32 0 0 1-32-32v-86.832h-24.16v92.592a32 32 0 1 1-64 0v-124.592z m329.088 54.256a32 32 0 0 1 32 32v53.184a32 32 0 0 1-64 0v-53.184a32 32 0 0 1 32-32z m-240.912 150.832a32 32 0 0 1 32-32h134.16a32 32 0 0 1 0 64h-102.16v29.92H838.4v-21.184a32 32 0 0 1 64 0v53.184a32 32 0 0 1-32 32H661.504a32 32 0 0 1-32-32v-93.92z m-56.16-12.832a32 32 0 0 1 32 32v74.752a32 32 0 1 1-64 0v-74.752a32 32 0 0 1 32-32z" p-id="2649"></path>
+  </symbol>
+  <symbol id="con-add" viewBox="0 0 1024 1024" >
+ <path d="M877.216 491.808M895.904 448c0-212.064-171.936-384-384-384-212.064 0-384 171.936-384 384 0 104.672 42.016 199.456 109.92 268.736L237.664 716.736l1.568 1.568c0.768 0.768 1.536 1.568 2.336 2.336l217.12 217.12c29.376 29.376 76.992 29.376 106.368 0l217.12-217.12c0.768-0.768 1.568-1.536 2.336-2.336l1.568-1.568-0.16 0C853.888 647.456 895.904 552.672 895.904 448zM565.088 847.36c-53.12 53.12-53.152 53.248-106.368 0L285.76 673.472C228 615.648 191.904 536.224 191.904 448c0-176.736 143.264-320 320-320 176.736 0 320 143.264 320 320 0 88.224-36.096 167.648-93.856 225.472L565.088 847.36zM512 256c-106.048 0-192 85.952-192 192s85.952 192 192 192 192-85.952 192-192S618.048 256 512 256zM512 576c-70.688 0-128-57.312-128-128s57.312-128 128-128 128 57.312 128 128S582.688 576 512 576z" p-id="3352"></path>
+ </symbol>
+ <symbol id="icon-im" viewBox="0 0 1024 1024" >
+ <path d="M279.499 275C251.102 275 228 298.095 228 326.483 228 354.889 251.102 378 279.499 378 307.897 378 331 354.89 331 326.483c0.001-28.389-23.103-51.483-51.501-51.483z m143.018 0C394.111 275 371 298.095 371 326.483 371 354.889 394.11 378 422.517 378 450.905 378 474 354.89 474 326.483 474 298.094 450.905 275 422.517 275z m142.001 5C536.111 280 513 303.112 513 331.518 513 359.906 536.11 383 564.518 383 592.905 383 616 359.906 616 331.518 616 303.111 592.906 280 564.518 280z m337.218 93.499H799.634V156.266C799.634 94.914 749.636 45 688.179 45h-531.76C94.983 45 45 94.913 45 156.266v358.177c0 60.704 48.929 110.211 109.473 111.25l-1.19 159.84 231.09-159.354v126.426c0 51.892 42.288 94.109 94.265 94.109h239.477L909.901 979l-0.942-132.56C957.573 842.744 996 802.07 996 752.605V467.604c0-51.89-42.286-94.105-94.264-94.105zM368.253 571.03L208.973 681l0.816-109.97H156.77c-31.303 0-56.771-25.474-56.771-56.787V155.79C100 124.476 125.467 99 156.771 99h531.424C719.517 99 745 124.476 745 155.79v358.453c0 31.313-25.483 56.788-56.805 56.788H368.253zM941 752.934c0 21.851-17.774 39.628-39.62 39.628h-47.764l0.602 82.438-119.309-82.438H478.622c-21.847 0-39.622-17.777-39.622-39.628v-127.03h248.992c61.408 0 111.366-49.97 111.366-111.388V428h102.021C923.226 428 941 445.777 941 467.627v285.307z" p-id="5831"></path>
+ </symbol>
+<symbol id="icon-whatsapp" viewBox="0 0 1024 1024" >
+<path d="M713.5 599.9c-10.9-5.6-65.2-32.2-75.3-35.8-10.1-3.8-17.5-5.6-24.8 5.6-7.4 11.1-28.4 35.8-35 43.3-6.4 7.4-12.9 8.3-23.8 2.8-64.8-32.4-107.3-57.8-150-131.1-11.3-19.5 11.3-18.1 32.4-60.2 3.6-7.4 1.8-13.7-1-19.3-2.8-5.6-24.8-59.8-34-81.9-8.9-21.5-18.1-18.5-24.8-18.9-6.4-0.4-13.7-0.4-21.1-0.4-7.4 0-19.3 2.8-29.4 13.7-10.1 11.1-38.6 37.8-38.6 92s39.5 106.7 44.9 114.1c5.6 7.4 77.7 118.6 188.4 166.5 70 30.2 97.4 32.8 132.4 27.6 21.3-3.2 65.2-26.6 74.3-52.5 9.1-25.8 9.1-47.9 6.4-52.5-2.7-4.9-10.1-7.7-21-13z m211.7-261.5c-22.6-53.7-55-101.9-96.3-143.3-41.3-41.3-89.5-73.8-143.3-96.3C630.6 75.7 572.2 64 512 64h-2c-60.6 0.3-119.3 12.3-174.5 35.9-53.3 22.8-101.1 55.2-142 96.5-40.9 41.3-73 89.3-95.2 142.8-23 55.4-34.6 114.3-34.3 174.9 0.3 69.4 16.9 138.3 48 199.9v152c0 25.4 20.6 46 46 46h152.1c61.6 31.1 130.5 47.7 199.9 48h2.1c59.9 0 118-11.6 172.7-34.3 53.5-22.3 101.6-54.3 142.8-95.2 41.3-40.9 73.8-88.7 96.5-142 23.6-55.2 35.6-113.9 35.9-174.5 0.3-60.9-11.5-120-34.8-175.6z m-151.1 438C704 845.8 611 884 512 884h-1.7c-60.3-0.3-120.2-15.3-173.1-43.5l-8.4-4.5H188V695.2l-4.5-8.4C155.3 633.9 140.3 574 140 513.7c-0.4-99.7 37.7-193.3 107.6-263.8 69.8-70.5 163.1-109.5 262.8-109.9h1.7c50 0 98.5 9.7 144.2 28.9 44.6 18.7 84.6 45.6 119 80 34.3 34.3 61.3 74.4 80 119 19.4 46.2 29.1 95.2 28.9 145.8-0.6 99.6-39.7 192.9-110.1 262.7z" p-id="2166"></path>
+</symbol>
+<symbol id="fixed-email-close" viewBox="0 0 800 800">
+	<g transform="matrix(1.000730037689209,0,0,1.0236200094223022,399,310.5)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-255.25,-31.75 C-255.25,-31.75 255.2519989013672,-31.746999740600586 255.2519989013672,-31.746999740600586"></path></g></g><g transform="matrix(1,0,0,1,400,329.531005859375)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path fill="rgb(255,255,255)" fill-opacity="1" d=" M-0.5,127 C-0.5,127 -236.5,-33.5 -236.5,-33.5 C-236.5,-33.5 -236,287 -236,287 C-236,287 234.5,287 234.5,287 C234.5,287 234.5,-33 234.5,-33 C234.5,-33 -0.5,127 -0.5,127z"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-0.5,127 C-0.5,127 -236.5,-33.5 -236.5,-33.5 C-236.5,-33.5 -236,287 -236,287 C-236,287 234.5,287 234.5,287 C234.5,287 234.5,-33 234.5,-33 C234.5,-33 -0.5,127 -0.5,127z"></path></g></g><g transform="matrix(1,0,0,1,399,593.875)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path fill-opacity="1" d=" M-156,28.5 C-156,28.5 -156,-142 -156,-142 C-156,-142 155,-142 155,-142 C155,-142 155,27 155,27"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-156,28.5 C-156,28.5 -156,-142 -156,-142 C-156,-142 155,-142 155,-142 C155,-142 155,27 155,27"></path></g><g opacity="1" transform="matrix(0.9261299967765808,0,0,1,0,0)"><path fill-opacity="1" d=" M-124,-21 C-124,-21 -1,-21 -1,-21 M-124,-83 C-124,-83 118,-83 118,-83"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-124,-21 C-124,-21 -1,-21 -1,-21 M-124,-83 C-124,-83 118,-83 118,-83"></path></g></g><g transform="matrix(1,0,0,1,400,329.531005859375)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path fill-opacity="1" d=" M-0.5,127 C-0.5,127 -236.5,-33.5 -236.5,-33.5 C-236.5,-33.5 -236,287 -236,287 C-236,287 234.5,287 234.5,287 C234.5,287 234.5,-33 234.5,-33 C234.5,-33 -0.5,127 -0.5,127z"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-0.5,127 C-0.5,127 -236.5,-33.5 -236.5,-33.5 C-236.5,-33.5 -236,287 -236,287 C-236,287 234.5,287 234.5,287 C234.5,287 234.5,-33 234.5,-33 C234.5,-33 -0.5,127 -0.5,127z"></path></g></g>
+</symbol>
+<symbol id="fixed-email-open" viewBox="0 0 800 800">
+	<g transform="matrix(1.000730037689209,0,0,1.0236200094223022,399,310.5)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-255.25,-31.75 C-255.25,-31.75 255.2519989013672,-31.746999740600586 255.2519989013672,-31.746999740600586"></path></g></g><g transform="matrix(1,0,0,1,400,329.531005859375)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path fill="rgb(255,255,255)" fill-opacity="1" d=" M21.8818416595459,-207.9999237060547 C21.8818416595459,-207.9999237060547 -236.5,-33.5 -236.5,-33.5 C-236.5,-33.5 -236,287 -236,287 C-236,287 234.5,287 234.5,287 C234.5,287 234.5,-33 234.5,-33 C234.5,-33 21.8818416595459,-207.9999237060547 21.8818416595459,-207.9999237060547z"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M21.8818416595459,-207.9999237060547 C21.8818416595459,-207.9999237060547 -236.5,-33.5 -236.5,-33.5 C-236.5,-33.5 -236,287 -236,287 C-236,287 234.5,287 234.5,287 C234.5,287 234.5,-33 234.5,-33 C234.5,-33 21.8818416595459,-207.9999237060547 21.8818416595459,-207.9999237060547z"></path></g></g><g transform="matrix(1,0,0,1,399,327.875)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path fill-opacity="1" d=" M-156,28.5 C-156,28.5 -156,-142 -156,-142 C-156,-142 155,-142 155,-142 C155,-142 155,27 155,27"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-156,28.5 C-156,28.5 -156,-142 -156,-142 C-156,-142 155,-142 155,-142 C155,-142 155,27 155,27"></path></g><g opacity="1" transform="matrix(0.9261299967765808,0,0,1,0,0)"><path fill="rgb(255,255,255)" fill-opacity="1" d=" M-124,-21 C-124,-21 -1,-21 -1,-21 M-124,-83 C-124,-83 118,-83 118,-83"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-124,-21 C-124,-21 -1,-21 -1,-21 M-124,-83 C-124,-83 118,-83 118,-83"></path></g></g><g transform="matrix(1,0,0,1,400,329.531005859375)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path fill-opacity="1" d=" M-0.5,127 C-0.5,127 -236.5,-33.5 -236.5,-33.5 C-236.5,-33.5 -236,287 -236,287 C-236,287 234.5,287 234.5,287 C234.5,287 234.5,-33 234.5,-33 C234.5,-33 -0.5,127 -0.5,127z"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="3" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="40" d=" M-0.5,127 C-0.5,127 -236.5,-33.5 -236.5,-33.5 C-236.5,-33.5 -236,287 -236,287 C-236,287 234.5,287 234.5,287 C234.5,287 234.5,-33 234.5,-33 C234.5,-33 -0.5,127 -0.5,127z"></path></g></g>
+</symbol>
+</svg>
+<header class="large">
+	<div class="container">
+	<div class="nav_section">
+		<div class="main">
+			  
+			<h1><a href="/" id="logo"><img src="/uploadfile/userimg/762bf30706fe96512a6088e9d2eb13bb.png" alt="Wellav Technologies Ltd." /></a></h1>
+							<div class="nav_r">
+			<div class="header-navigation">
+				<nav class="main-navigation">
+					<div class="main-navigation-inner">
+					<div class="hidden_web nav_con clearfix">
+																	<a href="/contact_d2" class="email_btn">Get A Quote</a>
+					</div>
+						<ul id="menu-main-menu" class="main-menu clearfix">
+						
+													 
+								<li  class="menu-children " ><a  href="/solutions_nc2">Solutions</a>
+									
+										<ul class="sub-menu">
+																															<li ><a href="/hospitality-tv_nc9">Hospitality TV</a>
+																							</li>
+																																										<li ><a href="/broadcasting_nc22">Broadcasting</a>
+																							</li>
+																																																																																																																																																																																																																	</ul>
+									
+								</li> 
+								
+							
+							
+							
+							
+							<li class="menu-children "><a href="/products">Products</a>
+								<ul class="sub-menu">
+																											
+									<li  class="menu-children">
+										<a href="/hospitality-tv_c7" class="title">Hospitality TV</a>
+																			
+											<ul class="sub-menu xsub-menu">
+																							<li><a href="/cmp-100-media-platform_c10">CMP 100 Media Platform</a></li>
+																							<li><a href="/cmp-200-media-platform_c11">CMP 200 Media Platform</a></li>
+																							<li><a href="/cmp-300-series_c16">CMP 300 Series</a></li>
+																							<li><a href="/iptv-system_c20">IPTV System</a></li>
+																							<li><a href="/set-top-box_c21">Set Top Box</a></li>
+																						</ul>
+										
+											
+									</li>
+										
+																											
+									<li  class="menu-children">
+										<a href="/broadcasting_c1" class="title">Broadcasting</a>
+																			
+											<ul class="sub-menu xsub-menu">
+																							<li><a href="/media-platform_c8">Media Platform</a></li>
+																							<li><a href="/integrated-receiver-decoder_c4">Integrated Receiver Decoder</a></li>
+																							<li><a href="/distribution-encoder-decoder_c13">Distribution Encoder & Decoder</a></li>
+																							<li><a href="/contribution-encoder-decoder_c63">Contribution Encoder & Decoder</a></li>
+																						</ul>
+										
+											
+									</li>
+										
+																			
+																		
+									
+									
+								</ul>
+							</li>  
+							
+																					<li class="menu-children "><a href="/customer-service_d17">Services</a>
+								  								<ul class="sub-menu">
+																			<li><a href="/procare-standard-support_d17" title="Customer Service">Customer Service</a></li>
+																			<li><a href="/warranty_d18" title="Warranty">Warranty</a></li>
+																			<li><a href="/service-and-repair-rma_d19" title="Service and Repair - RMA">Service and Repair - RMA</a></li>
+																			<li><a href="/qsg_d27" title="Download">Download</a></li>
+																											<li><a href="/category/downloads/1">Catalog</a>
+																			</li>
+								</ul>
+														</li>
+														
+							
+														 
+								<li  class="menu-children " ><a  href="/customer-stories_nc3">Customer Stories</a>
+																			<ul class="sub-menu">
+																							<li ><a href="/hospitality-tv_nc5">Hospitality TV</a>
+																									</li>
+																							<li ><a href="/broadcasting_nc6">Broadcasting</a>
+																									</li>
+																					</ul>
+																	</li> 
+								
+							
+														 
+								<li  class="menu-children " ><a  href="/news_nc1">News</a>
+																			<ul class="sub-menu">
+																							<li ><a href="/events_nc10">Events</a>
+																									</li>
+																							<li ><a href="/product-updates_nc25">Product Updates</a>
+																									</li>
+																							<li ><a href="/webinars_nc11">Webinars</a>
+																									</li>
+																							<li ><a href="/news_nc12">News</a>
+																									</li>
+																					</ul>
+																	</li> 
+								
+							
+																					<li class="menu-children "><a href="/company-wellav-sencore_d20">About Us</a>
+																<ul class="sub-menu">
+																			<li><a href="/2_d20" title="Company">Company</a></li>
+																			<li><a href="/customers_d21" title="Customers">Customers</a></li>
+																			<li><a href="/leadership_d22" title="Leadership">Leadership</a></li>
+																	</ul>
+														</li>
+													</ul>
+						<div class="mob_language clearfix">
+							<p>Please select your language :</p>
+															<a href="https://www.wellav.com/" title="English">
+									<img src="/template/images/en.png" alt="English">
+										English</a>
+							 								<!---->
+								<a href="https://www.wellav.cn/"><img src="/template/images/cn.png" alt="English">中文</a>
+						</div>
+						<div class="mob_sns">
+							<p>social sharing :</p>
+							  
+							  
+								  
+									<a rel="nofollow" target="_blank" href="https://www.linkedin.com/company/wellav-technologies-limited/" ><img src="/uploadfile/friendlink/a238d1048763c18eff74908b2e9395aa.jpg" alt="Linkedin" /></a>
+							  
+									<a rel="nofollow" target="_blank" href="https://www.facebook.com/wellavtech/" ><img src="/uploadfile/friendlink/1c55dd7d860fe0dcfe119b1de44bb8e6.jpg" alt="Facebook" /></a>
+							  
+									<a rel="nofollow" target="_blank" href=" https://twitter.com/wellav_china" ><img src="/uploadfile/friendlink/1b4c8282e063d927d9afd72ccdc01b79.png" alt="Twitter" /></a>
+							  
+									<a rel="nofollow" target="_blank" href=" https://www.tiktok.com/@wellavtechnologies" ><img src="/uploadfile/friendlink/4c89837cfcdae1e555faa7b04505c204.jpg" alt="Tik Tok" /></a>
+							  
+									<a rel="nofollow" target="_blank" href="https://www.youtube.com/user/WellavTechnologies/" ><img src="/uploadfile/friendlink/888ab5175dcc48eabcff77b2012b53c6.jpg" alt="Youtube" /></a>
+																				</div>
+					</div>
+				</nav>
+			</div>
+																																				 
+																																																																		
+						 
+			<a href="/contact_d2" class="con_btn hidden_mob">Contact</a>
+						<div class="search_section">
+				<i class="ico_search">Search info</i>
+				<div class="search_input">
+					<div class="close-search"><i class="fa fa-close"></i></div>
+					<div class="search_title">What Are You Looking For?</div>
+						<div class="search_main">
+							<input name="search_keyword" onkeydown="javascript:enterIn(event);" type="text" class="form-control" value="Search..." onfocus="if(this.value=='Search...'){this.value='';}" onblur="if(this.value==''){this.value='Search...';}" placeholder="Search...">
+							<input type="submit" class="search_btn btn_search1" value="">
+						</div>
+												<div class="search_tags">
+															<a href="/iptv-system_sp">IPTV System</a>
+															<a href="/public-address_sp">Public Address</a>
+															<a href="/avoverip_sp">AVoverIP</a>
+															<a href="/ipmx_sp">IPMX</a>
+															<a href="/encoder-transcoder_sp">Encoder/Transcoder</a>
+															<a href="/receiver-decoder_sp">Receiver Decoder</a>
+													</div>
+						 					
+				</div>
+			</div>
+			<div class="language hidden_mob">
+								<p><img src="/template/images/en.png" alt="English"/><i class="fa fa-angle-down"></i></p>
+								<div class="language_ul">
+					<ul>
+													<li class="active"><a href="https://www.wellav.com/" title="English">
+									<img src="/template/images/en.png" alt="English">
+										English</a></li>
+							 								<!---->
+								<li><a href="https://www.wellav.cn/"><img src="/template/images/cn.png" alt="English">中文</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="top_overly"></div>
+			</div>
+		</div>
+		<div id="menu-mobile" class="hidden_web">
+			<div class="mob_logo hidden_web"><a href="/"><img src="/uploadfile/userimg/762bf30706fe96512a6088e9d2eb13bb.png" alt="Wellav Technologies Ltd."></a></div>
+			<span class="btn-nav-mobile open-menu"><i></i><span></span></span>
+		</div>
+   </div>
+</div>
+</header>
+<div class="height"></div>
+ <div class="swiper-banner index_banner">
+	<div class="swiper-wrapper">
+		 				<div class="swiper-slide"><div class="slide-inner"><a href="https://www.wellav.com/public-address-and-voice-alarm-system_c51"><img src="/uploadfile/bannerimg/1739151325603.jpg" alt="Public Address and Voice Alarm System"></a></div></div>
+		 		<div class="swiper-slide"><div class="slide-inner"><a href="javascript:void(0)" rel="nofollow"><img src="/uploadfile/bannerimg/1739150495582.jpg" alt="Hello, this is WellAV"></a></div></div>
+		 		<div class="swiper-slide"><div class="slide-inner"><a href="javascript:void(0)" rel="nofollow"><img src="/uploadfile/bannerimg/1739150622707.jpg" alt=""></a></div></div>
+		 		<div class="swiper-slide"><div class="slide-inner"><a href="javascript:void(0)" rel="nofollow"><img src="/uploadfile/bannerimg/17391510268606.jpg" alt=""></a></div></div>
+		 		<div class="swiper-slide"><div class="slide-inner"><a href="javascript:void(0)" rel="nofollow"><img src="/uploadfile/bannerimg/17391512593465.jpg" alt=""></a></div></div>
+		 		<div class="swiper-slide"><div class="slide-inner"><a href="javascript:void(0)" rel="nofollow"><img src="/uploadfile/bannerimg/17391511699811.jpg" alt=""></a></div></div>
+		 				</div>
+	<div class="swiper-pagination"></div>
+	<div class="swiper-button-next"></div>
+	<div class="swiper-button-prev"></div>
+</div>
+  <div class="solution_section clearfix">
+	<div class="swi_position">
+		<div class="swiper-container pro_scrollbar">
+			<ul class="swiper-wrapper">
+						<li class="swiper-slide">
+				<div class="li">
+					<div class="img">
+									<a  href="/hospitality-tv-solution-private-cable_n13" title=" Hospitality TV Solution & Private Cable" ><img src="/uploadfile/news/18623d5d571fbf0458a7b01493fd429a.jpg" alt=" Hospitality TV Solution & Private Cable"></a>
+									</div>
+					<div class="h4"><a href="/hospitality-tv-solution-private-cable_n13" title=" Hospitality TV Solution & Private Cable" class="title"> Hospitality TV Solution & Private Cable</a></div>
+					<div class="my_more01"><a href="/hospitality-tv-solution-private-cable_n13" title=" Hospitality TV Solution & Private Cable" class="my_more1">view more</a></div>
+				</div>
+			</li>
+			 			<li class="swiper-slide">
+				<div class="li">
+					<div class="img">
+									<a  href="/iptv_n38" title="IPTV" ><img src="/uploadfile/news/1d58a7c2de0993cbea88589b6bbf4b50.jpg" alt="IPTV"></a>
+									</div>
+					<div class="h4"><a href="/iptv_n38" title="IPTV" class="title">IPTV</a></div>
+					<div class="my_more01"><a href="/iptv_n38" title="IPTV" class="my_more1">view more</a></div>
+				</div>
+			</li>
+			 			<li class="swiper-slide">
+				<div class="li">
+					<div class="img">
+									<a  href="/internet-delivery-solution_n39" title="Internet Delivery Solution" ><img src="/uploadfile/news/bf08090091163ae4d484fd2a93c4fc26.jpg" alt="Internet Delivery Solution"></a>
+									</div>
+					<div class="h4"><a href="/internet-delivery-solution_n39" title="Internet Delivery Solution" class="title">Internet Delivery Solution</a></div>
+					<div class="my_more01"><a href="/internet-delivery-solution_n39" title="Internet Delivery Solution" class="my_more1">view more</a></div>
+				</div>
+			</li>
+			 			<li class="swiper-slide">
+				<div class="li">
+					<div class="img">
+									<a  href="/monitoring_n40" title="Monitoring" ><img src="/uploadfile/news/dcadfc4092d7c7d079259e513a6a99be.jpg" alt="Monitoring"></a>
+									</div>
+					<div class="h4"><a href="/monitoring_n40" title="Monitoring" class="title">Monitoring</a></div>
+					<div class="my_more01"><a href="/monitoring_n40" title="Monitoring" class="my_more1">view more</a></div>
+				</div>
+			</li>
+			 			<li class="swiper-slide">
+				<div class="li">
+					<div class="img">
+									<a  href="/satellite-broadcasting_n37" title="Satellite Broadcasting" ><img src="/uploadfile/news/ef2064de3c790f88fc55bfc4506e94b5.jpg" alt="Satellite Broadcasting"></a>
+									</div>
+					<div class="h4"><a href="/satellite-broadcasting_n37" title="Satellite Broadcasting" class="title">Satellite Broadcasting</a></div>
+					<div class="my_more01"><a href="/satellite-broadcasting_n37" title="Satellite Broadcasting" class="my_more1">view more</a></div>
+				</div>
+			</li>
+			 			<li class="swiper-slide">
+				<div class="li">
+					<div class="img">
+									<a  href="/terrestrial-distribution_n36" title="Terrestrial Distribution" ><img src="/uploadfile/news/ad74ea9b97643abff9fcfe675252f17b.jpg" alt="Terrestrial Distribution"></a>
+									</div>
+					<div class="h4"><a href="/terrestrial-distribution_n36" title="Terrestrial Distribution" class="title">Terrestrial Distribution</a></div>
+					<div class="my_more01"><a href="/terrestrial-distribution_n36" title="Terrestrial Distribution" class="my_more1">view more</a></div>
+				</div>
+			</li>
+			 			<li class="swiper-slide">
+				<div class="li">
+					<div class="img">
+									<a  href="/satellite-hits-solution-cable-msos_n35" title=" Satellite HITS Solution & Cable MSOs" ><img src="/uploadfile/news/f13e3961eac37b1e0d919e4da264975a.jpg" alt=" Satellite HITS Solution & Cable MSOs"></a>
+									</div>
+					<div class="h4"><a href="/satellite-hits-solution-cable-msos_n35" title=" Satellite HITS Solution & Cable MSOs" class="title"> Satellite HITS Solution & Cable MSOs</a></div>
+					<div class="my_more01"><a href="/satellite-hits-solution-cable-msos_n35" title=" Satellite HITS Solution & Cable MSOs" class="my_more1">view more</a></div>
+				</div>
+			</li>
+			 			<li class="swiper-slide">
+				<div class="li">
+					<div class="img">
+									<a  href="/transcoding_n42" title="Transcoding" ><img src="/uploadfile/news/b7e01636fcba5fb030d6dbb4cb202a3b.jpg" alt="Transcoding"></a>
+									</div>
+					<div class="h4"><a href="/transcoding_n42" title="Transcoding" class="title">Transcoding</a></div>
+					<div class="my_more01"><a href="/transcoding_n42" title="Transcoding" class="my_more1">view more</a></div>
+				</div>
+			</li>
+			 			</ul>
+			<div class="swiper-button-next"></div>
+			<div class="swiper-button-prev"></div>
+			<div class="sol_more"><a href="/solutions_nc2" class="my_more1">Learn More Solutions</a></div>
+		</div>
+	</div>
+</div>
+<div class="about_section clearfix">
+	<div class="container">
+		<div class="main clearfix">
+			
+			<div class="about_l">
+			<iframe width="100%" height="615" src="/template/images/video.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+						<div class="about_r">
+				<div class="h4">Why Wellav?</div>
+				<div class="p">Wellav, the gateway to better video delivery, is a leading provider of video delivery solutions for broadcaster, pay-tv and enterprise IPTV system. Under two business centers (USA and China) with sales and support teams around the world, Wellav fully integrated R&amp;D, manufacturing, distribution and marketing.We continue to meet the needs of modern media with a cutting-edge product portfolio.</div>
+				<a href="/company-wellav-sencore_d20" class="my_more1">view more</a>
+			</div>
+					</div>
+	</div>
+</div>
+<div class="pro_section clearfix">
+	<div class="container">
+		<div class="i_title">
+			<div class="h4">HOT PRODUCTS</div>
+			<span class="animate-border ml-auto mr-auto tw-mt-20"></span>
+		</div>
+		<div class="button_outside">
+			<div class="swiper-container swi_overflow pro_scrollbar">
+				<ul class="swiper-wrapper">
+								<li class="swiper-slide">
+				  <div class="li clearfix">
+					<a href="/cmp200_p13.html" title="CMP200" class="img"><img id="product_detail_img"  alt="Modular video processing platform" src="/uploadfile/202308/18/213d396f576ce0254f25a216b01e1300_medium.jpg" /></a>
+					<div class="text">
+						<div class="h4"><a href="/cmp200_p13.html" title="CMP200">CMP200</a></div>
+						<p>CMP200 is a next-gen modular video processor from Wellav. It balances performance &amp; cost for multi-channel encoding, HD transcoding, IPTV+QAM distribution, with global support &amp; intuitive web UI. Featuring dual power options, 6 hot-swappable modules, IP switch, it is ideal for hospitality, e...</p>
+					</div>
+				 </div>
+				</li>
+								<li class="swiper-slide">
+				  <div class="li clearfix">
+					<a href="/umh160r_p19.html" title="UMH160R" class="img"><img id="product_detail_img"  alt="SD/HD Receiver/Decoder" src="/uploadfile/202305/19/3d01312d39ee6331826f9d344b875d7d_medium.png" /></a>
+					<div class="text">
+						<div class="h4"><a href="/umh160r_p19.html" title="UMH160R">UMH160R</a></div>
+						<p>UMH160R is a powerful and cost-effective broadcast level decoder. It supports signal receiving, multi-channel descrambling and external table/data insertion. It also supports MPEG2/MPEG4 SD/HD program decoding with two audio channels. With a remote, web-based management interface, it is ideal to sup...</p>
+					</div>
+				 </div>
+				</li>
+								<li class="swiper-slide">
+				  <div class="li clearfix">
+					<a href="/cmp100_p9.html" title="CMP100" class="img"><img id="product_detail_img"  alt="Modular video processing platform" src="/uploadfile/202305/19/f3649995900608ce1adbf46f82901f88_medium.jpg" /></a>
+					<div class="text">
+						<div class="h4"><a href="/cmp100_p9.html" title="CMP100">CMP100</a></div>
+						<p>The most powerful video headend packed in 4 RU! Perfect for hotels, schools, hospitals, and MDUs yet fexible and feature rich to meet the needs of professional and commercial CATV and IPTV systems.&nbsp;</p>
+					</div>
+				 </div>
+				</li>
+								<li class="swiper-slide">
+				  <div class="li clearfix">
+					<a href="/dmp900_p14.html" title="DMP900" class="img"><img id="product_detail_img"  alt="Digital Media Platform" src="/uploadfile/202305/19/20bdf596dcb4ff440ab20e695ec56b05_medium.jpg" /></a>
+					<div class="text">
+						<div class="h4"><a href="/dmp900_p14.html" title="DMP900">DMP900</a></div>
+						<p>DMP900 is Wellav&rsquo;s most advanced product for service operators. It provides proven headend technology in a compact, 1RU chassis. With wide variety of different input and output module options that can be combined as needed, it offers a true, comprehensive video delivery solution.</p>
+					</div>
+				 </div>
+				</li>
+								<li class="swiper-slide">
+				  <div class="li clearfix">
+					<a href="/impulse-300d_p15.html" title="Impulse 300D" class="img"><img id="product_detail_img"  alt="Network Decoder" src="/uploadfile/202305/19/6d5825487356ab6f6a44b5d07e829470_medium.jpg" /></a>
+					<div class="text">
+						<div class="h4"><a href="/impulse-300d_p15.html" title="Impulse 300D">Impulse 300D</a></div>
+						<p>The Impulse 300D is a dynamic approach to the single channel decoder concept, supporting content reception from traditional multicast and OTT sources with SDI, HDMI, and analog outputs. Equipped with 4K/UHD capability via HDMI, it doubles as a standalone solution or rack-mountable triple-unit setup ...</p>
+					</div>
+				 </div>
+				</li>
+								<li class="swiper-slide">
+				  <div class="li clearfix">
+					<a href="/omp150_p16.html" title="OMP150" class="img"><img id="product_detail_img"  alt="IPTV System" src="/uploadfile/202305/19/a2fffe8419c787ae31e905e90e4dd85a_medium.jpg" /></a>
+					<div class="text">
+						<div class="h4"><a href="/omp150_p16.html" title="OMP150">OMP150</a></div>
+						<p>The OMP150 IPTV system offers a user-friendly yet powerful solution for centralized management of Android-based set-top boxes. As IPTV technology gains traction, it is ideal for hospitality, education, government, and other facilities needing to stream IP videos across multiple TVs. &nbsp; &nbsp;</p>
+					</div>
+				 </div>
+				</li>
+								<li class="swiper-slide">
+				  <div class="li clearfix">
+					<a href="/audio-control-management-host_p39.html" title="Audio Control Management Host" class="img"><img id="product_detail_img"  alt="Audio Control Management Host" src="/uploadfile/202501/06/831d83fd036d24f8d4730453a6d9a087_medium.jpg" /></a>
+					<div class="text">
+						<div class="h4"><a href="/audio-control-management-host_p39.html" title="Audio Control Management Host">Audio Control Management Host</a></div>
+						<p>ACP-HW-7U &nbsp; As the core management device of the audio control system, the host is deployed in the master control room to enable centralized management of all IP terminals across the system. It allows full control over audio sources and custom paging zone grouping. Housed in an industrial-grade...</p>
+					</div>
+				 </div>
+				</li>
+								<li class="swiper-slide">
+				  <div class="li clearfix">
+					<a href="/paging-console_p41.html" title="Paging Console" class="img"><img id="product_detail_img"  alt="Paging Console" src="/uploadfile/202501/06/0268c44b46965bb610b177e26ddce398_medium.jpg" /></a>
+					<div class="text">
+						<div class="h4"><a href="/paging-console_p41.html" title="Paging Console">Paging Console</a></div>
+						<p>PAG-01 &nbsp; The paging console is typically deployed on the desk in a broadcasting room. It connects and communicates via IP network with the broadcasting host, enabling quick zone and group selection for microphone or file-based broadcasting.</p>
+					</div>
+				 </div>
+				</li>
+				  
+			  </ul>
+			  <div class="swiper-button-next"></div>
+			  <div class="swiper-button-prev"></div>
+		   </div>
+		</div>
+		<div class="more-btn"><a href="/products" class="my_more1">learn more products</a></div>
+	</div>
+</div>
+<div class="num_section clearfix">
+	<div class="container">
+		<div class="num_title">
+			<div class="h4">The Wellav Enabled Network</div>
+			<p>provides a broad range of innovative products and services enabling efficient, high-quality video delivery</p>
+		</div>
+				<div class="index_num clearfix">
+			<ul class="clearfix">
+								<li>
+					<div class="num"><span class="odometer" data-count="2" data-status="yes">0</span>k+</div>
+					<p>operators</p>
+				</li>
+								<li>
+					<div class="num"><span class="odometer" data-count="5000" data-status="yes">0</span>+</div>
+					<p>commercial enterprises</p>
+				</li>
+								<li>
+					<div class="num"><span class="odometer" data-count="120" data-status="yes">0</span>+</div>
+					<p>Countries/regions</p>
+				</li>
+								<li>
+					<div class="num"><span class="odometer" data-count="10" data-status="yes">0</span>+</div>
+					<p>support offices</p>
+				</li>
+								<li>
+					<div class="num"><span class="odometer" data-count="500000" data-status="yes">0</span>k+</div>
+					<p>end users</p>
+				</li>
+							</ul>
+		</div>
+			</div>
+</div>
+ <div class="partner_section clearfix">
+	<div class="container">
+		<div class="h4">Wellav trusted by companies worldwide</div>
+		<div class="button_outside">
+			<div class="swiper-container swi_overflow partner_scrollbar">
+				<ul class="swiper-wrapper">
+									  <li class="swiper-slide"><div class="li"><img src="/uploadfile/bannerimg/16849980672185.png" alt="logo"/></div></li>
+				   				  <li class="swiper-slide"><div class="li"><img src="/uploadfile/bannerimg/16849980819242.png" alt="logo2"/></div></li>
+				   				  <li class="swiper-slide"><div class="li"><img src="/uploadfile/bannerimg/1684998093581.png" alt="logo3"/></div></li>
+				   				  </ul>
+			 </div>
+			 <div class="swiper-button-next"></div>
+			<div class="swiper-button-prev"></div>
+		</div>
+	</div>
+</div>
+<div class="case_section clearfix">
+	<div class="container">
+		<div class="case_con clearfix">
+			 			<div class="case_l">
+				<div class="case_img">
+								<img src="/uploadfile/news/b027ff37458790fb9bbed3bfaa7f5fc9.jpg" alt="From Legacy TV to Personalized Streaming: Bellevue Hotels & Resorts’ IPTV Upgrade">
+								</div>
+				<div class="case_txt">
+					<div class="h4">From Legacy TV to Personalized Streaming: Bellevue Hotels & Resorts’ IPTV Upgrade</div>
+					<a href="/from-legacy-tv-to-personalized-streaming-bellevue-hotels-resorts-iptv-upgrade_n78" title="From Legacy TV to Personalized Streaming: Bellevue Hotels & Resorts’ IPTV Upgrade"  class="my_more1">Read More</a>
+				</div>
+			</div>
+			<div class="case_r">
+				<div class="case_text">
+					<div class="p">Following the rollout of the new IPTV system, BH&R streamlined its selection of paid channels, reducing licensing costs. Most importantly, guests now enjoy a richer in-room entertainment experience. And the customized UI further reflects each hotel’s distinctive atmosphere at a key guest touchpoint, delivering an immersive experience that reinforces the overall brand identity.</div>
+				</div>
+			</div>
+					</div>
+		<div class="case_more clearfix"><a href="/customer-stories_nc3" class="my_more1">Successful Customer Stories</a></div>
+	</div>
+</div>
+<div class="map_section clearfix hidden_mob">
+	<div class="container">
+		<div class="map_img"><img src="/uploadfile/single/c1a819d99a0490b37bace56656af1c3e.gif" alt="The Gateway to Better Video Delivery"/></div>
+		<div class="map_txt">Two Business Centers: Sencore, USA  Wellav, China<br>Offices: Colombia, Uruguay, Philippe, India, Poland, HongKong, Beijing, ShenZhen</div>
+		<div class="map_con">
+			<div class="map_logo"><img src="/template/images/map_logo.png" alt=""/></div>
+			<div class="about_r">
+				<div class="s_title">Enabled Network</div>
+				<div class="h4">The Gateway to Better Video Delivery</div>
+				<p>A leading provider of video delivery solutions for broadcaster, pay-tv and enterprise IPTV</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="footer" style="background-image: url(/template/images/footer_bg.jpg)">
+	<div class="container">
+		<div class="main cleafix">
+			<div class="footer_con">
+				<div class="title_h4">contact us</div>
+				<ul>
+										
+										 
+										<li class="con_whatsapp">
+														<a class="fix_a" rel="nofollow" target="_blank" href="https://web.whatsapp.com/send?phone=+86 135 3631 1915&text=Hello" >   
+							WhatsApp : +86 135 3631 1915</a>
+					</li>
+															
+									    
+					  
+				   <li class="con_email"><a rel="nofollow" target="_blank" href="mailto:sales@wellav.com">Email :  sales@wellav.com</a></li>
+					  
+				   <li class="con_email"><a rel="nofollow" target="_blank" href="mailto:marketing@wellav.com">Email :  marketing@wellav.com</a></li>
+																				<li class="con_add">Add : No.1, Shunchang Road, Huinan Hi-Tech Industrial Park, Zhongkai Hi-Tech Development Zone, Huizhou, Guangdong, China</li>
+									</ul>
+			</div>
+						<div class="ul footer_tags hidden_mob">
+				<div class="title_h4">Hot Tags</div>
+				<ul>
+										<li><a href="/iptv-system_sp">IPTV System</a></li>
+										<li><a href="/public-address_sp">Public Address</a></li>
+										<li><a href="/avoverip_sp">AVoverIP</a></li>
+										<li><a href="/ipmx_sp">IPMX</a></li>
+										<li><a href="/encoder-transcoder_sp">Encoder/Transcoder</a></li>
+										<li><a href="/receiver-decoder_sp">Receiver Decoder</a></li>
+									</ul>
+			</div>
+						 
+			<div class="ul footer_solutions hidden_mob">
+				<div class="title_h4">Solutions</div>
+								<ul>
+										<li><a href="/hospitality-tv_nc9">Hospitality TV</a></li>
+										<li><a href="/broadcasting_nc22">Broadcasting</a></li>
+									</ul>
+							</div>
+						<div class="ul footer_sns hidden_mob">
+				<div class="title_h4">Social Network</div>
+				<div class="sns_ico">
+					  
+					  
+						  
+							<a rel="nofollow" target="_blank" href="https://www.linkedin.com/company/wellav-technologies-limited/" ><img src="/uploadfile/friendlink/a238d1048763c18eff74908b2e9395aa.jpg" alt="Linkedin" /></a>
+					  
+							<a rel="nofollow" target="_blank" href="https://www.facebook.com/wellavtech/" ><img src="/uploadfile/friendlink/1c55dd7d860fe0dcfe119b1de44bb8e6.jpg" alt="Facebook" /></a>
+					  
+							<a rel="nofollow" target="_blank" href=" https://twitter.com/wellav_china" ><img src="/uploadfile/friendlink/1b4c8282e063d927d9afd72ccdc01b79.png" alt="Twitter" /></a>
+					  
+							<a rel="nofollow" target="_blank" href=" https://www.tiktok.com/@wellavtechnologies" ><img src="/uploadfile/friendlink/4c89837cfcdae1e555faa7b04505c204.jpg" alt="Tik Tok" /></a>
+					  
+							<a rel="nofollow" target="_blank" href="https://www.youtube.com/user/WellavTechnologies/" ><img src="/uploadfile/friendlink/888ab5175dcc48eabcff77b2012b53c6.jpg" alt="Youtube" /></a>
+														</div>
+			</div>
+			<div class="clear"></div>
+			<div class="footer_top clearfix">
+								<div class="email_l">
+					<div class="title">Sign up for our newsletter</div>
+					<p>Sign up for our monthly promotion and get out latest product news!</p>
+				</div>
+								<div class="email clearfix">
+					<input name="keyword" id="user_email" type="text" value="Email address..." onfocus="if(this.value=='Email address...'){this.value='';}" onblur="if(this.value==''){this.value='Email address...';}" class="email_main">
+					<button type="submit" class="email_btn" onclick="add_email_list();">Subscribe</button>
+				</div>
+				<script type="text/javascript">
+				var email = document.getElementById('user_email');
+				function add_email_list()
+				{
+
+					$.ajax({
+						url: "/common/ajax/addtoemail/emailname/" + email.value,
+						type: 'GET',
+						success: function(info) {
+							if (info == 1) {
+								alert('Successfully!');
+								window.location.href = "/";
+
+							} else {
+								alert('Loss!');
+								window.location.href = "/";
+							}
+						}
+					});
+
+				}
+			</script>
+			</div>
+			<div class="footer_bottom">
+				<div class="fot_nav">
+											<a href="/">Home</a>
+												<a href="/solutions_nc2">Solutions</a>
+												<a href="/products">Products</a>
+												<a href="/services_d3">Services</a>
+												<a href="/customer-stories_nc3">Customer Stories</a>
+												<a href="/news_nc1">News</a>
+												<a href="/about-us_d1">About Us</a>
+												<a href="/privacy-policy_d5">Privacy Policy</a>
+												<a href="/sitemap.html">Sitemap</a>
+										</div>
+				<div class="left">
+					<div class="cop">© 2026 Wellav Technologies Ltd..All Rights Reserved. |<a href="/sitemap.xml">XML</a>|</div>
+					<div class="ipv6">IPv6 network supported<img src="/template/images/ipv6.png" alt=""></div>
+				</div>
+												<div class="fot_btit"><p><img src="/js/tinymce/demo/images/202403/20/c01b639a10c115854f7330c50f0a5a09.png" alt="" width="113" height="35" />*The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI Logo are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.</p></div>
+															</div>
+		</div>
+	</div>
+</div>
+<div class="progress-wrap">
+	<svg class="progress-circle svg-content" width="100%" height="100%" viewbox="-1 -1 102 102">
+		<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+	</svg>
+</div>
+<div id="whatsapp">
+    <div id="whatsapp_tab">
+        <a id="floatShow2" rel="nofollow" href="javascript:void(0);" >
+		<div class="online_icon">
+			<span class="online_close"><svg><use xlink:href="#fixed-email-close"></use></svg></span>
+			<span class="online_open"><svg><use xlink:href="#fixed-email-open"></use></svg></span>
+			<span class="online_mobile"><svg><use xlink:href="#con-mes"></use></svg></span>
+		</div>
+		<p>Need Help? leave a message</p></a> 
+        <a id="floatHide2" rel="nofollow" href="javascript:void(0);" ></a>
+    </div>
+    <div id="onlineService2">
+		<div class="title">
+			<svg><use xlink:href="#icon-im"></use></svg>
+			<div>
+				<div class="h4">leave a message</div>
+			</div>
+		</div>
+		<div class="inquiry">
+			<div class="p">Have questions or suggestions? Wanna be a partner? Please leave us your message here.</div>
+			<form id="email_form2" name="email_form2" method="post" action="/inquiry/addinquiry">
+				<input type="hidden"  value="Leave A Message"  name="msg_title" />
+				<input type="hidden"  value="/"  name="msg_fromurl" />
+				<ul class="row clearfix">
+					<li class=" col-sm-12 col-xs-12">
+						<span class="ms_e"><input type="text" name="msg_email" id="msg_email" class="meInput" placeholder="* Your Email"></span>
+					</li>
+					<li class=" col-sm-12 col-xs-12">
+						<span class="ms_p"><input type="tel" name="msg_tel" id="msg_phone" class="meInput" placeholder="Tel/Whatsapp"></span>
+					</li>
+					<li class="meText col-xs-12">
+						<span class="ms_m"><textarea id="meText" placeholder="* Enter product details (such as color, size, materials etc.) and other specific requirements to receive an accurate quote." maxlength="3000" name="msg_content"></textarea></span>
+					</li>
+										<div class="clearfix"></div>
+				</ul>
+				<span class="ms_btn"><input type="submit" value="">Submit</span>
+			</form>
+			<script type="text/javascript">
+				var uploadclicktag2 = 0;
+				$("#btnOk12").on("click",function (){
+					if (uploadclicktag2==0){
+						uploadclicktag2=1;
+						$('#email_form2').submit();
+						setTimeout(function(){uploadclicktag2=0;},4000);
+					}else{
+						alert('Do not operate frequently！');
+					}
+				})
+			</script>
+		</div>
+    </div>
+</div>
+<div class="fixed-contact">
+    <ul class="item-list clearfix">
+	                         
+              
+            <li>
+                <div class="column">
+                    <svg class="icon"><use xlink:href="#con-email"></use></svg>
+                    <a class="fix_a" rel="nofollow" target="_blank" href="mailto:sales@wellav.com">sales@wellav.com</a>
+                </div>
+            </li>
+              
+            <li>
+                <div class="column">
+                    <svg class="icon"><use xlink:href="#con-email"></use></svg>
+                    <a class="fix_a" rel="nofollow" target="_blank" href="mailto:marketing@wellav.com">marketing@wellav.com</a>
+                </div>
+            </li>
+                                                 
+                        <li>
+                <div class="column">
+                    <svg class="icon"><use xlink:href="#con-whatsapp"></use></svg>
+                                        <a class="fix_a" rel="nofollow" target="_blank" href="https://web.whatsapp.com/send?phone=+86 135 3631 1915&text=Hello" >   
+                    +86 135 3631 1915</a>
+                </div>
+            </li>
+                                                
+		<li class="sns_ico">
+			<div class="column">
+				<div class="icon"><img src="/template/images/share.png" alt="" /></div>
+				<div class="sns_img fix_a">
+					  
+					  
+						  
+							<a rel="nofollow" target="_blank" href="https://www.linkedin.com/company/wellav-technologies-limited/" ><img src="/uploadfile/friendlink/a238d1048763c18eff74908b2e9395aa.jpg" alt="Linkedin" /></a>
+					  
+							<a rel="nofollow" target="_blank" href="https://www.facebook.com/wellavtech/" ><img src="/uploadfile/friendlink/1c55dd7d860fe0dcfe119b1de44bb8e6.jpg" alt="Facebook" /></a>
+					  
+							<a rel="nofollow" target="_blank" href=" https://twitter.com/wellav_china" ><img src="/uploadfile/friendlink/1b4c8282e063d927d9afd72ccdc01b79.png" alt="Twitter" /></a>
+					  
+							<a rel="nofollow" target="_blank" href=" https://www.tiktok.com/@wellavtechnologies" ><img src="/uploadfile/friendlink/4c89837cfcdae1e555faa7b04505c204.jpg" alt="Tik Tok" /></a>
+					  
+							<a rel="nofollow" target="_blank" href="https://www.youtube.com/user/WellavTechnologies/" ><img src="/uploadfile/friendlink/888ab5175dcc48eabcff77b2012b53c6.jpg" alt="Youtube" /></a>
+														</div>
+			</div>
+		</li>
+		
+		                    <li class="online_code">
+                <div class="column">
+                    <svg class="icon"><use xlink:href="#con-code"></use></svg>
+                    <a class="fix_a">
+                <p>Scan to Whatsapp :</p><img src="/uploadfile/single/6b7d65528329923c8a279af4d0aa3c82.png" alt="Scan to Whatsapp" /></a>
+                </div>
+            </li>
+                 </ul>
+</div>
+<div class="mobile_nav clearfix">
+	<a href="/"><svg class="icon"><use xlink:href="#icon-home"></use></svg><p>Home</p></a>
+    <a href="/products"><svg class="icon"><use xlink:href="#icon-product"></use></svg><p>Products</p></a>
+	                <a rel="nofollow" target="_blank" href="https://api.whatsapp.com/send?phone=+86 135 3631 1915&text=Hello" >
+            <svg class="icon"><use xlink:href="#icon-whatsapp"></use></svg><p>whatsapp</p></a>
+            <a href="/contact_d2"><svg class="icon"><use xlink:href="#con-mes"></use></svg><p>contact</p></a>
+</div>
+<script type="text/javascript" src="/template/js/demo.js"></script>
+<script type="text/javascript">
+	baguetteBox.run('.tz-gallery');
+</script>
+<script type="text/javascript">
+	$('#bootstrap-touch-slider').bsTouchSlider();
+</script>
+<script type="text/javascript" src="/template/js/main.js"></script>
+
+</body>
+</html>

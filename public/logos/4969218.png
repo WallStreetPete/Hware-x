@@ -1,0 +1,642 @@
+﻿<!doctype html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="renderer" content="webkit">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="format-detection" content="telephone=no">
+	<title>冠捷科技</title>
+	<link rel="canonical" href="https://www.tpv-tech.com" />
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+	<link href="font_icon/iconfont.css" rel="stylesheet">
+	<link href="css/swiper.min.css" rel="stylesheet">
+	<link href="css/style.css?v=1.0.0" rel="stylesheet">
+	<link href="css/video-js.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/animate.min.css">
+	<script src="js/jquery-3.6.0.min.js"></script>
+	<script src="js/swiper.min.js"></script>
+	<script src="js/zhao.js?20250919"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/dayjs.min.js"></script>
+	<style>
+		.home1 .con .box {
+			width: 22% !important;
+		}
+        #brandList img{
+			width:90%;
+        }
+	</style>
+	<script>
+		let jsBrowserLanguage = (navigator.language || navigator.browserLanguage).toLowerCase();
+		if (!sessionStorage.getItem('visited') && jsBrowserLanguage.indexOf('zh') === -1) {
+			window.location.href = './en/index.html';
+			sessionStorage.setItem('visited', 'true');
+		} else {
+			console.log('Not first visit');
+		}
+	</script>
+</head>
+
+<body>
+	<header class="clearfix">
+		<!-- 移动端导航开始 -->
+		<!--导航栏-->
+		<div class="ydd_btn hidden-md hidden-lg">
+			<span class="span01 tr"></span>
+			<span class="span02 tr"></span>
+			<span class="span03 tr"></span>
+		</div>
+		<div class="sjdnav hidden-md hidden-lg">
+			<ul class="clearfix">
+				<li><a href="info.html">企业资讯</a></li>
+				<li><a href="solutions.html">产品与解决方案</a></li>
+				<li><a href="madio.html">传媒中心</a></li>
+				<li><a href="investor.html">投资者关系</a></li>
+				<li><a href="duty.html">社会责任</a></li>
+				<li><a href="know.html">走进冠捷 </a></li>
+				<li><a href="contact.html">联络我们</a></li>
+			</ul>
+		</div>
+		<!-- 移动端导航结束 -->
+		<div class="logo-box">
+			<div class="container-fluid2">
+				<div class="row">
+					<div class="col-xs-12 clearfix">
+						<div class="logo pull-left">
+							<a href="index.html">
+								<img src="images/logo.png?v=1" alt="logo">
+							</a>
+						</div>
+						<nav class="hidden-xs hidden-sm pull-left">
+							<div class="container-fluid">
+								<ul class="clearfix">
+									<li><a href="info.html">企业资讯</a>
+										<div class="ul2">
+											<div class="li2"><a href="info.html">集团介绍</a></div>
+											<div class="li2"><a href="info.html">发展历程</a></div>
+											<div class="li2"><a href="info.html">管理团队</a></div>
+											<div class="li2"><a href="info.html">全球布局</a></div>
+											<div class="li2"><a href="info.html">市场地位</a></div>
+											<div class="li2"><a href="info.html">企业荣誉</a></div>
+										</div>
+									</li>
+									<li><a href="solutions.html">产品与解决方案</a>
+                                        <div class="ul2">
+                                            <div class="li2"><a href="solutions.html">产品中心</a></div>
+                                            <div class="li2"><a href="solve2.html">解决方案</a></div>
+                                            <div class="li2"><a href="smart-zz.html">智能制造 </a></div>
+                                            <div class="li2"><a href="core-index.html">核心技术</a></div>
+                                        </div>
+									</li>
+									<li><a href="madio.html">传媒中心</a>
+										<div class="ul2">
+											<div class="li2"><a href="madio.html">公司动态</a></div>
+											<div class="li2"><a href="madio.html">产品新闻</a></div>
+										</div>
+									</li>
+									<li><a href="essinfo.html">投资者关系</a>
+										<div class="ul2">
+											<div class="li2"><a href="essinfo.html">投资者关系概况</a></div>
+											<div class="li2 on"><a href="report2.html">信息披露</a>
+												<div class="ul3">
+													<div class="li3"><a href="report2.html">公司公告</a></div>
+													<div class="li3"><a href="report.html">定期报告</a></div>
+												</div>
+											</div>
+											<div class="li2"><a href="govern.html">公司治理</a></div>
+											<div class="li2"><a href="investor.html">投资者互动</a></div>
+											<div class="li2"><a href="inve-bh.html">投资者保护</a></div>
+										</div>
+									</li>
+									<li><a href="duty.html">社会责任</a>
+										<div class="ul2">
+											<div class="li2"><a href="duty.html">可持续发展</a></div>
+											<div class="li2"><a href="duty2.html">我们的承诺</a></div>
+											<div class="li2"><a href="duty3.html">报告与政策</a></div>
+										</div>
+									</li>
+									<li><a href="know.html">走进冠捷 </a>
+										<div class="ul2 on">
+											<div class="li2"><a href="know.html">人在冠捷</a></div>
+											<div class="li2"><a href="join.html">加入冠捷</a></div>
+										</div>
+									</li>
+									<li><a href="contact.html">联络我们</a></li>
+								</ul>
+							</div>
+						</nav>
+						<div class=" sosuo fr">
+							<div class="an fl">
+								<div class="p-on">
+									<div class="img">
+										<img src="./images/icon1.png" alt="">
+									</div>
+									<div class="p">商城</div>
+									<div class="ul2">
+										<div class="li2 on">
+											显示器
+											<div class="ul3">
+												<div class="li3"><a href="https://mall.jd.com/index-1000000715.html?from=pc" target="_blank">AOC京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://aocsm.tmall.com/" target="_blank">AOC天猫官方旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000000525.html" target="_blank">飞利浦显示器京东自营旗舰店</a></div>
+												<div class="li3">
+													<a href="https://philipsxsq.tmall.com/" target="_blank">飞利浦显示器天猫旗舰店</a>
+												</div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000338045.html?from=pc" target="_blank">易美逊显示器京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://yimeixun.tmall.com" target="_blank">易美逊天猫旗舰店</a></div>
+												<div class="li3"><a href="https://greatwall.jd.com/" target="_blank">长城显示器京东自营旗舰店</a></div>
+											</div>
+										</div>
+										<div class="li2 on">
+											电视
+											<div class="ul3">
+												<div class="li3"><a href="https://mall.jd.com/index-1000001095.html?from=pc" target="_blank">飞利浦电视京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://philipsds.tmall.com/?spm=a1z10.3-b-s.1997427721.d4918089.37e7b99f73mYaj" target="_blank">飞利浦电视天猫旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000335342.html?from=pc" target="_blank">AOC电视京东自营旗舰店</a></div>
+											</div>
+										</div>
+										<div class="li2 on">
+											商用显示
+											<div class="ul3">
+												<div class="li3"><a href="https://mall.jd.com/index-1000107821.html?from=pc" target="_blank">AOC商用显示京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000357643.html?from=pc" target="_blank">飞利浦商用显示京东自营旗舰店</a></div>
+											</div>
+										</div>
+										<div class="li2 on">
+											一体机
+											<div class="ul3">
+												<div class="li3"><a href="https://mall.jd.com/index-1000092561.html?from=pc" target="_blank">AOC电脑京东自营旗舰店</a></div>
+											</div>
+										</div>
+										<div class="li2 on">
+											影音产品及配件
+											<div class="ul3">
+												<div class="li3"><a href="https://feilipu.jd.com/" target="_blank">飞利浦影音京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-10048955.html" target="_blank">飞利浦影音京东旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000003020.html?from=pc" target="_blank">飞利浦家庭影音京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://philipsyy.tmall.com/?spm=a1z10.1-b-s.1997427721.d4918089.51272816vnX9RQ" target="_blank">飞利浦影音天猫官方旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-944922.html" target="_blank">飞利浦数码配件京东旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000357102.html" target="_blank">飞利浦充电宝京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000366726.html?from=pc" target="_blank">飞利浦插座京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000102784.html" target="_blank">飞利浦时尚影音京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000181445.html?from=pc" target="_blank">飞利浦数码影音京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000467585.html?from=pc" target="_blank">飞利浦蓝牙音响京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000000749.html?from=pc" target="_blank">飞利浦线材京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://mall.jd.com/index-1000116823.html?from=pc" target="_blank">AOC外设京东自营旗舰店</a></div>
+											</div>
+										</div>
+										<div class="li2 on">
+											移动通讯设备
+											<div class="ul3">
+												<div class="li3"><a href="https://mall.jd.com/index-1000013926.html?from=pc" target="_blank">飞利浦手机京东自营旗舰店</a></div>
+												<div class="li3"><a href="https://philipsshouji.tmall.com/?spm=a1z10.3-b.1997427721.d4918089.3d9f140akARbo3" target="_blank">飞利浦手机官方旗舰店</a></div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+							<div class="switch fr">
+								<div class="ico">
+									<a href="#">LANGUAGE</a>
+								</div>
+								<div class="drop">
+									<div class="t"><a href="javascript:zh_tran('s');" class="zh_click" id="zh_click_s">简体中文</a></div>
+									<div class="t"><a href="javascript:zh_tran('t');" class="zh_click" id="zh_click_t">繁體中文</a></div>
+									<div class="t"><a href="en/index.html">English</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- 返回顶部 -->
+			<div class="suspend_nav">
+				<div class="top">
+					<img src="./images/jiant16.png" alt="">
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- banner轮播 -->
+	<div class="banner">
+		<div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide" >
+                    <video src="./images/video.mp4" autoplay="autoplay" webkit-playsinline="true" ：
+                           x5-video-player-type="h5" muted poster="./images/bannerIndex1.jpg" id="myvideo" height="818"
+                           class="video-js" data-setup='{}'></video>
+                </div>
+                <div class="swiper-slide">
+                    <img src="./images/bannerIndex2_2023.jpg" style="width:100%;" alt="第二张" class="hidden-xs hidden-sm">
+                    <img src="./images/bannerIndex2_2023.jpg" style="width:100%;" alt="第二张" class="hidden-lg hidden-md">
+                </div>
+                <div class="swiper-slide">
+                    <img src="./images/bannerIndex3_2024.jpg" style="width:100%;" alt="第三张" class="hidden-xs hidden-sm">
+                    <img src="./images/bannerIndex3_2024.jpg" style="width:100%;" alt="第三张" class="hidden-lg hidden-md">
+                </div>
+                <div class="swiper-slide">
+                    <img src="./images/bannerIndex4_2024.png" style="width:100%;" alt="第四张" class="hidden-xs hidden-sm">
+                    <img src="./images/bannerIndex4_2024.png" style="width:100%;" alt="第四张" class="hidden-lg hidden-md">
+                </div>
+                <div class="swiper-slide">
+                    <img src="./images/bannerIndex5_2023.jpg" style="width:100%;" alt="第五张" class="hidden-xs hidden-sm">
+                    <img src="./images/bannerIndex5_2023.jpg" style="width:100%;" alt="第五张" class="hidden-lg hidden-md">
+                </div>
+                <div class="swiper-slide">
+                    <img src="./images/bannerIndex6.jpg" style="width:100%;" alt="第六张" class="hidden-xs hidden-sm">
+                    <img src="./images/bannerIndex6.jpg" style="width:100%;" alt="第六张" class="hidden-lg hidden-md">
+                </div>
+            </div>
+		</div>
+		<div class="swiper-pagination"></div>
+	</div>
+	<!--推荐产品-->
+	<div class="home1">
+		<div class="container-fluid">
+			<div class="title wow">
+				<h5>推荐产品</h5>
+			</div>
+			<div id="comProduct" class="con">
+				<a href="solutions.html?product=Monitor">
+					<div class="box wow ">
+						<div class="img">
+							<img src="./images/img1.jpg" alt="">
+						</div>
+						<div class="p">显示器产品</div>
+					</div>
+				</a>
+				<a href="solutions.html?product=TV">
+					<div class="box wow ">
+						<div class="img">
+							<img src="./images/img4.png" alt="">
+						</div>
+						<div class="p">电视产品</div>
+					</div>
+				</a>
+				<a href="solutions.html?product=BusinessMonitor">
+					<div class="box wow ">
+						<div class="img">
+							<img src="./images/img3.png?v=1" alt="">
+						</div>
+						<div class="p">商用显示产品</div>
+					</div>
+				</a>
+				<a href="solutions.html?product=AIO">
+					<div class="box wow ">
+						<div class="img">
+							<img src="./images/img2.png" alt="">
+						</div>
+						<div class="p">一体机产品</div>
+					</div>
+				</a>
+				<a href="solutions.html?product=AvProduct">
+					<div class="box wow ">
+						<div class="img">
+							<img src="./images/img5.png" alt="">
+						</div>
+						<div class="p">音频产品</div>
+					</div>
+				</a>
+				<a href="solutions.html?product=CellularPlatform">
+					<div class="box wow ">
+						<div class="img">
+							<img src="./images/img6.png" alt="">
+						</div>
+						<div class="p">移动通信设备</div>
+					</div>
+				</a>
+				<a href="solutions.html?product=SmartSpace">
+					<div class="box wow ">
+						<div class="img">
+							<img src="./images/indexSmartSpace.png" alt="">
+						</div>
+						<div class="p">智慧空间</div>
+					</div>
+				</a>
+			</div>
+			<div class="demo">
+				<a href="solutions.html">
+					了解更多
+				</a>
+			</div>
+		</div>
+	</div>
+	<!--传媒中心-->
+	<div class="home2">
+		<div class="container-fluid">
+			<div class="title wow " data-wow-duration="1s">
+				<h5>传媒中心</h5>
+			</div>
+			<div id="mediaCenter" class="con">
+				<div id="comNoTop" class="box wow"></div>
+			</div>
+			<div class="demo">
+				<a href="madio.html">
+					了解更多
+				</a>
+			</div>
+		</div>
+	</div>
+	<!--冠捷科技运营品牌-->
+	<div class="home3">
+		<div class="container-fluid">
+			<div class="title wow ">
+				<h5>运营品牌</h5>
+			</div>
+			<div class="con" id="brandList">
+				<div class="pp wow" >
+					<a href="http://www.aocmonitor.com.cn/" target="_blank">
+						<img src="./images/icon3.png" alt="">
+					</a>
+				</div>
+				<div class="pp wow">
+					<a href="http://www.mmd-p.com.cn/Philipsmonitor/" target="_blank">
+						<img src="./images/icon4.png" alt="">
+					</a>
+				</div>
+				<div class="pp wow">
+					<a href="http://www.agon-gaming.com/" target="_blank">
+						<img src="./images/icon5.png" alt="">
+					</a>
+				</div>
+				<div class="pp wow">
+					<!--<a href="https://www.evnia.philips/" target="_blank">
+						<img src="./images/iconEvnia.png" alt="">
+					</a>-->
+					<img src="./images/iconEvnia.png" alt="">
+				</div>
+				<div class="pp wow">
+					<a href="http://www.gwdisplay.cn/" target="_blank">
+						<img src="./images/icon7.png?v=1" alt="">
+					</a>
+				</div>
+				<div class="pp wow">
+					<a href="http://www.envision.cn/" target="_blank">
+						<img src="./images/icon6.png" alt="">
+					</a>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<!--footer-->
+	<div class="footer">
+		<div class="container-fluid">
+			<div class="foot1 clearfix">
+				<div class="logo1">
+					<a href="#">
+						<img src="./images/logo2.png" alt="">
+					</a>
+				</div>
+				<div class="nav1">
+					<ul>
+						<dl><a href="info.html">企业资讯</a> </dl>
+						<dd><a href="info.html">集团介绍</a></dd>
+						<dd><a href="info.html">发展历程</a></dd>
+						<dd><a href="info.html">管理团队</a></dd>
+						<dd><a href="info.html">全球布局</a></dd>
+						<dd><a href="info.html">市场地位</a></dd>
+						<dd><a href="info.html">企业荣誉</a></dd>
+					</ul>
+                    <ul>
+                        <dl><a href="solutions.html">产品与解决方案</a></dl>
+                        <dd><a href="solutions.html">产品中心</a></dd>
+                        <dd><a href="solve2.html">解决方案</a></dd>
+                        <dd><a href="smart-zz.html">智能制造 </a></dd>
+                        <dd><a href="core-index.html">核心技术</a></dd>
+                    </ul>
+					<ul>
+						<dl><a href="madio.html">传媒中心</a> </dl>
+						<dd><a href="madio.html">公司动态</a></dd>
+						<dd><a href="madio.html">产品新闻</a></dd>
+					</ul>
+					<ul>
+						<dl><a href="investor.html">投资者关系</a></dl>
+						<dd><a href="govern.html">投资者关系概览</a></dd>
+						<dd><a href="report2.html">信息披露</a></dd>
+						<dd><a href="govern.html">公司治理</a></dd>
+						<dd><a href="investor.html">投资者互动</a></dd>
+						<dd><a href="inve-bh.html">投资者保护</a></dd>
+					</ul>
+					<ul>
+						<dl> <a href="duty.html">社会责任</a> </dl>
+						<dd><a href="duty.html">可持续发展</a></dd>
+						<dd><a href="duty.html">我们的承诺</a></dd>
+						<dd><a href="duty.html">报告与政策</a></dd>
+					</ul>
+					<ul>
+						<dl> <a href="know.html">走进冠捷 </a> </dl>
+						<dd><a href="know.html">认识冠捷</a></dd>
+						<dd><a href="join.html">加入冠捷</a></dd>
+						<dd><a href="contact.html">联络我们</a></dd>
+					</ul>
+				</div>
+				<div class="ewm">
+					<div class="img">
+						<img src="./images/ewm.jpg" alt="">
+					</div>
+					<div class="t">关注我们</div>
+				</div>
+			</div>
+			<div class="foot2 clearfix">
+                <div class="le fl">
+                    <div class="t1 t">
+                        Copyright © 2026 冠捷电子科技股份有限公司 版权所有
+                    </div>
+                    <div class="t2 t">
+                        <a href="https://beian.miit.gov.cn" target="_blank" style="display:inline-block;vertical-align:top;padding-right:5px">闽ICP备13011732号</a>
+                        <div style="width:300px;margin:0 auto; padding:5px 0 0;display:inline-block;vertical-align:top">
+                            <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35021302000561" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="images/recordIcon.png" style="float:left;" /><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;">闽公网安备 35021302000561号</p></a>
+                        </div>
+                    </div>
+                    
+                </div>
+                
+				<div class="t4 t">
+					<a href="images/Privacy_Policy_CN_202107.pdf" target="_blank">隐私政策</a>
+				</div>
+				<div class="b-right fr">
+					<div class="nav3">
+						<ul>
+							<li><a href="#">中文站群</a>
+								<ul>
+									<li><a href="http://www.aocmonitor.com.cn/" target="_blank">AOC官方网站</a></li>
+									<li><a href="http://www.mmd-p.com.cn/Philipsmonitor/" target="_blank">飞利浦显示器官方网站</a></li>
+									<li><a href="http://www.agon-gaming.com/" target="_blank">AGON爱攻官网</a></li>
+									<li><a href="http://www.envision.cn/envision/Portal/Index" target="_blank">易美逊官方网站</a></li>
+									<li><a href="http://www.gwdisplay.cn/" target="_blank">长城显示器官方网站</a></li>
+									<li><a href="https://hr.tpv-tech.com" target="_blank">冠捷科技集团招聘网</a></li>
+								</ul>
+							</li>
+						</ul>
+						<ul>
+							<li><a href="#">海外站群</a>
+                                <ul>
+                                    <li><a href="https://aoc.com/home.html" target="_blank">AOC</a></li>
+                                    <li><a href="https://www.tpvision.com/" target="_blank">TP Vision</a></li>
+                                    <li><a href="https://mmdmonitors.com/" target="_blank">MMD Corporate</a></li>
+                                    <li><a href="https://www.tpv-tech.com.br/" target="_blank">TPV Brazil</a></li>
+                                    <li><a href="http://www.tpvpolska.pl/pl/" target="_blank">TPV Polska</a></li>
+                                    <!--<li><a href="https://tpvrussia.ru/" target="_blank">TPV CIS</a></li>-->
+                                    <li><a href="https://www.ppds.com/" target="_blank">PPDS</a></li>
+                                    <li><a style="cursor:default!important">EVNIA</a></li>
+                                </ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+<script type="text/javascript">
+		var banner = new Swiper('.banner .swiper-container', {
+		slidesPerView:1,
+		spaceBetween: 0,
+		loop:false,
+		speed:500,
+        observer: true,
+        autoHeight: true,
+		observeParents:true,
+			autoplay:{
+			delay:3000,
+			stopOnLastSlide: false,
+			disableOnInteraction: false,
+
+		},
+		navigation: {
+			nextEl: '.banner .swiper-button-next',
+			prevEl: '.banner .swiper-button-prev',
+		},
+		pagination:{
+			el: '.banner .swiper-pagination',
+			clickable: true,
+		},
+
+		on: {
+			slideChangeTransitionStart: function(){
+				if(this.activeIndex == 0 ){
+					var myVideo= document.getElementById("myvideo");
+					myVideo.baseURI="./images/video.mp4";
+					myVideo.load();
+					myVideo.play();
+				}
+			},
+		},
+
+	});
+
+	$(".banner .swiper-slide-active video").on('play', function() { // 播放中
+		banner.autoplay.stop();
+		// banner.stopAutoplay(); //停止轮播图轮播
+	});
+	$(".banner .swiper-slide-active video").on('timeupdate', function() { // 播放中
+		this.setAttribute('controls', true);
+	});
+	$(".banner .swiper-slide-active video").on('pause', function() { // 暂停时
+		banner.autoplay.start();
+	});
+	$(".banner .swiper-slide-active video").on('ended', function() { // 结束时
+		banner.autoplay.start();
+	});
+
+
+</script>
+
+<script src="./request/common.js?v=1.0.0"></script>
+<script>
+	getMedia();
+
+	function getMedia() {
+		var totalData = [];
+		var noTopData = {
+			informationType: 'CompanyDynamicNews',
+			pageindex: 1,
+			pagesize: 5,
+			language: 'Chinese'
+		};
+		var parmas = {
+			informationType: 'CompanyDynamicNews',
+			language: 'Chinese',
+			isPush: true,
+			pageindex: 1,
+			pagesize: 2
+		};
+		var newsList;
+		var companyList;
+		request.post(parmas).then(function (res2) {
+			newsList = res2.data;
+			request.post(noTopData).then(function (res) {
+				totalData = res.data;
+				totalData.forEach(function (j) {
+					j.sendTime = dayjs(j.sendTime, "YYYY/MM/DD HH:mm:ss").toDate().getTime();
+				});
+
+				function sortList(a, b) {
+					return a.sendTime - b.sendTime;
+				}
+
+				totalData = totalData.sort(sortList).reverse();
+				var times = totalData.map(function (item) {
+					return item.sendTime;
+				});
+				var newsData = totalData;
+				var listRightData = [];
+
+				for (var item = 0; item < newsData.length && item < 5; item++) {
+					listRightData.push(newsData[item]);
+					var formation = new Date(newsData[item].sendTime);
+					var y = formation.getFullYear();
+					var m = formation.getMonth() + 1;
+					var d = formation.getDate();
+
+					var temple = "<div class=\"text text1\"><a href=\"madio2.html?id=''&type=3\" class=\"clearfix\" ><div class=\"p\">".concat(y, ".").concat(m, ".").concat(d, "</div><div class=\"h\">").concat(newsData[item].title, "</div></a></div>");
+					$('#comNoTop').append(temple);
+				}
+
+				totalData.slice(0);
+				$('#comNoTop .text').on('click', function () {
+					var index = $('#comNoTop .text').index(this);
+					window.localStorage.setItem('indexRightList', JSON.stringify(listRightData[index]));
+				}); // 左侧大图
+
+				var listNewsData = newsList;
+				listNewsData.reverse();
+
+				for (var j = 0; j < listNewsData.length; j++) {
+					var formation = new Date(listNewsData[j].sendTime);
+					var y = formation.getFullYear();
+					var m = formation.getMonth() + 1;
+					var d = formation.getDate();
+					var temple = "<div class=\"box wow \" data-wow-duration=\"1s\"><a href=\"madio2.html?id=''type=0\" class=\"clearfix\"><div class=\"img\"><img src=\"".concat(listNewsData[j].titlePic, "\" alt=\"\"></div><div class=\"text\"><div class=\"h\">").concat(listNewsData[j].title, "</div><div class=\"p\">").concat(y, ".").concat(m, ".").concat(d, "</div></div></a></div>");
+					$('#mediaCenter').prepend(temple);
+				}
+
+				$('#mediaCenter .box').on('click', function () {
+					var index = $('#mediaCenter .box').index(this);
+					window.localStorage.setItem('pronewsData', JSON.stringify(listNewsData.reverse()[index]));
+				});
+			});
+		});
+	}
+
+	function compare(val) {
+		return function (a, b) {
+			var value1 = a[val];
+			var value2 = b[val];
+			return value1 - value2;
+		};
+	}
+</script>
+<script src="js/lang.js?v=20250115"></script>
+<script>
+	//当从英文版点击繁体版返回时，获取参数并转换成繁体，不带参数默认是简体
+	var langParmas = window.location.href.split('?')[1]
+	if (langParmas) {
+		var lang = langParmas.split('=')[1]
+		zh_tran(lang);
+	}
+</script>

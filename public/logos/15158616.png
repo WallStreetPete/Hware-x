@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-Hant-TW">
+<head>
+<title>澤米科技｜專業半導體光學鍍膜製造服務</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="distribution" content="global">
+<meta name="revisit-after" content="1 days">
+<meta name="robots" content="noimageindex">
+<meta property="og:locale" content="zh_TW" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="澤米科技｜專業半導體光學鍍膜製造服務" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.vactronics.com.tw/" />
+<meta property="og:site_name" content="澤米科技｜專業半導體光學鍍膜製造服務" />
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/bootstrap.css" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/style.css" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/swiper.css" type="text/css">
+<link rel="stylesheet" href="/front/theme/tf01/css/dark.css" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/font-icons.css" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/animate.css" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/magnific-popup.css" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/components/bs-switches.css" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/components/radio-checkbox.css" type="text/css" />
+<link rel="stylesheet" href="/library/font/font-awesome/css/font-awesome.css" type="text/css" />
+<link rel="stylesheet" href="/front/color/tf01/025/css/color.css" type="text/css" />
+<link rel="stylesheet" href="/front/theme/tf01/css/fonts/sws_m.css" type="text/css" />
+<script type="text/javascript" src="/front/theme/tf01/js/jquery.js"></script>
+<link rel="shortcut icon" href="/archive/favicon/favicon.ico" />
+<!--[if lt IE 9]>
+		<script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/library/external/jquery-confirm/3.3.4/css/jquery-confirm.min.css"/>
+<script type="text/javascript" src="/library/external/jquery-confirm/3.3.4/js/jquery-confirm.min.js"></script>
+</head>
+
+<body class="stretched">
+<div id="wrapper" class="clearfix"> 
+	<div id="top-bar" class="dark bg-color">
+		<div class="container clearfix">
+			<div class="row no-gutters justify-content-end">
+				
+				<div class="col-auto"> 
+					<div class="top-links">
+						<ul class="top-links-container">
+							<li class="top-links-item"><a href="/"><i class="icon-home"></i>回首頁</a></li>
+                            <li class="top-links-item"><a href="/article/公司環境">公司環境</a></li>
+							<li class="top-links-item"><a href="/article/聯絡方式">聯絡方式</a></li>
+							<li class="top-links-item"><a href="/en/">English</a></li>
+							<li class="top-links-item"><a href="/">中文</a></li>
+							<li class="top-links-item"><a href="/jp/">日本語</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<header id="header" data-mobile-sticky="true" data-sticky-class="not-dark">
+	<style>
+			@media (min-width: 992px) {
+				.mega-menu-full .mega-menu-content {
+					width: calc(100% - 30px);
+					left: 15px;
+					right: 15px;
+				}
+				.row.column-8 .col-lg {
+					-ms-flex: 0 0 12.5%;
+					flex: 0 0 12.5%;
+					max-width: 12.5%;
+				}
+				.row.column-9 .col-lg {
+					-ms-flex: 0 0 11.111%;
+					flex: 0 0 11.111%;
+					max-width: 11.111%;
+				}
+			}
+			@media only screen and (max-width: 1199.98px) and (min-width: 992px) {
+				.sub-title .menu-container > .menu-item > .menu-link {
+					padding-left: 5px;
+					padding-right: 5px;
+				}
+			}
+			@media only screen and (max-width: 1399.98px) and (min-width: 1200px) {
+				.sub-title .menu-container > .menu-item > .menu-link {
+					padding-left: 15px;
+					padding-right: 15px;
+				}
+			}
+		</style>
+	
+	<div id="header-wrap">
+		<div class="container clearfix">
+			<div class="header-row">
+				<div id="logo"> 
+										<a href="/" class="standard-logo"><img src="/archive/logo/normal/bG9nby4yMzg0ODg1NDA=.png" alt="澤米科技｜專業半導體光學鍍膜製造服務"></a>
+															<a href="/" class="retina-logo"><img src="/archive/logo/normal/bG9nby4yMzg0ODg4NjM=.png" alt="澤米科技｜專業半導體光學鍍膜製造服務"></a>
+									</div>
+				<div id="primary-menu-trigger">
+					<svg class="svg-trigger" viewBox="0 0 100 100">
+						<path d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20"></path>
+						<path d="m 30,50 h 40"></path>
+						<path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"></path>
+					</svg>
+				</div>
+				<nav class="primary-menu style-6">
+					<ul id="banner-menu" class="menu-container">
+												<li class="menu-item mega-menu mega-menu-full"> <a class="menu-link" href="/article/關於澤米" rel="nofollow">
+							<div>關於澤米</div>
+							<span></span> </a>
+														<div class="mega-menu-content mega-menu-style-2">
+								<div class="container">
+									<div class="row justify-content-center column-9">
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/關於澤米_about">
+														<div>關於澤米</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/公司沿革">
+														<div>公司沿革</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/營業狀況">
+														<div>營業狀況</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/公司組織_company">
+														<div>公司組織</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/營業團隊">
+														<div>經營團隊</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/公司願景">
+														<div>公司願景</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/經營理念">
+														<div>經營理念</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">管理系統</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/品質政策">
+														<div>品質政策</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/環安政策">
+														<div>環安衛政策</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/證書">
+														<div>證書</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/供應商管理">
+														<div>供應商管理</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																			</div>
+								</div>
+							</div>
+													</li>
+												<li class="menu-item mega-menu mega-menu-full"> <a class="menu-link" href="/article/產品資訊" rel="nofollow">
+							<div>產品資訊</div>
+							<span></span> </a>
+														<div class="mega-menu-content mega-menu-style-2">
+								<div class="container">
+									<div class="row justify-content-center column-9">
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">半導體光學</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/導電玻璃應用">
+														<div>導電玻璃應用</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/CIS相關ㄧㄥ">
+														<div>CIS相關應用</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/指紋辨識">
+														<div>指紋辨識</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/感測器">
+														<div>感測器</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/車載應用">
+														<div>車載應用</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">薄膜濾光片及光學鍍膜</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/智能手錶">
+														<div>智能手錶</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/AR－VR－MR(虛擬眼鏡)">
+														<div>AR-VR-MR(虛擬眼鏡)</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/LED">
+														<div>LED</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">精密光學元件製造</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/手機攝像頭相關">
+														<div>手機攝像頭相關</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/冷加工">
+														<div>冷加工</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/單眼相機">
+														<div>單眼相機</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																			</div>
+								</div>
+							</div>
+													</li>
+												<li class="menu-item mega-menu mega-menu-full"> <a class="menu-link" href="/article/研發與製造能力" rel="nofollow">
+							<div>研發與製造能力</div>
+							<span></span> </a>
+														<div class="mega-menu-content mega-menu-style-2">
+								<div class="container">
+									<div class="row justify-content-center column-9">
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">研發與製造能力</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/無塵室等級">
+														<div>無塵室等級</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/檢驗設備儀器">
+														<div>檢驗設備儀器</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/生產設備儀器">
+														<div>生產設備儀器</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/產品開發">
+														<div>產品開發</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/智慧生產">
+														<div>智慧生產</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/研發與專利申請">
+														<div>研發與專利申請</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																			</div>
+								</div>
+							</div>
+													</li>
+												<li class="menu-item mega-menu mega-menu-full"> <a class="menu-link" href="/news/" rel="nofollow">
+							<div>最新消息</div>
+							<span></span> </a>
+													</li>
+												<li class="menu-item mega-menu mega-menu-full"> <a class="menu-link" href="/article/投資人專區" rel="nofollow">
+							<div>投資人專區</div>
+							<span></span> </a>
+														<div class="mega-menu-content mega-menu-style-2">
+								<div class="container">
+									<div class="row justify-content-center column-9">
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">財務資訊</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/每月營業額">
+														<div>每月營業額</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/財務報表">
+														<div>財務報表</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/年報">
+														<div>年報</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/歷史資訊">
+														<div>歷史資訊</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">法人說明會</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/法人說明會資訊">
+														<div>法人說明會資訊</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/上市前業績發表會">
+														<div>上市前業績發表會</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">股東專欄</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/股東會資訊">
+														<div>股東會資訊</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/股利資訊">
+														<div>股利資訊</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/股價資訊">
+														<div>股價資訊</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/重大訊息">
+														<div>重大訊息</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">公司治理</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/組織與職掌">
+														<div>組織與職掌</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/公司治理運作情形">
+														<div>公司治理運作情形</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/內部稽核">
+														<div>內部稽核</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/相關規章及辦法">
+														<div>相關規章及辦法</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/內部人股權及內線交易教育宣導">
+														<div>內部人股權及內線交易教育宣導</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/董事會">
+														<div>董事會</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/主要股東名單">
+														<div>主要股東名單</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/聯絡方式_ContactUs">
+														<div>聯絡方式</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/經營誠信">
+														<div>經營誠信</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																			</div>
+								</div>
+							</div>
+													</li>
+												<li class="menu-item mega-menu mega-menu-full"> <a class="menu-link" href="/article/企業社會責任" rel="nofollow">
+							<div>企業社會責任</div>
+							<span></span> </a>
+														<div class="mega-menu-content mega-menu-style-2">
+								<div class="container">
+									<div class="row justify-content-center column-9">
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">永續經營</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/ESG企業永續報告書">
+														<div>ESG企業永續報告書</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/創新研發">
+														<div>創新研發</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/資訊安全">
+														<div>資訊安全</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/幸福職場">
+														<div>幸福職場</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<div class="menu-link">綠色營運</div>
+												
+																								<ul class="sub-menu-container" style="">
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/氣候變遷因應">
+														<div>氣候變遷因應</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/危害物質管理">
+														<div>危害物質管理</div>
+														</a> </li>
+																										<li class="menu-item"> <a class="menu-link pl-2" href="/article/環境政策">
+														<div>環境政策</div>
+														</a> </li>
+																									</ul>
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/社會參與">
+														<div>社會參與</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/利害關係人">
+														<div>利害關係人</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																			</div>
+								</div>
+							</div>
+													</li>
+												<li class="menu-item mega-menu mega-menu-full"> <a class="menu-link" href="/article/加入澤米" rel="nofollow">
+							<div>加入澤米</div>
+							<span></span> </a>
+														<div class="mega-menu-content mega-menu-style-2">
+								<div class="container">
+									<div class="row justify-content-center column-9">
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/人力資源">
+														<div>澤米文化</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/職缺資訊">
+														<div>職缺資訊</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/薪資福利">
+														<div>薪資福利</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/企業文化">
+														<div>交通方式</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/其他.">
+														<div>其他</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																			</div>
+								</div>
+							</div>
+													</li>
+												<li class="menu-item mega-menu mega-menu-full"> <a class="menu-link" href="/article/子公司(越南澤有廠)" rel="nofollow">
+							<div>子公司(越南澤有廠)</div>
+							<span></span> </a>
+														<div class="mega-menu-content mega-menu-style-2">
+								<div class="container">
+									<div class="row justify-content-center column-9">
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/關於澤有">
+														<div>關於澤有</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/製程能力">
+														<div>製程能力</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/製程設備">
+														<div>製程設備</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																				<ul class="sub-menu-container mega-menu-column col-lg">
+											<li class="menu-item mega-menu-title"> 		
+																																					<a class="menu-link" href="/article/產品線概覽">
+														<div>產品線概覽</div>
+													</a>	
+												
+																							</li>
+										</ul>
+																			</div>
+								</div>
+							</div>
+													</li>
+											</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<div class="header-wrap-clone"></div>
+</header>
+
+<section id="slider" class="slider-element swiper_wrapper min-vh-40 min-vh-lg-100 has-topbar" data-speed="650" data-autoplay="7000" data-loop="true" data-effect="fade">
+		<style>
+			@media (min-width: 992px) {
+				#slider.min-vh-lg-100:not(.include-header) {
+					min-height: calc(100vh - 100px) !important;
+				}
+				#slider.min-vh-lg-100.has-topbar:not(.include-header) {
+					min-height: calc(100vh - 160px) !important;
+				}
+				#slider.min-vh-lg-100.has-topbar.include-header {
+					min-height: calc(100vh - 40px) !important;
+				}
+			)
+		</style>
+		<div class="swiper-container swiper-parent">
+			<div class="swiper-wrapper">
+						<div class="swiper-slide dark">
+				<div class="container">
+					<div class="slider-caption">
+						<h2 class="ls0" data-animate="fadeInUp"></h2>
+						<span class="mt-2 mt-lg-3" data-animate="fadeInUp" data-delay="200"></span>
+					</div>
+				</div>
+				<div class="swiper-slide-bg" style="background-image: url('/archive/page/large/bWVzc2FnZUltYWdlXzE3MjcwNTk0Nzk3NzYuNzA2MDA4Mjc2.jpg'); background-position: center center; background-size: cover;"></div>
+			</div>
+						<div class="swiper-slide dark">
+				<div class="container">
+					<div class="slider-caption">
+						<h2 class="ls0" data-animate="fadeInUp"></h2>
+						<span class="mt-2 mt-lg-3" data-animate="fadeInUp" data-delay="200"></span>
+					</div>
+				</div>
+				<div class="swiper-slide-bg" style="background-image: url('/archive/page/large/bWVzc2FnZUltYWdlXzE3MjcwNTkzMTYyMzcuNzA2MDE1MzU3.jpg'); background-position: center center; background-size: cover;"></div>
+			</div>
+						<div class="swiper-slide dark">
+				<div class="container">
+					<div class="slider-caption">
+						<h2 class="ls0" data-animate="fadeInUp"></h2>
+						<span class="mt-2 mt-lg-3" data-animate="fadeInUp" data-delay="200"></span>
+					</div>
+				</div>
+				<div class="swiper-slide-bg" style="background-image: url('/archive/page/large/bWVzc2FnZUltYWdlXzE3MjcwNTg3MTA5OTguNzA1OTAxMDI0.jpg'); background-position: center center; background-size: cover;"></div>
+			</div>
+					</div>
+		<div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
+		<div class="slider-arrow-right"><i class="icon-angle-right"></i></div>
+		<div class="swiper-pagination"></div>
+	</div>
+</section>
+
+<div class="section bg-transparent p-0 m-0">
+	<div class="container py-5">
+<div class="row gutter-30 align-items-center">
+<div class="col-md-6">
+<div class="heading-block">
+<h1>關於澤米</h1>
+<span class="mt-0">傳承在光學領域中領先的根基，持續往最先進的技術開發並提供最完善的服務。</span></div>
+
+<p>澤米科技股份有限公司成立於 2003 年，擁有 Class-100 無塵等級的生產環境。從事於光學鍍膜、相機模組低通濾波器(OLPF)、薄膜光學鍍膜，半導體光學鍍膜，相關研發、生產與銷售。並跨入2&quot;~12&quot;半導體鍍膜，應用於: CMOS sensor，結構光，3D感測，時差測距，繞射光學元件，人臉辨識，虹膜辨識，5G光學感應器，屏下光學指紋 (FoD)，心肺血氧感測，以及VR 虛擬實境 (Virtual Reality)，AR 擴增實境 (Augmented Reality) 與 MR 混合實境 (Mixed Reality) 等相關應用；提供「專業半導體光學鍍膜製造服務」。</p>
+</div>
+
+<div class="col-md-6"><img alt="圖" src="/archive/image/aG9tZS1hYm91dC44OTU3ODQwNjA=.png" /></div>
+</div>
+</div></div>
+
+	
+	<footer id="footer" class="footer-01 border-width-0 text-md-left text-center">
+		<link rel="stylesheet" href="/front/footer/tf01_001/css/footer.css" type="text/css" />
+		<div class="container">
+			<div class="footer-widgets-wrap py-5">
+				<div class="row gutter-30">
+					<div class="col-md-3"> 
+						
+						<div id="footer-logo" class="mb-3">
+							<img src="/archive/logo/normal/Zm9vdGVyLWxvZ28uMjM4NDg5MTc4.png" alt="頁尾Logo">
+						</div>
+                        
+						<div id="footer-community">
+							                                                                                    						</div>
+
+					</div>
+					
+					
+					<div class="col-md-9">
+
+					<div id="footer-text">
+						<div class="row gutter-30">
+<div class="col-md">
+<div class="row col-mb-30">
+<div class="col-lg-auto">
+<div class="row gutter-20">
+<div class="col-auto">
+<h1 class="mb-0 text-white" style="font-size: 36px;"><i class="icon-phone3"></i></h1>
+</div>
+
+<div class="col"><span class="d-block small">連絡電話:</span>
+
+<h3 class="mb-0 text-white">+886-37-586396</h3>
+</div>
+</div>
+</div>
+
+<div class="col-lg-auto">
+<div class="row gutter-20">
+<div class="col-auto">
+<h1 class="mb-0 text-white" style="font-size: 36px;"><i class="icon-line-printer"></i></h1>
+</div>
+
+<div class="col"><span class="d-block small">傳真:</span>
+
+<h3 class="mb-0 text-white">+886-37-586400</h3>
+</div>
+</div>
+</div>
+
+<div class="col-lg-auto">
+<div class="row gutter-20">
+<div class="col-auto">
+<h1 class="mb-0 text-white" style="font-size: 36px;"><i class="icon-map-marker-alt"></i></h1>
+</div>
+
+<div class="col"><span class="d-block small">地址:</span>
+
+<p class="mb-0 text-larger">350 苗栗縣竹南鎮和興路330號 (竹南工業區)<br />
+No.330, Hexing Road, Jhunan, Miaoli, 350, Taiwan, R.O.C</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-3 col-lg-1">
+<div class="row justify-content-center">
+<div class="col-4 col-md-12"><img alt="" src="/archive/image/Zm9vdGVyLWxpbmstaW1nLTAxLjg5NTkxMTMxOQ==.jpg" /></div>
+</div>
+</div>
+</div>					</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="copyrights" class="py-3">
+			<div class="container">
+				<div class="row text-center text-md-left"> 
+					
+					<div id="footer-copyright" class="col-md-6">Copyright &copy; 2026 澤米科技｜專業半導體光學鍍膜製造服務. All rights reserved.</div>
+
+					<div id="footer-menu" class="col-md-6 copyright-links text-center text-md-right mb-0">
+                    	<a href="/page/服務條款">服務條款</a> / <a href="/page/隱私權政策">隱私權政策</a> / <a href="/page/Cookie政策">Cookie 政策</a>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</footer>
+
+</div>
+
+<div id="gotoTop" class="icon-angle-up"></div> 
+
+<script type="text/javascript" src="/front/theme/tf01/js/plugins.min.js"></script> 
+<script type="text/javascript" src="/front/theme/tf01/js/functions.js"></script>
+</body>
+</html>

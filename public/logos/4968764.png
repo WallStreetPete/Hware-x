@@ -1,0 +1,465 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+	<meta name="keywords" content="로체시스템즈(주)" />
+  <title>로체시스템즈(주)</title>
+	<link rel="stylesheet" type="text/css" href="css/default.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="css/board.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="css/board_new.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css" media="all">
+	<link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" media="all">
+	<!-- <link rel="stylesheet" type="text/css" href="css/fullpage.min.css" media="all">
+	<link rel="stylesheet" type="text/css" href="css/fullpage.css" media="all"> -->
+	<link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css" media="all">
+	<link rel="shortcut icon" href="images/favicon.ico" >
+	<script type="text/javascript" language="javascript" src="js/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" language="javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" language="javascript" src="js/jquery.gnb.js"></script>
+	<script type="text/javascript" language="javascript" src="js/nav.js"></script>
+	<script type="text/javascript" language="javascript" src="js/common.js"></script>
+	<script type="text/javascript" language="javascript" src="js/owl.carousel.min.js"></script>
+	<script type="text/javascript" language="javascript" src="js/jquery.fullPage.js"></script>
+	<script type="text/javascript" language="javascript" src="js/jquery.fullpage.extensions.min.js"></script>
+	<!-- <script type="text/javascript" language="javascript" src="js/fullpage.min.js"></script>
+	<script type="text/javascript" language="javascript" src="js/fullpage.js"></script> -->
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="js/respond.min.js"></script>
+	<![endif]-->
+	<script type="text/javascript">
+		<!--
+		function popup(URL, ws, hs, ts, ls, popupid, scroll){
+			if(GetCookie(popupid) != "no") {
+				str = popupid;
+				var pop = window.open(URL, str, "location=no,scrollbars="+scroll+",status=no,titlebar=no,toolbar=no,menubar=no,resizable=no,left="+ls+",top="+ts+", width="+ws+", height="+hs);
+				if(pop)
+					pop.focus();
+			}
+		}
+
+		function getCookieVal (offset) {
+		// offset 부터 ; 전까지의 값을 리턴한다.
+			var endstr = document.cookie.indexOf (";", offset);
+			if (endstr == -1){
+					endstr = document.cookie.length;
+			}
+			return unescape(document.cookie.substring(offset, endstr));
+		}
+		function GetCookie (name){
+		// 쿠키 name 의 쿠키값을 리턴한다
+			var arg = name + "=";
+			var alen = arg.length;
+			var clen = document.cookie.length;
+			var i = 0;
+			while (i < clen) {
+					var j = i + alen;
+					if (document.cookie.substring(i, j) == arg){
+							return getCookieVal (j);
+					}
+					i = document.cookie.indexOf(" ", i) + 1;
+					if (i == 0){
+							break;
+					}
+			}
+			return "yes";
+		}
+		//-->
+		$(document).ready(function() {
+			$('#fullpage').fullpage({
+				//options here
+				autoScrolling:true,
+				scrollHorizontally: true,
+				responsiveWidth:641
+			});
+
+			//methods
+			//$.fn.fullpage.setAllowScrolling(false);
+		});
+	</script>
+</head>
+
+
+<body>
+<div id="wrapper">
+	<div id="container">
+		<div id="header" class="main_header">
+			<div id="header_content">
+				<h1 class="logo"><a href="/"><img src="images/common/logo.png" alt="" /></a></h1>
+				<!-- nav //S-->
+				<div id="top_right">
+	<div id="menu-icon2" class="allmenu">
+		<span></span>
+		<span></span>
+		<span class="short"></span>
+	</div>
+	<nav>
+		<ul id="nav">
+
+			<li><a href="javascript:return false;" id="nav1">회사소개<span class="arrow"><img src="images/common/down_arrow.png" alt="" /></span></a>
+				<ul id="nav1_s">
+					<li><a href="index.php?hCode=INTRO_01_01">인사말</a></li>
+					<li><a href="index.php?hCode=INTRO_01_02">기업현황</a></li>
+					<li><a href="index.php?hCode=INTRO_01_09">시설안내</a></li>
+					<li><a href="index.php?hCode=INTRO_01_03">연혁</a></li>
+					<li><a href="index.php?hCode=INTRO_01_04">조직도</a></li>
+					<li><a href="index.php?hCode=INTRO_01_05">윤리경영</a></li>
+					<li><a href="index.php?hCode=INTRO_01_06">CI안내</a></li>
+					<li><a href="index.php?hCode=INTRO_01_07">찾아오시는길</a></li>
+					<li><a href="index.php?hCode=INTRO_01_08">해외법인</a></li>
+				</ul>
+			</li>
+
+			<li><a href="javascript:return false;" id="nav2">연구개발<span class="arrow"><img src="images/common/down_arrow.png" alt="" /></span></a>
+				<ul id="nav2_s">
+					<li><a href="index.php?hCode=RESEARCH_02_01">연구소소개</a></li>
+					<li><a href="index.php?hCode=RESEARCH_02_02">기술현황</a></li>
+				</ul>
+			</li>
+
+			<li><a href="javascript:return false;" id="nav3">제품정보<span class="arrow"><img src="images/common/down_arrow.png" alt="" /></span></a>
+				<ul id="nav3_s">
+					<li><a href="index.php?hCode=PRODUCT_03_01">FPD 물류</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_02">디스플레이 Module 장비</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_03">반도체 물류</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_04">Laser Cutting 장비</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_05">Wheel Cutting 장비</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_08">Stocker</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_06">Mobile Robot</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_09">Inkjet Printing System</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_07">기타</a></li>
+				</ul>
+			</li>
+
+			<li><a href="javascript:return false;" id="nav4">투자정보<span class="arrow"><img src="images/common/down_arrow.png" alt="" /></span></a>
+				<ul id="nav4_s">
+					<li><a href="index.php?hCode=INVEST_04_01">공시정보</a></li>
+					<li><a href="index.php?hCode=INVEST_04_02">주가정보</a></li>
+					<!-- <li><a href="index.php?hCode=INVEST_04_03">재무현황</a></li> -->
+				</ul>
+			</li>
+
+			<li><a href="javascript:return false;" id="nav5">채용정보<span class="arrow"><img src="images/common/down_arrow.png" alt="" /></span></a>
+				<ul id="nav5_s">
+					<li><a href="index.php?hCode=INCRUIT_05_01">인재상</a></li>
+					<li><a href="index.php?hCode=INCRUIT_05_02">인재/복지제도</a></li>
+					<!-- <li><a href="index.php?hCode=BOARD&bo_idx=3">채용소식</a></li> -->
+					<li><a href="index.php?hCode=INCRUIT_05_03">채용소식</a></li>
+				</ul>
+			</li>
+
+			<li><a href="javascript:return false;" id="nav6">고객센터<span class="arrow"><img src="images/common/down_arrow.png" alt="" /></span></a>
+				<ul id="nav6_s">
+					<li><a href="index.php?hCode=BOARD&bo_idx=1">공지사항</a></li>
+					<li><a href="index.php?hCode=CENTER_06_02">A/S안내</a></li>
+					<li><a href="index.php?hCode=CENTER_06_03">상담문의</a></li>
+					<li><a href="index.php?hCode=CENTER_06_04">사이버신문고</a></li>
+				</ul>
+			</li>
+
+		</ul>
+	</nav>
+</div>
+<script>
+	$(document).ready(function(){
+		$('#menu-icon2').click(function(){
+			$(this).toggleClass('open');
+		});
+	});
+</script>
+				<!-- nav //E-->
+			</div>
+			<!-- gnb //S-->
+			<nav id="gnb">
+				<div id="gnbBg">
+	<div id="gnbBg_wrap"></div>
+</div>
+<ul class="clearfix">
+	<li class="gnb1"><a href="index.php?hCode=INTRO_01_01">회사소개</a>
+		<ul class="gnb-2dep">
+			<li>
+				<ul class="gnb-2dep-wrap no-bg">
+					<li><a href="index.php?hCode=INTRO_01_01">인사말</a></li>
+					<li><a href="index.php?hCode=INTRO_01_02">기업현황</a></li>
+					<li><a href="index.php?hCode=INTRO_01_09">시설안내</a></li>
+					<li><a href="index.php?hCode=INTRO_01_03">연혁</a></li>
+					<li><a href="index.php?hCode=INTRO_01_04">조직도</a></li>
+					<li><a href="index.php?hCode=INTRO_01_05">윤리경영</a></li>
+					<li><a href="index.php?hCode=INTRO_01_06">CI안내</a></li>
+					<li><a href="index.php?hCode=INTRO_01_07">찾아오시는길</a></li>
+					<li><a href="index.php?hCode=INTRO_01_08">해외법인</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="gnb2"><a href="index.php?hCode=RESEARCH_02_01">연구개발</a>
+		<ul class="gnb-2dep">
+			<li>
+				<ul class="gnb-2dep-wrap">
+					<li><a href="index.php?hCode=RESEARCH_02_01">연구소소개</a></li>
+					<li><a href="index.php?hCode=RESEARCH_02_02">기술현황</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="gnb3"><a href="index.php?hCode=PRODUCT_03_01">제품정보</a>
+		<ul class="gnb-2dep">
+			<li>
+				<ul class="gnb-2dep-wrap">
+					<li><a href="index.php?hCode=PRODUCT_03_01">FPD 물류</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_02">디스플레이 Module 장비</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_03">반도체 물류</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_04">Laser Cutting 장비</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_05">Wheel Cutting 장비</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_08">Stocker</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_06">Mobile Robot</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_09">Inkjet Printing System</a></li>
+					<li><a href="index.php?hCode=PRODUCT_03_07">기타</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="gnb4"><a href="index.php?hCode=INVEST_04_01">투자정보</a>
+		<ul class="gnb-2dep">
+			<li>
+				<ul class="gnb-2dep-wrap">
+					<li><a href="index.php?hCode=INVEST_04_01">공시정보</a></li>
+					<li><a href="index.php?hCode=INVEST_04_02">주가정보</a></li>
+					<!-- <li><a href="index.php?hCode=INVEST_04_03">재무현황</a></li> -->
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="gnb5"><a href="index.php?hCode=INCRUIT_05_01">채용정보</a>
+		<ul class="gnb-2dep">
+			<li>
+				<ul class="gnb-2dep-wrap">
+					<li><a href="index.php?hCode=INCRUIT_05_01">인재상</a></li>
+					<li><a href="index.php?hCode=INCRUIT_05_02">인재/복지제도</a></li>
+					<!-- <li><a href="index.php?hCode=BOARD&bo_idx=3">채용소식</a></li> -->
+					<li><a href="index.php?hCode=INCRUIT_05_03">채용소식</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="gnb6"><a href="index.php?hCode=BOARD&bo_idx=1">고객센터</a>
+		<ul class="gnb-2dep">
+			<li>
+				<ul class="gnb-2dep-wrap">
+					<li><a href="index.php?hCode=BOARD&bo_idx=1">공지사항</a></li>
+					<li><a href="index.php?hCode=CENTER_06_02">A/S안내</a></li>
+					<li><a href="index.php?hCode=BOARD&bo_idx=2">상담문의</a></li>
+					<li><a href="index.php?hCode=CENTER_06_04">사이버신문고</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+<!-- 영문홈페이지 생기기전까지 가려두기 201029
+<ol class="lang">
+	<li><a href="#">KR</a></li>
+	<li><span><img src="../images/main/home_tit.jpg" alt=""></span></li>
+	<li><a href="#">EN</a></li>
+</ol>
+
+ -->
+			</nav>
+			<!-- gnb //E-->
+		</div>
+		<div id="fullpage" class="fullpage-wrapper">
+			<div id="section0" class="section">
+				<span class="scroll-btn">
+					<a href="#">
+						<span class="mouse">
+							<span>
+							</span>
+						</span>
+					</a>
+					<p>scroll me</p>
+				</span>
+
+				<video id="myVideo" loop autoplay muted data-autoplay>
+					<source src="images/main/rorze_20sec.mp4" type="video/mp4">
+				</video>
+				<div class="visual_txt">
+					<!-- <h2>RORZE SYSTEMS CORPORATION</h2>
+					<p class="center1">Creation of whole-humanitarian ideal value by developed technology</p>
+					<p class="center2">Maintenance of advanced technology is our mission</p>
+					<p class="center3">We will become the leader of semiconductor manufacturing equipment field.</p> -->
+					<script type="text/javascript">
+						$(function(){
+							// main ani
+							var visual_copy = $(".visual_txt");
+							var vcopy1 = $(".visual_txt h2").eq(0);
+							var vcopy2 = $(".visual_txt p.center1").eq(0);
+							var vcopy3 = $(".visual_txt p.center2").eq(0);
+							var vcopy4 = $(".visual_txt p.center3").eq(0);
+							//var maintxt = $(".main_txt");
+
+							//maintxt.css({backgroundSize:"100%"});
+							visual_copy.children().each(function(){
+								$(this).css({opacity:0});
+							});
+
+							if($(window).load(function(){
+								vcopy1.delay(200).animate({opacity:1}, 5000, "easeOutExpo");
+								vcopy2.delay(800).animate({opacity:1}, 5000, "easeOutExpo");
+								vcopy3.delay(1400).animate({opacity:1}, 5000, "easeOutExpo");
+								vcopy4.delay(2000).animate({opacity:1}, 5000, "easeOutExpo");
+								//maintxt.stop().delay(200).animate({backgroundSize:"100%"}, 5000, "easeOutExpo");
+							}));
+						});
+					</script>
+				</div>
+			</div>
+
+
+			<div id="section1" class="section">
+				<div class="sec1_wrap">
+					<div class="sec1_1">
+						<a href="index.php?hCode=INTRO_01_01">
+							<h5>GREETINGS</h5>
+							<p>RORZE소개 및 인사말입니다.</p>
+							<span><img src="../images/main/sec1_plus.png" alt=""></span>
+						</a>
+					</div>
+					<div class="sec1_2">
+						<a href="index.php?hCode=INTRO_01_03">
+							<h5>HISTORY</h5>
+							<p>RORZE의 역사를 소개합니다.</p>
+							<span><img src="../images/main/sec1_plus.png" alt=""></span>
+						</a>
+					</div>
+					<div class="sec1_3">
+						<a href="index.php?hCode=PRODUCT_03_01">
+							<h5>PRODUCT INFORMATION</h5>
+							<p>RORZE의 제품을 소개합니다.</p>
+							<span><img src="../images/main/sec1_plus.png" alt=""></span>
+						</a>
+					</div>
+				</div>
+			</div>
+
+
+			<div id="section2" class="section">
+				<div class="sec2_wrap">
+					<h5>NOTICE</h5>
+					<p>RORZE의 새로운 소식을 전달해드립니다.</p>
+					<div class="banner_slide_wrap">
+						<div class="banner_slider">
+							<ul class="owl-carousel">
+																		<li>
+											<a href="index.php?page=view&pg=1&idx=362&hCode=BOARD&bo_idx=1">
+												<p>로체시스템즈(주) 제 29기 감사보고서</p>
+												<span class="txt">로체시스템즈(주) 제 29기 감사보고서&nbsp;</span>
+												<span class="date">2026-03-25</span>
+											</a>
+										</li>
+																			<li>
+											<a href="index.php?page=view&pg=1&idx=361&hCode=BOARD&bo_idx=1">
+												<p>로체시스템즈(주) 제 29기 사업보고서</p>
+												<span class="txt">로체시스템즈(주) 제 29기 사업보고서​</span>
+												<span class="date">2026-03-25</span>
+											</a>
+										</li>
+																			<li>
+											<a href="index.php?page=view&pg=1&idx=360&hCode=BOARD&bo_idx=1">
+												<p>로체시스템즈(주) 제 29기 결산 공고 </p>
+												<span class="txt">로체시스템즈(주) 제 28기 결산 공고&nbsp;​</span>
+												<span class="date">2026-03-25</span>
+											</a>
+										</li>
+																			<li>
+											<a href="index.php?page=view&pg=1&idx=275&hCode=BOARD&bo_idx=1">
+												<p>로체시스템즈(주) 인권노동 경영 방침 및 원칙</p>
+												<span class="txt">로체시스템즈(주) 인권노동 경영 방침 및 원칙​</span>
+												<span class="date">2025-07-03</span>
+											</a>
+										</li>
+																			<li>
+											<a href="index.php?page=view&pg=1&idx=274&hCode=BOARD&bo_idx=1">
+												<p>로체시스템즈(주) RBA 행동규범</p>
+												<span class="txt">로체시스템즈(주) RBA 행동규범&nbsp;</span>
+												<span class="date">2025-07-03</span>
+											</a>
+										</li>
+																			<li>
+											<a href="index.php?page=view&pg=1&idx=213&hCode=BOARD&bo_idx=1">
+												<p>로체시스템즈(주) 제 28기 감사보고서</p>
+												<span class="txt">로체시스템즈(주) 제 28기 감사보고서&nbsp;</span>
+												<span class="date">2025-03-24</span>
+											</a>
+										</li>
+																			<li>
+											<a href="index.php?page=view&pg=1&idx=211&hCode=BOARD&bo_idx=1">
+												<p> 로체시스템즈(주) 제 28기 사업보고서</p>
+												<span class="txt">&nbsp;로체시스템즈(주) 제 28기 사업보고서</span>
+												<span class="date">2025-03-24</span>
+											</a>
+										</li>
+																			<li>
+											<a href="index.php?page=view&pg=1&idx=209&hCode=BOARD&bo_idx=1">
+												<p>로체시스템즈(주) 제 28기 결산 공고</p>
+												<span class="txt">로체시스템즈(주) 제 28기 결산 공고&nbsp;</span>
+												<span class="date">2025-03-24</span>
+											</a>
+										</li>
+																								</ul>
+						</div>
+						<script type="text/javascript">
+							$(document).ready(function(){
+								/* 제품슬라이드*/
+								$('.owl-carousel').owlCarousel({
+									navigation : true,
+									loop: true,
+									autoplay:3000,
+									pagination:false,
+									scrollPerPage:true,
+									mouseDrag:true,
+									//autoplayTimeout:1500,
+									//autoplayHoverPause:false,
+									responsive : {
+										0 : {
+											items : 1
+										},
+										640 : {
+											items : 1
+										},
+										800 : {
+											items : 4
+										}
+									}
+								});
+							});
+						</script>
+					</div>
+				</div>
+			</div>
+
+			<div id="footer" class="section fp-auto-height">
+				<div id="footer_content">
+					<div class="address">
+						<p><img src="../images/common/f_logo.png" alt=""></p>
+						<address>
+							<span>경기도 용인시 처인구 남사읍 완장천로 448-34 로체시스템즈(주)</span>
+							<span>T. 031)335-9100 &nbsp; &nbsp; | &nbsp; &nbsp; F. 031)337-1811</span>
+							<span>Copyrightⓒ 2005 RORZE SYSTEMS CORPORATION All right reserved. <!-- Made by Hicomp Int. --></span>
+						</address>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+<!--
+	//-->
+</script>

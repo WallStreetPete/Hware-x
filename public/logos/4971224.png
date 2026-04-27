@@ -1,0 +1,381 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>友威科技股份有限公司: 真空濺鍍設備、電漿設備、乾式蝕刻設備,真空鍍膜代工</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+  <meta name="MobileOptimized" content="width" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <!-- Favicons -->
+    <link href="https://www.uvat.com/assets/img/favicon.png" rel="icon">
+    <link href="https://www.uvat.com/assets/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Vendor CSS Files -->
+    <link href="https://www.uvat.com/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://www.uvat.com/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="https://www.uvat.com/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="https://www.uvat.com/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="https://www.uvat.com/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="https://www.uvat.com/assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="https://www.uvat.com/assets/vendor/aos/aos.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="https://www.uvat.com/assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Anyar - v2.2.1
+  * Template URL: https://bootstrapmade.com/anyar-free-multipurpose-one-page-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="d-none d-flex align-items-center fixed-top topbar-inner-pages ">
+    <div class="container d-flex align-items-center">
+      <div class="contact-info mr-auto">
+        <ul>
+          <li><i class='bx bx-font-family'></i><a href="https://www.uvat.com/index.html" class=" text-light ">繁體中文</a></li>
+          <li><i class='bx bx-font-family'></i> <a href="https://www.uvat.com/index_S.html" >简体中文</a></li>
+          <li><i class='bx bx-font-family'></i><a href="https://www.uvat.com/index_E.html" >English</a></li>
+        </ul>
+      </div>
+      <div class="social-links">  
+        <a href="https://www.facebook.com/%E5%8F%8B%E5%A8%81%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-143376982419507/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.weibo.com/uvat" target="_blank" class="weibo"><i class="ri-weibo-fill"></i></a>     
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top header-inner-pages">
+    <div class="container d-flex align-items-center">
+
+      <h1 class="logo mr-auto"><a href="https://www.uvat.com/index.html" class="scrollto"><img src="https://www.uvat.com/assets/img/logo.png" class=" rounded img-fluid d-block mx-auto"></a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="#header" class="logo mr-auto scrollto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav class="nav-menu d-none d-lg-block">
+          <ul>
+              <li class="active drop-down">
+                  <a href="https://www.uvat.com/about.html">關於友威</a>
+                  <ul>
+                      <li><a href="https://www.uvat.com/about.html">公司簡介</a></li>
+                      <li><a href="https://www.uvat.com/aboutmanage.html">經營理念</a></li>
+                      <li><a href="https://www.uvat.com/aboutorg.html">公司組織</a></li>
+                      <li><a href="https://www.uvat.com/aboutmilestone.html">重要里程碑</a></li>
+                      <li><a href="https://www.uvat.com/aboutaward.html">獲獎紀錄</a></li>
+                      <li><a href="https://www.uvat.com/aboutexcellence.html">精品獎專區</a></li>
+                  </ul>
+              </li>
+              <li class="drop-down">
+                  <a href="https://www.uvat.com/EquimentSemi.html">產品服務</a>
+                  <ul>
+                      <li class=" drop-down ">
+                          <a href="https://www.uvat.com/equimentsemi.html">設備服務</a>
+                          <ul>
+                              <li>
+                                  <a href="https://www.uvat.com/equimentsemi.html">半導體產業(封裝、載板)</a>
+                              </li>
+                              <li><a href="https://www.uvat.com/equimentplasma.html">電漿蝕刻應用</a></li>
+                              <li><a href="https://www.uvat.com/equimentoptics.html">光學產業應用</a></li>
+                              <li><a href="https://www.uvat.com/equimentcar.html">汽車產業應用</a></li>
+                              <li><a href="https://www.uvat.com/EquimentPassive.html">被動元件應用</a></li>
+                              <li><a href="https://www.uvat.com/equimentled.html">LED產業應用</a></li>
+                              <li><a href="https://www.uvat.com/customerservice.html">客戶服務</a></li>
+                          </ul>
+                      </li>
+                      <li class="drop-down">
+                          <a href="https://www.uvat.com/oemexterior.html">代工服務</a>
+                          <ul>
+                              <li><a href="https://www.uvat.com/oemexterior.html">外觀鍍膜</a></li>
+                              <li><a href="https://www.uvat.com/oemfunction.html">功能鍍膜</a></li>
+                              <li><a href="https://www.uvat.com/oemtouch.html">觸控產業</a></li>
+                              <li><a href="https://www.uvat.com/oembiological.html">生物科技</a></li>
+                          </ul>
+                      </li>
+
+                      <li><a href="https://www.uvat.com/technology.html">技術與能力</a></li>
+                  </ul>
+              </li>
+              <li class="drop-down">
+                  <a href="https://www.uvat.com/stockholderService.html">投資人服務</a>
+                  <ul>
+                      <li><!--<a href="stockprice.html">股價及股利資訊</a>--></li>
+                      <li>
+                          <a href="https://www.uvat.com/stockholderservice.html">股東服務</a>
+                      </li>
+                      <li><a href="https://www.uvat.com/financeInfo.html">財務資訊</a></li>
+                      <li class="drop-down">
+                          <a>公司治理專區</a>
+                          <ul>
+                              <li>
+                                  <a href="https://www.uvat.com/socialresponsibility.html">公司治理運作情形</a>
+                              </li>
+                              <li class="drop-down">
+                                  <a>董事會</a>
+                                  <ul>
+                                      <li><a href="https://www.uvat.com/stockholdermeeting2.html">董事會的組成</a></li>
+                                      <li><a href="https://www.uvat.com/stockholdermeeting4.html">董事會重要決議事項</a></li>
+                                      <li><a href="https://www.uvat.com/stockholdermeeting9.html">董事會成員多元化政策</a></li>
+                                      <li><a href="https://www.uvat.com/stockholdermeeting6.html">獨立董事資格條件暨相關訊息</a></li>
+                                  </ul>
+                              </li>
+                              <li class="drop-down">
+                                  <a>功能性委員會</a>
+                                  <ul>
+                                      <li><a href="https://www.uvat.com/directorcommunication.html">獨立董事與內部稽核主管及會計師之溝通情形</a></li>
+                                      <li><a href="https://www.uvat.com/FunctionalCommittee.html">功能性委員會成員組成及運作情形</a></li>
+                                  </ul>
+                              </li>
+                              <li><a href="https://www.uvat.com/stockholdermeeting5.html">組織運作規章</a></li>
+                              <li><a href="https://www.uvat.com/stockholdermeeting7.html">內部稽核之組織及運作</a></li>
+                          </ul>
+                      </li>
+                      <!--<li class="drop-down">
+                <a href="stockholdermeeting.html">股東會與董事會</a>
+                <ul>
+                    <li><a href="stockholdermeeting1.html">年報及股東會相關資訊</a></li>
+                    <li><a href="stockholdermeeting2.html">董事會的組成</a></li>
+                    <li><a href="stockholdermeeting3.html">重大訊息</a></li>
+                    <li><a href="stockholdermeeting4.html">董事會重要決議事項</a></li>
+                    <li><a href="stockholdermeeting5.html">組織運作規章</a></li>
+                    <li><a href="stockholdermeeting6.html">獨立董事資格條件暨相關訊息</a></li>
+                    <li><a href="stockholdermeeting7.html">內部稽核之組織及運作</a></li>
+                    <li><a href="stockholdermeeting8.html">持股比例佔前10名之股東</a></li>
+                </ul>
+            </li>-->
+                      <!--<li><a href="laborrelation.html">勞資關係</a></li>
+            <li><a href="corporgovernance.html">公司治理運作情形</a></li>
+            <li><a href="socialresponsibility.html">履行社會責任情形</a></li>
+            <li><a href="honestymanage.html">履行誠信經營情形</a></li>
+            <li><a href="directorcommunication.html">獨立董事與內部稽核主管及會計師之溝通情形</a></li>-->
+                  </ul>
+              </li>
+              <li class="drop-down">
+                  <a href="https://www.uvat.com/stakeholder.html">利害關係人專區</a>
+                  <ul>
+                      <li> <a href="https://www.uvat.com/stakeholder.html">利害關係人專區</a></li>
+                      <li> <a href="https://www.uvat.com/conflictminerals.html">衝突礦產政策</a></li>
+                  </ul>
+              </li>
+              <li class="drop-down">
+                  <a href="https://www.uvat.com/manpowerpolicy.html">人力資源</a>
+                  <ul>
+                      <li> <a href="https://www.uvat.com/manpowerpolicy.html">人力政策</a></li>
+                      <li> <a href="https://www.uvat.com/corporatedna.html">企業DNA</a></li>
+                      <li> <a href="https://www.uvat.com/welfaresystem.html">福利制度</a></li>
+                      <li> <a href="https://www.uvat.com/exercise.html">訓練與發展</a></li>
+                      <li> <a href="https://www.uvat.com/recruitment.html">人力招募</a></li>
+                      <li> <a href="https://www.uvat.com/trafficlocation.html">交通位置</a></li>
+                  </ul>
+              </li>
+              <li class="drop-down">
+                  <a href="./contactsalesman.html">聯絡我們</a>
+                  <ul>
+                      <li> <a href="https://www.uvat.com/contactsalesman.html">業務聯絡方式</a></li>
+                      <li> <a href="https://www.uvat.com/contactfactory.html">各廠聯絡方式</a></li>
+                  </ul>
+              </li>
+          </ul>
+      </nav><!-- .nav-menu -->
+
+    </div>
+  </header><!-- End Header -->
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="https://www.uvat.com/index.html">Home</a></li>
+          <li>404. error</li>
+        </ol>
+        <h2>Page Not Found</h2>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Blog Section ======= -->
+    <section id="blog" class="blog ">
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-8 entries">
+
+            <article class="entry entry-single">
+
+                <h2 class="entry-title">
+                    <i class='bx bx-error text-warning' ></i> 404. The requested URL cannot be found.
+                </h2>
+              <div class="entry-content">
+                  <!--<p>
+                      非常抱歉，您要尋找的資源可能已移除、名稱已變更，或暫時無法使用。
+                  </p>
+                  <p> 您可以嘗試由 <a href="index.html">友威科技</a>首頁 進入尋找您所需要的資訊</p>
+                  <p> 如果您認為有遺漏的資訊敬請 <a href="contactfactory_E.html">連絡我們</a>，謝謝您。</p>
+
+                  <p>
+                      We are sorry that we couldn't find the page you requested.
+                  </p>
+                  <p> You can <a href="contactfactory_E.html">contact us</a> to report this problem or find more information in <a href="index.html">UVAT homepage</a>. Thank you.</p>-->
+                  <blockquote>
+                      <i class="icofont-quote-left quote-left"></i>
+                      <p>
+                          非常抱歉，舊的友威網站已停用。
+                      </p>
+                      <p> 請您到新的 <a href="https://www.uvat.com/index.html">友威科技</a>網站 搜尋您所需要的資訊，謝謝。</p>
+                      <!--<p> 如果您認為有遺漏的資訊敬請 <a href="contactfactory_E.html">連絡我們</a>，謝謝您。</p>-->
+                      <br />
+                      <p>
+                          We are sorry that we couldn't find the page you requested.
+                      </p>
+                      <p> You can <a href="https://www.uvat.com/contactfactory_E.html">contact us</a> to report this problem or find more information in <a href="https://www.uvat.com/index.html">UVAT</a>. Thank you.</p>
+                      <i class="las la-quote-right quote-right"></i>
+                      <i class="icofont-quote-right quote-right"></i>
+                  </blockquote>
+              </div>
+
+
+            </article><!-- End blog entry -->
+          </div><!-- End blog entries list -->
+
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+              <h3 class="sidebar-title">Categories</h3>
+              <div class="sidebar-item categories">
+                <ul>
+                  <li><a href="https://www.uvat.com/about_E.html">About UVAT </a></li>
+                  <li><a href="https://www.uvat.com/aboutexcellence_E.html">Taiwan Excellence Award </a></li>
+                  <li><a href="https://www.uvat.com/equimentsemi_E.html">Equipment </a></li>
+                  <li><a href="https://www.uvat.com/oemexterior_E.html">OEM </a></li>
+                  <li><a href="https://www.uvat.com/stockholderservice_E.html">Investor Service </a></li>
+                  <li><a href="https://www.uvat.com/manpowerpolicy_E.html">Careers </a></li>
+                  <li><a href="https://www.uvat.com/contactfactory_E.html">Branches </a></li>
+                </ul>
+
+              </div><!-- End sidebar categories-->
+            </div><!-- End sidebar -->
+
+          </div><!-- End blog sidebar -->
+
+        </div>
+
+      </div>
+    </section><!-- End Blog Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-2 col-md-2 footer-links">
+                  <h4>關於友威</h4>
+                  <ul>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/about.html">公司簡介</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/aboutmanage.html">經營理念</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/aboutorg.html">公司組織</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/aboutmilestone.html">重要里程碑</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/aboutaward.html">獲獎紀錄</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/aboutexcellence.html">精品獎專區</a></li>
+                  </ul>
+              </div>
+              <div class="col-lg-2 col-md-2 footer-links">
+                  <h4>產品服務</h4>
+                  <ul>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/equimentsemi.html">設備服務</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/oemexterior.html">代工服務</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/technology.html">技術與能力</a></li>
+                  </ul>
+              </div>
+              <div class="col-lg-2 col-md-2 footer-links">
+                  <h4>投資人服務</h4>
+                  <ul>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/stockprice.html">股價及股利資訊</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/stockholderService.html">股東服務</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/financeInfo.html">財務資訊</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/stockholdermeeting.html">股東會與董事會</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/laborrelation.html">勞資關係</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/corporgovernance.html">公司治理運作情形</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/socialresponsibility.html">履行社會責任情形</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/honestymanage.html">履行誠信經營情形</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/directorcommunication.html">獨立董事與內部稽核主管及會計師之溝通情形</a></li>
+                  </ul>
+              </div>
+              <div class="col-lg-2 col-md-2 footer-links">
+                  <h4>利害關係人</h4>
+                  <ul>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/stakeholder.html">利害關係人專區</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/conflictminerals.html">衝突礦產政策</a></li>
+                  </ul>
+              </div>
+              <div class="col-lg-2 col-md-2 footer-links">
+                  <h4>人力資源</h4>
+                  <ul>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/manpowerpolicy.html">人力政策</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/corporatedna.html">企業DNA</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/welfaresystem.html">福利制度</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/exercise.html">訓練與發展</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/recruitment.html">人力招募</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/trafficlocation.html">交通位置</a></li>
+                  </ul>
+              </div>
+              <div class="col-lg-2 col-md-2 footer-links">
+                  <h4>聯絡我們</h4>
+                  <ul>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/contactsalesman.html">業務聯絡方式</a></li>
+                      <li><i class="bx bx-chevron-right"></i> <a href="https://www.uvat.com/contactfactory.html">各廠聯絡方式</a></li>
+                  </ul>
+                  <div class="social-links mt-3">
+                      <a href="https://www.facebook.com/%E5%8F%8B%E5%A8%81%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-143376982419507/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+                      <a href="https://www.weibo.com/uvat" target="_blank" class="weibo"><i class="ri-weibo-fill"></i></a>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+    <div class="container">
+        <div class="copyright">
+            <strong>Phone:</strong> +886-3-212-6201 
+            <strong>Email:</strong> <a href="mailto:sales@uvat.com" class="text-light">Sales@uvat.com</a> <br>
+            &copy; Copyright <strong><span> UVAT Technology Co., Ltd.</span></strong>. All Rights Reserved
+        </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/anyar-free-multipurpose-one-page-bootstrap-theme/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer>
+    <!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="https://www.uvat.com/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="https://www.uvat.com/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://www.uvat.com/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="https://www.uvat.com/assets/vendor/php-email-form/validate.js"></script>
+  <script src="https://www.uvat.com/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="https://www.uvat.com/assets/vendor/venobox/venobox.min.js"></script>
+  <script src="https://www.uvat.com/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://www.uvat.com/assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="https://www.uvat.com/assets/js/main.js"></script>
+
+</body>
+
+</html>

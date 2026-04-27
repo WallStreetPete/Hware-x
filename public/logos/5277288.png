@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html class="kor">
+<head>
+<title>PS Aunics, PS오닉스, psaunics, ps aunics, 피에스오닉스</title>
+<meta name="description" content="PS Aunics, 반도체, 마이크, MEMSMIC, memsmic, ECMMIC, ecmmic, MEMS, ECM, SMT, EMS, 블랙박스, blackbox, 베트남 smt조립, 베트남 ems조립" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="PS Aunics, PS오닉스, psaunics, ps aunics, 피에스오닉스" />
+<meta property="og:description" content="PS Aunics, 반도체, 마이크, MEMSMIC, memsmic, ECMMIC, ecmmic, MEMS, ECM, SMT, EMS, 블랙박스, blackbox, 베트남 smt조립, 베트남 ems조립" />
+<meta property="og:image" content="https://www.psaunics.com:443/superboard/data/siteconfig/" />
+<meta property="og:url" content="https://psaunics.com" />
+<meta name="naver-site-verification" content="49a9601b5d67462d1fb3166cc6a132b6007e03a0">
+<meta name="google-site-verification" content="">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=3, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="/css/fonts.css?20260427" />
+<link rel="stylesheet" type="text/css" href="/css/common.css?20260427" />
+<link rel="stylesheet" type="text/css" href="/css/global.css?20260427" />
+<link rel="stylesheet" type="text/css" href="/css/respond.css?20260427" />
+<script type="text/javascript" src="/js/jquery.min.js?20260427"></script>
+<script type="text/javascript" src="/js/gsap.min.js?20260427"></script>
+<script type="text/javascript" src="/js/global.js?20260427"></script>
+<script type="text/javascript" src="/js/java.js?20260427"></script>
+<script type="text/javascript" src="/js/ajaxController.js?20260427"></script>
+<script type="text/javascript" src="/js/dynamicController.js?20260427"></script>
+<script type="text/javascript" src="/js/formController.js?20260427"></script>
+<script type="text/javascript" src="/superboard/js/sb_board.js"></script>
+<script type="text/javascript" src="/superboard/js/web.util.js"></script>
+<script type="text/javascript">var href=window.document.location.href;var now_language='kor';if(href.indexOf('http://')!=-1){var protocols='http://';}if(href.indexOf('https://')!=-1){var protocols='https://';}var domain=href.replace(protocols,'');if(domain.indexOf('/')!=-1){domain=domain.substring(0,domain.indexOf('/'));}if(href.indexOf(protocols+domain+"/eng/")!=-1){var call_language="eng";}if(href.indexOf(protocols+domain+"/kor/")!=-1){var call_language="kor";}if(href.indexOf(protocols+domain+"/jpn/")!=-1){var call_language="jpn";}if(href.indexOf(protocols+domain+"/chn/")!=-1){var call_language="chn";}if(call_language&&now_language!=call_language){if(href.indexOf('?')!=-1){window.document.location.href=href+'&language='+call_language;}else{window.document.location.href=href+'?language='+call_language;}}</script>
+
+
+</head><body class="main">	<!-- progress bar -->
+	<div id="loading-screen">
+		<div class="in">
+			<div class="progress-bar">
+				<span id="progress"></span>
+			</div>
+			<div class="loading-text"><span id="progress-percent">0</span>%</div>
+		</div>
+	</div>
+
+
+	<div id="wrap">
+		<div id="skip-to-article"><a href="#content">본문 바로가기</a></div>
+
+<div id="_device_pc"></div>
+<div id="_device_ta"></div>
+<div id="_device_mo"></div>
+
+<!------------------
+PC,Mobile 공통 header
+------------------>
+<header id="header">
+	<div class="inner">
+
+		<!-- logo -->
+		<h1 class="logo">
+			<a href="/" alt="메인화면 바로가기"></a>
+		</h1>
+
+		<!-- gnb -->
+		<ul id="gnb">
+			<!--
+주소/?laguage=가 kor인 경우 /company/aboutus => _subpage/kor/company/aboutus.php
+주소/?laguage=가 eng인 경우 /company/aboutus => _subpage/eng/company/aboutus.php
+-->
+<li class="">
+	<a href="/company/vision">회사소개</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+        <li class=""><a href="/company/vision">비전</a></li>
+		<li class=""><a href="/company/history">회사 연혁</a></li>
+		<li class=""><a href="/company/philosophy">경영이념</a></li>
+		<li class=""><a href="/company/certificate">인증서</a></li>
+		<li class=""><a href="/company/location">사업장 소개</a></li>
+	</ul>
+</li>
+<li class="">
+	<a href="/business/mems">사업안내</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+        <li class=""><a href="/business/mems">MEMS</a></li>
+		<li class=""><a href="/business/automotive_system_solution">Automotive System Solution</a></li>
+		<li class=""><a href="/business/automotive_ev_solution">Automotive EV Solution</a></li>
+		<li class=""><a href="/business/electronic_manufacturing_service">Electronic Manufacturing Service</a></li>
+	</ul>
+</li>
+<li class="">
+	<a href="/product/list">제품소개</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+                <li class="">
+			<a href="/product/list?ca_id=01">MEMS</a>
+		</li>
+                <li class="">
+			<a href="/product/list?ca_id=02">ECM</a>
+		</li>
+                <li class="">
+			<a href="/product/list?ca_id=03">SENSOR</a>
+		</li>
+        	</ul>
+</li>
+<li class="">
+	<a href="/csr/csr">CSR</a>
+</li>
+<!--
+서브페이지에 LNB 자동 생성을 위해 GNB 소스코드가 추가 되어야 하지만 GNB에는 노출되지 않길 원하는 경우
+li 에 'hidden-gnb' Class 추가
+-->
+<li class=" hidden-gnb">
+	<a href="/doc/policy">약관 및 정책</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+		<li class=""><a href="/doc/policy">이용약관</a></li>
+		<li class=""><a href="/doc/private">개인정보처리방침</a></li>
+		<li class=""><a href="/doc/antiemail">이메일무단수집거부</a></li>
+	</ul>
+</li>
+
+
+		</ul>
+
+		<!-- tnb -->
+		<ul id="tnb">
+						<li><a href="/member/login">로그인</a></li>
+			<li><a href="/member/join">회원가입</a></li>
+						            <li><a href="#" data-pop-href="/popup/sitemap" data-pop-chain="pop1" data-pop-size="700,500">사이트맵(ajax modal 예시)</a></li>
+		</ul>
+
+		<!-- language select -->
+		<div id="hd-lan">
+			<!-- <a href="#">kor<div class="sound_only_ele">언어 선택 <strong>현재 선택된 언어는 kor 입니다.</strong></div></a>
+			<div class="sound_only_ele">언어 선택 하위 메뉴</div>
+			<ul>
+								<li><a href="/?language=eng">eng</a></li>
+								<li><a href="/?language=jpn">jpn</a></li>
+								<li><a href="/?language=chn">chn</a></li>
+							</ul> -->
+            <ul>
+                
+                <li class=" active "><a href="/?language=kor">KOR</a></li>
+                <li class=""><a href="/?language=eng">ENG</a></li>
+                <!-- <li class=""><a href="javascript:void(0);alert('준비중입니다.')">ENG</a></li> -->
+            </ul>
+		</div>
+
+		<!-- search button -->
+		<div id="hd-sch">
+			<button type="button" class="btn">Search<div class="sound_only_ele">검색창 열기</div></button>
+		</div>
+
+		<!-- slide button -->
+        <div id="slide-btn">
+			<button><span></span></button>
+			Open menu
+		</div>
+
+	</div>
+</header>
+
+<!-- 전체메뉴 -->
+<div id="drdw">
+	<ul class="inner"></ul>
+	<button class="close" data-no-tab-index>전체 메뉴 닫기</button>
+</div>
+
+<!-- search -->
+<div id="hd-sch-pop">
+	<form action="/search/result">
+		<fieldset>
+			<legend>검색 팝업창</legend>
+			<input type="text" class="inp" name="keyword" id="keyword" placeholder="검색어를 입력하세요." autocomplete="off" />
+			<label for="keyword" class="sound_only_ele">검색어 <strong>필수 입력</strong></label>
+			<button type="submit" class="sbm" data-no-tab-index>검색</button>
+			<button type="button" class="close" data-no-tab-index>검색 팝업창 닫기</button>
+		</fieldset>
+	</form>
+</div>
+
+
+<!------------------
+Mobile 햄버거메뉴
+------------------>
+<div id="slide-menu">
+	<div class="tit">
+
+		<!-- language select -->
+		<div id="hd-lan-mo">
+			<a href="#">kor</a>
+			<!-- <ul>
+								<li><a href="/?language=eng">eng</a></li>
+								<li><a href="/?language=jpn">jpn</a></li>
+								<li><a href="/?language=chn">chn</a></li>
+							</ul> -->
+            <ul>
+                <li class=" active "><a href="/?language=kor">KOR</a></li>
+                <li class=""><a href="/?language=eng">ENG</a></li>
+                <!--<li class=""><a href="/?language=eng">JPN</a></li>-->
+            </ul>
+		</div>
+
+		<!-- search -->
+		<div id="hd-sch-mo"><button type="button" class="btn">검색 팝업창 열기</button></div>
+		<a href="#" id="slide-close"></a>
+
+	</div>
+
+	<!-- tnb -->
+	<!--<ul id="tnb-mo">
+				<li><a href="/member/login">로그인</a></li>
+		<li><a href="/member/join">회원가입</a></li>
+				<li><a href="#" data-pop-href="/popup/sitemap" data-pop-chain="pop1" data-pop-size="700,500">사이트맵(ajax modal 예시)</a></li>
+	</ul>-->
+
+	<!-- gnb -->
+	<ul id="gnb-mo">
+		<!--
+주소/?laguage=가 kor인 경우 /company/aboutus => _subpage/kor/company/aboutus.php
+주소/?laguage=가 eng인 경우 /company/aboutus => _subpage/eng/company/aboutus.php
+-->
+<li class="">
+	<a href="/company/vision">회사소개</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+        <li class=""><a href="/company/vision">비전</a></li>
+		<li class=""><a href="/company/history">회사 연혁</a></li>
+		<li class=""><a href="/company/philosophy">경영이념</a></li>
+		<li class=""><a href="/company/certificate">인증서</a></li>
+		<li class=""><a href="/company/location">사업장 소개</a></li>
+	</ul>
+</li>
+<li class="">
+	<a href="/business/mems">사업안내</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+        <li class=""><a href="/business/mems">MEMS</a></li>
+		<li class=""><a href="/business/automotive_system_solution">Automotive System Solution</a></li>
+		<li class=""><a href="/business/automotive_ev_solution">Automotive EV Solution</a></li>
+		<li class=""><a href="/business/electronic_manufacturing_service">Electronic Manufacturing Service</a></li>
+	</ul>
+</li>
+<li class="">
+	<a href="/product/list">제품소개</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+                <li class="">
+			<a href="/product/list?ca_id=01">MEMS</a>
+		</li>
+                <li class="">
+			<a href="/product/list?ca_id=02">ECM</a>
+		</li>
+                <li class="">
+			<a href="/product/list?ca_id=03">SENSOR</a>
+		</li>
+        	</ul>
+</li>
+<li class="">
+	<a href="/csr/csr">CSR</a>
+</li>
+<!--
+서브페이지에 LNB 자동 생성을 위해 GNB 소스코드가 추가 되어야 하지만 GNB에는 노출되지 않길 원하는 경우
+li 에 'hidden-gnb' Class 추가
+-->
+<li class=" hidden-gnb">
+	<a href="/doc/policy">약관 및 정책</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+		<li class=""><a href="/doc/policy">이용약관</a></li>
+		<li class=""><a href="/doc/private">개인정보처리방침</a></li>
+		<li class=""><a href="/doc/antiemail">이메일무단수집거부</a></li>
+	</ul>
+</li>
+
+
+	</ul>
+</div>
+<div id="slide-bg"></div>
+
+
+<!------------------
+aside
+------------------>
+<aside id="asd">
+	<a href="#" class="aside_gotop">Go top</a>
+</aside>
+
+<div id="custom_cursor"></div>
+<div id="smooth-wrapper">
+    <div id="smooth-content">
+		<section id="main">
+			<div id="content">
+
+<div id="fullpage">
+    <!-- visual ( type1: 위치 / type2: 이미지,동영상구분 ) -->
+    <section class="section visual">
+        <div class="roll">
+                            <div class="item" >
+                    <a href="#" target="_blank" class="">
+                                                    <div class="txtbox">
+                                <h2 class="sectit">New value creator in IT <br>& automotive electronics.</h2>
+                                <p>센서에서부터 모듈, 완제품까지 PS오닉스는 고객에게 IT와 자동차 전장 분야의 새로운 가치를 제공합니다.</p>
+                            </div>
+                                                                                                <img src="https://www.psaunics.com:443/superboard/data/banner/20250526153534_68340bb661cfa_a4067e7dd9a4c313187e44b7f209284ec189cdb3.jpg" />
+                    </a>
+                </div>
+                                <div class="item" >
+                    <a href="#" target="_blank" class="">
+                                                                            <div class="txtbox">
+                                <h2 class="sectit">Delivers proactive technology for <br>a hyper-connected society</h2>
+                                <p>다가오는 모빌리티 테크의 세상, 그 안에 PS오닉스가 있습니다.</p>
+                            </div>
+                                                                        <img src="https://www.psaunics.com:443/superboard/data/banner/20250526153541_68340bbdcb8e4_02608fc32c9151aedb793cd211d0ab363c7aef5f.jpg" />
+                    </a>
+                </div>
+                                <div class="item" >
+                    <a href="#" target="_blank" class="">
+                                                                                                    <div class="txtbox">
+                                <h2 class="sectit">Whenever and Wherever you are, <br>We connect you to the world.</h2>
+                                <p>PS오닉스는 초 연결 사회를 위한 선제적인 기술을 제공합니다</p>
+                            </div>
+                                                <img src="https://www.psaunics.com:443/superboard/data/banner/20250526153548_68340bc486edf_0344b5601ec024e14ceb49b5dc700c4853d3f6d5.png" />
+                    </a>
+                </div>
+                        </div>
+        <div class="pagination">
+            <div class="dots_box">
+                <div class="dots"></div>
+                <button type="button" class="slick_state"><i class="axi axi-pause2"></i></i><i class="axi axi-play-arrow"></i></button>
+            </div>
+        </div>
+        <div class="arrows">
+            <button type="button" class="prev"><i class="axi axi-keyboard-arrow-left"></i><span class="sound_only_ele">이전 슬라이드</span></button>
+            <button type="button" class="next"><i class="axi axi-keyboard-arrow-right"></i><span class="sound_only_ele">다음 슬라이드</span></button>
+        </div>
+    </section>
+
+    <!-- main_pentastone 시작 -->
+    <section class="section main_pentastone">
+        <div class="inner">
+            <div class="tit_box">
+                <h3>PentaStone</h3>
+                <strong>IoT와 자동차 전장 제품의 <br class="__mo">전문화된 제조 기술로 고객에게 <br>고품질의 서비스를 제공하며 <br class="__mo">초 연결 시대의 선두에 서겠습니다.</strong>
+                <p>PS오닉스는 내재화된 멤스 및 제품 개발 <br class="__mo">기술 역량을 기반으로 고객이 원하는 <br>자동차 전장 및 IT 분야의 센서 및 <br class="__mo">모듈과 완제품의 토탈 솔루션을 제공합니다.</p>
+            </div>
+        </div>
+    </section>
+    <!-- .main_pentastone 끝 -->
+
+    <!-- main_pentastone 시작 -->
+    <section class="section main_category">
+        <div class="inner">
+            <ul>
+                <li>
+                    <a href="/business/mems">
+                        <div class="tit_box">
+                            <strong>나노머신</strong>
+                            <h3>MEMS</h3>
+                        </div>
+                        <div class="hover_box">
+                            <p>PS Aunics는 모바일, 음향기기, 자동차 및 <br class="__pc">IoT 제품의 요구 사항을 만족할 수 있는 <br class="__pc">다양한 마이크로폰을 공급하고 있습니다.</p>
+                            <span>View more <i class="axi axi-keyboard-arrow-right"></i></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/business/automotive_system_solution">
+                        <div class="tit_box">
+                            <strong>자동차 System 솔루션</strong>
+                            <h3>Automotive System <br class="__pc">Solution</h3>
+                        </div>
+                        <div class="hover_box">
+                            <p>완성차 신뢰성 요구사항을 만족하는 <br class="__pc">영상 저장 장치를 제공 합니다. <br class="__pc">Wi-Fi 원격 스트리밍 및 제어 및 <br class="__pc">AVN 연동 까지 다양한 고객의 요구사항을 <br class="__pc">만족하는 제품을 공급하고 있습니다.</p>
+                            <span>View more <i class="axi axi-keyboard-arrow-right"></i></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/business/automotive_ev_solution">
+                        <div class="tit_box">
+                            <strong>자동차 EV 솔루션</strong>
+                            <h3>Automotive EV <br class="__pc">Solution</h3>
+                        </div>
+                        <div class="hover_box">
+                            <p>완성차 신뢰성에 맞춘 Mag safe (Magnet) 등 <br class="__pc">다양한 요구사항을 만족하는 휴대폰 무선 충전기 솔루션을 <br class="__pc">제공합니다.</p>
+                            <span>View more <i class="axi axi-keyboard-arrow-right"></i></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/business/electronic_manufacturing_service">
+                        <div class="tit_box">
+                            <strong>전자 제조 서비스</strong>
+                            <h3>Electronic <br>Manufacturing Service</h3>
+                        </div>
+                        <div class="hover_box">
+                            <p>PS오닉스는 모바일, 웨어러블 디바이스, <br class="__pc">스마트 홈 제품 및 자동차용 제품까지 <br class="__pc">다양한 분야의 고객에게 제조 서비스를 제공하고 있습니다.</p>
+                            <span>View more <i class="axi axi-keyboard-arrow-right"></i></span>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <!-- .main_pentastone 끝 -->
+    
+    <section class="section foot fp-auto-height">
+        <!-- s:footer -->
+        
+		<footer id="footer">
+			<div class="fnbWrap">
+                <div class="fnb_left">
+                    <div class="f_logo">
+                        <img src="/images/layout/f_logo.png" alt="PS Aunics">
+                    </div>
+                    <!-- address -->
+                    <address>
+                                                                                                
+                                                                                    <br />
+                                     경기 성남시 중원구 둔촌대로 474  , 506호 (상대원동, 선텍시티1) <br>                                     TEL 031-704-0355<hr />                                    FAX : 031-704-0353                        
+                        
+                    </address>
+                </div>
+
+                <ul class="f_gnb">
+                    <!--
+주소/?laguage=가 kor인 경우 /company/aboutus => _subpage/kor/company/aboutus.php
+주소/?laguage=가 eng인 경우 /company/aboutus => _subpage/eng/company/aboutus.php
+-->
+<li class="">
+	<a href="/company/vision">회사소개</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+        <li class=""><a href="/company/vision">비전</a></li>
+		<li class=""><a href="/company/history">회사 연혁</a></li>
+		<li class=""><a href="/company/philosophy">경영이념</a></li>
+		<li class=""><a href="/company/certificate">인증서</a></li>
+		<li class=""><a href="/company/location">사업장 소개</a></li>
+	</ul>
+</li>
+<li class="">
+	<a href="/business/mems">사업안내</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+        <li class=""><a href="/business/mems">MEMS</a></li>
+		<li class=""><a href="/business/automotive_system_solution">Automotive System Solution</a></li>
+		<li class=""><a href="/business/automotive_ev_solution">Automotive EV Solution</a></li>
+		<li class=""><a href="/business/electronic_manufacturing_service">Electronic Manufacturing Service</a></li>
+	</ul>
+</li>
+<li class="">
+	<a href="/product/list">제품소개</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+                <li class="">
+			<a href="/product/list?ca_id=01">MEMS</a>
+		</li>
+                <li class="">
+			<a href="/product/list?ca_id=02">ECM</a>
+		</li>
+                <li class="">
+			<a href="/product/list?ca_id=03">SENSOR</a>
+		</li>
+        	</ul>
+</li>
+<li class="">
+	<a href="/csr/csr">CSR</a>
+</li>
+<!--
+서브페이지에 LNB 자동 생성을 위해 GNB 소스코드가 추가 되어야 하지만 GNB에는 노출되지 않길 원하는 경우
+li 에 'hidden-gnb' Class 추가
+-->
+<li class=" hidden-gnb">
+	<a href="/doc/policy">약관 및 정책</a>
+	<div class="sound_only_ele">하위메뉴</div>
+	<ul>
+		<li class=""><a href="/doc/policy">이용약관</a></li>
+		<li class=""><a href="/doc/private">개인정보처리방침</a></li>
+		<li class=""><a href="/doc/antiemail">이메일무단수집거부</a></li>
+	</ul>
+</li>
+
+
+                </ul>
+
+                <!-- body top button -->
+                <a href="#" id="gotop">페이지 상단으로 이동</a>
+			</div>
+			<div class="ftWrap">
+
+                <span class="copyright">COPYRIGHT(C) PS Aunics, Inc. ALL RIGHT RESERVED.</span>
+
+                <div>
+                    <!-- SNS Channels (지우지 마세요. 관리페이지에서 설정한 경우에만 자동 노출)-->
+                        
+                    <!-- family site -->
+                                        <div id="ft-fam">
+                        <a href="javascript: void(0);">관련 사이트</a>
+                        <div class="sound_only_ele">관련 사이트 하위메뉴</div>
+                        <ul>
+                                                        <li><a href="http://naver.com" target="_blank">네이버</a></li>
+                                                    </ul>
+                    </div>
+                        
+                    <!-- fnb -->
+                    <ul id="fnb">
+                        <!-- <li><a href="/company/location">찾아오시는길</a></li> -->
+                                                <!-- <li><a href="/doc/policy">이용약관</a></li> -->
+                        <li><a href="/doc/private">개인정보처리방침</a></li>
+                        <li><a href="/doc/antiemail">이메일무단수집거부</a></li>
+                                            </ul>
+                </div>
+                
+
+			</div>
+		</footer>
+	</div>
+</div>
+
+
+<!-- 스크립트 -->
+
+
+
+		<!-- e:footer -->
+    </section>
+    
+</div>
+
+<script type="text/javascript">
+$(function() {
+    visual.init();
+    // get_init_progress_bar.init();
+    main_motion.init();
+});
+
+$(document).ready(function () {
+    $('#fullpage').fullpage({
+        anchors: ['visual', 'pentastone', 'category', 'foot'],
+        // navigation: true,
+        menu: '.section_tab',
+        showActiveTooltip: true,
+        responsiveWidth: 1200,
+        css3: true,
+        onSlideLeave:  function(anchorLink, index, slideAnchor, slideIndex){
+
+        }
+    });
+});
+</script>
+<script type="text/javascript">
+function setCookie( name, value, expirehours ) {
+	var todayDate = new Date();
+	todayDate.setHours( todayDate.getHours() + expirehours );
+	document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";"
+}
+function getCookie( name ){
+	var nameOfCookie = name + "=";
+	var x = 0;
+	while ( x <= document.cookie.length ){
+		var y = (x+nameOfCookie.length);
+		if ( document.cookie.substring( x, y ) == nameOfCookie ){
+			if ( (endOfCookie=document.cookie.indexOf( ";", y )) == -1 )
+				endOfCookie = document.cookie.length;
+			return unescape( document.cookie.substring( y, endOfCookie ) );
+		}
+		x = document.cookie.indexOf( " ", x ) + 1;
+		if ( x == 0 )
+			break;
+	}
+	return "";
+}
+function closeAllWin(){
+    $('.sp-pop').remove();
+}
+</script>
+
+
+			</div>
+		</section>
+
+		<!-- s:footer -->
+        	</div>
+</body>
+</html>

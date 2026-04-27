@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- meta tag -->
+    <meta charset="utf-8">
+    <title>台虹科技股份有限公司</title>
+    <meta name="description" content="">
+    <!-- responsive tag -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
+
+    <link href="/css/xpedia.css" rel="stylesheet"/>
+
+    <link href="/css/main.css" rel="stylesheet"/>
+
+    <script src="/js/jquery.min.js"></script>
+
+    
+</head>
+<body class="defult-home">
+    <header>
+        <div class="container">
+            <div id="rs-header" class="rs-header">
+                <div class="menu-area menu-sticky">
+
+                </div>
+                <div class="bg_cover">
+                    <nav class="right_menu_togle hidden-md">
+
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+
+
+<div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+    <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class=active></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1" ></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2" ></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3" ></li>
+    </ol>
+    <div class="carousel-inner">
+
+            <div class="carousel-item active">
+
+                <img src="/Docs/Upload/WC2022011800009/idx_banner2.jpg" class="d-block w-100" alt="...">
+                    <div class="idx_ban_con_bg"></div>
+                    <div class="carousel-caption idx_ban_con">
+                        <div class="idx_ban_txt">
+                                <h5>
+                                    <h5>創新軟板實力<br />
+引領綠色永續</h5>
+
+                                </h5>
+                                                            <p>
+                                    
+                                </p>
+                                                            <div class="text-right">
+                                    <a href="https://www.taiflex.com.tw/pro.html" target="_blank" class="btn_rc">更多資訊</a>
+                                </div>
+                                                    </div>
+                    </div>
+            </div>
+            <div class="carousel-item ">
+
+                <img src="/Docs/Upload/WC2025112400002/台虹綠電.jpg" class="d-block w-100" alt="...">
+                    <div class="idx_ban_con_bg"></div>
+                    <div class="carousel-caption idx_ban_con">
+                        <div class="idx_ban_txt">
+                                <h5>
+                                    行動減碳<br />
+擁抱綠能時代
+                                </h5>
+                                                            <p>
+                                    
+                                </p>
+                                                            <div class="text-right">
+                                    <a href="https://www.taiflex.com.tw/esg_green" target="_blank" class="btn_rc">更多資訊</a>
+                                </div>
+                                                    </div>
+                    </div>
+            </div>
+            <div class="carousel-item ">
+
+                <img src="/Docs/Upload/WC2022022300002/idx_banner3.jpg" class="d-block w-100" alt="...">
+                    <div class="idx_ban_con_bg"></div>
+                    <div class="carousel-caption idx_ban_con">
+                        <div class="idx_ban_txt">
+                                <h5>
+                                    實踐ESG永續<br />
+轉動地球正能量
+                                </h5>
+                                                            <p>
+                                    
+                                </p>
+                                                            <div class="text-right">
+                                    <a href="https://www.taiflex.com.tw/esg_overview.html" target="_blank" class="btn_rc">更多資訊</a>
+                                </div>
+                                                    </div>
+                    </div>
+            </div>
+            <div class="carousel-item ">
+
+                <img src="/Docs/Upload/WC2022011800011/idx_banner3.jpg" class="d-block w-100" alt="...">
+                    <div class="idx_ban_con_bg"></div>
+                    <div class="carousel-caption idx_ban_con">
+                        <div class="idx_ban_txt">
+                                <h5>
+                                    科技智慧串聯世代<br />
+無限由你來定義
+                                </h5>
+                                                            <p>
+                                    
+                                </p>
+                                                            <div class="text-right">
+                                    <a href="https://www.taiflex.com.tw/rec.html" target="_blank" class="btn_rc">更多資訊</a>
+                                </div>
+                                                    </div>
+                    </div>
+            </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </button>
+</div>
+
+<section class="marquee_area mt-3">
+    <div class="container">
+        <div class="marquee-container">
+            <div class="marquee-content">
+                本集團企業採購人員不會要求供應廠商下載任何APP軟體進行報價或其他操作(詳見網站公告內文)，呼籲民眾接獲此類訊息應提高警覺，以免遭詐騙而蒙受損失。
+            </div>
+        </div>
+    </div>
+</section>
+
+    <section class="section_padding news_area pb-0">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="title">最新消息</h2>
+            </div>
+
+            <div class="swiper newsSwiper pt-3">
+                <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=D01534EE62F391E116A926FA491DD83D">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/Docs/Upload/WC2025042200001/如東富展科技有限公司綜合辦公大樓落成啟用典禮儀式.jpg); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>如東富展科技有限公司綜合辦公大樓落成啟用典禮儀式</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2025/04/19</div>
+                                        <p>
+
+【富築未來，展世風采】
+當全球籠罩在高度不確定的環境下時，台虹集團始終對大中華區市場潛力深具信心，決心打造如東富展科技成為大中華區重要的營運基地。自&nbsp;2022/12/20&nbsp;奠基動土，歷經近兩年時間，如東富展成功打造了符合二星級綠建築規範的綜合辦公大樓，在任何設計上都強調節能、環保、降噪、堅固，符合台虹集團在ESG上的持續努力及踏實腳步。
+
+這是一個【三方共築的典範】，感謝當地政府的支持、建築廠商的專業、富展團隊的努力，共同打造這座台虹集團的重要營運基石，並於&nbsp;2025/4/19&nbsp;正式啓航。
+台虹集團特別感謝當地政府官員、供應商及客戶的共襄盛舉，舉辦了隆重且別出心裁的開幕典禮。
+除了這座二星級綠建築之外，如東富展亦持續投資建置再生能源，致力實現使用潔淨能源的承諾。
+如東富展已於2024年8月建構360kW的太陽能發電系統，結至目前已累計發電30萬度，減少了170噸的CO2排放。
+
+今天值此重要儀式，如東富展科技決議再投入建置730kW的太陽能發電系統，年發電量可達90萬度，可進一步減少500噸的CO2排放。未來，如東富展科技將持續投資再生能源，期望將建置設備容量推升至2000kW，年總發電量達250萬度，為人類社會減少每年約1500噸的CO2排放。今日的開幕典禮，不僅是台虹集團發展歷程中的重要里程碑，更是我們邁向未來的新起點，象徵著我們對持續改善及永續發展的承諾。期待這座現代化的二星級綠建築，除了爲員工提供更舒適、高效的工作環境外，也爲台虹集團追求更遠大的目標奠定堅實的基礎，在未來的征程中再創輝煌！
+
+</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=812D26A320BCF142E3D1275EC4CEA61A">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/Docs/Upload/WC2025010200003/台虹科技榮獲健康勞動力永續領航企業典範獎–製造業組.jpg); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>台虹科技榮獲健康勞動力永續領航企業典範獎–製造業組</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2024/11/05</div>
+                                        <p>
+
+
+&nbsp;
+台虹科技專注於提供客戶信賴的先進軟性材料及創新應用整合服務。我們重視材料科技的進步，並長期投入人才培養，設有多元求職管道，確保公平任用機會。我們專注於高潛力技職人員的培養，通過完善的人力發展架構，提供具成長空間的職涯規畫，創造友善的職場環境。(上圖左至右分別為 受獎代表台虹科技董事林輔樂、頒獎人勞動部職業安全衛生署署長鄒子廉)
+
+在薪酬方面，我們保障至少13.5個月的年薪，並定期調薪及提供各類獎金。員工持股會及50%的公司陪存自提金進入個人信託帳戶也進一步提升員工的福利。此外，我們還提供彈性工時、居家辦公、新人假、生日假、災害假及健檢假，致力於打造幸福健康的職場。
+
+台虹科技在健康管理及促進關懷管理上，除提供同仁每年免費進行優於法定項目之健康檢查，並主動安排健檢異常、母性職工、異常工作負荷&hellip;等對象進行臨廠醫師諮詢指導或專業心理咨商轉介服務，也辦理不同型態健康促進活動協助同仁改善健康問題，在多元健康措施推動下不僅同仁配工適切安排、預防職業疾病外也提升身心理健康，致使健康檢查異常率逐年降低。
+
+近年來，台虹科技導入了化學雲系統和巡檢系統，進行危害化學品的環境監測，確保工作場所安全，即時識別和處理潛在風險。我們不斷努力創造安全健康的工作環境，確保員工安心工作。
+
+台虹科技秉持以人為本的理念，推動多元化發展和福利制度，曾榮獲多項獎項，包括國家訓練品質獎、勞動部工作生活平衡獎、高雄市典範企業領航獎、高雄市福企標籤大賞、教育部體育署之運動企業認證、經濟部產業園區管理局高屏分局『廠區安全防護工作績優獎』、『勞資關係優良獎』等，本次獲得「健康勞動力永續領航企業」殊榮，更展現了在員工健康安全與永續經營上的努力，並引領企業供應鏈提升健康勞動力的永續價值。
+
+&nbsp;
+
+</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=8E2941322B91BE5EDB483B3EE9B4543C">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/Docs/Upload/WC2024100400001/簽約照片2.JPG); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>TAZMO與台虹共同簽訂台日半導體合作備忘錄，在資策會及經濟部產業園區管理局見證下，T&amp;T產業合作聯盟正式成軍</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2024/10/04</div>
+                                        <p>日本TAZMO株式會社（TYO:6266）與台虹科技（TW:8039），今日於台北舉行「台日半導體合作備忘錄」公開簽署儀式暨記者會。在資策會董事長黃仲銘主持見證及經濟部產業園區管理局 楊柏耕局長致詞祝賀下，共同締結T&amp;T產業合作聯盟，並獲得眾多國內外供應鏈合作夥伴代表出席支持。
+
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+TAZMO株式會社是日本頂尖半導體設備供應商，其產品因優異的品質及良好的服務被國內外主要半導體廠商廣泛採用。台虹科技為全球軟性印刷電路板材料領導供應商，近年投入半導體先進封裝材料研發有成，特成立子公司台虹應用材料專注於半導體客戶服務，現產品已成功打入國內外先進封裝供應鏈，產品品質深獲肯定。
+
+TAZMO與台虹科技認同彼此技術及客戶服務能力具高度互補性，為強化彼此合作關係以提供客戶更好的服務，雙方合意簽署「台日半導體合作備忘錄」，締結「台日半導體產業合作聯盟」，聯盟名稱以TAZMO與台虹TAIFLEX英文名稱，取其字首命名為T&amp;T聯盟，展現日本設備廠與台灣先進材料廠透過聯盟合作，整合彼此資源以強化供應鏈服務的企圖心。
+
+法人表示T&amp;T聯盟所服務的目標客戶涵蓋國內晶圓代工及晶圓封裝等一線大廠，透過日本原廠技術支援及國內即時服務能力，擴大聯盟對客戶的產品及服務項目。現值國際半導體大廠擴大赴日投資之際，T&amp;T聯盟之成立代表台日半導體上下游供應鏈的緊密合作將持續深化，加速提供客戶所需的產品與服務，相信在台日企業的優勢互補下，將能展現強大的競爭優勢，站穩國際半導體領先位置。
+
+合作備忘錄在財團法人資訊工業策進會黃仲銘董事長見證下，由TAZMO佐藤泰之社長及台虹科技孫達汶董事長共同簽署，後續雙方將針對半導體先進封裝製程領域，共同開發產品及應用，提供客戶完整且即時的解決方案，攜手拓展海內外半導體先進封裝市場。
+
+據悉雙方已在高雄設立聯合實驗中心，與此同時TAZMO位於高雄之南部辦公室也已正式運作，雙方合作將更為緊密。隨著南部半導體S廊帶持續獲得國內及國際性指標半導體公司加碼投資及AI應用對高階半導體先進封裝技術的需求持續快速增長，相信TAZMO與台虹科技合作創立的T&amp;T聯盟，將為南部半導體S廊帶及其它國內外客戶帶來高品質的產品與服務，與客戶共同攜手成長，打造強韌且即時服務的在地化供應鏈。
+
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+(出席貴賓由左至右分別為 經濟部產業園區管理局高屏分局分局長游淑惠、經濟部產業園區管理局局長楊伯耕、台虹科技董事長孫達汶、資策會董事長黃仲銘、Tazmo株式會社社長佐藤泰之、台虹科技總經理江宗翰、Tazmo株式會社常務取締役曾根康博)</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=CEC623F3648C7C61BF2B4EB645116000">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/images/news_img.jpg); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>提醒廠商及民眾留意採購詐騙手法，切勿受騙上當！</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2024/09/04</div>
+                                        <p>
+一、 近日獲悉有不肖人士冒用台虹科技集團子公司採購人員名義，向不知情之廠商及網路賣家謊稱公司有設備或資材採購需求，以通訊軟體（如Line、FB Messenger）聯繫提供連結，要求廠商及賣家點擊下載其所指定之APP進行報價及填寫電子採購協議等手法進行詐騙。
+
+二、本集團於此嚴正申明：本集團所屬企業採購人員不會要求供應廠商下載任何APP進行報價或其他操作，呼籲所有廠商及民眾接獲此類訊息應提高警覺，切勿配合交付財物、提供個人資訊或點擊連結，並向以下相關單位查證，以免遭到詐騙而蒙受損失：
+
+
+台虹科技股份有限公司 總機：(07)813-9989
+查詢或撥打刑事局「165」反詐騙電話及網站連結：
+內政部警政署165全民防騙網 https://165.npa.gov.tw/#/
+
+保持鎮定、再三查證，以免落入詐騙陷阱。
+&nbsp;</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=85666FAD7F21A010B865BE25B1989F4E">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/Docs/Upload/WC2024051500002/20240515台虹泰國廠開幕照片2.JPG); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>台虹科技泰國子公司今盛大開幕</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2024/05/15</div>
+                                        <p>全球領先的軟板材料供應商台虹科技（股票代號：8039）今日（2024/5/15）在泰國安美德春武里工業園區（AMATA City Chonburi Industrial Estate）舉行泰國廠開幕典禮。這場活動由台虹董事長孫達汶、總經理江宗翰以及泰國廠總經理劉玲君共同主持。典禮現場冠蓋雲集，政府重要工商部門及當地工商界，包括泰國投資促進委員會（BOI）、泰國工業區管理局（IEAT）、駐泰國台北經濟文化辦事處經濟組組長倪克浩、安美德集團（AMATA）、泰國台商會皆派代表共襄盛舉。此外，台虹科技亦藉此機會邀請重要客戶、供應商及合作夥伴們齊聚一堂，整體開幕儀式氣氛熱烈。
+
+台虹科技自從2022年在泰國安美德春武里工業園區建立基地以來，即依據發展的需要展開全方位規劃，包括工廠建設、人才招募和培訓以及生產計畫等。泰國廠的佔地面積近4萬2千平方公尺，是台虹在東南亞的重要生產基地。待全面竣工後，將為集團增加50%的產能。目前，第一工廠及辦公大樓已於2023年底竣工，即投入生產試做，整體產線調教順利，已於2024年第一季完成正式量產準備，開始為集團貢獻產能。
+
+台虹科技自2017年起展開全球佈局，並自2022年決定赴泰國設廠，期間發生全球經濟情勢劇變，各界重視強化供應鏈韌性，並加速重組。面對供應鏈重組的挑戰，台虹科技泰國廠的開幕及運營為該集團全球佈局注入新的動力。現階段全球前三大軟板廠都在東南亞設有廠房或處於建廠階段，台虹泰國廠將使得整體東南亞軟板供應鏈更為完善。此外，泰國身為東南亞汽車生產重鎮，擁有完整的產業生態鏈。台虹做為目前唯一在泰國設廠的軟板材料供應商，並具備完整的車用材料量產實績及品質認證系統，深信將能在泰國汽車產業供應鏈中扮演重要角色，提供即時且完善的產品與服務。
+
+台虹科技泰國廠的開幕標誌著公司對於全球市場積極佈局的里程碑和長遠發展的堅定信心。集團將藉此掌握全球經濟情勢轉型之契機，進一步提升產品質量和服務水準，為全球客戶、合作夥伴和投資人創造更大的價值。</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=E1DE42AF771C2213A584030F098B0E19">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/Docs/Upload/WC2024020600001/簽約儀式.jpg); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>台虹科技集團深化綠電佈局，朝RE100邁大步，與泰國ENMAX Group簽署綠色電力證書交易合作協議</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2024/02/06</div>
+                                        <p>軟性銅箔基板大廠台虹科技集團（8039）與泰國ENMAX Group今(6)日於台虹高雄總部簽訂太陽能系統及綠證採購合約，達成綠色電力證書交易合作協議。
+
+
+
+台虹為致力於實現永續發展目標，積極推動低碳經濟，首先計畫將新設立之泰國廠打造為RE100的綠色工廠。本次與泰國 ENMAX Group合作，除了在泰國廠區建置屋頂型太陽能發電系統外，更重要的是簽署十年購置總量達7,500萬度之綠色電力證書採購協議，以順應客戶及國際社會對於實現綠色能源的期待，本次簽約亦為台虹實現RE100提供具體之解決方案。
+
+ENMAX Group擁有多年太陽能系統綜合設計建造經驗，其自主開發的即時監控人工智慧系統，可確保太陽能發電效能最佳化，至今已完成1,800多個項目，總裝置容量達250兆瓦，係一家專注於再生能源和節能技術的公司。
+
+綠能、低碳科技已是全球環境保護發展趨勢，台虹為有效推動永續發展目標，特別成立「永續發展中心」，負責統籌集團子公司永續發展事務，包括發電、用電、系統、產業、環境保護及世界趨勢的研究與執行，計畫於2030年前完整再生能源、低碳排放、循環經濟等擘劃，並於2050年達成RE100、碳中和以及 100% 循環經濟之永續目標。
+
+台虹泰國新廠將如預期於 2024年第二季量產，並將在5月舉行揭幕儀式，該廠全面竣工後，將成為集團綠色製造之示範標竿，並為集團東南亞營運奠定良好的發展基石。
+
+&nbsp;</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=4ECC435DE24E60C7495A8D1D246F63DA">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/Docs/Upload/WC2023041900003/如東富展舉辦動土典禮儀式.jpg); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>如東富展科技有限公司2022年12月20日舉辦動土典禮儀式</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2023/04/19</div>
+                                        <p>
+
+如東富展科技有限公司成立於2018年，係由全球軟性印刷電路板材料領導廠商台虹科技投資設立，主要業務為生產銅箔基板與覆蓋膜等產品，本公司第一期建設已經於2020年建設完成並投入生產。第二期建設於2022年12月20日舉辦動土典禮儀式。典禮當天，風和日麗、晴空萬里，由丁樂群董事長親自主持，帶領全體幹部一同用金鏟鏟金土，象徵著揮別過去三年的疫情陰霾，迎向更美好的未來，也為深耕大陸市場的長期策略發展預做準備，為客戶提供在地化、優質化、效率化的產品與服務。
+&nbsp; &nbsp;
+
+&nbsp;
+
+
+
+秉持著提供給客戶最值得信賴的先進軟性材料及創新應用整合服務的經營理念。二期項目為綜合樓與丙倉的建設，總建築面積達16,671平方米，項目建設結合低碳環保設計理念，主體建築物為國家級綠色建築二星級綜合樓，將能提供給員工現代化舒適的工作環境及休閒設施，吻合政府碳中和的長期目標，亦遵循國際ESG永續發展趨勢，同時兼顧經濟與環境保護，實現均衡管理發展。
+</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=38F3B8DDBD60B6AD14A2D1CAEE290EC0">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/Docs/Upload/WC2023030100001/20220523-2.jpg); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>台虹與AMATA簽訂泰國土地購買合約</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2022/05/06</div>
+                                        <p>台虹科技（8039）今日（2022/5/6）下午於泰國曼谷與安美德集團（AMATA）簽訂「安美德春武 里工業園區 土地購置契約」。隨著區域全面經濟夥伴協定（RCEP）簽署生效，台虹科技擬設立海外 生產據點以強化台虹全球競爭力，故台虹科技即以東南亞為海外佈局的優先選擇，最終落腳泰國安 美德春武里工業園區（Amata City Chonburi Industrial Estate）。
+&nbsp;
+
+
+經過五年來的評估與規劃，台虹科技全球佈局又跨出一大步，繼 2018 年於中國大陸江蘇省如東縣 設立如東富展科技做為大陸生產核心據點以強化大陸市場拓展，台虹續於 2022 年擴大投資二期建 設工程，藉以深化整體競爭優勢。同時，於 2020 年成立台虹應用材料，憑藉 20 多年來累積的深厚 配方經驗切入半導體先進封裝材料領域，並已取得相當成效之後，台虹科技為強化全球佈局，於 2022 年第一季設立泰國子公司，並通過泰國投資促進委員（BOI）的審核，後續可享有各項投資優 惠，預計投入 3,500 萬美金於泰國安美德春武里工業園區執行第一階段建廠，規劃於 2024 上半年 正式量產。
+
+台虹科技選擇立足泰國，主要著眼於泰國政府積極推動自由貿易，並設立「泰國 4.0」、「東部經濟 走廊發展計畫」等政策支持經濟及技術成長，同時，泰國位居戰略性的地理位置，為東南亞重要的 運輸樞紐，可進一步提升物流規劃彈性。此外，泰國高等教育普及，可為產業界持續提供頂尖人 才，有利於台虹科技於泰國的長遠發展。更重要的是泰國是東南亞的汽車製造重鎮，有東方底特律 之稱，擁有完整汽車供應鏈，是東南亞最大汽車製造與出口國，近年更積極推動電動汽車產業發展，台虹科技具備有電動車材料量產實績，做為唯一於泰國設廠的軟板材料供應商，將成為泰國汽 車零組件供應鏈一環，實現在地化生產、提供更即時的服務以滿足車用客戶需求。
+
+安美德集團具備 30 年工業區開發經驗，集團開發的工業區產值超過泰國整體 GDP 的 10%，位居泰國工商區開發的領導地位。安美德春武里工業園區位於泰國曼谷東南方的春武里府，隸屬泰國東部 經濟走廊（Eastern Economic Corridor, EEC），園區總面積達 4,000 公頃，為泰國最大的工業園 區。其進駐企業數超過 770 家，總勞動人口超過 21 萬人，已形成具備規模的產業群聚，生活、休 閒、教研等各項機能建全。
+
+現有二條高速公路，可以在半小時內抵達素萬那普（BKK）國際機場及 泰國最大港口林查班港（Laem Chabang），距離曼谷市區亦僅 1 小時車程，後續規劃的高鐵路線亦 預計在此設立站點，足顯其交通網絡的便利性。此外台灣及泰國合資開發的泰國「安美德台北智慧 城」（AMATA Taipei Smart City） 緊鄰現有工業區北方，也已在 2022 年 1 月動工，未來台商在此 形成產業聚落，更可匯集台灣廠商的技術及營運能力，創造無限商機。</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+
+                            <a href="/NewsPage?ID=38F3B8DDBD60B6AD2FFA995AB6C83A04">
+                                <div class="news_box">
+                                    <div class="news_left" style="background:url(/Docs/Upload/WC2023030100002/News.jpg); height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center;">
+                                        <img src="/images/news_img.jpg" alt="" style="opacity: 0;">
+                                        <div class="news_class">
+
+                                            公司新聞
+                                        </div>
+                                    </div>
+                                    <div class="news_right mt-3">
+                                        <h3>台虹科技泰國廠動土 目標 2024 年中量產</h3>
+                                        <div class="mb-1"><i class="ti-calendar"></i> 2022/12/20</div>
+                                        <p>
+
+
+台虹科技集團(簡稱台虹)全球布局再跨一步，軟板材料大廠台虹（8039）今(20)日於 其泰國廠預定地舉行動土典禮，由董事長孫達汶、副董事長徐建明及總經理江宗翰共 同動土奠基。與會來賓除了有 BOI、IEAT 等政府官員外，安美德集團（AMATA）、泰國 台商會以及當地工商界等代表亦一同蒞臨觀禮。 台虹泰國廠占地面積近 4 萬 2 千平方公尺，第一期工程計畫投資 3,500 萬美金，進行 雙面無膠銅箔基板製造，預計於 2024 年中量產。著眼於東南亞車載市場的龐大潛 力，陸續將規劃生產覆蓋膜、有膠銅箔基板等軟板材料。該廠全面竣工後，將為集團 增加 50%產能，成為台虹在東南亞的營運基地。
+
+
+&nbsp;
+
+台虹相當重視全球佈局，泰國地理環境位於東南亞大陸核心樞紐位置，在 RCEP 會員 國地位對全球布局有深遠影響；再者，東南亞地區兼具豐沛天然資源及優質人力，復以區域各種經貿協定，使該地區成為台商積極佈局的首選。台虹科技集團投資規畫小組，經過長期規劃與實地考察，進行超前部屬，決定落腳泰國。泰國亦是國際汽車製 造重鎮，具備完整全球汽車供應鏈，吸引各大車廠投入大量資源發展電動汽車產業。台虹除具備車用材料量產實績外，更是唯一於泰國設廠的軟板材料供應商，將有望在 泰國汽車供應鏈中扮演重要角色，提供更即時且完善的服務和產品，以滿足車用客戶需求。
+&nbsp;
+
+台虹今年喜事連連，不只在泰國舉辦建設工程，該公司在中國大陸江蘇省南通市的如 東富展科技公司，也同日啟動第二期工程動土典禮，第二期建設將提供員工更好的工 作環境與設施，也為大陸地區未來發展預做準備，厚植實力。面對科技快速變化及全球產業生態系重組，台虹不斷努力優化技術及產品，並深化全 球布局以掌握市場新需求開拓無限商機。
+</p>
+                                        <div class="news_btn">
+                                            <i class="ti-angle-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+    </section>
+
+<section class="section_padding pro_area">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="title">產品服務</h2>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="row pro_mob_reverse">
+                    <div class="col-xl-9 col-12">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="tab-content" id="v-pills-tabContent">
+                                    <div class="tab-pane fade show active" id="pro1" role="tabpanel"
+                                         aria-labelledby="pro1-tab">
+                                        <div class="row pro_mob_CLreverse">
+                                            <div class="col-md-6 col-12 text-center idx_proslide">
+                                                <div class="swiper proSwiper1">
+                                                    <div class="swiper-wrapper">
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FCCL_D_ED2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FCCL_D_ED1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FCCL_D_RA2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FCCL_D_RA1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FCCL_S_ED2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FCCL_S_ED1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FCCL_S_RA2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FCCL_S_RA1.jpg" alt="">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-button-next pro_btn1"></div>
+                                                <div class="swiper-button-prev pro_btn1"></div>
+                                            </div>
+
+                                            <div class="col-md-6 col-12">
+                                                <h3 class="item_title"><a href="pro_FCCL.html">軟性銅箔材料</a></h3>
+                                                <p>抗離子遷移性能優異、尺寸安定性佳及拉力強度高。</p>
+                                                <ul class="list_icon1 mt-4">
+                                                    <li>有膠軟性銅箔材料</li>
+                                                    <li>無膠軟性銅箔材料</li>
+                                                    <li>高頻軟性銅箔材料</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="pro2" role="tabpanel" aria-labelledby="pro2-tab">
+                                        <div class="row pro_mob_CLreverse">
+                                            <div class="col-md-6 col-12 text-center idx_proslide">
+                                                <div class="swiper proSwiper2">
+                                                    <div class="swiper-wrapper">
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/CVL_black2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/CVL_black1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/CVL_white2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/CVL_white1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/CVL_yellow2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/CVL_yellow1.jpg" alt="">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-button-next pro_btn2"></div>
+                                                <div class="swiper-button-prev pro_btn2"></div>
+                                            </div>
+
+                                            <div class="col-md-6 col-12">
+                                                <h3 class="item_title"><a href="pro_CVL.html">覆蓋膜</a></h3>
+                                                <p>泛用於各種多層板、軟硬結合版線路保護。</p>
+                                                <ul class="list_icon1 mt-4">
+                                                    <li>無鹵素覆蓋膜</li>
+                                                    <li>High-Tg覆蓋膜</li>
+                                                    <li>低離子覆蓋膜</li>
+                                                    <li>高頻覆蓋膜</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="pro3" role="tabpanel" aria-labelledby="pro3-tab">
+                                        <div class="row pro_mob_CLreverse">
+                                            <div class="col-md-6 col-12 text-center idx_proslide">
+                                                <div class="swiper proSwiper3">
+                                                    <div class="swiper-wrapper">
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/B／S2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/B／S1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/CVL_black1.jpg" alt="">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-button-next pro_btn3"></div>
+                                                <div class="swiper-button-prev pro_btn3"></div>
+                                            </div>
+                                            <div class="col-md-6 col-12">
+                                                <h3 class="item_title"><a href="pro_BS.html">純膠</a></h3>
+                                                <p>多層板與軟硬結合板結合用。</p>
+                                                <ul class="list_icon1 mt-4">
+                                                    <li>High-Tg純膠</li>
+                                                    <li>低離子純膠</li>
+                                                    <li>高頻純膠</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="pro4" role="tabpanel" aria-labelledby="pro4-tab">
+                                        <div class="row pro_mob_CLreverse">
+                                            <div class="col-md-6 col-12 text-center idx_proslide">
+                                                <div class="swiper proSwiper4">
+                                                    <div class="swiper-wrapper">
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FR_black2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FR_black1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FR_brown2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/FR_brown1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/MIA_black2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/MIA_black1.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/MIA_brown2.jpg" alt="">
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <img src="/images/idx_pro/MIA_brown1.jpg" alt="">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-button-next pro_btn4"></div>
+                                                <div class="swiper-button-prev pro_btn4"></div>
+                                            </div>
+                                            <div class="col-md-6 col-12">
+                                                <h3 class="item_title"><a href="pro_FR.html">複合材料</a></h3>
+                                                <p>泛用於各類型FPC強化。</p>
+                                                <ul class="list_icon1 mt-4">
+                                                    <li>補強板</li>
+                                                    <li>複合板</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-12 pro_tag">
+                        <div class="nav flex-row-reverse nav-pills" id="v-pills-tab" role="tablist"
+                             aria-orientation="vertical">
+                            <a class="nav-link active" id="pro1-tab" data-toggle="pill" href="#pro1" role="tab"
+                               aria-controls="pro1" aria-selected="true">
+                                <div class="l_icon">
+                                    <div class="l_icon_bor"></div>
+                                </div>
+                                <span>軟性銅箔材料</span>
+                                <div class="r_box"></div>
+                            </a>
+                            <a class="nav-link" id="pro2-tab" data-toggle="pill" href="#pro2" role="tab"
+                               aria-controls="pro2" aria-selected="false">
+                                <div class="l_icon">
+                                    <div class="l_icon_bor"></div>
+                                </div>
+                                <span>覆蓋膜</span>
+                                <div class="r_box"></div>
+                            </a>
+                            <a class="nav-link" id="pro3-tab" data-toggle="pill" href="#pro3" role="tab"
+                               aria-controls="pro3" aria-selected="false">
+                                <div class="l_icon">
+                                    <div class="l_icon_bor"></div>
+                                </div>
+                                <span>純膠</span>
+                                <div class="r_box"></div>
+                            </a>
+                            <a class="nav-link" id="pro4-tab" data-toggle="pill" href="#pro4" role="tab"
+                               aria-controls="pro4" aria-selected="false">
+                                <div class="l_icon">
+                                    <div class="l_icon_bor"></div>
+                                </div>
+                                <span>複合材料</span>
+                                <div class="r_box"></div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <a href="pro.html" class="img_box">
+                <div class="box_cover"></div>
+                <img src="/images/idx_pro_img1.jpg" alt="">
+                <h3>軟板材料</h3>
+            </a>
+            <a href="https://www.taichem.net/pro_sem.html" class="img_box" target="_blank">
+                <div class="box_cover"></div>
+                <img src="/images/idx_pro_img2.jpg" alt="">
+                <h3>先進封裝材料</h3>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="section_padding esg_area">
+    <!-- <div class="esg_bg">
+        <img src="images/esg_bg.jpg" alt="">
+    </div> -->
+    <div class="container">
+        <div class="text-center">
+            <h2 class="title text-white">ESG永續發展</h2>
+        </div>
+
+        <div class="swiper esgSwiper slide_center_top">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <a href="esg_overview.html"></a>
+                    <i class="icon-esg1"></i>
+                    <h3>總覽</h3>
+                </div>
+                <div class="swiper-slide">
+                    <a href="esg_stakeholders.html"></a>
+                    <i class="icon-esg2"></i>
+                    <h3>利害關係人專區</h3>
+                </div>
+                <div class="swiper-slide">
+                    <a href="esg_work.html"></a>
+                    <i class="icon-esg3"></i>
+                    <h3>職場友善</h3>
+                </div>
+                <div class="swiper-slide">
+                    <a href="esg_cer.html"></a>
+                    <i class="icon-esg4"></i>
+                    <h3>環境永續與綠色創新</h3>
+                </div>
+                <div class="swiper-slide">
+                    <a href="fund/index.html"></a>
+                    <i class="icon-esg5"></i>
+                    <h3>台虹教育基金會</h3>
+                </div>
+                <div class="swiper-slide">
+                    <a href="esg_green"></a>
+                    <i class="icon-esg6"></i>
+                    <h3>台虹綠電</h3>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+</section>
+
+<section class="section_padding recruit_area">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="title">人才招募</h2>
+        </div>
+        <div class="recruit_box">
+            <div class="recruit_bg"></div>
+            <div class="swiper recSwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="row align-items-center justify-content-center">
+                            <div class="col-lg-5 col-md-6 col-12">
+                                <div class="rec_img_box">
+                                    <img src="/images/rec_img2.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12 text-center rec_con">
+                                <div class="rec_text">
+                                    開創你的精彩人生
+                                </div>
+                                <a href="Login" class="btn_rc bg_white">加入台虹</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="row align-items-center justify-content-center">
+                            <div class="col-lg-5 col-md-6 col-12">
+                                <div class="rec_img_box">
+                                    <img src="/images/rec_img1.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12 text-center rec_con">
+                                <div class="rec_text">
+                                    樂在台虹
+                                </div>
+                                <a href="rec.html#Live" class="btn_rc bg_white">我在台虹</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="row align-items-center justify-content-center">
+                            <div class="col-lg-5 col-md-6 col-12">
+                                <div class="rec_img_box">
+                                    <img src="/images/rec_img3.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12 text-center rec_con">
+                                <div class="rec_text">
+                                    優渥吸晴的薪資福利
+                                </div>
+                                <a href="rec.html#Salary" class="btn_rc bg_white">薪資福利</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="row align-items-center justify-content-center">
+                            <div class="col-lg-5 col-md-6 col-12">
+                                <div class="rec_img_box">
+                                    <img src="/images/rec_img4.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12 text-center rec_con">
+                                <div class="rec_text">
+                                    成為世界級人才
+                                </div>
+                                <a href="rec.html#Learn" class="btn_rc bg_white">學習成長</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-button-next rec_btn"></div>
+            <div class="swiper-button-prev rec_btn"></div>
+        </div>
+    </div>
+</section>
+
+
+    <footer class="footer"></footer>
+    <div id="scrollUp">
+        <i class="icon-top"></i>
+    </div>
+    <!-- Search Modal Start -->
+    <div aria-hidden="true" class="modal fade search-modal" role="dialog" tabindex="-1">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true" class="fa fa-close"></span>
+        </button>
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="search-block clearfix">
+                    <!--<form>-->
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Search Here..." type="text">
+                    </div>
+                    <!--</form>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/js/LoadingJS.js"></script>
+
+    <script src="/Scripts/layui/layui.all.js"></script>
+
+    
+    <script>
+        var swiper = new Swiper(".newsSwiper", {
+            freeMode: true,
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 40,
+                    slidesPerGroup: 2,
+                },
+                1200: {
+                    slidesPerView: 3,
+                    spaceBetween: 20,
+                    slidesPerGroup: 1,
+                },
+            }
+        });
+        var swiper = new Swiper(".proSwiper1", {
+            freeMode: true,
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 40,
+                    slidesPerGroup: 2,
+                },
+                1200: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                    slidesPerGroup: 1,
+                },
+            },
+            navigation: {
+                nextEl: '.swiper-button-next.pro_btn1',
+                prevEl: '.swiper-button-prev.pro_btn1',
+            },
+        });
+        var swiper = new Swiper(".proSwiper2", {
+            freeMode: true,
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 40,
+                    slidesPerGroup: 2,
+                },
+                1200: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                    slidesPerGroup: 1,
+                },
+            },
+            navigation: {
+                nextEl: '.swiper-button-next.pro_btn2',
+                prevEl: '.swiper-button-prev.pro_btn2',
+            },
+        });
+        var swiper = new Swiper(".proSwiper3", {
+            freeMode: true,
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 40,
+                    slidesPerGroup: 2,
+                },
+                1200: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                    slidesPerGroup: 1,
+                },
+            },
+            navigation: {
+                nextEl: '.swiper-button-next.pro_btn3',
+                prevEl: '.swiper-button-prev.pro_btn3',
+            },
+        });
+        var swiper = new Swiper(".proSwiper4", {
+            freeMode: true,
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 40,
+                    slidesPerGroup: 2,
+                },
+                1200: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                    slidesPerGroup: 1,
+                },
+            },
+            navigation: {
+                nextEl: '.swiper-button-next.pro_btn4',
+                prevEl: '.swiper-button-prev.pro_btn4',
+            },
+        });
+
+        var swiper = new Swiper(".esgSwiper", {
+            freeMode: true,
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 20,
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 40,
+                    slidesPerGroup: 2,
+                },
+                1200: {
+                    slidesPerView: 3,
+                    spaceBetween: 20,
+                    slidesPerGroup: 1,
+                },
+            }
+        });
+
+        var swiper = new Swiper(".recSwiper", {
+            navigation: {
+                nextEl: ".swiper-button-next.rec_btn",
+                prevEl: ".swiper-button-prev.rec_btn",
+            },
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Cache-control" content="no-cache, no-store, must-revalidate">
+  <link rel="stylesheet" type="text/css" href="css/init.css?v=20221226.2" />
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" href="css/index.css?v=20221227.1" />
+  <title>首页
+
+  </title>
+</head>
+
+<body style="display: none;">
+  <div class="home">
+    <!-- Static navbar -->
+    <!--移动端才会显示的导航-->
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators top_carousel">
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner top_inner" role="listbox">
+      </div>
+    </div>
+    <div class="knowchase" id="know">
+      <div class="section-title">
+        <img src="img/introduce/lefyIcon@2x.svg" alt="" />
+        <h3 class="title-r">认识创识</h3>
+      </div>
+      <p class="jieshao_text pc">公司是一家电子支付IT方案商，主营业务为提供电子支付IT解决方案，公司产品是为商户及银行提供电子支付涉及的软件产品及服务,并且在必要的时候也会提供硬件产品和服务。以软件及云平台为驱动，以终端设备为载体，聚合各种支付渠道，为商户实现统一支付统一对账并结合行业特色应用，提升商户数字化水平。</p>
+      <p class=" jieshao_text ipad">公司是一家电子支付IT方案商，主营业务为提供电子支付IT解决方案，公司产品是为商户及银行提供电子支付涉及的软件产品及服务。并且在必要的时候也会提供硬件产品和服务。公司以软件及云平台为驱动，以终端设备为载体，聚合各种支付渠道，为商户实现统一支付统一对账并结合行业特色应用，提升商户数字化水平。</p>
+      <div class="container">
+        <!-- <div class="know_more_phone">
+         <a href="introduce.html"><img src="./img/home/phone_aboutmore.png" alt=""></a>
+        </div> -->
+        <div class="know_more_phone">
+          <a href="introduce.html">
+            <span>了解更多
+             <img class="more_m" src="img/home/phone_more.svg" alt=""></img>
+            </span>
+          </a>
+        </div>
+        <div class="row know_icon">
+          <div class="know_one col-lg-2 col-md-2">
+            <img class="icon_img icon1" src="./img/home/youshi.svg" ></img>
+            <p class="icon_number" id="aUlist-num1">1995</p>
+            <p class="icon_text">29年行业积淀</p>
+          </div>
+          <div class="know_one col-lg-2 col-md-2">
+            <img class="icon_img icon2" src="./img/home/huoju.svg"></img>
+            <p class="icon_number" id="aUlist-num2">3</p>
+            <p class="icon_text">国家级火炬计划项目</p>
+          </div>
+          <div class="know_one col-lg-2 col-md-2">
+            <img class="icon_img icon3" src="./img/home/jiangxiang.svg"></img>
+            <p class="icon_number" id="aUlist-num3">3</p>
+            <p class="icon_text">省部级科技进步奖</p>
+          </div>
+          <div class="know_one col-lg-2 col-md-2">
+            <img class="icon_img icon4" src="./img/home/hangye.svg"></img>
+            <p class="icon_number" id="aUlist-num4">30</p>
+            <p class="icon_text">业务覆盖近30个行业</p>
+          </div>
+          <div class="know_one col-lg-2 col-md-2">
+            <img class="icon_img icon5" src="./img/home/shangshi.svg"></img>
+            <p class="icon_number" id="aUlist-num5">2021</p>
+            <p class="icon_text">深交所创业板上市</p>
+          </div>
+        </div>
+        <div class="know_icon_phone">
+          <div class="know_one_top">
+            <img class="iconphone_img" src="./img/home/youshi.svg" width="43" height="44"></img>
+            <div class="know_one_right">
+              <p class="icon_number" id="phone-num1">1995</p>
+              <p class="icon_text">27年行业积淀</p>
+            </div>
+          </div>
+          <div class="know_row">
+            <div class="know_one">
+              <img class="iconphone_img iconphone_2" src="./img/home/huoju.svg" width="43" height="41"></img>
+              <div class="know_one_right">
+                <p class="icon_number" id="phone-num2">3</p>
+                <p class="icon_text">
+                  <div>国家级</div>
+                  <div>火炬计划项目</div>
+                </p>
+              </div>
+            </div>
+            <div class="know_one">
+              <img class="iconphone_img iconphone_2" src="./img/home/jiangxiang.svg" width="42" height="41"></img>
+              <div class="know_one_right">
+                <p class="icon_number" id="phone-num3">3</p>
+                <p class="icon_text">
+                  <div>省部级</div>
+                  <div>科技进步奖</div>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="know_row">
+            <div class="know_one">
+              <img class="iconphone_img iconphone_3" src="./img/home/hangye.svg" width="42" height="43"></img>
+              <div class="know_one_right">
+                <p class="icon_number" id="phone-num4">30</p>
+                <p class="icon_text">
+                  <div>业务覆盖</div>
+                  <div>近30个行业</div>
+                </p>
+              </div>
+            </div>
+            <div class="know_one">
+              <img class="iconphone_img iconphone_3" src="./img/home/shangshi.svg" width="49" height="46"></img>
+              <div class="know_one_right">
+                <p class="icon_number" id="phone-num5">2021</p>
+                <p class="icon_text">
+                  <div>上市</div>
+                  <div>深交所创业板</div>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="know_more">
+        <a  href="introduce.html">了解更多<span class="more_img"></span></a>
+      </div>
+    </div>
+    <div class="fangan" id="fang">
+      <div class="section-title">
+        <img src="img/introduce/lefyIcon@2x.svg" alt="" />
+        <h3 class="title-r">场景方案</h3>
+      </div>
+      <p class="jieshao_text">公司在多年的发展过程中不断坚持技术创新，推出了涵盖医院、养老、景区、酒店、交通、烟草、石油石化、财政非税、大型商超等近30个行业支付解决方案及餐饮、便利店、批发市场等中小商户支付解决方案。目前产品及服务可覆盖大、中、小、微商户、“线上+线下”等主要支付场景。</p>
+      <div class="jieshao_text_phone">
+        公司在多年的发展过程中不断坚持技术创新，推出了涵盖医院、养老、景区、酒店、交通、烟草、石油石化、财政非税、大型商超等近30个行业支付解决方案及餐饮、便利店、批发市场等中小商户支付解决方案。目前产品及服务可覆盖大、中、小、微商户、“线上+线下”等主要支付场景。
+      </div>
+      <div class="know_more_phone">
+        <a href="programme.html">
+          <span>了解更多
+           <img class="more_m" src="img/home/phone_more.svg" alt=""></img>
+          </span>
+        </a>
+      </div>
+      <a href="programme.html" class="fangan_a">
+        <img src="./img/home/programme.png" alt="" class="fangan_img">
+        <img src="./img/home/fanganPhone.png" alt="" class="fangan_phone_img" style="display:none">
+      </a>
+      <div class="know_more">
+        <a  href="programme.html">了解更多<span class="more_img"></span></a>
+      </div>
+    </div>
+    <div class="wenhua" id="cultrue">
+      <div class="section-title">
+        <img src="img/introduce/lefyIcon@2x.svg" alt="" />
+        <h3 class="title-r">企业文化</h3>
+      </div>
+      <div class="wenhua_one">
+        <div class="wenhua_title">
+          <p class="wenhua_title_text">愿景</p>
+          <p class="wenhua_title_eng">Vision</p>
+        </div>
+        <div class="wenhua_content">
+          <div class="wenhua_text">值得信赖的企业</div>
+          <img class="wenhua_icon" src="./img/home/yuanjing.png"></img>
+        </div>
+      </div>
+      <div class="wenhua_one">
+        <div class="wenhua_title">
+          <p class="wenhua_title_text">使命</p>
+          <p class="wenhua_title_eng mission">Mission</p>
+        </div>
+        <div class="wenhua_content">
+          <div class="wenhua_text">科技助力支付 共赢成就未来</div>
+          <img class="wenhua_icon shiming" src="./img/home/shiming.png"></img>
+        </div>
+      </div>
+      <div class="wenhua_one">
+        <div class="wenhua_title">
+          <p class="wenhua_title_text">价值观</p>
+          <p class="wenhua_title_eng">Values</p>
+        </div>
+        <div class="wenhua_content">
+          <div class="wenhua_text">同理心</div>
+          <img class="wenhua_icon" src="./img/home/tonglixin.png"></img>
+        </div>
+      </div>
+      <div class="wenhua_one">
+        <div class="wenhua_title">
+          <p class="wenhua_title_text">理念</p>
+          <p class="wenhua_title_eng">Idea</p>
+        </div>
+        <div class="wenhua_content">
+          <div class="wenhua_text">创造价值 共赢发展</div>
+          <img class="wenhua_icon" src="./img/home/linian.png"></img>
+        </div>
+      </div>
+      <div class="know_more">
+        <a  href="company-culture.html">了解更多<span class="more_img"></span></a>
+      </div>
+      <div class="know_more_phone">
+        <a href="company-culture.html">
+          <span>了解更多
+           <img class="more_m" src="img/home/phone_more.svg" alt=""></img>
+          </span>
+        </a>
+      </div>
+    </div>
+  </div>
+</body>
+<!--引入jq-->
+<script type="text/javascript" src="js/jquery-3.6.0.js"></script>
+<!--引入bootstra.js-->
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="data/homepage.js"></script>
+<script type="text/javascript" src="data/shufflingPlan.js"></script>
+<script src="./js/common.js?v=20221226.2"></script>
+<script type="text/javascript" src="./js/custom.js"></script>
+<!-- 数字滚动 -->
+<script type="text/javascript" src="./js/countup.min.js"></script>
+<script>
+  $(function () {
+    // 获取手指在轮播图元素上的一个滑动方向（左右）
+
+    // 获取界面上轮播图容器
+    var $carousels = $('.carousel');
+    var startX, endX;
+    // 在滑动的一定范围内，才切换图片
+    var offset = 50;
+    // 注册滑动事件
+    $carousels.on('touchstart', function (e) {
+      // 手指触摸开始时记录一下手指所在的坐标x
+      startX = e.originalEvent.touches[0].clientX;
+
+    });
+    $carousels.on('touchmove', function (e) {
+      // 目的是：记录手指离开屏幕一瞬间的位置 ，用move事件重复赋值
+      endX = e.originalEvent.touches[0].clientX;
+    });
+    $carousels.on('touchend', function (e) {
+      //console.log(endX);
+      //结束触摸一瞬间记录手指最后所在坐标x的位置 endX
+      //比较endX与startX的大小，并获取每次运动的距离，当距离大于一定值时认为是有方向的变化
+      var distance = Math.abs(startX - endX);
+      if (distance > offset) {
+        //说明有方向的变化
+        //根据获得的方向 判断是上一张还是下一张出现
+        $(this).carousel(startX > endX ? 'next' : 'prev');
+      }
+    })
+    if (data) {
+        var homepage = data
+        var width = document.documentElement.clientWidth
+        homepage.forEach((item, index) => {
+          let dian = ''
+          let img = ''
+          console.log(width)
+          if (width >= 768) {
+            if (index == 0) {
+              dian = `<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>`
+              img = `<div class="item active"><a href="${item.linkType}"><img src="${item.url}" alt="..."></a></div>`
+            } else {
+              dian = `<li data-target="#carousel-example-generic" data-slide-to="${index}"></li>`
+              img = `<div class="item"><a href="${item.linkType}"><img src="${item.url}" alt="..."></a></div>`
+            }
+            console.log(img)
+            $(".top_carousel").append(dian)
+            $(".top_inner").append(img)
+          } else {
+            if (index == 0) {
+              dian = `<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>`
+              img = `<div class="item active"><a href="${item.linkType}"><img src="${item.phoneUrl}" alt="..."></a></div>`
+            } else {
+              dian = `<li data-target="#carousel-example-generic" data-slide-to="${index}"></li>`
+              img = `<div class="item"><a href="${item.linkType}"><img src="${item.phoneUrl}" alt="..."></a></div>`
+            }
+            $(".top_carousel").append(dian)
+            $(".top_inner").append(img)
+          }
+        });
+      }
+      // if (planData) {
+      //   let plan = planData
+      //   plan.forEach((item, index) => {
+      //     let dian = ''
+      //     let img = ''
+      //     console.log(item)
+      //     if (index == 0) {
+      //       dian = `<li data-target="#carousel-fangan-generic" data-slide-to="0" class="active"></li>`
+      //       img = `<div class="item active"><a href="programme-detail.html?id=${item.id}"><img src="${item.imgUrl}" alt="..."></a></div>`
+      //       $(".fangan_carousel").append(dian)
+      //       $(".fangan_inner").append(img)
+      //     } else {
+      //       dian = `<li data-target="#carousel-fangan-generic" data-slide-to="${index}"></li>`
+      //       img = `<div class="item"><a href="programme-detail.html?id=${item.id}"><img src="${item.imgUrl}" alt="..."></a></div>`
+      //       $(".fangan_carousel").append(dian)
+      //       $(".fangan_inner").append(img)
+      //     }
+      //   })
+      // }
+  });
+</script>
+<script type="text/javascript">
+  $(function () {
+    $("body").css("display","block")
+    var windowsWidth = document.documentElement.clientWidth
+    if (windowsWidth >= 1280) {
+      //五大优势
+      $(window).scroll(function () {
+        if ($(".know_icon").hasClass("cur")) return false;
+        if ($(".know_icon").hasClass("active")) {
+          //数字跳动
+          var options = {
+            useEasing: true,
+            useGrouping: true,
+            separator: "",
+            decimal: ".",
+            prefix: "",
+            suffix: ""
+          };
+          var num1 = new countUp("aUlist-num1", 2022, 1995, 0, 3, options);
+          var num2 = new countUp("aUlist-num2", 0, 3, 0, 3, options);
+          var num3 = new countUp("aUlist-num3", 0, 3, 0, 3, options);
+          var num4 = new countUp("aUlist-num4", 0, 30, 0, 3, options);
+          var num5 = new countUp("aUlist-num5", 1995, 2021, 0, 3, options);
+          num1.start();
+          num2.start();
+          num3.start();
+          num4.start();
+          num5.start();
+          if ($(".know_icon").addClass("cur"));
+        }
+      });
+
+
+      /* 滚动效果 */
+      var scrollArrty = ['.know_icon'];
+      var scrI = 0;
+      var scrHeight = window.screen.availHeight;
+      $(window).scroll(function () {
+        scrollFn();
+      })
+
+      function scrollFn() {
+        if (scrI == scrollArrty.length) {
+          return false;
+        }
+        var boxPos = $(scrollArrty[scrI]).offset().top;
+        var winPos = $(window).scrollTop() + scrHeight - 300;
+        if (boxPos < winPos) {
+          $(scrollArrty[scrI]).addClass('active');
+          scrI++;
+          if (scrI < scrollArrty.length) {
+            scrollFn();
+          } else {
+            return false;
+          }
+        } else {
+          return false;
+        }
+      }
+      scrollFn();
+    } else {
+      //五大优势
+      $(window).scroll(function () {
+        if ($(".know_icon_phone").hasClass("cur")) return false;
+        if ($(".know_icon_phone").hasClass("active")) {
+          //数字跳动
+          var options = {
+            useEasing: true,
+            useGrouping: true,
+            separator: "",
+            decimal: ".",
+            prefix: "",
+            suffix: ""
+          };
+          var num1 = new countUp("phone-num1", 2022, 1995, 0, 3, options);
+          var num2 = new countUp("phone-num2", 0, 3, 0, 3, options);
+          var num3 = new countUp("phone-num3", 0, 5, 0, 3, options);
+          var num4 = new countUp("phone-num4", 0, 30, 0, 3, options);
+          var num5 = new countUp("phone-num5", 1995, 2021, 0, 3, options);
+          num1.start();
+          num2.start();
+          num3.start();
+          num4.start();
+          num5.start();
+          if ($(".know_icon_phone").addClass("cur"));
+        }
+      });
+
+
+      /* 滚动效果 */
+      var scrollArrty = ['.know_icon_phone'];
+      var scrI = 0;
+      var scrHeight = window.screen.availHeight;
+      $(window).scroll(function () {
+        scrollFn();
+      })
+
+      function scrollFn() {
+        if (scrI == scrollArrty.length) {
+          return false;
+        }
+        var boxPos = $(scrollArrty[scrI]).offset().top;
+        var winPos = $(window).scrollTop() + scrHeight - 300;
+        if (boxPos < winPos) {
+          $(scrollArrty[scrI]).addClass('active');
+          scrI++;
+          if (scrI < scrollArrty.length) {
+            scrollFn();
+          } else {
+            return false;
+          }
+        } else {
+          return false;
+        }
+      }
+      scrollFn();
+
+    }
+    if (windowsWidth  <=750) {
+      $('.fangan_img').css("display","none")
+      $('.fangan_phone_img').css("display","block")
+    }
+  })
+</script>
+<script type="text/javascript" src="js/font-size.js"></script>
+
+</html>

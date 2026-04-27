@@ -1,0 +1,819 @@
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="utf-8">
+    
+    <title>江苏常胜电器股份有限公司-热保护器,温度热保护器</title>
+	<meta name="keywords" content="保护器,温度热保护器,电流温度热保护器,江苏常胜电器股份有限公司">
+	<meta name="description" content="江苏常胜电器股份有限公司（证券代码：837157）是热保护器行业全球供应链系统解决方案服务商。公司致力于为全球家电、消费类电子产品和汽车制造领域，提供安全、高效、智能的保护方案。拥有完善的产品研发和生产制造系统，通过不断与终端客户的互动化研发，解决客户的痛点和难点，已经成为美的、海尔、格力、海信、大洋、九阳、惠而浦、松下、三星、LG、小熊、特斯拉等国内外一线品牌指定品牌和战略合作伙伴。">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,shrink-to-fit=no">
+	<link rel="stylesheet" href="/template/default/bootstrap/css/bootstrap.min.css" >
+	<link rel="stylesheet" href="/template/default/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/template/default/css/aoyun.css?v=v1.3.5" >
+	<link rel="stylesheet" href="/template/default/swiper-4.3.5/css/swiper.min.css">
+	<link rel="stylesheet" href="/template/default/css/animate.css">
+    <link rel="stylesheet" href="/template/default/css/Layout.css" >
+    <link rel="stylesheet" href="/template/default/css/comm.css" >
+    <link rel="stylesheet" href="/template/default/dist/aos.css" />
+	<link rel="stylesheet" href="/template/default/dist/styles.css" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<script src="/template/default/js/jquery-1.12.4.min.js" ></script>
+    <SCRIPT type=text/javascript>
+	$(function () {
+	$('.content_2 img').hover(
+	function() {$(this).fadeTo("fast", 0.8);},
+	function() {$(this).fadeTo("fast", 1);
+	});
+	});
+	</SCRIPT>
+    
+        <SCRIPT type=text/javascript>
+
+
+$(function(){
+$(".menu_lan").hover(function(){
+	 $(this).find("dl").show();
+	 },function(){
+		 $(this).find("dl").hide();
+		 });
+})
+
+
+</SCRIPT>
+   
+</head>
+<body> 
+
+
+<div style="width:90%; margin:auto" id="menu_web">
+	<div class="web_menu_logo"><a href="/" onFocus="blur()"><img src="/template/default/images/logo.jpg" border="0" /></a></div>
+    <div class="web_menu_logo_right">&nbsp;</div>
+    <div class="web_menu_logo_menu">
+    	<div style="width:100%; margin:auto">
+        	<div style="float:left;" class="menu_ab" onMouseOver="this.className='menu_ab'" onMouseOut="this.className='menu_a';"><a href="/">首页</a></div>
+            <div style="float:left;" class="menu_a" onMouseOver="this.className='menu_ab';document.getElementById('Layer2').style.display='';" onMouseOut="this.className='menu_a';document.getElementById('Layer2').style.display='none';" id="menu1"><a href="/product">产品中心</a></div>
+            
+            <div style="float:left;" class="menu_a" onMouseOver="this.className='menu_ab';document.getElementById('Layer3').style.display='';" onMouseOut="this.className='menu_a';document.getElementById('Layer3').style.display='none';" id="menu2"><a href="/hyyy.php">行业应用</a></div>
+            
+            <div style="float:left;" class="menu_a" onMouseOver="this.className='menu_ab';document.getElementById('Layer4').style.display='';" onMouseOut="this.className='menu_a';document.getElementById('Layer4').style.display='none';" id="menu3"><a href="/aboutus">关于常胜</a></div>
+            
+            
+            <div style="float:left;" class="menu_a" onMouseOver="this.className='menu_ab';document.getElementById('Layer5').style.display='';" onMouseOut="this.className='menu_a';document.getElementById('Layer5').style.display='none';" id="menu4"><a href="/news">新闻</a></div>
+            
+            <div style="float:left;" class="menu_a" onMouseOver="this.className='menu_ab';document.getElementById('Layer6').style.display='';" onMouseOut="this.className='menu_a';document.getElementById('Layer6').style.display='none';" id="menu5"><a href="/about_47">投资者关系</a></div>
+            
+            <div style="float:left;"  class="menu_a" onMouseOver="this.className='menu_ab'" onMouseOut="this.className='menu_a';"><a href="/list_50">加入我们</a></div>
+            <div style="float:left;"  class="menu_a" onMouseOver="this.className='menu_ab'" onMouseOut="this.className='menu_a';"><a href="/about_51">联系我们</a></div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="web_menu_right3"><input type="button" value="11" id="btn" style="background:url(/template/default/images/menu_r_search1.png); height:24px; width:24px; border:none; font-size:0px; cursor:pointer; margin-top:3px"></div>
+    <div class="web_menu_right1" style="display:none"><img src="/template/default/images/menu_r_search.png" border="0" /></div>
+    <div class="web_menu_right5">&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <div class="web_menu_right2">
+          <div class="menu_lan"><img src="/template/default/images/lan.png" class="menu_lan1" border="0"  style="cursor:pointer">
+              <dl>
+                <div style="width:100%; height:40px; line-height:40px">&nbsp;</div>
+                <dd><a href="https://www.china-desheng.com/">中文版</a></dd>
+                <dd><a href="http://en.china-desheng.com/">English</a></dd>
+                <div style="width:100%; height:20px; line-height:20px">&nbsp;</div>
+              </dl>
+          </div>
+    </div>
+	<div class="clear"></div>
+</div>
+
+
+
+<DIV style="width:100%; margin:auto;" >
+    <div  style="width:100%;">
+        <div id="Layer1" style="position:absolute; width:100%; height:1px; z-index:100">
+           
+           
+            <div id="Layer2" style="display:none;" class="xl_about" onMouseOver="javascript:this.style.display='';document.getElementById('menu1').className='menu_ab';" OnMouseOut="javascript:this.style.display='none';document.getElementById('menu1').className='menu_a';">
+            <div style="width:100%; margin:auto; background-color: rgba(255, 255, 255, 1);  padding-top:20px; padding-bottom:20px; border-top:1px solid #f9f9f9">
+            
+                <DIV style="width:100%; margin:auto; text-align:center">
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/list_31/" style="color:#222222"><img src="/static/upload/image/20240926/1727315644552933.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/list_31/">保护器</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/list_32/" style="color:#222222"><img src="/static/upload/image/20240926/1727315689315054.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/list_32/">温控器</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/list_33/" style="color:#222222"><img src="/static/upload/image/20240926/1727316445210517.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/list_33/">绝缘薄膜</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/list_34/" style="color:#222222"><img src="/static/upload/image/20240926/1727315712432503.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/list_34/">线束组件</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/list_36/" style="color:#222222"><img src="/static/upload/image/20240926/1727315720681543.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/list_36/">测速传感器</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/list_87/" style="color:#222222"><img src="/static/upload/image/20240926/1727315730441061.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/list_87/">热熔断体</a></div>
+                          </div>  
+                    
+                </DIV>
+            </div>
+            </div>
+            
+            
+            <div id="Layer3" style="display:none;" class="xl_about" onMouseOver="javascript:this.style.display='';document.getElementById('menu2').className='menu_ab';" OnMouseOut="javascript:this.style.display='none';document.getElementById('menu2').className='menu_a';">
+            <div style="width:100%; margin:auto; background-color: rgba(255, 255, 255, 1);  padding-top:20px; padding-bottom:20px; border-top:1px solid #f9f9f9">
+            
+                <DIV style="width:100%; margin:auto; text-align:center">
+                    
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/app.php?ext_hyyy=白色家电类&hyyy=白色家电类" style="color:#222222"><img src="/static/upload/image/20240824/1724465086109491.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/app.php?ext_hyyy=白色家电类&hyyy=白色家电类">白色家电类</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/app.php?ext_hyyy=小家电类&hyyy=小家电类" style="color:#222222"><img src="/static/upload/image/20240824/1724463029955939.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/app.php?ext_hyyy=小家电类&hyyy=小家电类">小家电类</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/app.php?ext_hyyy=汽车类&hyyy=汽车类" style="color:#222222"><img src="/static/upload/image/20240824/1724463313137970.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/app.php?ext_hyyy=汽车类&hyyy=汽车类">汽车类</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/app.php?ext_hyyy=办公用品类&hyyy=办公用品类" style="color:#222222"><img src="/static/upload/image/20240824/1724463510459579.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/app.php?ext_hyyy=办公用品类&hyyy=办公用品类">办公用品类</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/app.php?ext_hyyy=工业设备类&hyyy=工业设备类" style="color:#222222"><img src="/static/upload/image/20240824/1724463579636684.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/app.php?ext_hyyy=工业设备类&hyyy=工业设备类">工业设备类</a></div>
+                          </div>  
+                    
+                          <div class="menu_xl">
+                          	<div class="content_2 menu_xl_img"><a href="/app.php?ext_hyyy=其他&hyyy=其他" style="color:#222222"><img src="/static/upload/image/20240824/1724464177653526.jpg" width="100%"></a></div>
+                          	<div class="menu_xl_title"><a href="/app.php?ext_hyyy=其他&hyyy=其他">其他</a></div>
+                          </div>  
+                    
+                    <div class="clear"></div>
+                </DIV>
+            </div>
+            </div>
+            
+            <div id="Layer4" style="display:none;" class="xl_about" onMouseOver="javascript:this.style.display='';document.getElementById('menu3').className='menu_ab';" OnMouseOut="javascript:this.style.display='none';document.getElementById('menu3').className='menu_a';">
+            <div style="width:100%; margin:auto; background-color: rgba(255, 255, 255,0.8);  padding-top:20px; padding-bottom:20px">
+            
+                 <DIV style="width:100%; margin:auto; text-align:center">
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about_40/" >公司简介</a></div></div>  
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about_41/" >企业文化</a></div></div>  
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about_42/" >发展历程</a></div></div>  
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/list_43/" >荣誉资质</a></div></div>  
+                    
+                    <div class="clear"></div>
+                </DIV>
+            </div>
+            </div>
+            
+            <div id="Layer5" style="display:none;" class="xl_about" onMouseOver="javascript:this.style.display='';document.getElementById('menu4').className='menu_ab';" OnMouseOut="javascript:this.style.display='none';document.getElementById('menu4').className='menu_a';">
+            <div style="width:100%; margin:auto; background-color: rgba(255, 255, 255,0.8);  padding-top:20px; padding-bottom:20px">
+            
+                 <DIV style="width:100%; margin:auto; text-align:center">
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/list_38/" >公司新闻</a></div></div>  
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/list_39/" >行业新闻</a></div></div>  
+                    
+                    <div class="clear"></div>
+                </DIV>
+            </div>
+            </div>
+            
+            <div id="Layer6" style="display:none;" class="xl_about" onMouseOver="javascript:this.style.display='';document.getElementById('menu5').className='menu_ab';" OnMouseOut="javascript:this.style.display='none';document.getElementById('menu5').className='menu_a';">
+            <div style="width:100%; margin:auto; background-color: rgba(255, 255, 255,0.8);  padding-top:20px; padding-bottom:20px">
+            
+                <DIV style="width:100%; margin:auto; text-align:center">
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about_47/" >基本概况</a></div></div>  
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about_48/" >投资者留言</a></div></div>  
+                    
+                           <div class="menu_xl"><div class="menu_xl_title">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.neeq.com.cn/products/neeq_listed_companies/related_announcement.html?companyCode=837157&" >公告信息</a></div></div>  
+                    
+                    <div class="clear"></div>
+                </DIV>
+            </div>
+            </div>
+            
+
+        </div>
+    </div>
+</div>
+<script language="JavaScript">
+function validform(theForm)
+{ 
+if (theForm.keyword.value=="请输入关键词！")
+{
+	alert ("请输入关键词！");
+	theForm.keyword.focus();
+	return (false);
+}
+
+return (true);
+}
+function OnFocusFun(element,elementvalue)
+{
+    if(element.value==elementvalue)
+    {
+        element.value="";
+        element.style.color="#454545";
+    }
+}
+//离开输入框时触发事件
+function OnBlurFun(element,elementvalue)
+{
+    if(element.value==""||element.value.replace(/\s/g,"")=="")
+    {
+        element.value=elementvalue;    
+        element.style.color="#454545";
+    }
+}
+function bt(){
+
+}
+</script>
+
+<div style="width:90%; margin:auto" id="menu_web">
+    	<div id="Layer1aaa" style="position:relative; width:100%; height:0px; z-index:100000">
+        	<div id="Layer2bbb" style="position:absolute; width:100%;">
+                	<div class="nosearch" id="box">
+                    	
+                        
+                        <div style=" padding:30px; background:#ffffff; float:right; width:398px; height:40px">
+                         <div style="width:398px; height:40px; background:url(/template/default/images/search_bg.jpg);">
+                            <div style="width:100%; margin:auto">
+                          <form action="search/?" method=get onSubmit="return validform(this)" ID="searchALL">
+                              <div style="float:left; width:325px; height:40px; padding-left:13px"><input  type="text" name="keyword"  value="请输入关键词！" onFocus="OnFocusFun(this,'请输入关键词！')" onBlur="OnBlurFun(this,'请输入关键词！')" style="width:328px; height:40px; border:none; background:none; outline:none; font-size:12px"></div>
+                              <div style="float:left; width:45px; height:40px"><INPUT TYPE="submit" style="width:45px; height:40px; border:none;background:none; cursor:pointer; outline:none" value="&nbsp; &nbsp;" onFocus="this.blur()"></div>
+                          </form>
+                                  <div class="clear"></div>
+                              </div>
+                          </div>
+                        </div>
+                        
+                        
+                    </div>
+            </div>
+        </div>
+    </div>
+
+
+
+     
+  <script>
+        var btn = document.getElementById("btn");
+        var box = document.getElementById("box");
+
+        btn.onclick = function(){
+            if(btn.value == "11"){
+                box.className = "showsearch";
+                btn.value = "22";
+            }
+            else {
+                box.className = "nosearch";
+                btn.value = "11";
+            }
+            
+        };
+
+    </script>
+
+     
+    
+
+
+<div id="menu_wap">
+  <div class="nav_menu"> <span class="btn"><img src="/template/default/images/header_icon01.png"  /></span>
+    <ul>
+     <li>
+        <p><a href="/">首页</a></p>
+      </li>
+      <li>
+        <p><a href="/product">产品中心</a></p>
+      </li>
+      <li>
+        <p><a href="/hyyy.php">行业应用</a></p>
+      </li>
+      <li>
+        <p><a href="/aboutus">关于常胜</a></p>
+      </li>
+      <li>
+        <p><a href="/news">新闻</a></p>
+      </li>
+      <li>
+        <p><a href="/about_47">投资者关系</a></p>
+      </li>
+      <li>
+        <p><a href="/list_50">加入我们</a></p>
+      </li>
+      <li>
+        <p><a href="/about_51/">联系我们</a></p>
+      </li>
+    </ul>
+  </div>
+  <script type="text/javascript">
+    $(function(){
+		var Off=true;
+		$("header span").click(function(){
+	            $('.mian').animate({'left':'60%'}, 300)
+	            $('.nav_menu').animate({'width':'60%'}, 300)
+	            return false;
+		})
+		$(".nav_menu .btn").click(function(){
+			$('.mian').animate({'left':0}, 300)
+		    $('.nav_menu').animate({'width':'0'}, 300)
+		    return false;
+		})
+		$(".nav_menu li").click(function(){
+			/*if($(this).find("div").is(".mu")){
+				$(this).find(".mu").slideDown(200);
+				$(this).siblings().find(".mu").slideUp(200);
+			}*/
+			if(Off){
+				$(this).find(".mu").slideDown(200);
+				Off=false;
+			}
+			else{
+				$(this).find(".mu").slideUp(200);
+				Off=true;
+			}
+		});
+	})
+</script>
+  <div class="mian">
+    <!-- header -->
+    <header class="clearfix">
+      <div class="header_title">
+        <div style="width:100%; margin:auto">
+        <div style="float:left; width:80%"><a href="/" onFocus="blur()"><img src="/template/default/images/logo_wap.jpg" border="0"></a></div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+      <span><img src="/template/default/images/header_icon01.png" border="0"/></span> </header>
+    
+ <!--   <nav> <a href="index">首页</a> <a href="about">关于我们</a> <a href="news">新闻中心</a> <br>
+      <a href="products">产品中心</a> <a href="case">工程案例</a> <a href="contact">联系我们</a>
+      </p>
+      </li>
+    </nav>-->
+  </div>
+</div>
+<div class="menu_bottom">&nbsp;</div>
+
+
+<script type="text/javascript" src="/template/default/banner/js/jquery-1.11.1.min.js"></script>
+<script src="/template/default/banner_image/slide.js"></script>
+<script src="/template/default/banner_image/bootstrap.js"></script>
+
+<link type="text/css" rel="stylesheet" href="/template/default/banner/css/common.css"> 
+<link rel="stylesheet" type="text/css" href="/template/default/banner/css/index.css">
+<link rel="stylesheet" type="text/css" href="/template/default/banner/css/owl.carousel.css">
+<script type="text/javascript" src="/template/default/banner/js/owl.carousel.js"></script>
+<div class="conrp slide scene" data-ride="carousel" data-modifier="30">
+  <div id="owl-demo" class="owl-carousel">
+  
+  
+  <div class="item">
+      <div class="top2">
+        <div class="banry ban1 cona">
+          <dl class="main">
+            <dt class="f42 fb" style="color:#ffffff">常胜保护器，保护所有电气</dt>
+            <div class="moreb cona pt60 gdxx"><a href="/about_6/" rel="nofollow" class="fl">了解更多 &gt;&gt;</a></div>
+          </dl>
+        </div>
+        <div class="pcimg"><video src="https://sp.china-desheng.com/banner01.mp4" autoplay="autoplay" muted="muted" loop="" style="width:100%;height:700px;object-fit:cover;"></video></div>
+        <div class="moimg"><video src="https://sp.china-desheng.com/banner01.mp4"  autoplay="autoplay" muted="muted" loop="" style="width:100%;height:400px;object-fit:cover;"></video></div>
+      </div>
+    </div>
+    
+    
+    <div class="item">
+      <div class="top2">
+        <div class="banry ban1 cona">
+          <dl class="main">
+            <dt class="f42 fb" style="color:#ffffff">常胜保护器，保护所有电气</dt>
+            <div class="moreb cona pt60 gdxx"><a href="/about_6/" rel="nofollow" class="fl">了解更多 &gt;&gt;</a></div>
+          </dl>
+        </div>
+        <div class="pcimg"><video src="https://sp.china-desheng.com/banner02.mp4" autoplay="autoplay" muted="muted" loop="" style="width:100%;height:700px;object-fit:cover;"></video></div>
+        <div class="moimg"><video src="https://sp.china-desheng.com/banner02.mp4"  autoplay="autoplay" muted="muted" loop="" style="width:100%;height:400px;object-fit:cover;"></video></div>
+      </div>
+    </div>
+    
+    <div class="item">
+      <div class="top2">
+        <div class="banry ban1 cona">
+          <dl class="main">
+            <dt class="f42 fb" style="color:#ffffff">常胜保护器，保护所有电气</dt>
+            <div class="moreb cona pt60 gdxx"><a href="/about_6/" rel="nofollow" class="fl">了解更多 &gt;&gt;</a></div>
+          </dl>
+        </div>
+        <div class="pcimg"><video src="https://sp.china-desheng.com/banner03.mp4" autoplay="autoplay" muted="muted" loop="" style="width:100%;height:700px;object-fit:cover;"></video></div>
+        <div class="moimg"><video src="https://sp.china-desheng.com/banner03.mp4"  autoplay="autoplay" muted="muted" loop="" style="width:100%;height:400px;object-fit:cover;"></video></div>
+      </div>
+    </div>
+    
+    <div class="item">
+      <div class="top2">
+        <div class="banry ban1 cona">
+          <dl class="main">
+            <dt class="f42 fb" style="color:#ffffff">常胜保护器，保护所有电气</dt>
+            <div class="moreb cona pt60 gdxx"><a href="/about_6/" rel="nofollow" class="fl">了解更多 &gt;&gt;</a></div>
+          </dl>
+        </div>
+        <div class="pcimg"><video src="https://sp.china-desheng.com/banner04.mp4" autoplay="autoplay" muted="muted" loop="" style="width:100%;height:700px;object-fit:cover;"></video></div>
+        <div class="moimg"><video src="https://sp.china-desheng.com/banner04.mp4"  autoplay="autoplay" muted="muted" loop="" style="width:100%;height:400px;object-fit:cover;"></video></div>
+      </div>
+    </div>
+    
+    <div class="item">
+      <div class="top2">
+        <div class="banry ban1 cona">
+          <dl class="main">
+            <dt class="f42 fb" style="color:#ffffff">常胜保护器，保护所有电气</dt>
+            <div class="moreb cona pt60 gdxx"><a href="/about_6/" rel="nofollow" class="fl">了解更多 &gt;&gt;</a></div>
+          </dl>
+        </div>
+        <div class="pcimg"><video src="https://sp.china-desheng.com/banner05.mp4" autoplay="autoplay" muted="muted" loop="" style="width:100%;height:700px;object-fit:cover;"></video></div>
+        <div class="moimg"><video src="https://sp.china-desheng.com/banner05.mp4"  autoplay="autoplay" muted="muted" loop="" style="width:100%;height:400px;object-fit:cover;"></video></div>
+      </div>
+    </div>
+    
+ 
+    
+  </div>
+  <div class="scroll_wrapper">
+    <div class="scroll_img"><img src="/template/default/images/awn.png" width="100%"></div>
+  </div>
+</div>
+
+<div style="width:100%; margin:auto; background:#fbfbfb; padding-bottom:180px">
+<div class="web_body">
+  <div class="home_pro_inc">
+      <div class="web_title_left">
+          <div class="web_title_left1">行业领域及产品</div>
+          <div class="web_title_left2">致力于为全球家电、消费类电子产品和汽车制造领域，提供安全、高效、智能的保护方案</div>
+      </div>
+      <div class="web_title_right"><a href="/product">产品浏览</a></div>
+      <div class="clear"></div>
+  </div>
+</div>
+
+
+<div class="web_body">
+	<div aos="fade-right" aos-duration="900" data-aos-easing="ease"><code><div class="web_proclass_1">
+    	<div class="web_proclass_title1"><a href="app.php?ext_hyyy=白色家电类&hyyy=白色家电类">白色家电类</a></div>
+    	<div class="web_proclass_title2">空调、洗衣机、冰箱</div>
+    </div></code></div>
+    <div class="web_proclass_2">
+    	
+        <div aos="fade-left" aos-duration="600" data-aos-easing="ease"><code><div class="web_proclass_2_a">
+    		<div class="web_proclass_title1"><a href="app.php?ext_hyyy=小家电类&hyyy=小家电类">小家电类</a></div>
+    		<div class="web_proclass_title2">咖啡机、料理机、果汁机、破壁机、电烤箱、微波炉、家用风扇、吸尘器、空气炸锅、电炉、取暖器</div>
+    	</div></code></div>
+        
+        <div aos="fade-left" aos-duration="900" data-aos-easing="ease"><code><div class="web_proclass_2_b">
+    		<div class="web_proclass_title1"><a href="app.php?ext_hyyy=汽车类&hyyy=汽车类">汽车类</a></div>
+    		<div class="web_proclass_title2">汽车座椅加热、方向盘加热、座椅调节电机、汽车空调、雨刮器、玻璃窗升降器</div>
+    	</div></code></div>
+        
+    </div>
+	<div class="clear"></div>
+</div>
+
+<div class="web_body">
+	<div aos="fade-up" aos-duration="400" data-aos-easing="ease"><code><div class="web_proclass_3">
+    	<div class="web_proclass_title1"><a href="app.php?ext_hyyy=办公用品类&hyyy=办公用品类">办公用品类</a></div>
+    	<div class="web_proclass_title2">自动削笔器、碎纸机、投影仪、桌面吸尘器</div>
+    </div></code></div>
+    <div aos="fade-up" aos-duration="600" data-aos-easing="ease"><code><div class="web_proclass_4">
+        <div class="web_proclass_title1"><a href="app.php?ext_hyyy=工业设备类&hyyy=工业设备类">工业设备类</a></div>
+        <div class="web_proclass_title2">工业风扇、水泵、油泵、电焊机</div>
+    </div></code></div>
+    <div aos="fade-up" aos-duration="800" data-aos-easing="ease"><code><div class="web_proclass_5">
+        <div class="web_proclass_title1"><a href="app.php?ext_hyyy=其他&hyyy=其他">其他</a></div>
+        <div class="web_proclass_title2">锂电池、灯具、变压器</div>
+    </div></code></div>
+	<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="web_body">
+	<div class="web_about_left">
+    	<div style="width:100%; margin:auto">
+        	<div aos="fade-left" aos-duration="600" data-aos-easing="ease"><code><div class="web_about_left_content">
+            	<div class="web_about_left_title1">专注精密制造30年</div>
+                <div class="web_about_left_title2">江苏常胜电器股份有限公司（证券代码：837157）成立于1990年，总部位于江苏省常州市，是热保护器行业全球供应链系统解决方案服务商。公司致力于为全球家电、消费类电子产品和汽车制造领域，提供安全、高效、智能的保护方案。<br><br>经过30多年的发展，公司目前拥有江苏常胜电器（淮安）有限公司、技研电气（常州）有限公司、常胜电器（佛山）有限公司、淮安常胜新锐电气有限公司、芜湖常胜电器有限公司等9家分子公司，已形成了集电气保护元件、电气连接线组件和电气绝缘薄膜三大产品领域的集团化公司。公司产品畅销美洲、欧洲、东南亚等20多个国家和地区……</div>
+				<div class="web_title_more"><a href="/aboutus">了解更多</a></div>
+            </div></code></div>
+            <div class="clear"></div>
+        </div>
+    </div>
+	<div class="web_about_right">
+    	<div style="width:100%; margin:auto; padding-top:80px">
+        	<div style="float:left; width:calc(33.3333% - 1px); border-bottom:1px dashed #D3D3D3; border-right:1px dashed #D3D3D3; height:120px">
+            	<div class="fitsc-counter"><span class="counter">1990</span></div>
+                <div class="about_nb2">年 - 企业成立时间</div>
+            </div>
+        	<div style="float:left; width:calc(33.3333% - 1px); border-bottom:1px dashed #D3D3D3; border-right:1px dashed #D3D3D3; height:120px">
+            	<div class="fitsc-counter"><span class="counter">30,000</span></div>
+                <div class="about_nb2">平方 - 企业占地面积</div>
+            </div>
+            <div style="float:left; width:33.3%; border-bottom:1px dashed #D3D3D3; height:120px">
+            	<div class="fitsc-counter"><span class="counter">1,200</span></div>
+                <div class="about_nb2">员工总人数</div>
+            </div>
+            <div style="float:left; width:calc(33.3333% - 1px); border-right:1px dashed #D3D3D3; height:120px">
+            	<div class="fitsc-counter"><span class="counter">9</span></div>
+                <div class="about_nb2">全资子公司数</div>
+            </div>
+        	<div style="float:left; width:calc(33.3333% - 1px);border-right:1px dashed #D3D3D3; height:120px">
+            	<div class="fitsc-counter"><span class="counter">30</span></div>
+                <div class="about_nb2">年 - 专业研究开发</div>
+            </div>
+            <div style="float:left; width:33.3%; height:120px">
+            	<div class="fitsc-counter"><span class="counter">40</span></div>
+                <div class="about_nb2">获得国家专利数</div>
+            </div>
+        	<div class="clear"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<div class="index_middle_banner">
+	<div aos="fade-up" aos-duration="600" data-aos-easing="ease"><code><div class="index_middle_banner_text">卓越的技术与服务<br>提供安全、高效、智能的保护方案</div></code></div>
+    <div aos="fade-up" aos-duration="600" data-aos-easing="ease"><code><div class="index_middle_more"><a href="/aboutus">了解更多</a></div></code></div>
+</div>
+
+
+<div style="width:100%; margin:auto; background:#ffffff; padding-bottom:40px; height:auto;">
+    <div class="web_body">
+      <div class="web_body_web home_pro_inc1">
+          <div class="web_title_left">
+              <div class="web_title_left1">常胜动态</div>
+          </div>
+          <div class="web_title_right1"><a href="/news">了解更多</a></div>
+          <div class="clear"></div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="web_body">
+    	
+		<div aos="fade-up" aos-duration="300" data-aos-easing="ease"><code><div class="web_news_content">
+        	<div><a href="/list_39/231.html"><img src="/static/upload/image/20240923/1727052303457625.jpg" border="0" width="100%"></a></div>
+            <div class="web_news_content_content">
+            	<div class="web_news_content_content_1">
+                	<div class="web_news_content_content_1_left"><a href="/list_39/231.html">行业新闻</a></div>
+                    <div class="web_news_content_content_1_right">2019-09-12</div>
+                    <div class="clear"></div>
+                </div>
+                <div class="web_news_content_content_2"><a href="/list_39/231.html">浅谈热保护器设备在电力行业的重要用途</a></div>
+                <div class="web_news_content_content_3">随着科技的发展以及人们对生活水平要求的不断提高.电力市场也紧紧跟随着市场的变化而变化着.那么如今我们的电气市场又呈现出什么···</div>
+                <div class="web_news_content_content_4">
+                	<div class="web_news_content_content_4_1"><a href="/list_39/231.html" >阅读更多</a></div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div></code></div>
+		
+		<div aos="fade-up" aos-duration="600" data-aos-easing="ease"><code><div class="web_news_content">
+        	<div><a href="/list_38/232.html"><img src="/static/upload/image/20240923/1727052412507826.jpg" border="0" width="100%"></a></div>
+            <div class="web_news_content_content">
+            	<div class="web_news_content_content_1">
+                	<div class="web_news_content_content_1_left"><a href="/list_38/232.html">公司新闻</a></div>
+                    <div class="web_news_content_content_1_right">2017-08-11</div>
+                    <div class="clear"></div>
+                </div>
+                <div class="web_news_content_content_2"><a href="/list_38/232.html">热烈祝贺江苏常胜电器商标荣获常州市知名商标</a></div>
+                <div class="web_news_content_content_3">热烈祝贺江苏常胜电器商标荣获常州市知名商标，公司严格执行ISO9001质量管理体系和ISO14001环境管理体系标准，坚持以“追求卓越、···</div>
+                <div class="web_news_content_content_4">
+                	<div class="web_news_content_content_4_1"><a href="/list_38/232.html" >阅读更多</a></div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div></code></div>
+		
+		<div aos="fade-up" aos-duration="900" data-aos-easing="ease"><code><div class="web_news_content">
+        	<div><a href="/list_38/230.html"><img src="/static/upload/image/20240923/1727052505666302.jpg" border="0" width="100%"></a></div>
+            <div class="web_news_content_content">
+            	<div class="web_news_content_content_1">
+                	<div class="web_news_content_content_1_left"><a href="/list_38/230.html">公司新闻</a></div>
+                    <div class="web_news_content_content_1_right">2017-08-11</div>
+                    <div class="clear"></div>
+                </div>
+                <div class="web_news_content_content_2"><a href="/list_38/230.html">江苏常胜电器有限公司2017年度供应商大会圆满闭幕</a></div>
+                <div class="web_news_content_content_3">江苏常胜电器有限公司2017年度供应商大会圆满闭幕</div>
+                <div class="web_news_content_content_4">
+                	<div class="web_news_content_content_4_1"><a href="/list_38/230.html" >阅读更多</a></div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div></code></div>
+		  
+        <div class="clear"></div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/template/default/banner/js/index.js"></script>   
+<div class="clear"></div>
+<div style="width:100%; margin:auto; background:#ffffff; padding-bottom:1px; height:auto;box-shadow: 0px 4px 4px 0px #0000000D;">&nbsp;</div>
+<div style="width:100%; margin:auto; background:#f9f9f9">
+
+<div class="web_body web_footer">
+	<div class="web_footer_1">
+    	<div style="width:100%; margin:auto; text-align:left;height:40px; line-height:40px; "><a href="#" style="height:40px; line-height:40px; font-size:16px; font-weight:bold; color:#000000">产品中心</a></div>
+        <div style="width:35px; height:2px; line-height:2px; background:#f99393; margin-top:15px; margin-bottom:15px">&nbsp;</div>
+        
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/list_31/" style="font-size:14px;">保护器</a></div>
+         
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/list_32/" style="font-size:14px;">温控器</a></div>
+         
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/list_33/" style="font-size:14px;">绝缘薄膜</a></div>
+         
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/list_34/" style="font-size:14px;">线束组件</a></div>
+         
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/list_36/" style="font-size:14px;">测速传感器</a></div>
+         
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/list_87/" style="font-size:14px;">热熔断体</a></div>
+         
+         <div style="width:100%; margin:auto; text-align:left; padding-top:20px"><img src="/template/default/images/code.jpg"></div>
+    </div>
+	<div class="web_footer_2">
+    	<div style="width:100%; margin:auto; text-align:left;height:40px; line-height:40px; ">&nbsp;</div>
+        <div style="width:35px; height:2px; line-height:2px; background:#f9f9f9; margin-top:15px; margin-bottom:15px">&nbsp;</div>
+        
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/about_40/" style="font-size:14px;">公司简介</a></div>
+         
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/about_41/" style="font-size:14px;">企业文化</a></div>
+         
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/about_42/" style="font-size:14px;">发展历程</a></div>
+         
+      		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/list_43/" style="font-size:14px;">荣誉资质</a></div>
+         
+         <div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px">&nbsp;</div>
+                 <div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px">&nbsp;</div>
+         <div style="width:100%; margin:auto; text-align:left; padding-top:20px; line-height:20px; font-size:14px">电话：0086-519-85913333  <br>邮箱：sales@china-desheng.com<br>地址：江苏省常州市新北区魏村街道兴丰路58号</div>
+    </div>
+	<div class="web_footer_3">
+    	<div style="width:100%; margin:auto; text-align:left;height:40px; line-height:40px; ">&nbsp;</div>
+        <div style="width:35px; height:2px; line-height:2px; background:#f9f9f9; margin-top:15px; margin-bottom:15px">&nbsp;</div>
+ 		<div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/about_47" style="font-size:14px;">投资者关系</a></div>
+        <div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/list_50" style="font-size:14px;">加入我们</a></div>
+        <div style="width:100%; margin:auto; text-align:left; height:35px; line-height:35px"><a href="/about_51" style="font-size:14px;">联系我们</a></div>
+    </div>
+	<div class="web_footer_4">
+    	<div style="width:100%; margin:auto; text-align:left;height:40px; line-height:40px; ">&nbsp;</div>
+        <div style="width:35px; height:2px; line-height:2px; background:#f9f9f9; margin-top:15px; margin-bottom:15px">&nbsp;</div>
+        <div style="padding-bottom:150px"><div class="web_title_right1"><a href="/feedback">留言咨询</a></div></div>
+        <div><img src="/template/default/images/map.png"></div>
+    </div>
+	<div class="clear"></div>
+</div>
+
+<div class="web_body web_footer_bottom">
+	<div class="web_footer_bottom_content">© 版权归江苏常胜电器股份有限公司所有 常胜圆形标志以及所有标注有TM或®的品牌均是常胜公司的商标或注册商标。&nbsp;<img src="/template/default/images/batb.png" width="16px"  /><a href="https://beian.mps.gov.cn/#/query/webSearch?code=32041102001421\" rel=\"noreferrer\" target=\"_blank\">苏公网安备32041102001421号</a>　<a href="https://beian.miit.gov.cn" rel="nofollow" target="_blank">苏ICP备10200808号-1</a>&nbsp; 网站建设：<a href="http://www.cloud518.com" rel="nofollow" target="_blank">常州云计算网络</a></div>
+</div>
+
+
+</div>
+
+
+
+<footer class="g-ft">
+ <br><br><br><br>
+<ul class="f_nav">
+<li class="cur"><a href="tel:051985913333"><i><img src="/template/default/images/fi1.png"></i>电话咨询</a></li>
+<li><a href="/product"><i><img src="/template/default/images/fi2.png"></i>产品中心</a></li>
+<li><a href="/yygn.php"><i><img src="/template/default/images/fi3.png"></i>行业应用</a></li>
+<li><a href="/"><i><img src="/template/default/images/fi4.png"></i>网站首页</a></li>
+</ul>
+</footer>
+
+<link rel="stylesheet" href="/template/default/css/style1.css">
+<div class="suspension">
+  <div class="suspension-box">
+    <a href="#" class="a a-service "><i class="i"></i></a>
+    <a href="javascript:;" class="a a-service-phone "><i class="i"></i></a>
+   
+    <a href="javascript:;" class="a a-top"><i class="i"></i></a>
+    <div class="d d-service"> <i class="arrow"></i>
+      <div class="inner-box">
+        <div class="d-service-item clearfix"> <a href="http://wpa.qq.com/msgrd?v=3&uin=52034330&site=qq&menu=yes" class="clearfix" target="_blank"><span class="circle"><i class="i-qq"></i></span>
+          <h3>咨询在线客服</h3>
+          </a> </div>
+      </div>
+    </div>
+    <div class="d d-service-phone"> <i class="arrow"></i>
+      <div class="inner-box">
+        <div class="d-service-item clearfix"> <span class="circle"><i class="i-tel"></i></span>
+          <div class="text">
+            <p>服务热线</p>
+            <p class="red number">051985913333</p>
+          </div>
+        </div>
+      </div>
+    </div>
+   
+  </div>
+</div>
+<script type="text/javascript" src="/template/default/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+	/* ----- 侧边悬浮 ---- */
+	$(document).on("mouseenter", ".suspension .a", function(){
+		var _this = $(this);
+		var s = $(".suspension");
+		var isService = _this.hasClass("a-service");
+		var isServicePhone = _this.hasClass("a-service-phone");
+		var isQrcode = _this.hasClass("a-qrcode");
+		if(isService){ s.find(".d-service").show().siblings(".d").hide();}
+		if(isServicePhone){ s.find(".d-service-phone").show().siblings(".d").hide();}
+		if(isQrcode){ s.find(".d-qrcode").show().siblings(".d").hide();}
+	});
+	$(document).on("mouseleave", ".suspension, .suspension .a-top", function(){
+		$(".suspension").find(".d").hide();
+	});
+	$(document).on("mouseenter", ".suspension .a-top", function(){
+		$(".suspension").find(".d").hide(); 
+	});
+	$(document).on("click", ".suspension .a-top", function(){
+		$("html,body").animate({scrollTop: 0});
+	});
+	$(window).scroll(function(){
+		var st = $(document).scrollTop();
+		var $top = $(".suspension .a-top");
+		if(st > 400){
+			$top.css({display: 'block'});
+		}else{
+			if ($top.is(":visible")) {
+				$top.hide();
+			}
+		}
+	});
+	
+});	
+</script>
+
+
+
+<script src="/template/default/js/popper.min.js"></script>
+<script src="/template/default/bootstrap/js/bootstrap.min.js"></script>
+<script src="/template/default/js/wow.min.js"></script>
+<script src="/template/default/js/aoyun.js?v=v1.2.2"></script>
+
+<script src="/template/default/dist/highlight.min.js"></script>
+<script src="/template/default/dist/aos.js"></script>
+<script>
+	AOS.init({
+		easing: 'ease-out-back',
+		duration: 1000
+	});
+</script>
+
+<script>
+	hljs.initHighlightingOnLoad();
+
+	$('.hero__scroll').on('click', function(e) {
+		$('html, body').animate({
+			scrollTop: $(window).height()
+		}, 1200);
+	});
+</script>
+
+</body>
+</html>
+

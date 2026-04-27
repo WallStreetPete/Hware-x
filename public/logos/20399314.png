@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,minimum-scale=1,width=device-width">
+    <meta content="yes" name="apple-touch-fullscreen">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta content="telephone=no" name="format-detection">
+    <title>&#x9996;&#x9875;|&#x5408;&#x80A5;&#x6676;&#x5408;&#x96C6;&#x6210;&#x7535;&#x8DEF;&#x80A1;&#x4EFD;&#x6709;&#x9650;&#x516C;&#x53F8;</title>
+    <meta name="keywords" content="&#x5408;&#x80A5;&#x6676;&#x5408;&#x96C6;&#x6210;&#x7535;&#x8DEF;&#x80A1;&#x4EFD;&#x6709;&#x9650;&#x516C;&#x53F8;">
+    <meta name="description" content="&#x5408;&#x80A5;&#x6676;&#x5408;&#x96C6;&#x6210;&#x7535;&#x8DEF;&#x80A1;&#x4EFD;&#x6709;&#x9650;&#x516C;&#x53F8;&#xFF08;&#x7B80;&#x79F0;&#x201C;&#x6676;&#x5408;&#x96C6;&#x6210;&#x201D;&#xFF09;&#x6210;&#x7ACB;&#x4E8E;2015&#x5E74;5&#x6708;&#xFF0C;&#x7531;&#x5408;&#x80A5;&#x5E02;&#x5EFA;&#x8BBE;&#x6295;&#x8D44;&#x63A7;&#x80A1;&#xFF08;&#x96C6;&#x56E2;&#xFF09;&#x6709;&#x9650;&#x516C;&#x53F8;&#x4E0E;&#x53F0;&#x6E7E;&#x529B;&#x6676;&#x79D1;&#x6280;&#x80A1;&#x4EFD;&#x6709;&#x9650;&#x516C;&#x53F8;&#x5408;&#x8D44;&#x5EFA;&#x8BBE;&#xFF0C;&#x4E13;&#x6CE8;&#x4E8E;&#x534A;&#x5BFC;&#x4F53;&#x6676;&#x5706;&#x751F;&#x4EA7;&#x4EE3;&#x5DE5;&#xFF0C;&#x662F;&#x5B89;&#x5FBD;&#x7701;&#x7B2C;&#x4E00;&#x5BB6;12&#x82F1;&#x5BF8;&#x6676;&#x5706;&#x4EE3;&#x5DE5;&#x4F01;&#x4E1A;&#xFF0C;&#x4E5F;&#x662F;&#x5B89;&#x5FBD;&#x7701;&#x9996;&#x4E2A;&#x8D85;&#x767E;&#x4EBF;&#x7EA7;&#x96C6;&#x6210;&#x7535;&#x8DEF;&#x9879;&#x76EE;&#x3002;">
+    <link rel="stylesheet" href="/css/zh-cn/swiper.min.css" />
+    <link rel="stylesheet" href="/css/zh-cn/base.css" />
+    <link rel="stylesheet" href="/css/zh-cn/main.css" />
+    <script type="text/javascript" src="/js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="/js/swiper.min.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+
+
+</head>
+<body>
+    <div class="mian_bg">
+        <div class="content">
+            <div class="main">
+                <style>
+    .searchlogo {
+        width: 40px;
+        height: 40px;
+        background-image: url("/images/search1.png");
+        background-repeat: no-repeat;
+        line-height: 40px;
+        text-align: center;
+        margin: 32px 0 0 30px;
+        cursor: pointer;
+        float: right;
+    }
+
+</style>
+<!--顶部-->
+
+<div class="header clearfix">
+    <div class="logo fl">
+        <a rel="noopener noreferrer" href="/zh-cn/Home/Index"> <img src="/images/logo.png" alt="&#x5408;&#x80A5;&#x6676;&#x5408;&#x96C6;&#x6210;&#x7535;&#x8DEF;&#x80A1;&#x4EFD;&#x6709;&#x9650;&#x516C;&#x53F8;"> </a>
+    </div>
+
+    <div class="language_cahnge fr">
+        <span style="color: #fff;cursor: pointer;" id="change_lang">&#x7B80;&#x4F53;</span>
+        <ul id="select_lang" style="display: none;">
+            <li><a rel="noopener noreferrer" href="/zh-cn" target="_blank">简体</a></li>
+            <li><a rel="noopener noreferrer" href="/zh-tw" target="_blank">繁体</a></li>
+            <li><a rel="noopener noreferrer" href="/en-us" target="_blank">English</a></li>
+        </ul>
+    </div>
+    <a rel="noopener noreferrer" target="_blank" href="/zh-cn/Search/Index">
+        <div class="searchlogo" id="searchlogo">
+        </div>
+    </a>
+    <div class="navBar">
+        <ul>
+            <!--首頁-->
+            <li>
+                <div class="nav">
+                    <a rel="noopener noreferrer" href="/zh-cn/Home/Index">&#x9996;&#x9875;</a>
+                </div>
+            </li>
+
+            <!--关于晶合-->
+            <li>
+                <ul>
+                    <li><a rel="noopener noreferrer" href="/zh-cn/About/Introduce">&#x4F01;&#x4E1A;&#x4ECB;&#x7ECD;</a></li>
+                            <li><a rel="noopener noreferrer" href="/zh-cn/About/Culture">&#x4F01;&#x4E1A;&#x6587;&#x5316;</a></li>
+                            <li><a rel="noopener noreferrer" href="/zh-cn/About/Policy">&#x4F01;&#x4E1A;&#x653F;&#x7B56;</a></li>
+                            <li><a rel="noopener noreferrer" href="/zh-cn/About/Contact">&#x8054;&#x7CFB;&#x6211;&#x4EEC;</a></li>
+
+                </ul>
+                <div class="nav">
+                    <a rel="noopener noreferrer" href="/zh-cn/About/Introduce">&#x5173;&#x4E8E;&#x6676;&#x5408;</a>
+                </div>
+            </li>
+
+                <!--新闻中心-->
+                <li>
+                    <ul>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/News/Index">&#x516C;&#x53F8;&#x65B0;&#x95FB;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/News/Media">&#x5A92;&#x4F53;&#x5173;&#x6CE8;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/News/Activities">&#x5185;&#x90E8;&#x6D3B;&#x52A8;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/News/Partner">&#x6676;&#x5408;&#x4EBA;&#x7269;</a></li>
+                    </ul>
+                    <div class="nav">
+                        <a rel="noopener noreferrer" href="/zh-cn/News/Index">&#x65B0;&#x95FB;&#x4E2D;&#x5FC3;</a>
+                    </div>
+                </li>
+            <!--技术服务-->
+            <li>
+                <ul>
+                    <li><a rel="noopener noreferrer" href="/zh-cn/Service/Features">&#x4EE3;&#x5DE5;&#x7279;&#x8272;</a></li>
+                    <li><a rel="noopener noreferrer" href="/zh-cn/Service/Roadmap">&#x6280;&#x672F;&#x84DD;&#x56FE;</a></li>
+                    <li><a rel="noopener noreferrer" href="/zh-cn/Service/Design">&#x8BBE;&#x8BA1;&#x670D;&#x52A1;</a></li>
+                    <li><a rel="noopener noreferrer" href="/zh-cn/Service/Manufacturing">&#x5236;&#x9020;&#x670D;&#x52A1;</a></li>
+                </ul>
+                <div class="nav">
+                    <a rel="noopener noreferrer" href="/zh-cn/Service/Features">&#x6280;&#x672F;&#x670D;&#x52A1;</a>
+                </div>
+            </li>
+                <!--企业荣誉-->
+                <li>
+                    <div class="nav">
+                        <a rel="noopener noreferrer" href="/zh-cn/Honor/Index">&#x4F01;&#x4E1A;&#x8363;&#x8A89;</a>
+                    </div>
+                </li>
+                    <!--投资者关系-->
+                    <li>
+                        <ul>
+                            <li><a rel="noopener noreferrer" href="/zh-cn/Tzzgx/Index">&#x516C;&#x53F8;&#x6CBB;&#x7406;</a></li>
+                            <li><a rel="noopener noreferrer" href="/zh-cn/Tzzgx/stockinfo">&#x80A1;&#x7968;&#x4FE1;&#x606F;</a></li>
+                            <li><a rel="noopener noreferrer" href="/zh-cn/Tzzgx/FReport">&#x8D22;&#x52A1;&#x62A5;&#x544A;</a></li>
+                            <li><a rel="noopener noreferrer" href="/zh-cn/Tzzgx/CReport">&#x516C;&#x53F8;&#x516C;&#x544A;</a></li>
+                            <li><a rel="noopener noreferrer" href="/zh-cn/Tzzgx/Service">&#x6295;&#x8D44;&#x8005;&#x670D;&#x52A1;</a></li>
+                        </ul>
+                        <div class="nav">
+                            <a rel="noopener noreferrer" href="/zh-cn/Tzzgx/Index">&#x6295;&#x8D44;&#x8005;&#x5173;&#x7CFB;</a>
+                        </div>
+                    </li>
+                <!--ESG-->
+                <li>
+                    <ul>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/Esg/Envir">&#x5173;&#x7231;&#x73AF;&#x5883;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/Esg/Climate">&#x5173;&#x6CE8;&#x6C14;&#x5019;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/Esg/Workplace">&#x5173;&#x6000;&#x804C;&#x573A;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/Esg/Society">&#x5173;&#x5FC3;&#x793E;&#x4F1A;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/Esg/EsgReport">ESG报告书</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/Esg/feedback">意见反馈</a></li>
+                    </ul>
+                    <div class="nav">
+                        <a rel="noopener noreferrer" href="/zh-cn/Esg/Esg">ESG</a>
+                    </div>
+                </li>
+                <!--加入晶合-->
+                <li>
+                    <ul>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/JoinUs/Jop">&#x62DB;&#x8058;&#x4FE1;&#x606F;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/JoinUs/Career">&#x804C;&#x4E1A;&#x53D1;&#x5C55;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/JoinUs/Salary">&#x85AA;&#x8D44;&#x798F;&#x5229;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/JoinUs/Union">&#x6676;&#x5408;&#x5DE5;&#x4F1A;</a></li>
+                    </ul>
+                    <div class="nav">
+                        <a rel="noopener noreferrer" href="/zh-cn/JoinUs/Join">&#x52A0;&#x5165;&#x6676;&#x5408;</a>
+                    </div>
+                </li>
+                <!--廉洁窗口-->
+                <li>
+                    <ul>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/Integrity/Index">&#x5EC9;&#x884C;&#x81F4;&#x8FDC;</a></li>
+                        <li><a rel="noopener noreferrer" href="/zh-cn/JoinUs/Tipoff">&#x656C;&#x4E1A;&#x68C0;&#x4E3E;</a></li>
+                    </ul>
+                    <div class="nav">
+                        <a rel="noopener noreferrer" href="/zh-cn/Integrity/Index">&#x5EC9;&#x6D01;&#x7A97;&#x53E3;</a>
+                    </div>
+                </li>
+        </ul>
+    </div>
+
+</div>
+
+<!--移动端导航-->
+<div class="mheader">
+    <div class="mheader_box">
+        <div class="mlogo">
+            <a href="/zh-cn/Home/Index"> <img src="/images/logo.png" alt="&#x5408;&#x80A5;&#x6676;&#x5408;&#x96C6;&#x6210;&#x7535;&#x8DEF;&#x80A1;&#x4EFD;&#x6709;&#x9650;&#x516C;&#x53F8;"> </a>
+        </div>
+        <div class="mmenu_btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+    <div class="mmenu_list">
+        <ul>
+                <li> <a rel="noopener noreferrer" href="/zh-cn/Home/Index">&#x9996;&#x9875;</a> </li>
+                <li> <a rel="noopener noreferrer" href="/zh-cn/About/Introduce">&#x5173;&#x4E8E;&#x6676;&#x5408;</a> </li>
+                <li> <a rel="noopener noreferrer" href="/zh-cn/News/Index">&#x65B0;&#x95FB;&#x4E2D;&#x5FC3;</a> </li>
+                <li> <a rel="noopener noreferrer" href="/zh-cn/Service/Features">&#x6280;&#x672F;&#x670D;&#x52A1;</a> </li>
+                <li> <a rel="noopener noreferrer" href="/zh-cn/Honor/Index">&#x4F01;&#x4E1A;&#x8363;&#x8A89;</a> </li>
+                    <li> <a rel="noopener noreferrer" href="/zh-cn/Tzzgx/Index">&#x6295;&#x8D44;&#x8005;&#x5173;&#x7CFB;</a> </li>
+                    <li> <a rel="noopener noreferrer" href="/zh-cn/Esg/Esg">ESG</a> </li>
+                <!--廉洁窗口-->
+                <li> <a rel="noopener noreferrer" href="/zh-cn/JoinUs/Join">&#x52A0;&#x5165;&#x6676;&#x5408;</a> </li>
+                <li><a rel="noopener noreferrer" href="/zh-cn/Integrity/Index">&#x5EC9;&#x6D01;&#x7A97;&#x53E3;</a></li>
+        </ul>
+    </div>
+</div>
+                
+<!--banner-->
+<div class="banner">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <a href=""> <img src="/images/zh-cn/images/data/slide/20210608lambxy.jpg" alt="11"></a>
+                </div>
+                <div class="swiper-slide">
+                    <a href=""> <img src="/images/zh-cn/images/data/slide/20181208aeajwr.jpg" alt="33"></a>
+                </div>
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+</div>
+<!--menu-->
+    <div class="menu">
+        <ul class="clearfix">
+            <li>
+                <a href="/zh-cn/About/Introduce">
+                    <div class="m_icon">
+                        <img src="/images/zh-cn/images/m_icon1.png" alt="&#x5173;&#x4E8E;&#x6676;&#x5408;">
+                    </div>
+                    <div class="m_name">
+                        &#x5173;&#x4E8E;&#x6676;&#x5408;
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/zh-cn/News/Index">
+                    <div class="m_icon">
+                        <img src="/images/zh-cn/images/m_icon2.png" alt="&#x65B0;&#x95FB;&#x4E2D;&#x5FC3;">
+                    </div>
+                    <div class="m_name">
+                        &#x65B0;&#x95FB;&#x4E2D;&#x5FC3;
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/zh-cn/JoinUs/Join">
+                    <div class="m_icon">
+                        <img src="/images/zh-cn/images/m_icon3.png" alt="&#x52A0;&#x5165;&#x6676;&#x5408;">
+                    </div>
+                    <div class="m_name">
+                        &#x52A0;&#x5165;&#x6676;&#x5408;
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/zh-cn/Service/Features">
+                    <div class="m_icon">
+                        <img src="/images/zh-cn/images/m_icon4.png" alt="&#x6280;&#x672F;&#x670D;&#x52A1;">
+                    </div>
+                    <div class="m_name">
+                        &#x6280;&#x672F;&#x670D;&#x52A1;
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+<script>
+    // banner
+    var mySwiper1 = new Swiper('.banner .swiper-container', {
+        // autoplayDisableOnInteraction: false,
+        slidesPerView: 1,
+        speed: 500,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true
+        },
+        paginationClickable: true,
+        autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        loop: true
+    });
+    mySwiper1.el.onmouseover = function () {
+        mySwiper1.autoplay.stop();
+    }
+    mySwiper1.el.onmouseout = function () {
+        mySwiper1.autoplay.start();
+    }
+
+</script>
+
+            </div>
+        </div>
+        <!--foot-->
+<div class="foot clearfix">
+    <div style="width: 100%;height: auto;float: left;">
+        <div class="foot_menu fl">
+            <div class="fm_tit">
+                &#x5FEB;&#x6377;&#x5BFC;&#x822A;
+            </div>
+            <div class="fm_list clearfix">
+                    <a rel="noopener noreferrer" href="/zh-cn/Home/Index">&#x9996;&#x9875;</a>
+                    <a rel="noopener noreferrer" href="/zh-cn/About/Introduce">&#x5173;&#x4E8E;&#x6676;&#x5408;</a>
+                    <a rel="noopener noreferrer" href="/zh-cn/News/Index">&#x65B0;&#x95FB;&#x4E2D;&#x5FC3;</a>
+                    <a rel="noopener noreferrer" href="/zh-cn/Service/Features">&#x6280;&#x672F;&#x670D;&#x52A1;</a>
+                    <a rel="noopener noreferrer" href="/zh-cn/Honor/Index">&#x4F01;&#x4E1A;&#x8363;&#x8A89;</a>
+                    <a rel="noopener noreferrer" href="/zh-cn/Tzzgx/Index">&#x6295;&#x8D44;&#x8005;&#x5173;&#x7CFB;</a>
+                    <a rel="noopener noreferrer" href="/zh-cn/Esg/Esg">ESG</a>
+                    <a rel="noopener noreferrer" href="/zh-cn/JoinUs/Join">&#x52A0;&#x5165;&#x6676;&#x5408;</a>
+                    <a rel="noopener noreferrer" href="/zh-cn/Integrity/Index">&#x5EC9;&#x6D01;&#x7A97;&#x53E3;</a>
+                    <a rel="noopener noreferrer" href="https://dms.nexchip.com.cn/">&#x627F;&#x63FD;&#x5546;&#x7CFB;&#x7EDF;</a>
+            </div>
+        </div>
+        <div class="ewm fl">
+            <img src="/images/ewm.jpg" alt="">
+        </div>
+        <div class="foot_way fr">
+            <div class="fm_tit">
+                &#x8054;&#x7CFB;&#x6211;&#x4EEC;
+            </div>
+            <div class="fw_text">
+                <p> &#x7535;&#x8BDD; :86-551-62637000/62137000 </p>
+                <p> &#x5730;&#x5740; :&#x5408;&#x80A5;&#x5E02;&#x65B0;&#x7AD9;&#x533A;&#x5408;&#x80A5;&#x7EFC;&#x5408;&#x4FDD;&#x7A0E;&#x533A;&#x5185;&#x897F;&#x6DDD;&#x6CB3;&#x8DEF;88&#x53F7;</p>
+            </div>
+        </div>
+    </div>
+    <div style="line-height: 30px;color: #fff;width: 100%;text-align: center;margin-top: 30px;float: left;">
+        &#x7248;&#x6743;&#x6240;&#x6709;：&#x5408;&#x80A5;&#x6676;&#x5408;&#x96C6;&#x6210;&#x7535;&#x8DEF;&#x80A1;&#x4EFD;&#x6709;&#x9650;&#x516C;&#x53F8; &nbsp; &nbsp; &nbsp;
+        <img src="/images/icp.png"> &nbsp;<a href='https://beian.mps.gov.cn/#/query/webSearch' target='_blank' style='color:white'>皖公网安备 34019002600283号</a>&nbsp;&nbsp;&nbsp;<a href='https://beian.miit.gov.cn' target='_blank' style='color:white'>皖ICP备17001750号-1</a>
+    </div>
+</div>
+    </div>
+
+
+    <script type="text/javascript">
+        function Show_Hidden(obj) {
+            if (obj.style.display == "block") {
+                obj.style.display = 'none';
+            } else {
+                obj.style.display = 'block';
+            }
+        }
+        window.onload = function () {
+            var olink = document.getElementById("change_lang");
+            var odiv = document.getElementById("select_lang");
+           
+            olink.onclick = function () {
+                Show_Hidden(odiv);
+                return false;
+            }
+           
+
+        }
+    </script>
+    <style type="text/css">
+        #select_lang {
+            position: relative;
+            z-index: 10;
+            background: #fff;
+            opacity: 0.7;
+        }
+
+            #select_lang li {
+                line-height: 25px;
+                border-bottom: 1px solid #ddd;
+            }
+
+                #select_lang li a {
+                    color: #222;
+                    padding: 5px 5px;
+                    cursor: pointer;
+                }
+    </style>
+</body>
+</html>

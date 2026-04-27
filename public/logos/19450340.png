@@ -1,0 +1,767 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/transitional.dtd">
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/public.css">
+		<title>广东纬德信息科技股份有限公司</title>
+		<meta name="keywords" content="广东纬德信息科技股份有限公司" />
+		<meta name="description" content="广东纬德信息科技股份有限公司" />
+		<script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+		<!--jquery-migrate-1.2.1高版jQuery需要加载，如果您用的是低版本jQuery可以不用调用 -->
+		<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.corner.js"></script>
+		<script type="text/javascript" src="js/jquery.roundabout.js"></script>
+		<script type="text/javascript" src="js/jquery.roundabout-shapes.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+		<script src="js/jquery.bxslider.js"></script>
+		<link rel="stylesheet" href="css/jquery.bxslider.css">		
+	</head>
+	<style>
+		.slide a{text-decoration: none;}
+		.slide a p{color:#000000;font-weight: bold;}
+		.slide a span{color:#000000;}
+		.slide a:hover > span{color: #337ab7;}
+		.slide a:hover > p{color: #337ab7;}
+		.company-font p{line-height: 20px !important;}
+	</style>
+	<body style="width: 100%">
+		<!--网站头部内容-->
+		<div class="wdbc_ui header_box">
+			<div class="wdbc_ui_c">
+												<a href="." class="fl wdbc_logo"><img src="images/logo.png" alt="logo" /></a>
+												<div class="fr wdbc_logo_r">
+					<div class="wdbc_logo_r_t fl">
+						<div class="wdbc_ss fr">
+							<form action="/index.php" method="get" class="search_bj">
+								<input type="text" class="fl ipt1" name="q" placeholder="站内搜索…">
+								<input type="submit" class="fr ipt2" value="">
+								<div class="clearboth"></div>
+								<input type="hidden" name="m" value="search" />
+								<input type="hidden" name="c" value="index" />
+								<input type="hidden" name="a" value="init" />
+								<input type="hidden" name="typeid" value="" id="typeid" />
+								<input type="hidden" name="siteid" value="1" id="siteid" />
+							</form>
+						</div>
+					</div>
+					<ul class="fl wdbc_nav">
+						<li>
+							<a href="." class="a_nam activetm">网站首页</a>
+						</li>
+																																				<!--获取第一个子类的 url 字段值-->
+																		<!--否则直接得到当前的url-->
+												<li>
+							<a href="http://www.weide-gd.com/list-78-1.html" class="a_nam  ">关于我们</a>
+														
+                            <dl>
+							  							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-78-1.html">走进纬德</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-130-1.html">组织架构</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-145-1.html">发展历程</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-146-1.html">合作伙伴</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-147-1.html">荣誉资质</a>
+							  </dd>
+							  							  							</dl>
+													</li>
+																																				<li>
+							<a href="http://www.weide-gd.com/list-73-1.html" class="a_nam  ">产品中心</a>
+														
+                            <dl>
+							  							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-136-1.html">安全加密</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-137-1.html">系统平台</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-148-1.html">安全审计</a>
+							  </dd>
+							  							  							</dl>
+													</li>
+																																				<li>
+							<a href="http://www.weide-gd.com/list-140-1.html" class="a_nam  ">解决方案</a>
+														
+                            <dl>
+							  							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-153-1.html">智慧新能源解决方案</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-142-1.html">安全加密解决方案</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-143-1.html">系统平台解决方案</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-144-1.html">安全审计解决方案</a>
+							  </dd>
+							  							  							</dl>
+													</li>
+																																				<li>
+							<a href="http://www.weide-gd.com/list-131-1.html" class="a_nam  ">新闻动态</a>
+														
+                            <dl>
+							  							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-132-1.html">公司动态</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-133-1.html">行业新闻</a>
+							  </dd>
+							  							  							</dl>
+													</li>
+																								<!--获取第一个子类的 url 字段值-->
+																		<!--否则直接得到当前的url-->
+												<li>
+							<a href="http://www.weide-gd.com/list-149-1.html" class="a_nam  ">联系我们</a>
+														
+                            <dl>
+							  							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-149-1.html">联系方式</a>
+							  </dd>
+							  							  <dd>
+							  <a href="http://www.weide-gd.com/list-150-1.html">人才招聘</a>
+							  </dd>
+							  							  							</dl>
+													</li>
+																																				<li>
+							<a href="http://www.sse.com.cn/assortment/stock/list/info/announcement/index.shtml?productId=688171" class="a_nam  ">投资者关系</a>
+													</li>
+																	</ul>
+					<div class="clearboth"></div>
+				</div>
+				<div class="clearboth"></div>
+			</div>
+		</div>
+		
+				<!--网站联播-->
+		<div class="slider">
+			<ul class="slider-main">
+												<li class="slider-panel" style="width: 100%">
+					<a ><img  src="uploadfile/2021/1211/20211211035243670.jpg"></a>
+				</li>
+								<li class="slider-panel" style="width: 100%">
+					<a ><img  src="uploadfile/2021/1211/20211211041811725.jpg"></a>
+				</li>
+								<li class="slider-panel" style="width: 100%">
+					<a ><img  src="uploadfile/2020/0612/20200612061644611.jpg"></a>
+				</li>
+								<li class="slider-panel" style="width: 100%">
+					<a ><img  src="uploadfile/2020/0612/20200612061657308.jpg"></a>
+				</li>
+								<li class="slider-panel" style="width: 100%">
+					<a ><img  src="uploadfile/2020/0615/20200615041937827.jpg"></a>
+				</li>
+											</ul>
+			<div class="slider-extra">
+				<!--tab的小圆点-->
+				<ul class="slider-nav">
+					<li class="slider-item"></li>
+					<li class="slider-item"></li>
+					<li class="slider-item"></li>
+				</ul>
+				<!--页面切换-->
+				<div class="slider-page">
+					<span class="slider-pre fa fa-chevron-left"><img src="images/left.png" alt="" /></span>
+					<span class="slider-next fa fa-chevron-right"><img src="images/right.png" alt="" /></span>
+				</div>
+			</div>
+		</div>
+		<div style="clear: both;"></div>
+				<!--网页主体部分-->
+<div class="content">
+	<div class="content-1" style="overflow: hidden;">
+		<div class="headings">
+			<div class="headings-left heading-er">
+				<h2>新闻</h2>
+			</div>
+			<div class="headings-right heading-er">
+				<h2>动态</h2>
+			</div>
+		</div>
+		<div class="headings-bottom">
+			<div class="head-bl head-border"><span></span></div>
+			<div class="head-br head-border"><span></span></div>
+		</div>
+		<div style="cursor: pointer;" class="more" onclick="javascrtpt:window.location.href='http://www.weide-gd.com/list-131-1.html'">MORE</div>
+		<div class="wdbc_box1">
+						     																	
+			      <div class="wdbc_box1_left fl">
+			      	<a href="/show-132-231-1.html" class="fl a_img Amplification"><img  src="/uploadfile/20240229/1709185249899567.png" alt="【喜讯】纬德信息参股子公司纬德数字 “基于模型在线化设计支撑的配网工程数字化平台”产品发布"></a>
+			      	<a href="/show-132-231-1.html" class="fl a_text">【喜讯】纬德信息参股子公司纬德数字 “基于模型在线化设计支撑的配网工程数字化平台”产品发布</a>
+			      	<!--<div class="a_text_c fl">Date:2024-02-29</div>-->
+			      	<div class="clearboth"></div>
+			      </div>			       
+			    						
+			<ul class="wdbc_box1_right fr">				
+								     																	
+				       <li>
+				       	<a href="/show-132-231-1.html"  class="div">
+				       		<div class="fl div_l">
+				       			<div class="fl s1">29</div>
+				       			<div class="fl s2"><span>2024.02</span></div>
+				       			<div class="clearboth"></div>
+				       		</div>
+				       		<div class="fr div_r">
+				       			<div class="fl s1">【喜讯】纬德信息参股子公司纬德数字 “基于模型在线化设计支撑的配网工程数字化平台”产品发布</div>
+				       			<div class="fl s2"> “基于模型在线化设计支撑的配网工程数字化平台”产品发布</div>
+				       			<div class="clearboth"></div>
+				       		</div>
+				       		<div class="clearboth"></div>
+				       	</a>
+				       </li>				       
+				     																	
+				       <li>
+				       	<a href="/show-132-229-1.html"  class="div">
+				       		<div class="fl div_l">
+				       			<div class="fl s1">18</div>
+				       			<div class="fl s2"><span>2023.10</span></div>
+				       			<div class="clearboth"></div>
+				       		</div>
+				       		<div class="fr div_r">
+				       			<div class="fl s1">【喜讯】纬德公司获得广州市隐形冠军称号</div>
+				       			<div class="fl s2">纬德公司获得广州市隐形冠军称号</div>
+				       			<div class="clearboth"></div>
+				       		</div>
+				       		<div class="clearboth"></div>
+				       	</a>
+				       </li>				       
+				     																	
+				       <li>
+				       	<a href="/show-132-228-1.html"  class="div">
+				       		<div class="fl div_l">
+				       			<div class="fl s1">23</div>
+				       			<div class="fl s2"><span>2023.08</span></div>
+				       			<div class="clearboth"></div>
+				       		</div>
+				       		<div class="fr div_r">
+				       			<div class="fl s1">【喜讯】纬德信息喜获广州市黄埔开发区2022年度瞪羚企业认定公示</div>
+				       			<div class="fl s2">纬德信息获得2022年度瞪羚企业公示认定</div>
+				       			<div class="clearboth"></div>
+				       		</div>
+				       		<div class="clearboth"></div>
+				       	</a>
+				       </li>				       
+				    								
+			</ul>
+			<div class="clearboth"></div>
+		</div>
+	</div>
+
+
+	<!--<div class="content-1"style="position:relative;height: 523px;">-->
+	<div class="content-1" style="position:relative;">
+		<div class="headings">
+			<div class="headings-left heading-er">
+				<h2>产品</h2>
+			</div>
+			<div class="headings-right heading-er">
+				<h2>中心</h2>
+			</div>
+		</div>
+		<div class="headings-bottom">
+			<div class="head-bl head-border"><span></span></div>
+			<div class="head-br head-border"><span></span></div>
+		</div>
+		<div class="wdbc_box2">
+			<div class="multipleColumn" style="margin:0 auto">
+				<div class="bd">
+					<div class="ulWrap">
+						<ul>
+														    																																<li>
+									<dl class="fl">
+									
+								 <dd>
+								 	<a href="/show-136-128-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2024/0829/20240829095204563.jpg" alt="工业物联网安全传输网关"></div>
+								 		<div class="fl a_text">工业物联网安全传输网关</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-136-127-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0609/20200609015145491.jpg" alt="工业物联网安全传输终端"></div>
+								 		<div class="fl a_text">工业物联网安全传输终端</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-136-126-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0609/20200609014939270.jpg" alt="工业规约防篡改装置"></div>
+								 		<div class="fl a_text">工业规约防篡改装置</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-136-129-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616045034369.jpg" alt="加密终端远程管理平台"></div>
+								 		<div class="fl a_text">加密终端远程管理平台</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-136-125-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0609/20200609014851295.png" alt="工业高安全智能锁"></div>
+								 		<div class="fl a_text">工业高安全智能锁</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-136-124-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0609/20200609014812638.png" alt="数据安全采集设备"></div>
+								 		<div class="fl a_text">数据安全采集设备</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 								 	</dl>
+								 	<div class="clearboth"></div>
+								 </li>
+								 																																<li>
+									<dl class="fl">
+									
+								 <dd>
+								 	<a href="/show-148-138-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0609/20200609020943579.png" alt="网络态势感知产品"></div>
+								 		<div class="fl a_text">网络态势感知产品</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-148-137-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616050402560.jpg" alt="调控终端运维审计管控产品"></div>
+								 		<div class="fl a_text">调控终端运维审计管控产品</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-148-136-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616050700255.jpg" alt="多因子身份认证产品"></div>
+								 		<div class="fl a_text">多因子身份认证产品</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-137-135-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616051031363.jpg" alt="网络安全攻防演练平台"></div>
+								 		<div class="fl a_text">网络安全攻防演练平台</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-137-134-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616050131987.jpg" alt="调控终端集中管控平台"></div>
+								 		<div class="fl a_text">调控终端集中管控平台</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-137-133-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616050843538.jpg" alt="全业务测试验证平台"></div>
+								 		<div class="fl a_text">全业务测试验证平台</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 								 	</dl>
+								 	<div class="clearboth"></div>
+								 </li>
+								 																																<li>
+									<dl class="fl">
+									
+								 <dd>
+								 	<a href="/show-137-132-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616050007456.jpg" alt="大数据智能融合平台"></div>
+								 		<div class="fl a_text">大数据智能融合平台</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-137-131-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616051250666.jpg" alt="数字配电网系统平台"></div>
+								 		<div class="fl a_text">数字配电网系统平台</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-137-130-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0616/20200616050516973.jpg" alt="数据三维可视化"></div>
+								 		<div class="fl a_text">数据三维可视化</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-136-123-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2021/1211/20211211040324290.jpg" alt="工业级4G/5G通信模块"></div>
+								 		<div class="fl a_text">工业级4G/5G通信模块</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																						
+						</ul>
+					</div>
+				</div>
+				<div class="hd1">
+					<a class="next"></a>
+					<ul></ul>
+					<a class="prev"></a>
+					<span class="pageState"></span>
+				</div>
+			</div>
+			<script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+			<script type="text/javascript">
+				// 多行/多列的滚动解决思路在于：把每次滚动的n个li放到1个ul里面，然后用SuperSlide每次滚动1个ul，相当于每次滚动n个li
+				jQuery(".multipleColumn").slide({
+					titCell: ".hd1 ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "left",
+					autoPlay: true,
+					vis: 1,
+					trigger: "click",
+					scroll: 1
+				});
+			</script>
+		</div>
+	</div>
+	<!--轮播结束-->
+
+
+	<!--<div class="content-1"style="position:relative;height: 523px;">-->
+	<div class="content-1" style="position:relative;">
+		<div class="headings">
+			<div class="headings-left heading-er">
+				<h2>解决</h2>
+			</div>
+			<div class="headings-right heading-er">
+				<h2>方案</h2>
+			</div>
+		</div>
+		<div class="headings-bottom">
+			<div class="head-bl head-border"><span></span></div>
+			<div class="head-br head-border"><span></span></div>
+		</div>
+		<div class="wdbc_box2">
+			<div class="multipleColumn1" style="margin:0 auto">
+				<div class="bd">
+					<div class="ulWrap">
+						<ul>
+							
+														    																																<li>
+									<dl class="fl">
+									
+								 <dd>
+								 	<a href="/show-153-222-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2021/1211/20211211124538685.jpg" alt="智慧新能源整体解决方案"></div>
+								 		<div class="fl a_text">智慧新能源整体解决方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-153-221-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2021/1211/20211211010249935.jpg" alt="智慧新能源综合服务平台"></div>
+								 		<div class="fl a_text">智慧新能源综合服务平台</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-153-220-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2021/1211/20211211010719663.jpg" alt="小水电数据安全采集解决方案"></div>
+								 		<div class="fl a_text">小水电数据安全采集解决方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-153-219-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2021/1211/20211211011643715.jpg" alt="风电场数据监控安全采集方案"></div>
+								 		<div class="fl a_text">风电场数据监控安全采集方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-153-218-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2021/1211/20211211012858542.jpg" alt="分布式光伏数据安全采集方案"></div>
+								 		<div class="fl a_text">分布式光伏数据安全采集方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-142-183-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2021/1211/20211211012737750.jpg" alt="配网自动化安全防护解决方案"></div>
+								 		<div class="fl a_text">配网自动化安全防护解决方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 								 	</dl>
+								 	<div class="clearboth"></div>
+								 </li>
+								 																																<li>
+									<dl class="fl">
+									
+								 <dd>
+								 	<a href="/show-142-182-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615044940777.jpg" alt="工业高安全智能锁管理平台方案"></div>
+								 		<div class="fl a_text">工业高安全智能锁管理平台方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-142-180-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0609/20200609023934458.png" alt="配网指令防篡改安全加固方案"></div>
+								 		<div class="fl a_text">配网指令防篡改安全加固方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-142-179-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615042845176.jpg" alt="变电站临时通道安全通信"></div>
+								 		<div class="fl a_text">变电站临时通道安全通信</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-142-177-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615052736769.jpg" alt="粮情监测安全通信"></div>
+								 		<div class="fl a_text">粮情监测安全通信</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-142-176-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615052935994.jpg" alt="视频会议/监控安全传输"></div>
+								 		<div class="fl a_text">视频会议/监控安全传输</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-143-188-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615050840118.png" alt="调控中心数据3D可视化解决方案"></div>
+								 		<div class="fl a_text">调控中心数据3D可视化解决方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 								 	</dl>
+								 	<div class="clearboth"></div>
+								 </li>
+								 																																<li>
+									<dl class="fl">
+									
+								 <dd>
+								 	<a href="/show-143-186-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615052437962.jpg" alt="电网调控及信息业务系统运行安全保障"></div>
+								 		<div class="fl a_text">电网调控及信息业务系统运行安全保障</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-143-187-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615053134741.jpg" alt="电网调控终端集中安全管控"></div>
+								 		<div class="fl a_text">电网调控终端集中安全管控</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-143-184-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615051526703.jpg" alt="电网业务系统全场景仿真测试"></div>
+								 		<div class="fl a_text">电网业务系统全场景仿真测试</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-143-185-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615051337675.png" alt="电网海量非结构化数据存储及备份"></div>
+								 		<div class="fl a_text">电网海量非结构化数据存储及备份</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-144-190-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0615/20200615043718424.jpg" alt="网络态势感知安全监控解决方案"></div>
+								 		<div class="fl a_text">网络态势感知安全监控解决方案</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 																									
+								 <dd>
+								 	<a href="/show-144-189-1.html" class="div Amplification">
+								 		<div class="fl a_img"><img src="uploadfile/2020/0609/20200609030949211.jpg" alt="“地县调控一体化”调度终端延伸"></div>
+								 		<div class="fl a_text">“地县调控一体化”调度终端延伸</div>
+								 		<div class="clearboth"></div>
+								 	</a>
+								 </dd>
+								 								 	</dl>
+								 	<div class="clearboth"></div>
+								 </li>
+								 															
+						</ul>
+					</div>
+				</div>
+				<div class="hd1">
+					<a class="next"></a>
+					<ul></ul>
+					<a class="prev"></a>
+					<span class="pageState"></span>
+				</div>
+			</div>
+			<script type="text/javascript">
+				// 多行/多列的滚动解决思路在于：把每次滚动的n个li放到1个ul里面，然后用SuperSlide每次滚动1个ul，相当于每次滚动n个li
+				jQuery(".multipleColumn1").slide({
+					titCell: ".hd1 ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "left",
+					autoPlay: true,
+					vis: 1,
+					trigger: "click",
+					scroll: 1
+				});
+			</script>
+		</div>
+	</div>
+
+	<div class="content-1" style="overflow: hidden;">
+		<div class="headings">
+			<div class="headings-left heading-er">
+				<h2>公司</h2>
+			</div>
+			<div class="headings-right heading-er">
+				<h2>介绍</h2>
+			</div>
+		</div>
+		<div class="headings-bottom">
+			<div class="head-bl head-border"><span></span></div>
+			<div class="head-br head-border"><span></span></div>
+		</div>	
+								  <div class="wdbc_box3">
+			  	<div class="wdbc_box3_c" style="background: url(uploadfile/2023/0615/20230615040207732.jpg) 50% 0 no-repeat #dde7f0;">
+			  		<div class="wdbc_box3_c_t fl">
+			  			<div class="wdbc_box3_c_t_c">
+			  				<div class="fl s1">
+			  					<!-- <em>民族的世界的</em>纬德 -->
+			  					 <em>创新的服务的</em>纬德			  				</div>
+			  				<div class="s2 fl">
+			                       <div><span style="font-family: 宋体, SimSun;">广东纬德信息科技股份有限公司成立于2012年，注册资本</span><span style="font-family: 宋体, SimSun;">为8377.34万</span><span style="font-family: 宋体, SimSun;">元，国家科技创新领军人才企业，国家物联网关键技术与平台创新入选企业，中国高科技高成长50强，坐落于广州市黄埔区的高新技术产业开发区科学城，专注于工业互联网信息安全领域，形成工业互联网信息采集、信息传输、大数据分析及展示、安全保障等系列产品。					</span></div>  
+			  				</div>
+			  				<div class="clearboth"></div>
+			  			</div>
+			  		</div>
+			  		<div class="clearboth"></div>
+			  	</div>
+			  </div>
+							
+	</div>
+</div>
+<!--页脚部分 -->
+<div class="wdbc_ui wdbc_bg2"  >
+	<div class="wdbc_ui_c">
+		<div class="wdbc_footer_top">
+			<ul class="wdbc_footer_top_l fl">				
+				<div class="footer-nav-list">
+					<!-- <a href="index.html">首页</a> -->
+																				<!--获取第一个子类的 url 字段值-->
+															<!--否则直接得到当前的url-->
+										<li>
+						<a href="http://www.weide-gd.com/list-78-1.html" class="a1">关于我们</a>
+																				  <a href="http://www.weide-gd.com/list-78-1.html" class="a2">走进纬德</a>
+														  <a href="http://www.weide-gd.com/list-130-1.html" class="a2">组织架构</a>
+														  <a href="http://www.weide-gd.com/list-145-1.html" class="a2">发展历程</a>
+														  <a href="http://www.weide-gd.com/list-146-1.html" class="a2">合作伙伴</a>
+														  <a href="http://www.weide-gd.com/list-147-1.html" class="a2">荣誉资质</a>
+																			<div class="clearboth"></div>
+					</li>					
+																									<li>
+						<a href="http://www.weide-gd.com/list-73-1.html" class="a1">产品中心</a>
+																				  <a href="http://www.weide-gd.com/list-136-1.html" class="a2">安全加密</a>
+														  <a href="http://www.weide-gd.com/list-137-1.html" class="a2">系统平台</a>
+														  <a href="http://www.weide-gd.com/list-148-1.html" class="a2">安全审计</a>
+																			<div class="clearboth"></div>
+					</li>					
+																									<li>
+						<a href="http://www.weide-gd.com/list-140-1.html" class="a1">解决方案</a>
+																				  <a href="http://www.weide-gd.com/list-153-1.html" class="a2">智慧新能源解决方案</a>
+														  <a href="http://www.weide-gd.com/list-142-1.html" class="a2">安全加密解决方案</a>
+														  <a href="http://www.weide-gd.com/list-143-1.html" class="a2">系统平台解决方案</a>
+														  <a href="http://www.weide-gd.com/list-144-1.html" class="a2">安全审计解决方案</a>
+																			<div class="clearboth"></div>
+					</li>					
+																									<li>
+						<a href="http://www.weide-gd.com/list-131-1.html" class="a1">新闻动态</a>
+																				  <a href="http://www.weide-gd.com/list-132-1.html" class="a2">公司动态</a>
+														  <a href="http://www.weide-gd.com/list-133-1.html" class="a2">行业新闻</a>
+																			<div class="clearboth"></div>
+					</li>					
+															<!--获取第一个子类的 url 字段值-->
+															<!--否则直接得到当前的url-->
+										<li>
+						<a href="http://www.weide-gd.com/list-149-1.html" class="a1">联系我们</a>
+																				  <a href="http://www.weide-gd.com/list-149-1.html" class="a2">联系方式</a>
+														  <a href="http://www.weide-gd.com/list-150-1.html" class="a2">人才招聘</a>
+																			<div class="clearboth"></div>
+					</li>					
+																									<li>
+						<a href="http://www.sse.com.cn/assortment/stock/list/info/announcement/index.shtml?productId=688171" class="a1">投资者关系</a>
+																									<div class="clearboth"></div>
+					</li>					
+																		
+			</ul>
+			<div class="wdbc_footer_top_c fr">
+															<div class="fl s1">关注纬德</div>
+						<div class="fl s2"><img src="uploadfile/2020/0615/20200615103257691.png" alt="关注纬德"></div>
+						<div class="clearboth"></div>
+												
+			</div>
+			<!--<div class="wdbc_footer_top_r fr">
+              <div class="fl s1">电商平台</div>
+              <div class="clearboth"></div>
+              </div>-->
+			<div class="clearboth"></div>
+		</div>
+	</div>
+</div>
+<div class="wdbc_ui wdbc_bg1">
+	<div class="wdbc_ui_c">
+		<div class="wdbc_footer">
+									<div>广东纬德信息科技股份有限公司 版权所有 网站编号：2499040 备案号：<a href="http://beian.miit.gov.cn" target="_blank" textvalue="粤ICP备15059381号">粤ICP备15059381号</a></div>								</div>
+	</div>
+</div>
+<!--返回顶部-->
+<div class="follow">
+	<button class="gotop">
+		返回顶部
+	</button>
+</div>
+</body>
+</html>

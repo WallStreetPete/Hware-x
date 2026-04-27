@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>SUNFLEX 旭軟科技 專業軟性印刷電路板製造商</title>
+    <base href="https://www.sunflex.com.tw/">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
+    <link rel="canonical" href="https://www.sunflex.com.tw/tw" />
+    <link rel="alternate" hreflang="zh-TW" href="https://www.sunflex.com.tw/" />
+    <link rel="alternate" hreflang="en" href="https://www.sunflex.com.tw/en" />
+    <link rel="alternate" hreflang="jp" href="https://www.sunflex.com.tw/jp" />
+    <meta name="title" content="SUNFLEX 旭軟科技 專業軟性印刷電路板製造商">
+    <meta name="description" content="旭軟公司秉持者「品質、創新、專業」的經營理念，努力擴展事業，導入新技術及提昇生產效率，透過全面品質管理及對每一件工作的持續改善，提供顧客最專業、最滿意之產品及服務。">
+    <meta name="keywords" content="SUNFLEX 專業軟性印刷電路板製造商">
+    <meta name="author" content="旭軟電子科技股份有限公司">
+    <meta name="copyright" content="旭軟電子科技股份有限公司">
+    <link rel="stylesheet" href="assets/ContentBuilder/assets/minimalist-blocks/content.css">
+    <!-- <link rel="stylesheet" href="assets/css/app.css"> -->
+    <link rel="stylesheet" href="assets/css/all.css?21932026-04-27" />
+    <!--[if lt IE 9]>
+     <script src="assets/js/html5shiv.min.js"></script>
+    <![endif]-->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZXWGGBZF3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'G-9ZXWGGBZF3');
+</script>
+</head>
+<body>
+    <header class="w-full fixed top-0 left-0 z-90 md:px-15 px-7.5">
+    <div class="w-360 max-w-full mx-auto img-full flex justify-between items-center">
+        <a href="tw" class="logo sm:w-40 w-35 max-w-full">
+            <img class="js-svg" src="assets/img/layout/logo.svg" alt>
+        </a>
+        <div class="pc-menu-block lg:block flex items-center justify-end">
+            <div class="relative">
+                <div class="lg:flex hidden justify-end items-center gap-2 text-12px absolute top-1.5 right-0 z-1">
+                    <a href="tw/news" class="menu-s-link">新聞中心</a>
+                    <div class="w-[1px] bg-gray-500 h-5"></div>
+                    <!-- <a href="" class="menu-s-link">供應商登入</a>
+                    <div class="w-[1px] bg-gray-500 h-5"></div> -->
+                    <a href="tw/quotation" class="menu-s-link">快速報價</a>
+                    <div class="w-[1px] bg-gray-500 h-5"></div>
+                    <a href="tw/contact" class="menu-s-link">聯絡我們</a>
+                </div>
+            </div>
+            <div class="lg:flex gap-2 text-18px"> 
+                <ul class="pc-menu-box lg:flex hidden">
+                    <li class="pc-menu-list">
+                        <div class="pc-menu-title h-23 flex items-center justify-center md:text-18px px-6">專業技術</div>
+                        <div class="pc-menu-secend">
+                            <ul class="flex justify-around gap-5 max-w-360 w-full mx-auto">
+                                <li>
+                                    <a href="tw/technique/ability">製程能力</a>
+                                </li>
+                                <li>
+                                    <a
+                                        href="tw/technique/introduce">製程介紹</a>
+                                </li>
+                                <li>
+                                    <a href="tw/technique/device">可靠度測試</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li> 
+                    <li class="pc-menu-list">
+                        <div class="pc-menu-title h-23 flex items-center justify-center md:text-18px px-6">
+                            <a>產業應用</a>
+                        </div>
+                        <div class="pc-menu-secend">
+                            <ul class="flex justify-around gap-5 max-w-360 w-full mx-auto">
+                                <li>
+                                    <!-- 在幫我把文字套成程式 -->
+                                    <a href="tw/application/overview">產業應用總覽</a>
+                                </li>
+                                                                <li>
+                                    <a
+                                        href="tw/application/content/消費性應用">消費性應用</a>
+                                </li>
+                                                                <li>
+                                    <a
+                                        href="tw/application/content/車載應用">車載應用</a>
+                                </li>
+                                                                <li>
+                                    <a
+                                        href="tw/application/content/工控產業">工控產業</a>
+                                </li>
+                                                                <li>
+                                    <a
+                                        href="tw/application/content/醫療產業">醫療產業</a>
+                                </li>
+                                                                <li>
+                                    <a
+                                        href="tw/application/content/其他產業">其他產業</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                    <li class="pc-menu-list">
+                        <div class="pc-menu-title h-23 flex items-center justify-center md:text-18px px-6">關於旭軟</div>
+                        <div class="pc-menu-secend">
+                            <ul class="flex justify-around gap-5 max-w-360 w-full mx-auto">
+                                <li>
+                                    <a href="tw/about/sunflex">關於旭軟</a>
+                                </li>
+                                <li>
+                                    <a href="tw/about/global">全球據點</a>
+                                </li>
+                                <li>
+                                    <a href="tw/about/history">沿革</a>
+                                </li>
+                                <li>
+                                    <a href="tw/about/factory">智慧工廠</a>
+                                </li>
+                                <li>
+                                    <a href="tw/about/organize">組織圖</a>
+                                </li>
+                                <li>
+                                    <a
+                                        href="tw/about/certification">認證與標準</a>
+                                </li>
+                                <li>
+                                    <a
+                                        href="tw/about/responsibility">企業社會責任</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                   
+
+                    <li class="pc-menu-list">
+                        <a href="tw/ir" class="pc-menu-title h-23 flex items-center justify-center md:text-18px px-6">投資人專區                        </a>
+                        <div class="pc-menu-secend">
+                            <ul class="flex justify-around gap-5 max-w-360 w-full mx-auto">
+                                <li class="lang-en:!hidden">
+                                    <a href="tw/ir">投資人專區總覽</a>
+                                </li>
+                                <li>
+                                    <a href="tw/financial/company">財務資訊</a>
+                                </li>
+                                <li>
+                                    <a href="tw/shareholder/yearly">股東專欄</a>
+                                </li>
+                                <li>
+                                    <a href="tw/company/list">公司治理</a>
+                                </li>
+                                <li>
+                                    <a href="tw/stakeholder">利害關係人專區</a>
+                                </li>
+                                <li>
+                                    <a href="tw/info">股價相關資訊</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="pc-menu-list">
+                        <div class="pc-menu-title h-23 flex items-center justify-center md:text-18px px-6">加入我們</div>
+                        <div class="pc-menu-secend">
+                            <ul class="flex justify-around gap-5 max-w-360 w-full mx-auto">
+                                                        <li>
+                                <a href="tw/joinin#加入旭軟">加入旭軟</a>
+                            </li>
+                                                        <li>
+                                <a href="tw/joinin#旭軟生活">旭軟生活</a>
+                            </li>
+                                                        <li>
+                                <a href="tw/joinin#培訓計畫">培訓計畫</a>
+                            </li>
+                                                        </ul>
+                        </div>
+                    </li>
+
+                </ul>
+
+                <div class="flex gap-5">
+                    <div class="lan-box h-full flex items-center justify-center">
+                        <div class="w-6 lan-btn"><img src="assets/img/layout/lang.svg" alt></div>
+                        <ul class="lan-list-box">
+                            <li><a href="/tw">繁體中文</a></li>
+                            <li><a href="/en">ENGLISH</a></li>
+                            <li><a href="/jp">日本語</a></li>
+                        </ul>
+                    </div>
+                    <!-- <div class="h-full flex items-center justify-center">
+                        <a class="user-box w-6"><img src="assets/img/layout/login.svg"></a>
+                    </div> -->
+                    <div class="lg:hidden w-6 h-6 rwd-btn-box">
+                        <div class="w-full rwd-open-btn">
+                            <img src="assets/img/layout/menu.svg" alt>
+                        </div>
+                        <div class="w-full rwd-close-btn">
+                            <img src="assets/img/layout/close.svg" alt>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- 手機板選單 -->
+    <div class="rwd-menu-box lg:hidden bg-white">
+        <div class="w-full h-full o-auto flex flex-col justify-between">
+            <div class="rwd-menu mb-10">
+                <div class="rwd-menu-list px-7.5 py-4">
+                    <div class="rwd-menu-list-title-box flex justify-between items-center">
+                        <div class="rwd-menu-list-title">專業技術</div>
+                        <div class="more-icon">
+                            <img src="assets/img/layout/more-arrow.svg" alt>
+                        </div>
+                    </div>
+                    <div class="rwd-menu-s-list-box">
+                        <div class="h-back-btn px-7.5 py-4 flex justify-between items-center">
+                            <div class="icon w-6">
+                                <img src="assets/img/layout/back-arrow.svg" alt>
+                            </div>
+                            <p>返回列表</p>
+                        </div>
+                        <!-- 次分類 -->
+                        <a class="block px-7.5 py-4"
+                            href="tw/technique/ability">製造能力</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/technique/introduce">製程介紹</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/technique/device">可靠度測試</a>
+                    </div>
+                </div>
+                <div class="rwd-menu-list px-7.5 py-4">
+                    <div class="rwd-menu-list-title-box flex justify-between items-center">
+                        <div class="rwd-menu-list-title">
+                            <a href="tw/application/overview">產業應用</a>
+                        </div>
+                        <div class="more-icon">
+                            <img src="assets/img/layout/more-arrow.svg" alt>
+                        </div>
+                    </div>
+                    <div class="rwd-menu-s-list-box">
+                        <div class="h-back-btn px-7.5 py-4 flex justify-between items-center">
+                            <div class="icon w-6">
+                                <img src="assets/img/layout/back-arrow.svg" alt>
+                            </div>
+                            <p>返回列表</p>
+                        </div>
+                        <!-- 次分類 -->
+                                                        <a class="block px-7.5 py-4"
+                                    href="tw/application/content/消費性應用">消費性應用</a>
+                                                                <a class="block px-7.5 py-4"
+                                    href="tw/application/content/車載應用">車載應用</a>
+                                                                <a class="block px-7.5 py-4"
+                                    href="tw/application/content/工控產業">工控產業</a>
+                                                                <a class="block px-7.5 py-4"
+                                    href="tw/application/content/醫療產業">醫療產業</a>
+                                                                <a class="block px-7.5 py-4"
+                                    href="tw/application/content/其他產業">其他產業</a>
+                                                    </div>
+                </div>
+
+                <div class="rwd-menu-list px-7.5 py-4">
+                    <div class="rwd-menu-list-title-box flex justify-between items-center">
+                        <div class="rwd-menu-list-title">關於旭軟</div>
+                        <div class="more-icon">
+                            <img src="assets/img/layout/more-arrow.svg" alt>
+                        </div>
+                    </div>
+                    <div class="rwd-menu-s-list-box">
+                        <div class="h-back-btn px-7.5 py-4 flex justify-between items-center">
+                            <div class="icon w-6">
+                                <img src="assets/img/layout/back-arrow.svg" alt>
+                            </div>
+                            <p>返回列表</p>
+                        </div>
+                        <!-- 次分類 -->
+                        <a class="block px-7.5 py-4"
+                            href="tw/about/sunflex">關於旭軟</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/about/global">全球據點</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/about/history">沿革</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/about/factory">智慧工廠</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/about/organize">組織圖</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/about/certification">認證與標準</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/about/responsibility">企業社會責任</a>
+
+                    </div>
+                </div>
+                <div class="rwd-menu-list px-7.5 py-4">
+                    <div class="rwd-menu-list-title-box flex justify-between items-center">
+                        <div class="rwd-menu-list-title"><a href="tw/ir">投資人專區</a>
+                        </div>
+                        <div class="more-icon">
+                            <img src="assets/img/layout/more-arrow.svg" alt>
+                        </div>
+                    </div>
+                    <div class="rwd-menu-s-list-box">
+                        <div class="h-back-btn px-7.5 py-4 flex justify-between items-center">
+                            <div class="icon w-6">
+                                <img src="assets/img/layout/back-arrow.svg" alt>
+                            </div>
+                            <p>返回列表</p>
+                        </div>
+                        <!-- 次分類 -->
+                        <a class="block px-7.5 py-4"
+                            href="tw/financial/company">財務資訊</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/shareholder/yearly">股東專欄</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/company/list">公司治理</a>
+                        <a class="block px-7.5 py-4"
+                            href="tw/stakeholder">利害關係人專區</a>
+                        <a class="block px-7.5 py-4" href="tw/info">股價相關資訊</a>
+                    </div>
+                </div>
+
+                <div class="rwd-menu-list px-7.5 py-4">
+                    <a href="tw/joinin" class="rwd-menu-list-title-box">
+                        <div class="rwd-menu-list-title">加入我們</div>
+                    </a>
+                </div>
+                <div class="rwd-menu-list px-7.5 py-4">
+                    <a href="tw/news" class="rwd-menu-list-title-box">
+                        <div class="rwd-menu-list-title">新聞中心</div>
+                    </a>
+                </div>
+                <!-- <div class="rwd-menu-list px-7.5 py-4">
+                    <a href="" class="rwd-menu-list-title-box">
+                        <div class="rwd-menu-list-title">供應商登入</div>
+                    </a>
+                </div> -->
+                <div class="rwd-menu-list px-7.5 py-4">
+                    <a href="tw/quotation" class="rwd-menu-list-title-box">
+                        <div class="rwd-menu-list-title">快速報價</div>
+                    </a>
+                </div>
+                <div class="rwd-menu-list px-7.5 py-4">
+                    <a href="tw/contact" class="rwd-menu-list-title-box">
+                        <div class="rwd-menu-list-title">聯絡我們</div>
+                    </a>
+                </div>
+            </div>
+            <div class="flex items-center gap-2.5 px-7.5 pb-10">
+                <a class="w-8">
+                    <img src="assets/img/layout/h-fb.svg" alt>
+                </a>
+                <a class="w-8">
+                    <img src="assets/img/layout/h-linkedin.svg" alt>
+                </a>
+                <a class="w-8">
+                    <img src="assets/img/layout/h-yt.svg" alt>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>    <main class="bg-[#EAEFF2]">
+        <section class="banner-block relative g-animate">
+            <div class="banner-box">
+                                <a class="banner-list relative xl:px-60 md:px-5% px-5 w-full block" data-video-href="/uploads/images/RD.mp4" data-video-type="video">
+                    <div class="banner-img w-full h-full absolute top-0 left-0">
+                        <span>
+                            <picture>
+                                <source srcset="/uploads/images/banner.jpg" media="(min-width: 1025px)">
+                                <img class="img-object" src="/uploads/images/banner.jpg">
+                            </picture>
+                        </span>
+                    </div>
+                    <!-- 如果文字要靠右，增加justify-end，文字置中，增加justify-center -->
+                    <div class="w-360 max-w-full h-screen mx-auto flex items-center relative z-1 justify-end text-right">
+                        <!-- 文字顏色控制白色加上text-white，黑色則拿掉 -->
+                        <div class="xl:w-200 md:w-150 w-100 md:max-w-1/2 max-w-full text-white">
+                            <h2 class="md:text-48px lang-jp:sm:text-32px text-32px mb-10 ">致力於高端FPC的鑽研<br />
+將卓越的科技與無限創意融入每一塊印刷電路板</h2>
+                        </div>
+                    </div>
+                    <div class="video-box">
+                        <div class="video-iframe">
+                            <iframe class="" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="video-mp4">
+                            <video class="" class="videoPlayer" muted playsinline>
+                                <source src="/uploads/images/RD.mp4" type="video/mp4" />
+                            </video>
+                        </div>
+                    </div>
+                </a>
+                                <a class="banner-list relative xl:px-60 md:px-5% px-5 w-full block" data-video-href="/uploads/images/產業應用1.mp4" data-video-type="video">
+                    <div class="banner-img w-full h-full absolute top-0 left-0">
+                        <span>
+                            <picture>
+                                <source srcset="/uploads/images/banner.jpg" media="(min-width: 1025px)">
+                                <img class="img-object" src="/uploads/images/banner.jpg">
+                            </picture>
+                        </span>
+                    </div>
+                    <!-- 如果文字要靠右，增加justify-end，文字置中，增加justify-center -->
+                    <div class="w-360 max-w-full h-screen mx-auto flex items-center relative z-1 ">
+                        <!-- 文字顏色控制白色加上text-white，黑色則拿掉 -->
+                        <div class="xl:w-200 md:w-150 w-100 md:max-w-1/2 max-w-full text-white">
+                            <h2 class="md:text-48px lang-jp:sm:text-32px text-32px mb-10 ">旭軟電子的FPC應用無處不在<br />
+我們擁抱科技，更無懼挑戰</h2>
+                        </div>
+                    </div>
+                    <div class="video-box">
+                        <div class="video-iframe">
+                            <iframe class="" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="video-mp4">
+                            <video class="" class="videoPlayer" muted playsinline>
+                                <source src="/uploads/images/產業應用1.mp4" type="video/mp4" />
+                            </video>
+                        </div>
+                    </div>
+                </a>
+                                <a class="banner-list relative xl:px-60 md:px-5% px-5 w-full block" data-video-href="/uploads/images/永續經營.mp4" data-video-type="video">
+                    <div class="banner-img w-full h-full absolute top-0 left-0">
+                        <span>
+                            <picture>
+                                <source srcset="/uploads/images/banner.jpg" media="(min-width: 1025px)">
+                                <img class="img-object" src="/uploads/images/banner.jpg">
+                            </picture>
+                        </span>
+                    </div>
+                    <!-- 如果文字要靠右，增加justify-end，文字置中，增加justify-center -->
+                    <div class="w-360 max-w-full h-screen mx-auto flex items-center relative z-1 ">
+                        <!-- 文字顏色控制白色加上text-white，黑色則拿掉 -->
+                        <div class="xl:w-200 md:w-150 w-100 md:max-w-1/2 max-w-full text-white">
+                            <h2 class="md:text-48px lang-jp:sm:text-32px text-32px mb-10 ">我們將科技與環保融為一體<br />
+以達永續經營願景</h2>
+                        </div>
+                    </div>
+                    <div class="video-box">
+                        <div class="video-iframe">
+                            <iframe class="" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="video-mp4">
+                            <video class="" class="videoPlayer" muted playsinline>
+                                <source src="/uploads/images/永續經營.mp4" type="video/mp4" />
+                            </video>
+                        </div>
+                    </div>
+                </a>
+                                <a class="banner-list relative xl:px-60 md:px-5% px-5 w-full block" data-video-href="/uploads/images/技術能力.mp4" data-video-type="video">
+                    <div class="banner-img w-full h-full absolute top-0 left-0">
+                        <span>
+                            <picture>
+                                <source srcset="/uploads/images/banner.jpg" media="(min-width: 1025px)">
+                                <img class="img-object" src="/uploads/images/banner.jpg">
+                            </picture>
+                        </span>
+                    </div>
+                    <!-- 如果文字要靠右，增加justify-end，文字置中，增加justify-center -->
+                    <div class="w-360 max-w-full h-screen mx-auto flex items-center relative z-1 ">
+                        <!-- 文字顏色控制白色加上text-white，黑色則拿掉 -->
+                        <div class="xl:w-200 md:w-150 w-100 md:max-w-1/2 max-w-full text-white">
+                            <h2 class="md:text-48px lang-jp:sm:text-32px text-32px mb-10 ">我們的製造流程<br />
+不僅倚賴先進的生產技術<br />
+更擁有專心致志且精益求精的專業人才</h2>
+                        </div>
+                    </div>
+                    <div class="video-box">
+                        <div class="video-iframe">
+                            <iframe class="" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="video-mp4">
+                            <video class="" class="videoPlayer" muted playsinline>
+                                <source src="/uploads/images/技術能力.mp4" type="video/mp4" />
+                            </video>
+                        </div>
+                    </div>
+                </a>
+                            </div>
+            <div class="img-full absolute bottom-0 left-0 z-10 w-full g-fade a-delay-200">
+                <div class="index-link-box">
+                                        <div class="mx-[1px]">
+                        <a class="w-full md:h-[7.1875rem] h-20 index-link-list flex items-center justify-center text-24px text-white gap-x-3">
+                            <!-- <div class="w-8 icon">
+                                <img class="pc-icon" src="" alt>
+                                <img class="mb-icon" src="" alt>
+                            </div> -->
+                            <p>關於旭軟</p>
+                        </a>
+                    </div>
+                                        <div class="mx-[1px]">
+                        <a class="w-full md:h-[7.1875rem] h-20 index-link-list flex items-center justify-center text-24px text-white gap-x-3">
+                            <!-- <div class="w-8 icon">
+                                <img class="pc-icon" src="/uploads/images/index-banner/Vector.svg" alt>
+                                <img class="mb-icon" src="/uploads/images/index-banner/application-hover.svg" alt>
+                            </div> -->
+                            <p>產業應用</p>
+                        </a>
+                    </div>
+                                        <div class="mx-[1px]">
+                        <a class="w-full md:h-[7.1875rem] h-20 index-link-list flex items-center justify-center text-24px text-white gap-x-3">
+                            <!-- <div class="w-8 icon">
+                                <img class="pc-icon" src="" alt>
+                                <img class="mb-icon" src="" alt>
+                            </div> -->
+                            <p>永續經營</p>
+                        </a>
+                    </div>
+                                        <div class="mx-[1px]">
+                        <a class="w-full md:h-[7.1875rem] h-20 index-link-list flex items-center justify-center text-24px text-white gap-x-3">
+                            <!-- <div class="w-8 icon">
+                                <img class="pc-icon" src="" alt>
+                                <img class="mb-icon" src="" alt>
+                            </div> -->
+                            <p>技術能力</p>
+                        </a>
+                    </div>
+                                    </div>
+                <div class="slick-btn-arrow index-link-prev abs md:w-13 md:h-13 w-10 h-10 left-[1rem]">
+                    <span class="md:w-5 w-3">
+                        <img class="js-svg" src="assets/img/layout/slick-prev.svg" alt>
+                    </span>
+                </div>
+                <div class="slick-btn-arrow index-link-next abs md:w-13 md:h-13 w-10 h-10 right-[1rem]">
+                    <span class="md:w-5 w-3">
+                        <img class="js-svg" src="assets/img/layout/slick-next.svg" alt>
+                    </span>
+                </div>
+            </div>
+        </section>
+
+        <section class="index-major-block pt-20 sm:pb-25 pb-12 lg:px-15 md:px-7.5 img-full g-animate">
+            <div class="md:w-300 w-full max-w-full mx-auto">
+                <h2 class="md:px-0 px-7.5 h2-title text-primary  text-center mb-6 g-fade">
+                    一貫化製程整合</h2>
+                <p class="md:px-0 px-7.5 md:text-18px mb-10 g-fade a-delay-200 text-cente">為了提供我們夥伴最好的品質以及服務，我們向下垂直整合，提供one-stop solution，讓客戶一次購足可以信任的產品                </p>
+                <div class="relative g-fade a-delay-400">
+                    <div class="index-major-list-box md:px-0 px-18">
+                        <a href="tw/technique/ability" class="index-major-list relative block list-active h-[30.625rem] img-full text-white">
+                            <div class="list-img w-full h-full relative">
+                                <img class="img-object" src="/uploads/images/capability/solution-1.jpg" alt>
+                            </div>
+                            <div class="list-title-box absolute bottom-0 left-0 py-10 px-5 z-2">
+                                <p class="md:text-24px text-20px mb-1">製程能力</p>
+                                <p class="md:text-24px text-20px font-inter">Production Capability</p>
+                            </div>
+                            <div class="list-info-box absolute bottom-0 left-0 py-12 px-10 z-3">
+                                <div class="mb-5">
+                                    <h2 class="sm:text-24px text-20px">製程能力</h2>
+                                    <p class="md:text-24px text-20px mb-3 font-inter">Production Capability</p>
+                                    <p>何謂軟性電路板製程能力？<br />
+<br />
+軟性電路板（Flexible Printed Circuit, FPC）具備輕薄、可撓曲、高度整合等特性，是現代電子產品不可或缺的關鍵元件，廣泛應用於智慧型手機、穿戴式裝置、車用電子與醫療設備等領域。<br />
+而「製程能力」代表一家FPC製造商能否穩定、高品質量產產品的綜合實力。<br />
+製程能力不僅關乎設備先進與否，更涵蓋設計支援、材料選擇、製程控制與品質驗證等整體能力。</p>
+                                </div>
+                                <div class="flex items-center gap-4">
+                                    <p class="md:text-20px text-18px">了解更多</p>
+                                    <div class="w-30 icon">
+                                        <img class="js-svg" src="assets/img/index/link-arrow.svg" alt>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="tw/technique/introduce" class="index-major-list relative block h-[30.625rem] img-full text-white">
+                            <div class="list-img w-full h-full relative">
+                                <img class="img-object" src="/uploads/images/capability/solution-2.jpg" alt>
+                            </div>
+                            <div class="list-title-box absolute bottom-0 left-0 py-10 px-5 z-2">
+                                <p class="md:text-24px text-20px mb-1">製程介紹</p>
+                                <p class="md:text-24px text-20px font-inter">Production Introduction</p>
+                            </div>
+                            <div class="list-info-box absolute bottom-0 left-0 py-12 px-10 z-3">
+                                <div class="mb-5">
+                                    <h2 class="sm:text-24px text-20px">製程介紹</h2>
+                                    <p class="md:text-24px text-20px mb-3 font-inter">Production Introduction</p>
+                                    <p>軟性印刷電路板又稱為軟板，是將軟性銅箔基板(FCCL)和軟性絕緣層使用接著劑貼附後壓合而成，並經過蝕刻等加工過程，最後留下所需的線路，作為電子訊號傳輸媒介。</p>
+                                </div>
+                                <div class="flex items-center gap-4">
+                                    <p class="md:text-20px text-18px">了解更多</p>
+                                    <div class="w-30 icon">
+                                        <img class="js-svg" src="assets/img/index/link-arrow.svg" alt>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="tw/technique/device" class="index-major-list relative block h-[30.625rem] img-full text-white">
+                            <div class="list-img w-full h-full relative">
+                                <img class="img-object" src="/uploads/images/capability/solution-3.jpg" alt>
+                            </div>
+                            <div class="list-title-box absolute bottom-0 left-0 py-10 px-5 z-2">
+                                <p class="md:text-24px text-20px mb-1">可靠度測試</p>
+                                <p class="md:text-24px text-20px font-inter">Reliability Test</p>
+                            </div>
+                            <div class="list-info-box absolute bottom-0 left-0 py-12 px-10 z-3">
+                                <div class="mb-5">
+                                    <h2 class="sm:text-24px text-20px">可靠度測試</h2>
+                                    <p class="md:text-24px text-20px mb-3 font-inter">Reliability Test</p>
+                                    <p>可靠度測試是指藉由實驗模擬，產品於既定時間內、特定使用環境條件，執行特定規格功能可以達到所要求的功能標準。</p>
+                                </div>
+                                <div class="flex items-center gap-4">
+                                    <p class="md:text-20px text-18px">了解更多</p>
+                                    <div class="w-30 icon">
+                                        <img class="js-svg" src="assets/img/index/link-arrow.svg" alt>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="md:hidden slick-btn-box">
+                        <div class="slick-btn-arrow index-major-prev lg:w-13 lg:h-13 lg:left-[-1rem] w-10 h-10 left-4">
+                            <span class="lg:w-5 w-3">
+                                <img class="js-svg" src="assets/img/layout/slick-prev.svg" alt>
+                            </span>
+                        </div>
+                        <div class="slick-btn-arrow index-major-next lg:w-13 lg:h-13 lg:right-[-1rem] w-10 h-10 right-4">
+                            <span class="lg:w-5 w-3">
+                                <img class="js-svg" src="assets/img/layout/slick-next.svg" alt>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <section class="md:mb-30 mb-20 o-hidden g-animate">
+            <div class="lg:w-300 w-full  max-w-full mx-auto">
+                <h2 class="h2-title text-primary  text-center mb-6 g-fade">最新消息</h2>
+                <div class="index-news-block relative img-full g-fade a-delay-200">
+                    <div class="md:overflow-visible overflow-hidden w-full px-0">
+                        <div class="index-news-box">
+                            <!-- 迴圈開始 -->
+                                                        <div class="index-news-list lg:px-16 px-18">
+                                <a class="w-full flex md:py-8 md:px-8 px-4 py-4 justify-between gap-8 bg-white" href="tw/news/page/旭軟電子科技響應公益減碳行動__earth_hour_關燈一小時活動_">
+                                    <div class="list-img md:w-[15.3125rem] w-full max-w-full flex-shrink-0">
+                                        <img class="img-object" src="/uploads/images/news/c3wv437V58bYL770.png" alt>
+                                    </div>
+                                    <div class="list-info w-full self-center">
+                                        <h2 class="md:text-32px sm:text-24px text-20px text-primary line-2 mb-8">
+                                            旭軟電子科技響應公益減碳行動: Earth Hour 關燈一小時活動。</h2>
+                                        <p class="md:text-20px text-FBC110 font-inter">
+                                            2025 / 03 / 21</p>
+                                    </div>
+                                </a>
+                            </div>
+                                                        <div class="index-news-list lg:px-16 px-18">
+                                <a class="w-full flex md:py-8 md:px-8 px-4 py-4 justify-between gap-8 bg-white" href="tw/news/page/2025年_取得_14064_1證書">
+                                    <div class="list-img md:w-[15.3125rem] w-full max-w-full flex-shrink-0">
+                                        <img class="img-object" src="/uploads/images/news/S-9.png" alt>
+                                    </div>
+                                    <div class="list-info w-full self-center">
+                                        <h2 class="md:text-32px sm:text-24px text-20px text-primary line-2 mb-8">
+                                            2025年 取得 14064-1證書</h2>
+                                        <p class="md:text-20px text-FBC110 font-inter">
+                                            2025 / 01 / 22</p>
+                                    </div>
+                                </a>
+                            </div>
+                                                        <!-- 迴圈結束 -->
+                        </div>
+                    </div>
+                    <div class="slick-btn-box">
+                        <div class="slick-btn-arrow index-new-prev lg:w-13 lg:h-13 lg:left-[-1rem] w-10 h-10 left-4">
+                            <span class="lg:w-5 w-3">
+                                <img class="js-svg" src="assets/img/layout/slick-prev.svg" alt>
+                            </span>
+                        </div>
+                        <div class="slick-btn-arrow index-new-next lg:w-13 lg:h-13 lg:right-[-1rem] w-10 h-10 right-4">
+                            <span class="lg:w-5 w-3">
+                                <img class="js-svg" src="assets/img/layout/slick-next.svg" alt>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="relative index-about-block img-full fade">
+            <div class="index-about-box">
+                <!-- 迴圈開始 -->
+                                <div class="index-about-list relative sm:min-h-200 sm:py-30 py-20 md:px-15 px-7.5 flex items-center justify-center w-full">
+                    <div class="list-bg abs w-full h-full top-0 left-0">
+                        <img class="img-object" src="/uploads/images/home/about-bg-1.jpg">
+                    </div>
+                    <div class="w-[100rem] max-w-full mx-auto flex sm:flex-row flex-col sm:justify-between justify-center items-center">
+                        <div class="list-icon sm:w-[40%] w-full relative">
+                            <div class="sm:absolute w-162.5 max-w-full mx-auto md:left-[-10%] sm:left-0">
+                                <img src="/uploads/images/home/98-1.png" alt>
+                            </div>
+                        </div>
+                        <div class="sm:w-[56.25%] w-full list-info-box sm:px-16 px-4 sm:py-14 py-12 sm:rounded-[2.25rem] rounded-[0.5rem]">
+                            <div class="list-info-bg"></div>
+                            <div class="relative z-1 text-white w-full min-h-[24.25rem] flex flex-col justify-between">
+                                <div class="mb-10">
+                                    <p class="sm:text-32px lang-jp:sm:text-30px text-20px sm:mb-10 mb-5 info-title">自1998年以來，我們堅持提供給我們的夥伴最優質的FPC/PCB品質和服務</p>
+                                    <p class="md:text-18px">
+                                        旭軟電子科技股份有限公司成立於1998年10月12日，總部位於桃園市龜山區，主要從事各式軟性印刷電路板生產與銷售。<br />
+<br />
+公司產品主要原料包含單面銅箔、雙面銅箔、發光二極體、電晶體、電阻、電容、連接器、膠類、熱固膠、覆蓋膜等。                                    </p>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <!-- 迴圈結束 -->
+            </div>
+        </section>
+        <section class="index-service-block md:pt-30 pt-15 pb-15 md:pb-45 g-animate md:px-15 px-7.5">
+            <div class="w-300 mx-auto max-w-full">
+                <div class="flex justify-between items-center flex-wrap md:gap-y-0 gap-y-10 img-full">
+                    <div class="index-service-slick-box text-white sm:w-60% w-full g-fade md:order-1 order-2">
+
+                                                <div class="w-full index-service-slick-list ">
+                            <a href="tw/application/content/消費性應用" class="w-full md:px-10 md:py-10 py-8 px-4 block sm:min-h-112.5 min-h-82.5 relative flex items-end">
+                                <div class="w-full h-full absolute top-0 left-0 list-mask">
+                                    <img class="img-object" src="/uploads/images/application/home.jpg" alt>
+                                </div>
+                                <div class="info-info relative z-1">
+                                    <p class="text-22px mb-4">消費性應用</p>
+                                    <p class="mb-10">
+                                        隨著物聯網（IoT）的普及，薄型化與多功能化的電子產品需求越來越廣泛，旭軟憑藉其技術優勢和穩定的供應鏈，已成為國際品牌的主要供應商之一，尤其在高端消費電子領域中具有競爭力。                                    </p>
+                                    <div class="link-box flex gap-4 items-center">
+                                        <p class="md:text-20px text-18px">了解更多</p>
+                                        <div class="icon w-30">
+                                            <img class="js-svg" src="assets/img/index/link-arrow.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                                                <div class="w-full index-service-slick-list ">
+                            <a href="tw/application/content/車載應用" class="w-full md:px-10 md:py-10 py-8 px-4 block sm:min-h-112.5 min-h-82.5 relative flex items-end">
+                                <div class="w-full h-full absolute top-0 left-0 list-mask">
+                                    <img class="img-object" src="/uploads/images/application/home-1.jpg" alt>
+                                </div>
+                                <div class="info-info relative z-1">
+                                    <p class="text-22px mb-4">車載應用</p>
+                                    <p class="mb-10">
+                                        旭軟在車載應用中發揮著關鍵作用，其高品質軟性印刷電路板技術滿足汽車電子產品對於高可靠性、輕量化與耐環境性的嚴格需求。已與汽車Tier 2供應商緊密合作，為國際車廠提供穩定供貨。                                    </p>
+                                    <div class="link-box flex gap-4 items-center">
+                                        <p class="md:text-20px text-18px">了解更多</p>
+                                        <div class="icon w-30">
+                                            <img class="js-svg" src="assets/img/index/link-arrow.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                                                <div class="w-full index-service-slick-list ">
+                            <a href="tw/application/content/工控產業" class="w-full md:px-10 md:py-10 py-8 px-4 block sm:min-h-112.5 min-h-82.5 relative flex items-end">
+                                <div class="w-full h-full absolute top-0 left-0 list-mask">
+                                    <img class="img-object" src="/uploads/images/application/home-2.jpg" alt>
+                                </div>
+                                <div class="info-info relative z-1">
+                                    <p class="text-22px mb-4">工控產業</p>
+                                    <p class="mb-10">
+                                        旭軟提供客製化的解決方案，技術應用於工控相關產品，如POS機、自動化辨識的Barcode條碼掃描機，廣泛應用於物流、製造、零售等場景。                                    </p>
+                                    <div class="link-box flex gap-4 items-center">
+                                        <p class="md:text-20px text-18px">了解更多</p>
+                                        <div class="icon w-30">
+                                            <img class="js-svg" src="assets/img/index/link-arrow.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                                                <div class="w-full index-service-slick-list ">
+                            <a href="tw/application/content/醫療產業" class="w-full md:px-10 md:py-10 py-8 px-4 block sm:min-h-112.5 min-h-82.5 relative flex items-end">
+                                <div class="w-full h-full absolute top-0 left-0 list-mask">
+                                    <img class="img-object" src="/uploads/images/application/home-3.jpg" alt>
+                                </div>
+                                <div class="info-info relative z-1">
+                                    <p class="text-22px mb-4">醫療產業</p>
+                                    <p class="mb-10">
+                                        旭軟通過國際醫療ISO13485的認證，其多元產品的應用已幫助醫療機構甚或個人提高診療效率和患者安全性。                                    </p>
+                                    <div class="link-box flex gap-4 items-center">
+                                        <p class="md:text-20px text-18px">了解更多</p>
+                                        <div class="icon w-30">
+                                            <img class="js-svg" src="assets/img/index/link-arrow.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                                                <div class="w-full index-service-slick-list ">
+                            <a href="tw/application/content/其他產業" class="w-full md:px-10 md:py-10 py-8 px-4 block sm:min-h-112.5 min-h-82.5 relative flex items-end">
+                                <div class="w-full h-full absolute top-0 left-0 list-mask">
+                                    <img class="img-object" src="/uploads/images/application/home-4.jpg" alt>
+                                </div>
+                                <div class="info-info relative z-1">
+                                    <p class="text-22px mb-4">其他產業</p>
+                                    <p class="mb-10">
+                                        旭軟靈活因應市場趨勢、產業需求及競爭型態，隨時調整策略及技術方向，開發出多元產品類型，如AR眼鏡、無人機等。                                    </p>
+                                    <div class="link-box flex gap-4 items-center">
+                                        <p class="md:text-20px text-18px">了解更多</p>
+                                        <div class="icon w-30">
+                                            <img class="js-svg" src="assets/img/index/link-arrow.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <div class="sm:w-33% w-full g-fade-left md:order-2 order-1">
+                        <h2 class="h2-title  text-primary mb-6">產業應用</h2>
+                        <p class="md:mb-16 mb-12 text-prima">公司產品主要原料包含單面銅箔、雙面銅箔、發光二極體、電晶體、電阻、電容、連接器、膠類、熱固膠、覆蓋膜等。</p>
+                        <div class="flex justify-between items-center w-full">
+                            <div class="index-service-slick-btn-box w-25 max-w-full">
+                                <div class="index-service-slick-btn h-9.75 w-50% index-service-prev">
+                                    <span class="w-3.75">
+                                        <img class="js-svg" src="assets/img/layout/slick-prev.svg" alt>
+                                    </span>
+                                </div>
+                                <div class="index-service-slick-btn h-9.75 w-50% index-service-next">
+                                    <span class="w-3.75">
+                                        <img class="js-svg" src="assets/img/layout/slick-next.svg" alt>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="index-service-slick-page-box text-24px font-inter">
+                                <div class="index-service-slick-num "></div>
+                                <div class="index-service-slick-line"></div>
+                                <div class="index-service-slick-page "></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="my-18 w-full h-[1px] bg-[#5E5E5E] opacity-50 g-line-x md:block hidden a-delay-200">
+
+                </div>
+                <div class="grid sm:grid-cols-3 grid-cols-1 gpa-x-10 gap-y-12 md:mt-0 mt-12 g-fade-up a-delay-400">
+                                        <div class="text-center">
+                        <h3 class="md:text-32px md:text-24px text-20px text-[#113054] fw-500">據點遍布全球</h3>
+                        <div class="flex justify-center items-start text-primary font-inter">
+                            <p class="text-[5rem] count-num" data-count="8">8</p>
+                            <!-- 如果沒有設定符號，請把整格div拿掉 -->
+                                                        <!-- 符號架構結束 -->
+                        </div>
+                        <p class="md:text-20px">個工廠、子公司與辦事處</p>
+                    </div>
+                                        <div class="text-center">
+                        <h3 class="md:text-32px md:text-24px text-20px text-[#113054] fw-500">全球客戶超過</h3>
+                        <div class="flex justify-center items-start text-primary font-inter">
+                            <p class="text-[5rem] count-num" data-count="150">150</p>
+                            <!-- 如果沒有設定符號，請把整格div拿掉 -->
+                                                        <div class=" text-[3.5rem]">+</div>
+                                                        <!-- 符號架構結束 -->
+                        </div>
+                        <p class="md:text-20px">間國際企業</p>
+                    </div>
+                                        <div class="text-center">
+                        <h3 class="md:text-32px md:text-24px text-20px text-[#113054] fw-500">FPC能力</h3>
+                        <div class="flex justify-center items-start text-primary font-inter">
+                            <p class="text-[5rem] count-num" data-count="6">6</p>
+                            <!-- 如果沒有設定符號，請把整格div拿掉 -->
+                                                        <!-- 符號架構結束 -->
+                        </div>
+                        <p class="md:text-20px">層</p>
+                    </div>
+                                    </div>
+            </div>
+        </section>
+
+        <section class="bg-white relative md:px-15 px-7.5 img-full index-join-block g-animate">
+            <div class="lg:w-154 w-full h-full absolute bottom-0 left-0 g-fade index-join-bg overflow-hidden">
+                <img src="assets/img/index/last-e1.png" alt>
+            </div>
+            <div class="lg:w-300 w-full max-w-full mx-auto lg:py-20 pt-12 md:pb-50 relative z-1 flex items-end flex-wrap md:justify-between justify-end min-h-70">
+                <div class="lg:w-51% w-full relative z-1">
+                    <h2 class="h2-title text-primary mb-6  g-fade a-delay-200">實現夢想</h2>
+                    <p class="g-fade a-delay-400">我們歡迎有理想與熱忱的設計人才，加入旭軟大家庭，共同創造價值並共享成就果實！</p>
+                </div>
+                <a href="tw/joinin" class="w-full md:w-auto relative flex items-center gap-3 z-2 xl:right-[-7rem] lg:right-[-3rem] lg:mt-0 md:mt-12 mt-7 g-fade-left a-delay-600">
+                    <div class="sm:w-18 w-9">
+                        <img src="assets/img/index/link-icon2.svg" alt>
+                    </div>
+                    <p>了解我們的人力資源</p>
+                </a>
+                <div class="w-121 lg:h-full lg:max-w-40% md:max-w-50% max-w-70% md:absolute relative xl:right-0 right-[3rem] bottom-0 g-fade a-delay-400">
+                    <div class="w-full lg:h-full last-bg2 absolute z-0 bottom-0 left-0">
+                        <img class="lg:w-[auto] w-full lg:h-full" src="assets/img/index/last-bg2.png">
+                    </div>
+                    <div class="w-60% md:absolute relative mx-auto md:left-20% bottom-0 z-1">
+                        <img src="assets/img/index/last-e2.png" alt>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+    <footer class="bg-secondary w-full md:px-15 px-7.5 md:py-16 py-10">
+    <div class="w-300 max-w-full mx-auto flex justify-between text-white items-center">
+        <div class="w-60 max-w-full max-w-full">
+            <div class="w-full mb-8">
+                <img src="assets/img/layout/footer-logo.svg" alt>
+            </div>
+            <div class="flex gap-2.5">
+                <!-- <a href="" class="w-8" target="_blank">
+                    <img src="assets/img/layout/fb.svg" alt>
+                </a>
+                <a href="" class="w-8" target="_blank">
+                    <img src="assets/img/layout/linkedin.svg" alt>
+                </a> -->
+                <a href="https://www.youtube.com/channel/UCNw_ea8e1yVvpyunod5Z0Pg" class="w-8" target="_blank">
+                    <img src="assets/img/layout/yt.svg" alt>
+                </a>
+            </div>
+            <div class="w-full h-[1px] bg-white my-8"></div>
+            <p>Copyright ©旭軟電子 All Rights Reserved.</p>
+        </div>
+        <div class="w-102 lang-jp:w-137.5 max-w-full md:grid grid-cols-3 gap-x-8 gap-y-2 footer-link-box hidden">
+            <a href="tw/technique/ability" class="text-20px">專業技術</a>
+            <a href="tw/application/overview" class="text-20px">產業應用</a>
+            <a href="tw/about/sunflex" class="text-20px">關於旭軟</a>
+            <a href="tw/joinin" class="text-20px">加入我們</a>
+            <a href="tw/ir" class="text-20px">投資人專區</a>
+            <a href="tw/news" class="text-20px">新聞中心</a>
+            <!-- <a href="" class="text-20px">供應商登入</a> -->
+            <a href="tw/quotation" class="text-20px">快速報價</a>
+            <a href="tw/contact" class="text-20px">聯絡我們</a>
+        </div>
+    </div>
+</footer>    <script src="assets/js/vendor.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,929 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>触摸屏|电子白板|触摸一体机|激光投影机|多媒体教学一体机-艾博德</title>
+
+<meta name="description" content="全球领先智慧教育整体解决方案提供商，相信专业力量，给您卓越品质。主营触摸屏、触摸一体机、激光投影机、电子白板、多媒体教学一体机等，热线400-6690-418欢迎致电洽谈。" />
+
+<meta name="keywords" content="创客教育|创客空间|电子白板|触摸一体机|激光投影机|多媒体教学一体机|智慧校园|智慧班牌|班牌系统|电容触摸屏" />
+
+<link rel="shortcut icon" href="/aibode.ico" type="image/x-icon"/>
+
+<link type="text/css" rel="stylesheet" href="/css/style.css"  />
+
+<link rel="stylesheet" type="text/css" href="/css/jquery.countdown.css">
+
+<script src="/js/jquery.js" language="javascript" type="text/javascript"></script>
+
+<script language="javascript" type="text/javascript" src="/js/public.js"></script>
+
+<script type="text/javascript" src="/js/jquery1.42.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery.SuperSlide.2.1.js"></script>
+
+<script type="text/javascript" src="/js/js.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+	$(".side ul li").hover(function(){
+
+		$(this).find(".sidebox").stop().animate({"width":"150px"},200).css({"opacity":"1","filter":"Alpha(opacity=100)","background":"#90c018"})	
+
+	},function(){
+
+		$(this).find(".sidebox").stop().animate({"width":"54px"},200).css({"opacity":"1","filter":"Alpha(opacity=100)","background":"#01b0cb"})	
+
+	});
+
+});
+
+
+
+//回到顶部
+
+function goTop(){
+
+	$('html,body').animate({'scrollTop':0},600); //滚回顶部的时间，越小滚的速度越快~
+
+}
+
+</script>
+
+<script type="text/javascript" src="/js/classie.js"></script>
+
+<script>
+
+    function init() {
+
+        window.addEventListener('scroll', function(e){
+
+            var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+
+                shrinkOn = 50,
+
+                header = document.querySelector(".top");
+
+            if (distanceY > shrinkOn) {
+
+                classie.add(header,"smaller");
+
+            } else {
+
+                if (classie.has(header,"smaller")) {
+
+                    classie.remove(header,"smaller");
+
+                }
+
+            }
+
+        });
+
+    }
+
+    window.onload = init();
+
+</script></head>
+
+<body>
+
+<script type="text/javascript"> 
+var system ={
+win : false,
+mac : false,
+xll : false
+};
+var p = navigator.platform;
+system.win = p.indexOf("Win") == 0;
+system.mac = p.indexOf("Mac") == 0;
+system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+if(system.win||system.mac||system.xll){
+}else{
+	window.location.href="http://m.i-board.com.cn/";
+}
+</script>
+<div class="banben clearfix">
+
+  <div class="banben_con"><div class="banben_left">iBoard全球领先的智慧教育整体解决方案提供商及运营服务商</div><div class="banben_right"><strong>请选择语言:</strong><a href="http://www.i-board.com.cn/"><img src="/images/zg.jpg" alt="中文" width="30" /></a><a href="http://www.touch-easy.com/"><img src="/images/mg.jpg" alt="英文" width="30" /></a><a href="http://www.i-board.cn/"><img src="/images/rb.jpg" alt="日文" width="30" /></a><a href="http://www.i-board.cn/"><img src="/images/dg.jpg" alt="德文" width="30" /></a></div></div>
+
+</div>
+
+<div class="head clearfix">
+
+  <div class="top">
+
+    <div class="nav">
+
+      <div class="logo"><a href="/"><img src="/images/logo.png" alt="艾博德" /></a></div>
+
+      <div class="tel"><img src="/images/tel.png"alt="艾博德电话"  />
+
+        <div class="search clearfix">
+
+          <form id="search" name="search" method="post" action="/plus/search.php">
+
+            <input name="submit"  value=" " class="button"  type="submit" />
+
+            <input value="触摸一体机" onFocus="if(value=='触摸一体机'){value=''}" onblur="if(value=='') {value='触摸一体机'}" name="keyword" type="text" />
+
+          </form>
+
+        </div>
+
+      </div>
+
+      <ul>
+
+        <li ><span><a href="/">首页</a></span></li>
+
+     <li class=''><span><a href='/products/'>产品中心</a></span>
+
+			<dl>
+
+			  
+
+			  <dd><a href="/products/cmp/">触摸屏</a></dd>
+
+			  
+
+			  <dd><a href="/products/drcm/">电容触摸</a></dd>
+
+			  
+
+			  <dd><a href="/products/dzbb/">电子白板</a></dd>
+
+			  
+
+			  <dd><a href="/products/cmytj/">触摸一体机</a></dd>
+
+			  
+
+			  <dd><a href="/products/jgty/">激光投影机</a></dd>
+
+			  
+
+			  <dd><a href="/products/dmtjxytj/">多媒体一体机</a></dd>
+
+			  
+
+			  <dd><a href="/products/nmhb/">纳米智慧黑板</a></dd>
+
+			  
+
+			  <dd><a href="/products/sxb/">交互式手写板</a></dd>
+
+			  
+
+			  <dd><a href="/products/qt/">商显产品</a></dd>
+
+			  
+
+			  <dd><a href="/products/products/zhbp/">智慧班牌</a></dd>
+
+			  
+
+			  <dd><a href="/products/duomeitizhinenjiangtai/">多媒体智能讲台</a></dd>
+
+			  
+
+			  <dd><a href="/products/chaodachicunbaibanyitijixilie/">超大尺寸白板一体机系列</a></dd>
+
+			  
+
+			</dl>
+
+		</li><li class=''><span><a href='/rjzy/'>软件资源</a></span>
+
+			<dl>
+
+			  
+
+			  <dd><a href="/rjzy/dv/">白板软件</a></dd>
+
+			  
+
+			  <dd><a href="/rjzy/sc/">多屏互动</a></dd>
+
+			  
+
+			  <dd><a href="/rjzy/i/">智能遥控</a></dd>
+
+			  
+
+			  <dd><a href="/rjzy/dphd/">人人通系统</a></dd>
+
+			  
+
+			  <dd><a href="/rjzy/wxt/">微校通系统</a></dd>
+
+			  
+
+			  <dd><a href="/rjzy/yzyk/">云资源库</a></dd>
+
+			  
+
+			</dl>
+
+		</li><li class=''><span><a href='/project/jy/'>解决方案</a></span>
+
+			<dl>
+
+			  
+
+			  <dd><a href="/project/jy/">智慧课堂</a></dd>
+
+			  
+
+			  <dd><a href="/project/sw/">智慧教室</a></dd>
+
+			  
+
+			  <dd><a href="/project/zf/">智慧校园</a></dd>
+
+			  
+
+			  <dd><a href="/project/js/">智慧教育</a></dd>
+
+			  
+
+			</dl>
+
+		</li><li class=''><span><a href='/case/'>成功案例</a></span>
+
+			<dl>
+
+			  
+
+			  <dd><a href="/case/jypx/">教育培训</a></dd>
+
+			  
+
+			  <dd><a href="http://www.i-board.com.cn/case/jypx/">政府机关</a></dd>
+
+			  
+
+			  <dd><a href="http://www.i-board.com.cn/case/jypx/">军事单位</a></dd>
+
+			  
+
+			</dl>
+
+		</li><li class=''><span><a href='/news/'>新闻资讯</a></span>
+
+			<dl>
+
+			  
+
+			  <dd><a href="/news/gsdt/">公司动态</a></dd>
+
+			  
+
+			  <dd><a href="/news/hyrd/">行业热点</a></dd>
+
+			  
+
+			  <dd><a href="/news/zhhd/">展会活动</a></dd>
+
+			  
+
+			  <dd><a href="http://www.i-board.com.cn/zspj/">知识普及</a></dd>
+
+			  
+
+			</dl>
+
+		</li><li class=''><span><a href='/services/cpaz/'>服务支持</a></span>
+
+			<dl>
+
+			  
+
+			  <dd><a href="/services/cpaz/">产品安装</a></dd>
+
+			  
+
+			  <dd><a href="/services/cppx/">产品培训</a></dd>
+
+			  
+
+			  <dd><a href="/services/shfw/">售后服务</a></dd>
+
+			  
+
+			  <dd><a href="/services/wxby/">维修保养</a></dd>
+
+			  
+
+			  <dd><a href="/services/cjwt/">常见问题</a></dd>
+
+			  
+
+			  <dd><a href="/services/xzzq/">下载专区</a></dd>
+
+			  
+
+			</dl>
+
+		</li><li class=''><span><a href='/about/gsjs/'>关于我们</a></span>
+
+			<dl>
+
+			  
+
+			  <dd><a href="/about/gsjs/">公司简介</a></dd>
+
+			  
+
+			  <dd><a href="/about/fzlc/">荣誉历程</a></dd>
+
+			  
+
+			  <dd><a href="/about/yfsl/">企业实力</a></dd>
+
+			  
+
+			  <dd><a href="/about/gswh/">文化环境</a></dd>
+
+			  
+
+			  <dd><a href="/about/rczy/">人力资源</a></dd>
+
+			  
+
+			  <dd><a href="/about/tzjl/">投资交流</a></dd>
+
+			  
+
+			  <dd><a href="/about/xxpl/">信息披露</a></dd>
+
+			  
+
+			  <dd><a href="/about/gsjs/yinsizhengce/">隐私政策</a></dd>
+
+			  
+
+			  <dd><a href="/about/lxwm/">联系我们</a></dd>
+
+			  
+
+			</dl>
+
+		</li>
+
+
+      </ul>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div class="banner">
+  <div class="mBan2">
+    <div id="slideBox" class="slideBox">
+      <div class="hd">
+        <ul>
+        <li></li>
+<li></li>
+<li></li>
+<li></li>
+
+        </ul>
+      </div>
+      <div class="bd">
+        <ul>
+        <li><a href="http://www.i-board.com.cn/products/cmytj/"><img src="/uploads/230303/11-230303151309215.jpg" alt="触摸屏" /></a></li>
+<li><a href="http://www.i-board.com.cn/products/dzbb/"><img src="/uploads/220427/11-22042GP052c3.jpg" alt="多媒体教学一体机" /></a></li>
+<li><a href="https://www.xinpianchang.com/a11715511?from=UserProfile"><img src="/uploads/soft/220505/11-220505151506.jpg" alt="触摸一体机" /></a></li>
+<li><a href="https://www.xinpianchang.com/a11715368?from=UserProfile"><img src="/uploads/220426/11-220426161A3439.jpg" alt="电子白板" /></a></li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+  <script language="javascript">
+jQuery(".slideBox").slide({mainCell:".bd ul",effect:"fold",autoPlay:true,trigger:"click"});
+</script> 
+</div>
+
+<div class="content1 clearfix" id="content1">
+
+  <div class="fazx">
+
+    <div class="fazx_t"><a href="/project"><strong>方案中心</strong><span>Solution</span></a></div>
+
+    <div class="fazx_c clearfix"> <a class="next"></a> <a class="prev"></a>
+
+      <div class="hd">
+
+        <ul>
+
+          
+
+          <li><strong>智慧课堂</strong><span>SMART CLASS SOLUTION</span></li>
+
+          
+
+          <li><strong>智慧教室</strong><span>SMART CLASSROOM SOLUTION</span></li>
+
+          
+
+          <li><strong>智慧校园</strong><span>SMART CAMPUS SOLUTION</span></li>
+
+          
+
+          <li><strong>智慧教育</strong><span>SMART EDUCATION SOLUTION</span></li>
+
+          
+
+        </ul>
+
+      </div>
+
+      <div class="bd"> 
+
+        <div class="lh">
+
+          <div class="pic"><a href="/project/jy/"><img src="/uploads/allimg/jiejuefangan/zhihuiketang/4-160531101K0512.jpg" width="400px" height="300px" /></a></div>
+
+          <div class="txt">
+
+            <h2><a href="/project/jy/">智慧课堂</a></h2>
+
+            <p>智慧课堂主要是将课堂中的教学内容、教学方式和教学策略等以学生智慧发展为价值追求，以教师的教学智慧为根本条件，建立在教师独特的课堂认识基础上，在教学设计、教学实施以及教学反思中体现“转认识为智慧”，促进学生智慧成长的教学过程。深圳艾博德科技股份有限公司基于对基础教育行业的理解和多年成功技术的积累，推出了智慧课堂解决方案，以激光投影机、电子白板或触摸一体机为载体，从教学方式，学习方式角度上考虑，改变传统教学模式。以学生角度来衡量，强调学生主体性，让学生在课堂上更加自主、合作、探究的有效学习，在和学生互动之中体...<a href="/project/jy/">【详细】</a></p>
+
+          </div>
+
+        </div>
+
+        
+
+        <div class="lh">
+
+          <div class="pic"><a href="/project/sw/"><img src="/uploads/allimg/jiejuefangan/zhihuijiaoshi/4-16053110362YJ.jpg" width="400px" height="300px" /></a></div>
+
+          <div class="txt">
+
+            <h2><a href="/project/sw/">智慧教室</a></h2>
+
+            <p>深圳艾博德科技股份有限公司智慧教室解决方案是数字教室和未来教室的一种形式，是一种新型的教育形式和现代化教学手段，基于物联网技术，运用高新触摸一体机、多媒体教学一体机及超短焦激光投影机，通过优质数字教育资源和信息化手段，有效的提供教学质量和促进教育均衡发展，突破传统多媒体教学，增强教学互动应用。最大程度实现软、硬件资源的集约共享，降低学习信息化成本和建设难度，推动资源建设与使用良性发展。智慧教室建设与智慧教学理念，将为教育行业树立成功典范，是教育信息化发展到一定阶段的缩影。通过传播新的理念，扩展学生的思维空...<a href="/project/sw/">【详细】</a></p>
+
+          </div>
+
+        </div>
+
+        
+
+        <div class="lh">
+
+          <div class="pic"><a href="/project/zf/"><img src="/uploads/allimg/jiejuefangan/zhihuixiaoyuan/3-160601112Z4D5.jpg" width="400px" height="300px" /></a></div>
+
+          <div class="txt">
+
+            <h2><a href="/project/zf/">智慧校园</a></h2>
+
+            <p>艾博德微校通智慧校园方案是基于对基础教育行业的理解和多年成功技术的积累，针对移动“互联网+”的创新技术而提出智慧校园整体解决方案。包含特色校园文化建设、校园移动办公、名师工作室等三大模块。为学校教育系统打造一个轻资产和高效的移动智慧校园。给老师、家长和学生创造一个安全、高效、轻松的移动教学平台和便捷的移动办公平台。微校通智慧校园解决方案实际上创造了一个智慧校园文化环境，本质是拓展现实校园的时间和空间维度，提升传统校园的运作效率，扩展传统校园的业务功能，实现教育过程的全面信息化，从而达到提高管理水平和效率的...<a href="/project/zf/">【详细】</a></p>
+
+          </div>
+
+        </div>
+
+        
+
+        <div class="lh">
+
+          <div class="pic"><a href="/project/js/"><img src="/uploads/allimg/jiejuefangan/zhihuijiaoyu/4-1605311134433K.jpg" width="400px" height="300px" /></a></div>
+
+          <div class="txt">
+
+            <h2><a href="/project/js/">智慧教育</a></h2>
+
+            <p>在“互联网+”时代，智慧教育已经成为当前教育发展的新方向，建设智慧教室，发展智慧教学，有利于实现对传统教学模式的变革，实现即时、深度交互、对学生主体地位发挥提供有力保障。同时可创多情景的智慧教学，呈现融合性、创造性与智慧性高度交互，催生教学新模式。 深圳市艾博德科技股份有限公司，“智慧教育”整体解决解决方案着眼于教育信息化，以满足教学、管理和科研三大关键业务需求为目标，为学校提供完备 IT 服务及软硬件环境支持，从而提高高校教学管理水平。通过各种智慧教室的建设，整合智慧校园大环境的自动化、智能化基础建设，...<a href="/project/js/">【详细】</a></p>
+
+          </div>
+
+        </div>
+
+         </div>
+
+      <script type="text/javascript">jQuery(".fazx_c").slide({delayTime:500,
+
+		  effect:"left",autoPlay:true, });	
+
+</script> 
+
+    </div>
+
+  </div>
+
+  <div class="product_c">
+
+    <div class="product_t"><a href="/products"><strong>产品中心</strong><span>product</span></a></div>
+
+    <div class="product_c_con clearfix">
+
+      <div class="hd"> <a class="next"></a> <a class="prev"></a> </div>
+
+      <div class="bd">
+
+        <ul class="picList">
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/cmp/" ><img src="/uploads/allimg/beijing/160528/160601/4-160601102KY10.jpg"/></a></div>
+
+            <div class="title"><strong></h2>触摸屏</h2></strong>
+
+              <p>艾博德自主研发的红外多点触摸屏技术，拥有多项红外多点触摸...</p>
+
+              <p><a href="/products/cmp/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/drcm/" ><img src="/uploads/allimg/chanpinzhongxin/dianrongchumo/171128/4-1G12QQ93c17.jpg"/></a></div>
+
+            <div class="title"><strong></h2>电容触摸</h2></strong>
+
+              <p>专业的电容设计制造方案，定制化设计，快速供货速度，支持多...</p>
+
+              <p><a href="/products/drcm/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/dzbb/" ><img src="/uploads/allimg/160517/3-16051GR43T95.jpg"/></a></div>
+
+            <div class="title"><strong></h2>电子白板</h2></strong>
+
+              <p>艾博德交互式电子白板，电子白板采用稳定可靠的红外触摸屏技...</p>
+
+              <p><a href="/products/dzbb/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/cmytj/" ><img src="/uploads/allimg/beijing/160528/4-16052QSR3F5.jpg"/></a></div>
+
+            <div class="title"><strong></h2>触摸一体机</h2></strong>
+
+              <p>艾博德触摸一体机，是集触摸屏、电子白板、激光投影机、多媒...</p>
+
+              <p><a href="/products/cmytj/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/jgty/" ><img src="/uploads/allimg/beijing/160525/160530/4-160530191120430.jpg"/></a></div>
+
+            <div class="title"><strong></h2>激光投影机</h2></strong>
+
+              <p>艾博德短焦激光投影机及超短焦激光投影机，20000小时超长光源...</p>
+
+              <p><a href="/products/jgty/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/dmtjxytj/" ><img src="/uploads/allimg/160524/160530/4-1605301S41RZ.png"/></a></div>
+
+            <div class="title"><strong></h2>多媒体一体机</h2></strong>
+
+              <p>艾博德多媒体教学一体机，钢质结构，喷塑表面，内置高度集成...</p>
+
+              <p><a href="/products/dmtjxytj/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/nmhb/" ><img src="/uploads/allimg/chanpinzhongxin/namiheiban/fm.png"/></a></div>
+
+            <div class="title"><strong></h2>纳米智慧黑板</h2></strong>
+
+              <p>艾博德纳米智能触控电子黑板，是一种将传统教学黑板与现代多...</p>
+
+              <p><a href="/products/nmhb/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/sxb/" ><img src="/uploads/allimg/chanpinzhongxin/DrawViewPAD/161018/4-16101QI034631.jpg"/></a></div>
+
+            <div class="title"><strong></h2>交互式手写板</h2></strong>
+
+              <p>传统书写，数字笔记，同步支持实时擦除功能；自带WIFI热点，实...</p>
+
+              <p><a href="/products/sxb/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/qt/" ><img src="/uploads/allimg/beijing/160603/3-1606031J44c62.jpg"/></a></div>
+
+            <div class="title"><strong></h2>商显产品</h2></strong>
+
+              <p>根据不同产品搭配不同配件，包含产品说明书、保修卡、合格证...</p>
+
+              <p><a href="/products/qt/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/products/zhbp/" ><img src="/uploads/allimg/chanpinzhongxin/zhihuiibanpai/180117/10-1P11G02I0X1.png"/></a></div>
+
+            <div class="title"><strong></h2>智慧班牌</h2></strong>
+
+              <p> 艾博德智慧班牌是教育信息化和“互联网+”的深度融合，通过...</p>
+
+              <p><a href="/products/products/zhbp/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/duomeitizhinenjiangtai/" ><img src=""/></a></div>
+
+            <div class="title"><strong></h2>多媒体智能讲台</h2></strong>
+
+              <p>艾博德自主研发的红外多点触摸屏技术，拥有多项红外多点触摸...</p>
+
+              <p><a href="/products/duomeitizhinenjiangtai/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+          <li>
+
+            <div class="pic"><a href="/products/chaodachicunbaibanyitijixilie/" ><img src=""/></a></div>
+
+            <div class="title"><strong></h2>超大尺寸白板一体机系列</h2></strong>
+
+              <p>...</p>
+
+              <p><a href="/products/chaodachicunbaibanyitijixilie/">点击查看</a></p>
+
+            </div>
+
+          </li>
+
+          
+
+        </ul>
+
+      </div>
+
+      <script type="text/javascript">
+
+		jQuery(".product_c_con").slide({titCell:".hd ul",mainCell:".bd ul",autoPage:true,effect:"left",autoPlay:true,vis:4,trigger:"click"});
+
+		</script> 
+
+    </div>
+
+  </div>
+
+  <div class="news clearfix">
+
+    <div class="fazx_t"><a href="/news"><strong>新闻中心</strong><span>news</span></a></div>
+
+    <div class="news_con clearfix">
+
+      <div class="news_left">
+
+        <ul>
+
+          <li class="clearfix">
+
+            <div class="pic"><a href="/news/gsdt/601.html"><img src="/uploads/allimg/220809/11-220P91JP52H-lp.jpg" /></a></div>
+
+            <div class="txt">
+
+              <h2><strong><a href="/news/gsdt/601.html">关于我司胡倍业无偿捐献造血干细胞的表彰</a></strong></h2>
+
+              <div class="txt_con">
+
+                <p>我司研发部胡倍业，富有爱心、热心公益，是中华骨髓库的一位造血干细胞（骨髓）志愿捐献者。近期接到中华骨髓库的通知，告知其造血干细胞基因与一位等待移植的小女孩白血病患... <a href="/news/gsdt/601.html">查看详情</a></p>
+
+              </div>
+
+            </div>
+
+          </li>
+<li class="clearfix">
+
+            <div class="pic"><a href="/news/gsdt/413.html"><img src="/uploads/allimg/xinwenzixun/gongsidongtai/20180601-ertongjie/fm.jpg" /></a></div>
+
+            <div class="txt">
+
+              <h2><strong><a href="/news/gsdt/413.html">艾博德股份祝愿所有孩子儿童节快乐</a></strong></h2>
+
+              <div class="txt_con">
+
+                <p>艾博德股份作为教育行业的领导品牌，在为全球所有儿童制定教育解决方案的同时，也没有忘记大家庭自家员工的孩子们。在这一天里，为他们精心准备了各种各样的礼物，与他们一起... <a href="/news/gsdt/413.html">查看详情</a></p>
+
+              </div>
+
+            </div>
+
+          </li>
+
+
+        </ul>
+
+      </div>
+
+      <div class="news_right">
+
+        <div class="news_right_title"><span><a href="/news">MORE</a></span>新闻资讯</div>
+
+        <ul>
+
+          <li><em>06-26</em><a href="/news/gsdt/640.html">“应试”与“素质”，教育能够实现双赢吗？</a></li>
+<li><em>06-19</em><a href="/news/gsdt/639.html">艾博德科技｜全新数字高校解决方案曝光</a></li>
+<li><em>06-12</em><a href="/news/gsdt/634.html">与时代同行，让教室充满生命力</a></li>
+<li><em>06-12</em><a href="/news/gsdt/638.html">艾博德智慧课堂小技巧，你上手了吗？</a></li>
+<li><em>06-12</em><a href="/news/gsdt/635.html">凭借全屏实力 开拓互联未来</a></li>
+<li><em>06-12</em><a href="/news/gsdt/637.html">关于艾博德会议一体机，你是否有这些问号？</a></li>
+<li><em>06-12</em><a href="/news/gsdt/636.html">深度应用，融合创新｜艾博德亮相日本教育综</a></li>
+<li><em>05-05</em><a href="/news/gsdt/633.html">如何通过艾博德会议一体机，提升企业培训的</a></li>
+<li><em>05-05</em><a href="/news/gsdt/632.html">如何打造一场完美的提案大会？</a></li>
+
+
+        </ul>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="yqlj"><strong style="float:left;">友情链接：</strong>
+
+    <ul>
+
+      <li><a href='https://beian.miit.gov.cn/' target='_blank'>粤ICP备17144866号</a> </li><li><a href='http://www.i-board.com.cn/products/cmytj/' target='_blank'>触摸一体机</a> </li><li><a href='http://www.i-board.com.cn' target='_blank'>创客教育</a> </li><li><a href='http://www.i-board.com.cn/zspj/' target='_blank'>知识普及</a> </li><li><a href='http://www.i-board.com.cn/' target='_blank'>多媒体教学一体机</a> </li><li><a href='http://www.i-board.com.cn/' target='_blank'>创客空间</a> </li><li><a href='http://www.i-board.com.cn/project/zf/xy/' target='_blank'>智慧班牌</a> </li><li><a href='http://www.i-board.com.cn/products/drcm/' target='_blank'>电容触摸屏</a> </li><li><a href='http://www.i-board.com.cn/rjzy/wxt/' target='_blank'>智慧校园</a> </li><li><a href='http://www.yjbbt.com/' target='_blank'>云计班班通</a> </li>
+
+    </ul>
+
+  </div>
+
+</div>
+
+<div class="bottom">
+  <div class="bottom_nav">
+    <ul>
+      
+      <li><a href='/products/'>产品中心</a> </li>
+      
+      <li><a href='/rjzy/'>软件资源</a> </li>
+      
+      <li><a href='/project/jy/'>解决方案</a> </li>
+      
+      <li><a href='/case/'>成功案例</a> </li>
+      
+      <li><a href='/news/'>新闻资讯</a> </li>
+      
+      <li><a href='/services/cpaz/'>服务支持</a> </li>
+      
+      <li><a href='/about/gsjs/'>关于我们</a> </li>
+      
+    </ul>
+  </div>
+</div>
+<div class="foot clearfix">
+  <div class="foot_con clearfix">
+    <div class="foot_logo"><img src="/images/foot_logo.png" alt="aibode" /> </div>
+    <div class="foot_lxwm">
+      <p>地址/Add:  深圳市光明区民生大道37号民生工业城126栋</p>
+      <p>电话/Tel:  +86-755-86001808    400热线:  4006-690-418</p>
+      <p>邮箱/Email:  market@touch-easy.com    全国公安机关互联网站备案号：44030502001985</p>
+      <p>Copyright©2006-2016 深圳市艾博德科技股份有限公司  <a href='https://beian.miit.gov.cn/' target='_blank'>粤ICP备17144866号</a></p>
+      <p>网站设计：<a href="http://www.zhongnait.com/"rel="nofollow">中纳网络科技</a></p>
+    </div>
+    <div class="foot_lxfs">
+      <div class="ewm"><img src="/images/ewm.jpg" alt="iboard"  /></div>
+      <div class="foot_tel"><img src="/images/tel2.png" alt="艾博德联系" /></div>
+      <div class="foot_search">
+        <form id="search" name="search" method="post" action="/plus/search.php">
+
+          <input name="keyword" type="text" />
+
+          <input name="submit" class="button" value=" " type="submit" />
+
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?8cfc4af3ec5f07d883d69e51cfe7075c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div id="sidebar">
+  <table border="0">
+    <tr>
+      <td class="t6"><a  onClick=javascript:ShowFLT(1) href="javascript:void(null)">
+        <div class="img">
+          <div class="djjt">官方<br />
+            微信</div>
+        </div>
+        </a>
+        <div class="ewm" id=LM1  style="DISPLAY: none"><img src="/images/ewm.jpg" /></div></td>
+    </tr>
+    <tr>
+      <td class="t4"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2880387976&site=qq&menu=yes">
+        <div class="img">
+          <div class="djjt">在线<br />
+            客服</div>
+        </div>
+        </a></td>
+    </tr>
+    <tr>
+      <td class="t5"><a onClick=javascript:ShowFLT(2) href="javascript:void(null)">
+        <div class="img">
+          <div class="djjt">联系<br />
+            电话</div>
+        </div>
+        </a>
+        <div class="phone_NO"  id=LM2 style="DISPLAY: none">
+          <p><strong>联系人：</strong>张小姐</p>
+          <p><strong>电话：</strong>4006-690-418</p>
+          <p><strong>地址：</strong>深圳市光明区民生大道37号民生工业城126栋</p>
+        </div></td>
+    </tr>
+  </table>
+</div>
+
+<div class="go_top"><a href="javascript:goTop();" class="sidetop"></a></div>
+
+</body>
+
+</html>

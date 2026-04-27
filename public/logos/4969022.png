@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- for Search -->
+    <meta name="keywords" content="5G Broadband, Satellite Broadband, Home Connectivity & Entertainment, Fixed Broadband, NFV/SDN & Enterprise, IOT Solutions" />
+    <meta name="description" content="CyberTAN Technology, Inc. is a leading manufacturer of broadband and wireless networking equipment. Since its founding in June 1998, CyberTAN has energetically invested in R&D resources to provide professional OEM/ODM services for the home networking and communications market." />
+    <meta name="distribution" content="Taiwan" /> 
+    <meta name="robots" content="all" />
+    <meta name="robots" content="index,follow" />
+    <meta name="revisit-after" content="1 days" />
+    <meta name="rating" content="general" />
+    <meta name="author" content="CyberTAN Technology, Inc.">
+    <meta name="copyright" content="CyberTAN Technology, Inc." />
+    <meta property="og:image" content="assets/img/index/line-icon.jpg"/>
+    <title>CyberTAN Technology, Inc.,5G Broadband, Satellite Broadband, Home Connectivity & Entertainment, Fixed Broadband, NFV/SDN & Enterprise, IOT Solutions</title>
+    <link href="#" rel="shortcut icon" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <meta name="csrf-token" content="DhIWHBbrn45f5WaJ3L0lPMhOmyx59EwNqZ7brwSj" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="#" rel="shortcut icon" />
+    <link href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" rel="stylesheet" />
+    <link href="assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="assets/js/rd-navbar/jquery.rd-navbar.css" rel="stylesheet" type="text/css" />
+    <link href="assets/js/aos/aos.css" rel="stylesheet">
+    <link href="assets/js/textillate/animate.css" rel="stylesheet">
+    <link href="assets/js/slick/slick.css" rel="stylesheet" />
+    <link href="assets/js/slick/slick-theme.css" rel="stylesheet" />
+    <link href="assets/css/index.css" rel="stylesheet" />
+    <!-- Google tag (gtag.js) --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DV2HRXYB05"></script> 
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-DV2HRXYB05'); </script>
+</head>
+
+<body>
+<header class="rd-navbar-wrap">
+    <nav class="rd-navbar" data-rd-navbar-lg="rd-navbar-static">
+        <div class="rd-navbar-main-outer">
+            <div class="rd-navbar-inner">
+                <div class="rd-navbar-panel" style="display: inline-block;">
+                    <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                    <div class="rd-navbar-brand">
+                        <a class="brand" href="index">
+                            <img src="assets/img/logo.png" alt="CyberTAN Technology, Inc." width="auto" height="40">
+                        </a>
+                    </div>
+                </div>
+                <div class="rd-navbar-nav-wrap">
+<!--                    <div class="search">
+                        <input type="text" class="form-control"><button class="btn btn-dark">GO</button>
+                    </div>-->
+                    <ul class="rd-navbar-nav">
+                        <li class="active"><a href="index">Home</a></li>
+                        <li><a class="hover1" href="about-01">About Us</a>
+                            <ul class="rd-navbar-dropdown">
+                                <li><a href="about-01">Overview</a></li>
+                                <li><a href="about-02">Management Team</a></li>
+                                <li><a href="about-03">Major Achievements</a></li>
+                                <li><a href="about-04">Culture & Prospect</a></li>
+                                <li><a href="about-05">Quality Management</a></li>
+                                <li><a href="about-06">Stakeholder Contacts</a></li>
+                            </ul>
+                        </li>
+                        <li><a class="hover1" href="products-01">Products</a>
+                            <ul class="rd-navbar-dropdown" style="width: 350px;">
+                                <li><a href="products-01#anchor-products01">SMB/Enterprise Solutions</a></li>
+                                <li><a href="products-02#anchor-products02">Wired/Wireless Broadband Solutions</a></li>
+                                <li><a href="products-03#anchor-products03">Home Connectivity & Entertainment Solutions</a></li>
+                                <li><a href="products-04#anchor-products04">IoT Solutions</a></li>
+                            </ul>
+                        </li>
+                        <li><a class="hover1" href="advantages">Why CyberTAN</a></li>
+                        <li><a class="hover1" href="news-01">News</a>
+                            <ul class="rd-navbar-dropdown">
+                                <li><a href="news-01">Recent News</a></li>
+<!--                                <li><a href="news-02">Recent Events</a></li>-->
+                            </ul>
+                        </li>
+                        <li><a class="hover1" href="careers-01">Careers</a>
+                            <ul class="rd-navbar-dropdown">
+                                <li><a href="careers-01">Join Us</a></li>
+                            </ul>
+                        </li>
+                        <li><a class="hover1" href="https://esg.cybertan.com.tw/" target="_blank">ESG</a></li>
+                        <!--<li><a class="hover1" href="esg-01">ESG</a>
+                            <ul class="rd-menu rd-navbar-megamenu rd-navbar-open-right esg-menu">
+                                <li class="rd-megamenu-item">
+                                    <h6 class="rd-megamenu-title"><a href="esg-01">ESG Sustainable Development</a></h6>
+                                    <ul class="rd-megamenu-list">
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-01-01">Sustainability Goals & Strategies</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-01-02">Sustainability Report</a></li>
+                                    </ul>
+                                </li>
+                                <li class="rd-megamenu-item">
+                                    <h6 class="rd-megamenu-title"><a href="esg-02">Environment</a></h6>
+                                    <ul class="rd-megamenu-list">
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-02-01">Climate Change</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-02-02">Energy Greenhouse and Gas Emissions</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-02-03">Waste Management</a></li>
+                                    </ul>
+                                </li>
+                                <li class="rd-megamenu-item">
+                                    <h6 class="rd-megamenu-title"><a href="esg-03">Social</a></h6>
+                                    <ul class="rd-megamenu-list">
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-03-01">Talent Recruitment and Appointment</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-03-02">Occupational Safety and Health</a></li>
+                                    </ul>
+                                </li>
+                                <li class="rd-megamenu-item">
+                                    <h6 class="rd-megamenu-title"><a href="esg-04">Governance</a></h6>
+                                    <ul class="rd-megamenu-list">
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-04-01">Information Security</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-04-02">Supplier Management</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-04-03">Risk Management</a></li>
+                                    </ul>
+                                </li>
+                                <li class="rd-megamenu-item">
+                                    <h6 class="rd-megamenu-title"><a href="esg-05">Stakeholder</a></h6>
+                                    <ul class="rd-megamenu-list">
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-05-01">Identification of Material Topics</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-05-02">Material Topics & Value Chain</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="esg-05-03">Questionnaire Survey</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>-->
+                        <li><a class="hover1" href="investor-01">Investor Relations</a>
+                            <ul class="rd-menu rd-navbar-megamenu rd-navbar-open-right">
+                                <li class="rd-megamenu-item">
+                                    <h6 class="rd-megamenu-title"><a href="investor-01">Financial Information</a></h6>
+                                    <ul class="rd-megamenu-list">
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-01">Monthly Revenues</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-01-2">Financial Statements</a></li>
+                                    </ul>
+                                </li>
+                                <li class="rd-megamenu-item">
+                                    <h6 class="rd-megamenu-title"><a href="investor-02">Shareholder services</a></h6>
+                                    <ul class="rd-megamenu-list">
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-02">Dividend and Capital Information</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-02-2">Shareholder's meeting</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-02-3">Major Shareholders</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-02-4">Investor Conference</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-02-5">Investor Relations Contacts</a></li>
+                                    </ul>
+                                </li>
+                                <li class="rd-megamenu-item">
+                                    <h6 class="rd-megamenu-title"><a href="investor-03">Corporate Governances</a></h6>
+                                    <ul class="rd-megamenu-list">
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-03">Board of Directors</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-03-2">Functional Committee</a></li>
+                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="investor-03-3">Important Internal Regulations</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a class="hover1" href="contact">Contact Us</a></li>
+                        <li><a class="hover1" href="index">Language</a>
+                            <ul class="rd-navbar-dropdown">
+                                <li><a href="/">English</a></li>
+                                <li><a href="/tw">繁中版</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <!-- 首頁 carousel-intro -->
+        <div id="carousel-index" class="carousel-intro carousel slide" data-ride="carousel"> 
+            <ul class="carousel-indicators">
+                <li data-target="#carousel-index" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-index" data-slide-to="1"></li>
+                <li data-target="#carousel-index" data-slide-to="2"></li>
+                <li data-target="#carousel-index" data-slide-to="3"></li>
+            </ul>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="assets/img/index/carousel-item04.jpg" alt="" width="100%" height="auto">
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/img/index/carousel-item03.jpg" alt="" width="100%" height="auto">
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/img/index/carousel-item01.jpg" alt="" width="100%" height="auto">
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/img/index/carousel-item02.jpg" alt="" width="100%" height="auto">
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carousel-index" data-slide="prev"> <span class="carousel-control-prev-icon"></span> </a> 
+            <a class="carousel-control-next" href="#carousel-index" data-slide="next"> <span class="carousel-control-next-icon"></span> </a> 
+        </div>
+        <!-- 產品系列 -->
+        <section class="clearfix products mb-5">
+            <h2 class="h2-title">Product Series</h2>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-3 col-md-6">
+                        <div class="products-item" style="background-image:url(assets/img/index/products-item-a01.jpg);">
+                            <h3>SMB/Enterprise Solutions</h3>
+                            <p>Learn more >></p>
+                            <a href="products-01#anchor-products01"></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6">
+                        <div class="products-item" style="background-image:url(assets/img/index/products-item-a02.jpg);">
+                            <h3>Wired/Wireless Broadband Solutions</h3>
+                            <p>Learn more >></p>
+                            <a href="products-02#anchor-products02"></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6">
+                        <div class="products-item" style="background-image:url(assets/img/index/products-item-a03.jpg);">
+                            <h3>Home Connectivity & Entertainment Solutions</h3>
+                            <p>Learn more >></p>
+                            <a href="products-03#anchor-products03"></a>
+                        </div>
+                     </div>
+                     <div class="col-xl-3 col-md-6">
+                        <div class="products-item" style="background-image:url(assets/img/index/products-item-a04.jpg);">
+                            <h3>IoT Solutions</h3>
+                            <p>Learn more >></p>
+                            <a href="products-04#anchor-products04"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+        <!-- News -->
+        <section class="clearfix news">
+            <h2 class="h2-title">Global Presence</h2>
+            <img src="assets/img/index/map-b.jpg" alt="" width="100%" height="auto" class="img-fluid d-none d-md-block">
+            <img src="assets/img/index/map-s.jpg" alt="" width="100%" height="auto" class="img-fluid d-block d-md-none">
+        </section>
+    
+        <!-- Why CyberTAN? -->
+        <section class="clearfix advantages">
+            <h2 class="h2-title">Why CyberTAN?</h2>
+            <div class="container-fluid">
+                <div class="row justify-content-xl-start justify-content-center align-items-center advantages-img">
+                    <div class="col-bg-7 col-lg-11">
+                        <div class="advantages-info">
+                            <h3>Pushing the Limits of Technology</h3>
+                            <h4>CyberTAN Technology is a <span>"Total Area Networking"</span> solutions provider</h4>
+                            <div class="advantages-info-desc">
+                                <ul>
+                                    <li>By focusing on innovative ODM/OEM services, we aim to satisfy our customer's need of improved cost efficiency and increased productivity.</li>
+                                    <li>CyberTAN has built a unique set of competencies unparalleled in the networking industry- with its extensive technical and management experience in the IT industries, combined with its engineering and manufacturing capabilities.</li>
+                                </ul>
+                            </div>
+                            <div class="advantages-info-btn"><a class="hover1" href="advantages">Learn More</a></div> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+     <!-- Layout footer -->
+     <footer> 
+    <!-- 聯絡我們 -->
+    <div class="contact-btn">
+        Based on core technology, we provide customers with product solutions. <br /><a href="contact">Contact Us</a>
+    </div>
+    <div class="footer-main">
+        <div class="container">
+            <!-- footer 下方選單 -->
+            <div class="footer-nav">
+                <div class="d-flex justify-content-between">
+                    <div class="footer-nav-item">
+                        <h4>About Us</h4>
+                        <ul>
+                            <li><a href="about-01">Overview</a></li>
+                            <li><a href="about-02">Management Team</a></li>
+                            <li><a href="about-03">Major Achievements</a></li>
+                            <li><a href="about-04">Culture & Prospect</a></li>
+                            <li><a href="about-05">Quality Management</a></li>
+                            <li><a href="about-06">Stakeholder Contacts</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-nav-item">
+                        <h4>Products</h4>
+                        <ul>
+                            <li><a href="products-01#anchor-products01">SMB/Enterprise Solutions</a></li>
+                            <li><a href="products-02#anchor-products02">Wired/Wireless Broadband Solutions</a></li>
+                            <li><a href="products-03#anchor-products03">Home Connectivity & Entertainment Solutions</a></li>
+                            <li><a href="products-04#anchor-products04">IoT Solutions</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-nav-item">
+                        <h4>Why CyberTAN?</h4>
+                        <ul>
+                            <li><a href="advantages">Why CyberTAN?</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-nav-item">
+                        <h4>News</h4>
+                        <ul>
+                            <li><a href="news-01">Recent News</a></li>
+<!--                                <li><a href="news-02">Recent Events</a></li>-->
+                        </ul>
+                    </div>
+                    <div class="footer-nav-item">
+                        <h4>Careers</h4>
+                        <ul>
+                            <li><a href="careers-01">Join Us</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-nav-item">
+                        <h4>ESG</h4>
+                        <ul>
+                            <li><a href="https://esg.cybertan.com.tw/" target="_blank">ESG</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-nav-item">
+                        <h4>Investor Relations</h4>
+                        <ul>
+                            <li><a href="investor-01">Financial Information</a></li>
+                            <li><a href="investor-02">Shareholder services</a></li>
+                            <li><a href="investor-03">Corporate Governances</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-nav-item">
+                        <h4>Contact Us</h4>
+                        <ul>
+                            <li><a href="contact">Contact Form</a></li>
+                            <li><a href="contact">Location Map</a></li>
+                        </ul>
+                    </div>
+                </div>    
+            </div>
+            <!-- footer 聯絡資訊 -->
+            <div class="footer-contacts">
+                <div class="d-xl-flex justify-content-start">
+                    <div class="footer-contacts-logo"><img src="assets/img/logo.png" alt="" width="auto" height="40"></div>
+                    <div class="footer-contacts-info">
+                        <ul>
+                            <li>No. 99, Park Ave. 3, Science Based Park, Baoshan Township, Hsinchu, 300096 Taiwan, R.O.C.</li>
+                            <li>Tel: + 886 (3) 577-7777</li>
+                            <li>Fax: + 886 (3) 577-7788</li>
+                            <li><a href="privacy">Privacy and Cookie Policy</a></li>
+                            <li class="pt-2">© CyberTAN Technology, lnc. All Rights Reserved.</li>
+                        </ul>
+<!--                        <div class="share-icon">
+                            <a href="#"><img src="assets/img/icon-facebook.png" alt="" width="30" height="auto"></a>
+                            <a href="#"><img src="assets/img/icon-youtube.png" alt="" width="30" height="auto"></a>
+                            <a href="#"><img src="assets/img/icon-line.png" alt="" width="30" height="auto"></a>
+                        </div>-->
+                        <div class="footer-contacts-btn">
+                            <a onclick="location.href='tel:+886-3-5777777'" role="button">
+                                <i class="fas fa-phone-alt"></i> Live call
+                            </a>
+                            <a href="https://goo.gl/maps/ZhekegNXdffoJwM58" target="_blank" role="button">
+                                <i class="fas fa-map"></i> map navigation
+                            </a>
+                        </div>
+                    </div>
+                </div>    
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- cookies -->
+<div id="cookies-box" style="display:none;">
+	<div class="container">
+		<h4>Privacy and Cookies Policy</h4>
+		<div class="d-lg-flex">
+			<p>
+			This website uses cookies to enhance your user experience and to collect statistics on network traffic. By continuing to use this site you agree to our use of cookies.
+			Our <a href="privacy" target="_blank">Privacy and Cookie Policy</a> provides more information on the use and deactivation of cookies.
+			</p>
+			<div class="cookies-btn"><a href="javascript:alertCookie();">I understand</a></div>
+		</div>
+	</div>
+</div>
+        
+
+
+<script type="text/javascript">
+
+    window.onload = function() {
+      var cookieValue =getCookie('foo_cookie');
+      var foo_cookie = new Array();
+    　var foo_cookie = cookieValue.split(";");
+      //alert(foo_cookie[0]);
+      //alert(cookieValue);
+      if (foo_cookie[0]==""){
+          //alert('沒有cookie');
+          $('#cookies-box').css('display','block'); 
+      }else{
+          $('#cookies-box').css('display','none'); 
+      }
+    };
+
+    function alertCookie() {
+      // 設定 cookie 叫 foo_cookie
+      // 在瀏覽器關閉後會自動被刪除
+      document.cookie = 'foo_cookie=Hello';
+      //alert(document.cookie);
+      var cookieValue =getCookie('foo_cookie');
+      var foo_cookie = new Array();
+    　var foo_cookie = cookieValue.split(";");
+      //alert(foo_cookie[0]);
+      if (foo_cookie[0]==""){
+          //alert('沒有cookie');
+          $('#cookies-box').css('display','block'); 
+      }else{
+          $('#cookies-box').css('display','none'); 
+      }
+    }
+    function getCookie(c_name){
+        if (document.cookie.length>0)
+          {
+          c_start=document.cookie.indexOf(c_name + "=");
+          if (c_start!=-1)
+            { 
+            c_start=c_start + c_name.length+1 ;
+            c_end=document.cookie.indexOf("&",c_start);
+            if (c_end==-1) c_end=document.cookie.length
+            return unescape(document.cookie.substring(c_start,c_end));
+            } 
+          }
+        return ""
+    }
+</script>
+
+    <!-- JavaScript
+    ================================================== -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/include.js"></script>
+    <script src="assets/js/script.js"></script>
+    <script type="text/javascript">
+        $('.responsive-hotProducts').slick({
+          arrows: true,
+          dots: false,
+          infinite: true,
+          speed: 300,
+          autoplay: true,
+          autoplaySpeed: 3000,
+          slidesToShow: 4,
+          slidesToScroll: 1,
+          responsive: [
+            {
+              breakpoint: 1281,
+              settings: {
+                slidesToShow: 3,
+              }
+            },
+            {
+              breakpoint: 1025,
+              settings: {
+                slidesToShow: 2,
+              }
+            },
+            {
+              breakpoint: 991,
+              settings: {
+                slidesToShow: 2, 
+              }
+            },
+            {
+              breakpoint: 641,
+              settings: {
+                slidesToShow: 1,
+              }
+            },
+          ]
+        });
+        $('.responsive-eventGoods').slick({
+          arrows: true,
+          dots: false,
+          infinite: true,
+          speed: 300,
+          autoplay: true,
+          autoplaySpeed: 3000,
+          slidesToShow: 4,
+          slidesToScroll: 1,
+          responsive: [
+            {
+              breakpoint: 1281,
+              settings: {
+                slidesToShow: 3,
+              }
+            },
+            {
+              breakpoint: 1025,
+              settings: {
+                slidesToShow: 2,
+              }
+            },
+            {
+              breakpoint: 991,
+              settings: {
+                slidesToShow: 2, 
+              }
+            },
+            {
+              breakpoint: 641,
+              settings: {
+                slidesToShow: 1,  
+              }
+            },
+          ]
+        });
+    </script>
+
+</body>
+</html>

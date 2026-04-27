@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+
+# TypeScript incremental
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.claude/
+*.swp
+*~
+
+# Licensed S&P CapIQ exports — bring your own
+SPGlobal_Export*.xlsx
+SPGlobal_Export*.xls
+SPGlobal_Export*.csv
+
+# SQLite database (rebuilt from the xlsx) — bring your own
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.db-journal
+
+# Agent state / runtime
+data/agent-state.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel

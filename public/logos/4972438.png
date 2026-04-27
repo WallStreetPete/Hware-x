@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GIGASTONE Capture Your Moment</title>
+    <meta name="keywords" content="Gigastone,BFCM,black friday,Cyber Monday,Flash,memory card,micro SD, USB, Charger, Power Bank, Wireless Pad,Cables,Hub,Keyboard,Gaming keybaord, monitor,SSD,DRAM,DDR3,DDR4,over clocking,apple,iphone,macbook,ipad,microphone,bluetooth,earphone,gopro,switch" />
+    <meta name="description" content="Discover Gigastone and shop memory cards, SSD, DRAM, PC accessories, wall chargers, hubs, power banks, and more.">
+    <meta property="og:title" content="GIGASTONE Capture Your Moment"/>
+    <meta property="og:description" content="Discover Gigastone and shop memory cards, SSD, DRAM, PC accessories, wall chargers, hubs, power banks, and more."/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://www.gigastone.com/en"/>
+  <meta property="og:image" content="https://www.gigastone.com/resources/views/home/theme/images/og/og.jpg"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="stylesheet" href="https://www.gigastone.com/resources/views/home/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://www.gigastone.com/resources/views/home/theme/lightbox/css/lightbox.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"/>
+  <link rel="stylesheet" href="https://www.gigastone.com/resources/views/home/theme/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://www.gigastone.com/resources/views/home/theme/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="https://www.gigastone.com/resources/views/home/theme/css/swiper-bundle.min.css">
+  <link rel="stylesheet" href="https://www.gigastone.com/resources/views/home/theme/css/animate.css">
+  <link rel="stylesheet" href="https://www.gigastone.com/resources/views/home/theme/css/style.css?20260427021023">
+  <link rel="icon" type="png" href="https://www.gigastone.com/resources/views/home/theme/favicon.png" />
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js'></script>
+  <script src="https://www.gigastone.com/resources/views/home/theme/js/owl.carousel.min.js"></script>
+  <script src="https://www.gigastone.com/resources/views/home/theme/js/wow.min.js"></script>
+  <script src="https://www.gigastone.com/resources/views/home/theme/js/head.js"></script>
+  <script>
+    function refresh_code(){ 
+            document.getElementById("imgcode").src="https://www.gigastone.com/captcha.php"; 
+        } 
+  </script>
+</head>
+
+<body>
+  
+<div id="gotop">︿</div>
+ <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+    <div class="text-center">
+      <a class="navbar-brand" href="https://www.gigastone.com/en">
+          <img src="https://www.gigastone.com/resources/views/home/theme/images/logo/gigastone_logo.png" alt="GIGASTONE" title="GIGASTONE">
+      </a>
+    </div>
+    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="icon-bar top-bar"></span>
+          <span class="icon-bar middle-bar"></span>
+          <span class="icon-bar bottom-bar"></span>
+          <span class="sr-only">Toggle navigation</span>
+        </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.gigastone.com/en/abouts">
+            <span class="cn">About Us</span>
+        </a>
+        </li>
+        
+                                                   <li class="nav-item dropdown">
+                <button class="nav-link dropdown-item" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="cn">Memory Cards</span></button>
+                <div class="dropdown-menu dropdown-menu-one">
+                                                         
+                      <a href="https://www.gigastone.com/en/product/5" class="dropdown-item" type="button">microSD Cards</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/13" class="dropdown-item" type="button">SD Cards</a>
+                    
+                                                        </div>
+              </li>
+
+               
+                                                      <li class="nav-item dropdown">
+                <button class="nav-link dropdown-item" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="cn">PC Peripherals</span></button>
+                <div class="dropdown-menu dropdown-menu-one">
+                                                         
+                      <a href="https://www.gigastone.com/en/product/6" class="dropdown-item" type="button">Monitor</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/8" class="dropdown-item" type="button">Gaming</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/9" class="dropdown-item" type="button">DRAM</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/14" class="dropdown-item" type="button">SSD</a>
+                    
+                                                        </div>
+              </li>
+
+               
+                                                      <li class="nav-item dropdown">
+                <button class="nav-link dropdown-item" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="cn">Mobile Accessories</span></button>
+                <div class="dropdown-menu dropdown-menu-one">
+                                                         
+                      <a href="https://www.gigastone.com/en/product/12" class="dropdown-item" type="button">Wall Chargers</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/15" class="dropdown-item" type="button">Car Charger</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/17" class="dropdown-item" type="button">Bluetooth Earphone</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/19" class="dropdown-item" type="button">Power Bank</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/16" class="dropdown-item" type="button">Magnetic Wireless Charger</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/11" class="dropdown-item" type="button">Cables</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/20" class="dropdown-item" type="button">Bluetooth Microphone</a>
+                    
+                                                        </div>
+              </li>
+
+               
+                                           
+                  <li class="nav-item dropdown">
+                    <a class="nav-link " href="https://www.gigastone.com/en/product/2"><span class="cn">USB Drives</span></a>
+                  </li>
+               
+                  
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.gigastone.com/en/news">
+            <span class="cn">News</span>
+        </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.gigastone.com/en/events">
+            <span class="cn">Events</span>
+        </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.gigastone.com/en/download">
+            <span class="cn">Documents &amp; Drives</span>
+        </a>
+        </li>
+         
+       
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.gigastone.com/en/contact">
+            <span class="cn">Contact Us</span>
+        </a>
+        </li>
+      </ul>
+    </div>
+
+    <ul class="nav justify-content-center">
+        <li class="nav-item dropdown">
+          <button class="nav-link dropdown-item" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span class="cn">About Us</span>
+          </button>
+          <div class="dropdown-menu dropdown-menu-one">
+            <a class="nav-link" href="https://www.gigastone.com/en/abouts">
+            <span class="cn">About Us</span>
+            </a>
+            <a class="nav-link" href="https://www.gigastone.com/en/news">
+                <span class="cn">News</span>
+            </a>
+            <a class="nav-link" href="https://www.gigastone.com/en/events">
+                <span class="cn">Events</span>
+            </a>
+          </div>
+        </li> 
+        
+
+        
+                                                      <li class="nav-item dropdown">
+                <button class="nav-link dropdown-item" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="cn">Memory Cards</span></button>
+                <div class="dropdown-menu dropdown-menu-one">
+                                                         
+                      <a href="https://www.gigastone.com/en/product/5" class="dropdown-item" type="button">microSD Cards</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/13" class="dropdown-item" type="button">SD Cards</a>
+                    
+                                                        </div>
+              </li>
+
+               
+                                                      <li class="nav-item dropdown">
+                <button class="nav-link dropdown-item" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="cn">PC Peripherals</span></button>
+                <div class="dropdown-menu dropdown-menu-one">
+                                                         
+                      <a href="https://www.gigastone.com/en/product/6" class="dropdown-item" type="button">Monitor</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/8" class="dropdown-item" type="button">Gaming</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/9" class="dropdown-item" type="button">DRAM</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/14" class="dropdown-item" type="button">SSD</a>
+                    
+                                                        </div>
+              </li>
+
+               
+                                                      <li class="nav-item dropdown">
+                <button class="nav-link dropdown-item" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="cn">Mobile Accessories</span></button>
+                <div class="dropdown-menu dropdown-menu-one">
+                                                         
+                      <a href="https://www.gigastone.com/en/product/12" class="dropdown-item" type="button">Wall Chargers</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/15" class="dropdown-item" type="button">Car Charger</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/17" class="dropdown-item" type="button">Bluetooth Earphone</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/19" class="dropdown-item" type="button">Power Bank</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/16" class="dropdown-item" type="button">Magnetic Wireless Charger</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/11" class="dropdown-item" type="button">Cables</a>
+                    
+                                                                             
+                      <a href="https://www.gigastone.com/en/product/20" class="dropdown-item" type="button">Bluetooth Microphone</a>
+                    
+                                                        </div>
+              </li>
+
+               
+                                           
+                  <li class="nav-item dropdown">
+                    <a class="nav-link " href="https://www.gigastone.com/en/product/2"><span class="cn">USB Drives</span></a>
+                  </li>
+               
+            
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.gigastone.com/en/download">
+            <span class="cn">Documents &amp; Drives</span>
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.gigastone.com/en/contact">
+            <span class="cn">Contact Us</span>
+          </a>
+        </li>
+    </ul>
+    
+  </nav>
+
+
+      
+    <div class="slider-wrap">
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+      <div class="carousel-inner">
+                            <div class="carousel-item active">
+          <a href="https://www.gigastone.com/en/product/5" target="_blank">
+            <img src="uploads/20250808165016580.jpg" class="d-block w-100" alt="Photo Series Memory Card">
+            
+          <div class="carousel-caption d-md-block">
+            <h1 class=""></h1>
+            <h5 class=""></h5>
+          </div>
+          </a>
+        </div>
+                                    <div class="carousel-item">
+            <a href="https://www.gigastone.com/en/product/12" target="_blank">
+           <img src="uploads/20250808165125622.jpg" class="d-block w-100" alt="Mobile Charging">
+
+          <div class="carousel-caption d-md-block">
+             <h1 class="" ></h1>
+            <h5 class="" ></h5>
+          </div>
+        </a>
+        </div>
+                                    <div class="carousel-item">
+            <a href="https://www.gigastone.com/en/product/5" target="_blank">
+           <img src="uploads/20250203134057676.jpg" class="d-block w-100" alt="Memory Cards">
+
+          <div class="carousel-caption d-md-block">
+             <h1 class="" ></h1>
+            <h5 class="" ></h5>
+          </div>
+        </a>
+        </div>
+                
+
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+    </div>
+
+
+   
+    </div>
+   
+     <section class="index-products-cate" id="index-position">
+        <div class="row"> 
+                                                                                                                                                                                                                                                                                <div class="col-md-4 mb-2">  
+                <div class="item">
+                    <div class="img-wrap">
+                        <a href="https://www.gigastone.com/en/product/1">
+                            <img class="svg" src="uploads/20250211231922630.jpg" alt="Memory Cards" loading="lazy">
+                        </a>
+                    </div>
+            
+                </div>
+            </div>
+                                                                <div class="col-md-4 mb-2">  
+                <div class="item">
+                    <div class="img-wrap">
+                        <a href="https://www.gigastone.com/en/product/3">
+                            <img class="svg" src="uploads/20250211232016588.jpg" alt="PC Peripherals" loading="lazy">
+                        </a>
+                    </div>
+            
+                </div>
+            </div>
+                                            <div class="col-md-4 mb-2">  
+                <div class="item">
+                    <div class="img-wrap">
+                        <a href="https://www.gigastone.com/en/product/4">
+                            <img class="svg" src="uploads/20250211232047423.jpg" alt="Mobile Accessories" loading="lazy">
+                        </a>
+                    </div>
+            
+                </div>
+            </div>
+                                                </div>
+     </section>
+     <section class="index-videos">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="videos-wrap">
+                    <iframe width="100%" height="480" src="https://www.youtube.com/embed/PpVhbtvJ3z8?si=TxFuMLqHsXRpeada" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="videos-wrap">
+                    <iframe width="100%" height="480" src="https://www.youtube.com/embed/iSZ-EhpayQk?si=S7XfXYQZxE0a9880" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+     </section>
+     <section class="index-products">
+        <div class="index-products-wrap"> 
+        <div class="row"> 
+
+            <div class="col-md-12 no-padding"> 
+                <div class="container"> 
+                <div class="index-title flex-wrap " >
+                    
+                    <h1>New Arrivals</h1>
+
+                </div>
+            </div>
+            </div>
+        </div> 
+        <div class="row">   
+                                  <div class="item col-6 col-sm-6 col-md-4 col-lg-3">  
+                <div class="">
+                    <a class="" href="https://www.gigastone.com/en/products-detail/10">
+                    <div class="img-wrap">
+                        <img src="uploads/20250326142752355.jpg" alt="MICRO SD GAMING PLUS" loading="lazy">
+                        <div class="product-hover-icon flex-wrap">
+                            <div class="product-view-btn"> 
+                                <i class="fas fa-search"></i>
+                                <span>View</span>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                    
+                    <div class="content-wrap">
+                        <p class="product-tag">MICRO SD GAMING PLUS</p>
+                        <h1 class="title">
+                            <a href="https://www.gigastone.com/en/products-detail/10">
+                                MICRO SD GAMING PLUS
+                            </a>
+                        </h1>
+                                                
+                    </div>  
+                </div>
+            </div>
+                                                                                                                                                                                                                                                                                                                                                          <div class="item col-6 col-sm-6 col-md-4 col-lg-3">  
+                <div class="">
+                    <a class="" href="https://www.gigastone.com/en/products-detail/1">
+                    <div class="img-wrap">
+                        <img src="uploads/20250326142804953.jpg" alt="MICRO SD CAMERA PLUS" loading="lazy">
+                        <div class="product-hover-icon flex-wrap">
+                            <div class="product-view-btn"> 
+                                <i class="fas fa-search"></i>
+                                <span>View</span>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                    
+                    <div class="content-wrap">
+                        <p class="product-tag">MICRO SD CAMERA PLUS</p>
+                        <h1 class="title">
+                            <a href="https://www.gigastone.com/en/products-detail/1">
+                                MICRO SD CAMERA PLUS
+                            </a>
+                        </h1>
+                                                
+                    </div>  
+                </div>
+            </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="col-12">
+                <div class="index-product-more">
+                    <a href="https://www.gigastone.com/en/products">See More</a>
+                </div>
+            </div>
+        </div>        
+        
+        </div>    
+
+    </section>
+   
+   
+    
+
+    
+
+   <section class="footer">
+
+        <div class="container">
+
+            <div class="row">
+                
+                <div class="col-md-8">
+                    <div class="logo-wrap">
+                        <h5><a href="">GIGASTONE</a></h5>
+                    </div>
+                    <div class="information">
+                             <ul>
+                                <li><a href="https://www.gigastone.com/en/abouts">About Us</a></li>
+                                <li><a href="https://www.gigastone.com/en/news">News</a></li>
+                                <li><a href="https://www.gigastone.com/en/products">Products</a></li>
+                                <li><a href="https://www.gigastone.com/en/download">Documents &amp; Drives</a></li>
+                                <li><a href="https://www.gigastone.com/en/refund">Refund Policy</a></li>
+                                <li><a href="https://www.gigastone.com/en/privacy">Privacy Policy</a></li>
+                                <li><a href="https://www.gigastone.com/en/contact">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    <div class="local">
+                        <h5>Contact Info</h5>
+                            <ul>
+                                <li>
+                                    Customer service hour: 10:00-17:00
+                                </li>
+                                <li>
+                                    Email: service@gigastone.com
+                                </li>
+                            </ul>
+                        </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="fllow-us">
+                        <ul>
+                            <li><a class="flex-wrap" href="https://www.facebook.com/Gigastone.GST"target="_blank" ><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="flex-wrap" href="https://www.instagram.com/gigastone_global/"target="_blank" ><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="flex-wrap" href="https://www.youtube.com/@GigastoneCorp"target="_blank" ><i class="fab fa-youtube"></i></a></li>
+                        </ul>
+   
+                        </div>
+                </div>
+                
+                </div>
+                 
+            </div>
+            <div class="copyright">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                    <p>Copyright © <span id="year"></span> <a href="./">GIGASTONE</a> All Rights Reserved. </p>
+                    </div>
+                    </div>
+
+                </div>
+            </div>
+
+    </section>
+    
+   
+    
+
+    
+    
+
+
+<script src="https://www.gigastone.com/resources/views/home/theme/js/jquery-3.3.1.slim.min.js"></script>
+<script src="https://www.gigastone.com/resources/views/home/theme/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://www.gigastone.com/resources/views/home/theme/js/jquery.zoomslider.min.js"></script>
+<script src="https://www.gigastone.com/resources/views/home/theme/lightbox/js/lightbox.js"></script>
+<script src="https://www.gigastone.com/resources/views/home/theme/js/swiper-bundle.min.js"></script>
+<script src="https://www.gigastone.com/resources/views/home/theme/js/footer.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+    <script>
+      if (typeof $.fn.lazyload === "undefined") {
+        document.write('<script src="https://www.gigastone.com/resources/views/home/theme/js/jquery.lazyload.min.js"><\/script>');
+      }
+    </script>
+    <script>
+      $(function() {
+        $("img.lazy").lazyload();
+      });
+    </script>
+</body>
+
+</html>

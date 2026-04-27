@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport"  content="user-scalable=no, width=device-width, initial-scale=1,imum-scale=1"  />
+    <link rel="icon" href="/assets/web/static/favicon.ico" type="image/x-icon" />
+    <title>天山电子</title>
+    <meta name="keywords" content="天山电子,LCD,天山，TFT，"/>
+    <meta name="description" content="广西天山电子股份有限公司是一家专业研发设计、制造生产各类LCD液晶显示屏、LCM黑白模组、TFT显示模组，TP触摸屏，复杂模组的高科技生产制造企业"/>
+    <link rel="stylesheet" href="/assets/web/css/reset.css?v=1.0.0" />
+    <link rel="stylesheet" href="/assets/web/css/swiper-bundle.min.css?v=1.0.0" />
+    <link rel="stylesheet" href="/assets/web/css/animate.min.css?v=1.0.0" />
+    <link rel="stylesheet" href="/assets/web/css/public.css?v=1.0.0" />
+    <link rel="stylesheet" href="/assets/web/iconfont/iconfont.css?v=1.0.0" />
+    
+<style>
+    .error-container{
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .error-container .spacer{
+        background: #efefef;
+        height: 10px;
+        width: 100%;
+    }
+    .error-container .error-tip{
+        width: 100%;
+        display: flex;
+        height: 600px;
+        font-size: 42px;
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+    <link rel="stylesheet" href="/assets/web/css/mobile.css?v=1.0.0" />
+    <script src="/assets/web/js/jquery-1.8.3.min.js?v=1.0.0"  type="text/javascript" charset="utf-8"  ></script>
+    <script src="/assets/web/js/jquery-migrate-1.2.1.min.js?v=1.0.0"></script>
+    <script type="text/javascript" src="/assets/web/js/jquery.corner.js?v=1.0.0"></script>
+    <script type="text/javascript" src="/assets/web/js/jquery.roundabout.js?v=1.0.0"></script>
+    <script type="text/javascript" src="/assets/web/js/jquery.roundabout-shapes.js?v=1.0.0" ></script>
+    <script src="/assets/web/js/swiper-bundle.min.js?v=1.0.0"></script>
+    <script src="/assets/web/js/index.js?v=1.0.0" defer></script>
+    <script src="/assets/web/js/lazyload.min.js" defer></script>
+    <script src="/assets/web/js/wow.js?v=1.0.0"></script>
+    <script src="/assets/web/js/bodySmoothScroll.js?v=1.0.0"></script>
+    <script src="/assets/web/js/vanilla-tilt.babel.min.js?v=1.0.0"></script>
+</head>
+<body>
+<header class="navigation">
+    <main class="container row_card row_flex navigation_box">
+        <div class="navigation_left">
+            <a href="/">
+                <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/system/20250402/5643ed0094bbb751c2615b0f044f3059_8455_938x276.png" class="logo_icon">
+            </a>
+        </div>
+        <div class="navigation_right row_card">
+            <ul class="navigation_menu row_card">
+                                <li class="menu_link row_card">
+                    <a class="link_path " href="/index.html">首页</a>
+                                    </li>
+                                <li class="menu_link row_card">
+                    <a class="link_path " href="/intro.html">走进天山</a>
+                                        <i class="iconfont">&#xe503;</i>
+                                            <div class="floating_layer">
+
+                            <ul class="router_list">
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/intro.html" title="公司介绍">公司介绍</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/resp.html" title="社会责任">社会责任</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/news.html" title="公司新闻">公司新闻</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/honor.html" title="企业荣誉">企业荣誉</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/framework.html" title="企业架构">企业架构</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center radius_card">
+                                        <a class="router_link text_1" href="/process.html" title="天山历程">天山历程</a>
+                                        </li>
+                                                                </ul>
+
+                            <!-- <div class="container row_card row_initial row_flex">
+                                <div class="floating_left row_vertical row_flex">
+                                    <p class="floating_title">走进天山</p>
+                                    <p class="floating_content">天山电子成立于2005年，​制造中心位于广西钦州市灵山县，营销中心位于广东深圳市。经过10多年的发展，公司积累了并具备有一定的生产规模，拥有雄厚的技术力量、稳定的管理团队，工厂面积达7.6万平方米，拥有全自动的STN规格的LCD生产线及全自动LCM生产线，全自动TFT模组生产线，触摸屏/盖板全贴合生产线。</p>
+                                    <a class="more_link row_card" href="/intro.html">
+                                        探索更多
+                                        <img src="/assets/web/static/i_link.png" class="more_icon">
+                                    </a>
+                                </div>
+                                <div class="floating_right row_flex row_wrap">
+                                                                        <a class="floating_columns" href="/intro.html">
+                                        <img src="" class="columns_img">
+                                        <p class="columns_title">公司介绍</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/resp.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/cd78889424ef91721a7f6ec392e4c67c_234741_484x266.png" class="columns_img">
+                                        <p class="columns_title">社会责任</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/news.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/8ea09c932c824ec214774ca566174db9_104041_484x266.png" class="columns_img">
+                                        <p class="columns_title">公司新闻</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/honor.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/653c83d098b7e37a025db834a6e4426a_149477_484x266.png" class="columns_img">
+                                        <p class="columns_title">企业荣誉</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/framework.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/07e966116c46c00b95b5850a5ae61e6b_159550_484x266.png" class="columns_img">
+                                        <p class="columns_title">企业架构</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/process.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/c990b5808286a8b4248271950b594a81_199133_484x266.png" class="columns_img">
+                                        <p class="columns_title">天山历程</p>
+                                    </a>
+                                                                    </div>
+                            </div> -->
+                        </div>
+                                    </li>
+                                <li class="menu_link row_card">
+                    <a class="link_path " href="/factory.html">制造中心</a>
+                                        <i class="iconfont">&#xe503;</i>
+                                            <div class="floating_layer">
+
+                            <ul class="router_list">
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/factory.html" title="生产车间">生产车间</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center radius_card">
+                                        <a class="router_link text_1" href="/quality.html" title="质量管理">质量管理</a>
+                                        </li>
+                                                                </ul>
+
+                            <!-- <div class="container row_card row_initial row_flex">
+                                <div class="floating_left row_vertical row_flex">
+                                    <p class="floating_title">制造中心</p>
+                                    <p class="floating_content">天山电子成立于2005年，​制造中心位于广西钦州市灵山县，营销中心位于广东深圳市。经过10多年的发展，公司积累了并具备有一定的生产规模，拥有雄厚的技术力量、稳定的管理团队，工厂面积达7.6万平方米，拥有全自动的STN规格的LCD生产线及全自动LCM生产线，全自动TFT模组生产线，触摸屏/盖板全贴合生产线。</p>
+                                    <a class="more_link row_card" href="/factory.html">
+                                        探索更多
+                                        <img src="/assets/web/static/i_link.png" class="more_icon">
+                                    </a>
+                                </div>
+                                <div class="floating_right row_flex row_wrap">
+                                                                        <a class="floating_columns" href="/factory.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/9e7770b42a09b1ca7f5cb347c53e679e_234715_484x266.png" class="columns_img">
+                                        <p class="columns_title">生产车间</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/quality.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/f984b37b7796d75d5627b551c80de7ed_187620_484x266.png" class="columns_img">
+                                        <p class="columns_title">质量管理</p>
+                                    </a>
+                                                                    </div>
+                            </div> -->
+                        </div>
+                                    </li>
+                                <li class="menu_link row_card">
+                    <a class="link_path " href="/product.html">产品中心</a>
+                                        <i class="iconfont">&#xe503;</i>
+                                            <div class="floating_layer">
+
+                            <ul class="router_list">
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/product/4.html" title="MONO液晶显示">MONO液晶显示</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/product/5.html" title="TP触摸屏">TP触摸屏</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/product/6.html" title="复杂模组">复杂模组</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center radius_card">
+                                        <a class="router_link text_1" href="/product/36.html" title="TFT液晶显示">TFT液晶显示</a>
+                                        </li>
+                                                                </ul>
+
+                            <!-- <div class="container row_card row_initial row_flex">
+                                <div class="floating_left row_vertical row_flex">
+                                    <p class="floating_title">产品中心</p>
+                                    <p class="floating_content">天山电子成立于2005年，​制造中心位于广西钦州市灵山县，营销中心位于广东深圳市。经过10多年的发展，公司积累了并具备有一定的生产规模，拥有雄厚的技术力量、稳定的管理团队，工厂面积达7.6万平方米，拥有全自动的STN规格的LCD生产线及全自动LCM生产线，全自动TFT模组生产线，触摸屏/盖板全贴合生产线。</p>
+                                    <a class="more_link row_card" href="/product.html">
+                                        探索更多
+                                        <img src="/assets/web/static/i_link.png" class="more_icon">
+                                    </a>
+                                </div>
+                                <div class="floating_right row_flex row_wrap">
+                                                                        <a class="floating_columns" href="/product/4.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250319/f3dd14e084503e92522c38164dbf302b_229133_1000x600.jpg" class="columns_img">
+                                        <p class="columns_title">MONO液晶显示</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/product/5.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250319/1a4202d444a2f5c6616546039d00863f_249770_1000x600.jpg" class="columns_img">
+                                        <p class="columns_title">TP触摸屏</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/product/6.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250319/d34d4c022ce0f25dbcf017f21f9068f1_286839_1000x600.jpg" class="columns_img">
+                                        <p class="columns_title">复杂模组</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/product/36.html">
+                                        <img src="https://img.szhulian.cn/uploads/www.techshine.com.cn/image/20250526/33bc72e3e80eeb0a97b3bcaf910045e8_163070_1000x600.jpg" class="columns_img">
+                                        <p class="columns_title">TFT液晶显示</p>
+                                    </a>
+                                                                    </div>
+                            </div> -->
+                        </div>
+                                    </li>
+                                <li class="menu_link row_card">
+                    <a class="link_path " href="/application.html">产品应用</a>
+                                    </li>
+                                <li class="menu_link row_card">
+                    <a class="link_path " href="/invest.html">投资者关系</a>
+                                        <i class="iconfont">&#xe503;</i>
+                                            <div class="floating_layer">
+
+                            <ul class="router_list">
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/invest.html" title="基本信息">基本信息</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="http://www.cninfo.com.cn/new/disclosure/stock?stockCode=301379&amp;orgId=9900041502&amp;sjstsBond=false#realTimeMarket" title="股票信息">股票信息</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="http://www.cninfo.com.cn/new/disclosure/stock?stockCode=301379&amp;orgId=9900041502#latestAnnouncement" title="信息披露">信息披露</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center radius_card">
+                                        <a class="router_link text_1" href="https://irm.cninfo.com.cn/ircs/search?keyword=301379" title="投资者互动">投资者互动</a>
+                                        </li>
+                                                                </ul>
+
+                            <!-- <div class="container row_card row_initial row_flex">
+                                <div class="floating_left row_vertical row_flex">
+                                    <p class="floating_title">投资者关系</p>
+                                    <p class="floating_content">天山电子成立于2005年，​制造中心位于广西钦州市灵山县，营销中心位于广东深圳市。经过10多年的发展，公司积累了并具备有一定的生产规模，拥有雄厚的技术力量、稳定的管理团队，工厂面积达7.6万平方米，拥有全自动的STN规格的LCD生产线及全自动LCM生产线，全自动TFT模组生产线，触摸屏/盖板全贴合生产线。</p>
+                                    <a class="more_link row_card" href="/invest.html">
+                                        探索更多
+                                        <img src="/assets/web/static/i_link.png" class="more_icon">
+                                    </a>
+                                </div>
+                                <div class="floating_right row_flex row_wrap">
+                                                                        <a class="floating_columns" href="/invest.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/ba1ca423f7e582ca4e39d22d8edc7786_160660_484x266.png" class="columns_img">
+                                        <p class="columns_title">基本信息</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="http://www.cninfo.com.cn/new/disclosure/stock?stockCode=301379&amp;orgId=9900041502&amp;sjstsBond=false#realTimeMarket">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/03c49fdd635d8a67d14d27bf40e9b81b_216513_484x266.png" class="columns_img">
+                                        <p class="columns_title">股票信息</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="http://www.cninfo.com.cn/new/disclosure/stock?stockCode=301379&amp;orgId=9900041502#latestAnnouncement">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/aabbf5bccf5fc6675c69e491579dfb35_231189_484x266.png" class="columns_img">
+                                        <p class="columns_title">信息披露</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="https://irm.cninfo.com.cn/ircs/search?keyword=301379">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/9bd0dcfa4bc871ea8b309aa7e95dec58_201295_484x266.png" class="columns_img">
+                                        <p class="columns_title">投资者互动</p>
+                                    </a>
+                                                                    </div>
+                            </div> -->
+                        </div>
+                                    </li>
+                                <li class="menu_link row_card">
+                    <a class="link_path " href="/job.html">人才招聘</a>
+                                        <i class="iconfont">&#xe503;</i>
+                                            <div class="floating_layer">
+
+                            <ul class="router_list">
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/job.html" title="校园招聘">校园招聘</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center radius_card">
+                                        <a class="router_link text_1" href="/job.html" title="社会招聘">社会招聘</a>
+                                        </li>
+                                                                </ul>
+
+                            <!-- <div class="container row_card row_initial row_flex">
+                                <div class="floating_left row_vertical row_flex">
+                                    <p class="floating_title">人才招聘</p>
+                                    <p class="floating_content">天山电子成立于2005年，​制造中心位于广西钦州市灵山县，营销中心位于广东深圳市。经过10多年的发展，公司积累了并具备有一定的生产规模，拥有雄厚的技术力量、稳定的管理团队，工厂面积达7.6万平方米，拥有全自动的STN规格的LCD生产线及全自动LCM生产线，全自动TFT模组生产线，触摸屏/盖板全贴合生产线。</p>
+                                    <a class="more_link row_card" href="/job.html">
+                                        探索更多
+                                        <img src="/assets/web/static/i_link.png" class="more_icon">
+                                    </a>
+                                </div>
+                                <div class="floating_right row_flex row_wrap">
+                                                                        <a class="floating_columns" href="/job.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/2b7537dcf41802907555dfe56b27c5e2_173073_484x266.png" class="columns_img">
+                                        <p class="columns_title">校园招聘</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/job.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/70a4ded0119309f17f31c5819daa3065_144079_484x266.png" class="columns_img">
+                                        <p class="columns_title">社会招聘</p>
+                                    </a>
+                                                                    </div>
+                            </div> -->
+                        </div>
+                                    </li>
+                                <li class="menu_link row_card">
+                    <a class="link_path " href="/contact.html">联系我们</a>
+                                        <i class="iconfont">&#xe503;</i>
+                                            <div class="floating_layer">
+
+                            <ul class="router_list">
+                                                                        <li class="router_main row_card row_center ">
+                                        <a class="router_link text_1" href="/contact.html" title="联系方式">联系方式</a>
+                                        </li>
+                                                                        <li class="router_main row_card row_center radius_card">
+                                        <a class="router_link text_1" href="/contact.html" title="在线留言">在线留言</a>
+                                        </li>
+                                                                </ul>
+
+                            <!-- <div class="container row_card row_initial row_flex">
+                                <div class="floating_left row_vertical row_flex">
+                                    <p class="floating_title">联系我们</p>
+                                    <p class="floating_content">天山电子成立于2005年，​制造中心位于广西钦州市灵山县，营销中心位于广东深圳市。经过10多年的发展，公司积累了并具备有一定的生产规模，拥有雄厚的技术力量、稳定的管理团队，工厂面积达7.6万平方米，拥有全自动的STN规格的LCD生产线及全自动LCM生产线，全自动TFT模组生产线，触摸屏/盖板全贴合生产线。</p>
+                                    <a class="more_link row_card" href="/contact.html">
+                                        探索更多
+                                        <img src="/assets/web/static/i_link.png" class="more_icon">
+                                    </a>
+                                </div>
+                                <div class="floating_right row_flex ">
+                                                                        <a class="floating_columns" href="/contact.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/52c545bb7c6991de42a299e9eff9839e_142227_484x266.png" class="columns_img">
+                                        <p class="columns_title">联系方式</p>
+                                    </a>
+                                                                        <a class="floating_columns" href="/contact.html">
+                                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/image/20250314/0a485322d3cafb83e93db9e36857e1d7_137716_484x266.png" class="columns_img">
+                                        <p class="columns_title">在线留言</p>
+                                    </a>
+                                                                        <div class="contact_column">
+                                                                                <div class="contact_section ">
+                                            <p class="contact_shop">深圳营销中心</p>
+                                            <p class="contact_text">地址：广东省深圳市宝安区前海科兴科学园1栋18楼</p>
+                                            <p class="contact_text">电话：0755-2661-3475</p>
+                                        </div>
+                                                                                <div class="contact_section m_t_60">
+                                            <p class="contact_shop">广西制造中心</p>
+                                            <p class="contact_text">地址：广西自治区钦州市灵山县檀圩镇灵北路东街335号</p>
+                                            <p class="contact_text">电话：86-777-5105085</p>
+                                        </div>
+                                        
+                                    </div>
+                                                                    </div>
+                            </div> -->
+                        </div>
+                                    </li>
+                            </ul>
+            <div class="row_card navigation_operate">
+                <main class="m_r_26 navigation_search">
+                    <div class="row_card">
+                        <img src="/assets/web/static/search.png" class="search_icon">
+                        <span class="navigation_text">搜索</span>
+                    </div>
+                    <div class="search_layer row_card row_flex">
+                        <input placeholder="输入搜索内容并回车" name="keyword" class="search_input">
+                        <img src="/assets/web/static/search.png" class="search_icon m_0">
+                    </div>
+                </main>
+                                <a class="row_card language_layer" href="/en/index.html">
+                    <img src="/assets/web/static/language.png" class="language_icon">
+                    <span class="navigation_text">EN</span>
+                </a>
+                
+
+            </div>
+            <div class="navigationbar_drawer">
+                <div class="navclick">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!-- mobile菜单 -->
+    <div class="mobile-navigation">
+        <ul class="mobile-list">
+                        <li class="mobile-li" data-open="0">
+                <div class="row_card row_flex">
+                                        <a class="mobile_column" href="/index.html">首页</a>
+                                        <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                </div>
+                <div class="mobile_drawer">
+                    <ul class="column_menu">
+                                            </ul>
+                </div>
+            </li>
+                        <li class="mobile-li" data-open="0">
+                <div class="row_card row_flex">
+                                        <p class="mobile_column" href="/intro.html">走进天山</p>
+                                        <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                </div>
+                <div class="mobile_drawer">
+                    <ul class="column_menu">
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/intro.html">公司介绍</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/resp.html">社会责任</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/news.html">公司新闻</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/honor.html">企业荣誉</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/framework.html">企业架构</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/process.html">天山历程</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                            </ul>
+                </div>
+            </li>
+                        <li class="mobile-li" data-open="0">
+                <div class="row_card row_flex">
+                                        <p class="mobile_column" href="/factory.html">制造中心</p>
+                                        <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                </div>
+                <div class="mobile_drawer">
+                    <ul class="column_menu">
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/factory.html">生产车间</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/quality.html">质量管理</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                            </ul>
+                </div>
+            </li>
+                        <li class="mobile-li" data-open="0">
+                <div class="row_card row_flex">
+                                        <p class="mobile_column" href="/product.html">产品中心</p>
+                                        <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                </div>
+                <div class="mobile_drawer">
+                    <ul class="column_menu">
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/product/4.html">MONO液晶显示</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/product/5.html">TP触摸屏</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/product/6.html">复杂模组</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/product/36.html">TFT液晶显示</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                            </ul>
+                </div>
+            </li>
+                        <li class="mobile-li" data-open="0">
+                <div class="row_card row_flex">
+                                        <a class="mobile_column" href="/application.html">产品应用</a>
+                                        <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                </div>
+                <div class="mobile_drawer">
+                    <ul class="column_menu">
+                                            </ul>
+                </div>
+            </li>
+                        <li class="mobile-li" data-open="0">
+                <div class="row_card row_flex">
+                                        <p class="mobile_column" href="/invest.html">投资者关系</p>
+                                        <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                </div>
+                <div class="mobile_drawer">
+                    <ul class="column_menu">
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/invest.html">基本信息</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="http://www.cninfo.com.cn/new/disclosure/stock?stockCode=301379&amp;orgId=9900041502&amp;sjstsBond=false#realTimeMarket">股票信息</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="http://www.cninfo.com.cn/new/disclosure/stock?stockCode=301379&amp;orgId=9900041502#latestAnnouncement">信息披露</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="https://irm.cninfo.com.cn/ircs/search?keyword=301379">投资者互动</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                            </ul>
+                </div>
+            </li>
+                        <li class="mobile-li" data-open="0">
+                <div class="row_card row_flex">
+                                        <p class="mobile_column" href="/job.html">人才招聘</p>
+                                        <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                </div>
+                <div class="mobile_drawer">
+                    <ul class="column_menu">
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/job.html">校园招聘</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/job.html">社会招聘</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                            </ul>
+                </div>
+            </li>
+                        <li class="mobile-li" data-open="0">
+                <div class="row_card row_flex">
+                                        <p class="mobile_column" href="/contact.html">联系我们</p>
+                                        <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                </div>
+                <div class="mobile_drawer">
+                    <ul class="column_menu">
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/contact.html">联系方式</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                                <li class="row_card row_flex column_destination">
+                            <a class="mobile_link" href="/contact.html">在线留言</a>
+                            <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                        </li>
+                                            </ul>
+                </div>
+            </li>
+                    </ul>
+    </div>
+</header>
+
+
+<div class="error-container">
+    <div class="spacer"></div>
+
+    <div class="error-tip">
+        404 PAGE NOT FOUND
+    </div>
+    <div class="spacer"></div>
+
+</div>
+
+
+<!-- 底部 -->
+<footer class="public_footer">
+    <div class="footer_container container">
+        <div class="footer_up row_card row_flex row_initial">
+            <div class="footer_left">
+                <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/system/20250402/5643ed0094bbb751c2615b0f044f3059_8455_938x276.png" class="footer_logo">
+                <div class="footer_enterprise">
+                    <main class="row_card footer_mation row_initial">
+                        <div class="footer_img">
+                            <img src="/assets/web/static/footer_0.png" class="footer_icon">
+                        </div>
+                        <p class="footer_content">电话：0755-26613475</p>
+                    </main>
+                                        <main class="row_card footer_mation row_initial m_tb_10" >
+                        <div class="footer_img">
+                            <img src="/assets/web/static/footer_1.png" class="footer_icon">
+                        </div>
+                        <p class="footer_content">深圳营销中心：广东省深圳市宝安区前海科兴科学园1栋18楼</p>
+                    </main>
+                                        <main class="row_card footer_mation row_initial m_tb_10" >
+                        <div class="footer_img">
+                            <img src="/assets/web/static/footer_1.png" class="footer_icon">
+                        </div>
+                        <p class="footer_content">广西制造中心：广西自治区钦州市灵山县檀圩镇灵北路东街335号</p>
+                    </main>
+                    
+                    <div class="row_card row_center row_vertical footer_qrcode">
+                        <img src="https://img.szhulian.cn/uploads/tianshan.szhulian.cn/system/20250314/63a505efc436d356a3fa0731b5ae9470_23729_200x200.png" class="footer_code">
+                        <span class="qrcode_text">微信公众号</span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_right">
+                <ul class="footer_menu row_card row_flex row_initial">
+                                                                <li class="footer_item" data-open="0">
+                            <div class="row_card row_flex">
+                                <p class="footer_title">走进天山</p>
+                                <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                            </div>
+                            <div class="footer_drawer">
+                                                                        <a class="footer_link" href="/intro.html">公司介绍</a>
+                                                                                                            <a class="footer_link" href="/resp.html">社会责任</a>
+                                                                                                            <a class="footer_link" href="/news.html">公司新闻</a>
+                                                                                                            <a class="footer_link" href="/honor.html">企业荣誉</a>
+                                                                                                            <a class="footer_link" href="/framework.html">企业架构</a>
+                                                                                                            <a class="footer_link" href="/process.html">天山历程</a>
+                                                                                                </div>
+                        </li>
+                                                                    <li class="footer_item" data-open="0">
+                            <div class="row_card row_flex">
+                                <p class="footer_title">制造中心</p>
+                                <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                            </div>
+                            <div class="footer_drawer">
+                                                                        <a class="footer_link" href="/factory.html">生产车间</a>
+                                                                                                            <a class="footer_link" href="/quality.html">质量管理</a>
+                                                                                                </div>
+                        </li>
+                                                                    <li class="footer_item" data-open="0">
+                            <div class="row_card row_flex">
+                                <p class="footer_title">产品中心</p>
+                                <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                            </div>
+                            <div class="footer_drawer">
+                                                                        <a class="footer_link" href="/product/4.html">MONO液晶显示</a>
+                                                                                                            <a class="footer_link" href="/product/5.html">TP触摸屏</a>
+                                                                                                            <a class="footer_link" href="/product/6.html">复杂模组</a>
+                                                                                                            <a class="footer_link" href="/product/36.html">TFT液晶显示</a>
+                                                                                                </div>
+                        </li>
+                                                                    <li class="footer_item" data-open="0">
+                            <div class="row_card row_flex">
+                                <p class="footer_title">产品应用</p>
+                                <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                            </div>
+                            <div class="footer_drawer">
+                                                            </div>
+                        </li>
+                                                                    <li class="footer_item" data-open="0">
+                            <div class="row_card row_flex">
+                                <p class="footer_title">投资者关系</p>
+                                <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                            </div>
+                            <div class="footer_drawer">
+                                                                        <a class="footer_link" href="/invest.html">基本信息</a>
+                                                                                                            <a class="footer_link" href="http://www.cninfo.com.cn/new/disclosure/stock?stockCode=301379&amp;orgId=9900041502&amp;sjstsBond=false#realTimeMarket">股票信息</a>
+                                                                                                            <a class="footer_link" href="http://www.cninfo.com.cn/new/disclosure/stock?stockCode=301379&amp;orgId=9900041502#latestAnnouncement">信息披露</a>
+                                                                                                            <a class="footer_link" href="https://irm.cninfo.com.cn/ircs/search?keyword=301379">投资者互动</a>
+                                                                                                </div>
+                        </li>
+                                                                    <li class="footer_item" data-open="0">
+                            <div class="row_card row_flex">
+                                <p class="footer_title">人才招聘</p>
+                                <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                            </div>
+                            <div class="footer_drawer">
+                                                                        <a class="footer_link" href="/job.html">校园招聘</a>
+                                                                                                            <a class="footer_link" href="/job.html">社会招聘</a>
+                                                                                                </div>
+                        </li>
+                                                                    <li class="footer_item" data-open="0">
+                            <div class="row_card row_flex">
+                                <p class="footer_title">联系我们</p>
+                                <img src="/assets/web/static/blues_right.svg" class="mobile_icon">
+                            </div>
+                            <div class="footer_drawer">
+                                                                        <a class="footer_link" href="/contact.html">联系方式</a>
+                                                                                                            <a class="footer_link" href="/contact.html">在线留言</a>
+                                                                                                </div>
+                        </li>
+                                                            </ul>
+            </div>
+        </div>
+        <p class="footer_bottom">
+
+             Copyright@ 广西天山电子股份有限公司 <a class="record_link" href="https://beian.miit.gov.cn" target="_blank" rel="external nofollow" ondragstart="return false">桂ICP备14003961号</a>            &nbsp;-&nbsp;
+            <span class="support">
+                Powered by<a href="https://www.szhl.cn/" target="_blank" class="support">&nbsp;SZHL.cn</a>
+              </span>
+        </p>
+    </div>
+</footer>
+
+<script>
+          $(document).ready(function () {
+        $(".footer_item").each(function () {
+          var footerLinks = $(this).find(".footer_link");
+          if (footerLinks.length === 0) {
+            $(this).remove();
+          }
+        });
+      });
+</script>
+</body>
+</html>

@@ -1,0 +1,993 @@
+
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="no-siteapp"/>
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<script>var webroot="/";</script>
+<meta name="Keywords" content="光伏镀膜玻璃,超薄物理钢化玻璃,双玻组件" />
+<meta name="Description" content="亚玛顿专注于光伏镀膜玻璃、超薄物理钢化玻璃和双玻组件的研发、生产和销售。电话：0519-88880015" />
+<title>亚玛顿 - 常州亚玛顿股份有限公司</title>
+<!-- Font Icon -->
+
+
+<link rel="stylesheet" href="/_ui/assets/vendor/fonts/material-icon/css/material-design-iconic-font.min.css">
+<link rel="stylesheet" href="/_ui/assets/vendor/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="/_ui/assets/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/_ui/assets/public/css/amazeui.min.css">
+
+<link rel="stylesheet" href="/_ui/assets/vendor/css-hamburgers/dist/hamburgers.min.css">
+
+<link rel="stylesheet" href="/_ui/assets/vendor/wow/libs/animate.css">
+<link rel="stylesheet" href="/_ui/assets/css/swiper.min.css">
+<link href="/_ui/assets/css/base.css?v=20220707" rel="stylesheet" type="text/css" />
+
+<script src="/_ui/assets/js/jquery.min.js"></script>
+<script src="/_ui/assets/js/jquery-migrate-1.1.0.min.js"></script>
+<script src="/_ui/assets/public/js/amazeui.min.js"></script>
+
+<script src="/_ui/assets/js/swiper.min.js"></script>
+<script src="/_ui/assets/js/jquery.SuperSlide.2.1.1.js"></script>
+<!--头部开始-->
+<header class="header header-1">
+  <div class="header-menu hidden-tablet-landscape  " id="js-navbar-fixed">
+    <div class="container-fluid">
+      <div class="header-menu-content display-flex">
+        <div class="logo"> <a href="/"> <img src="/_ui/assets/images/logo-cn.svg?20190201" alt="亚玛顿 - 常州亚玛顿股份有限公司" class="Lwhite" > <img src="/_ui/assets/images/logo-cn.svg?20190201" alt="亚玛顿 - 常州亚玛顿股份有限公司" class="Lcolor" > </a> </div>
+        <div class="menu-wrapper">
+          <nav class="menu">
+            <div>
+              <ul class="menu-primary">
+                <li class="menu-item menu-home"><a href="/">网站首页</a></li>
+                
+                <li class="menu-item     menu-item-has-children " ><a href="/about/" title="关于我们" >关于我们</a> 
+                  <ul class="sub-menu">
+                    
+                  
+                    <li class="menu-item" ><a href="/about/#aboutus" title="公司简介"   target="_blank"  >公司简介</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/about/#philosophy" title="经营理念"   target="_blank"  >经营理念</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/development/" title="发展历程"    >发展历程</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/honor/" title="企业荣誉"    >企业荣誉</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="http://sys.czamd.com/" title="省重点实验室"   target="_blank"  >省重点实验室</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/kechixufazhan/" title="可持续发展"    >可持续发展</a></li>
+                    
+                  
+                  </ul>
+                   </li>
+                
+                <li class="menu-item     menu-item-has-children " ><a href="/products/" title="核心产品" >核心产品</a> 
+                  <ul class="sub-menu">
+                    
+                  
+                    <li class="menu-item" ><a href="/photovoltaic-glass/" title="超薄玻璃"    >超薄玻璃</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/coated-glass/" title="新型镀膜玻璃"    >新型镀膜玻璃</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/BIPV/" title="BIPV组件"    >BIPV组件</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/photoelectric-glass/" title="光电玻璃"    >光电玻璃</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/packaging-material/" title="全贴合"    >全贴合</a></li>
+                    
+                  
+                  </ul>
+                   </li>
+                
+                <li class="menu-item    " ><a href="/cases/" title="项目案例" >项目案例</a>  </li>
+                
+                <li class="menu-item     menu-item-has-children " ><a href="/news/" title="新闻中心" >新闻中心</a> 
+                  <ul class="sub-menu">
+                    
+                  
+                    <li class="menu-item" ><a href="/company-news/" title="公司新闻"    >公司新闻</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/industry-news/" title="活动剪影"    >活动剪影</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/lvsefazhan/" title="绿色发展"    >绿色发展</a></li>
+                    
+                  
+                  </ul>
+                   </li>
+                
+                <li class="menu-item    " ><a href="https://002623.ir-online.com.cn/" title="投资者园地" >投资者园地</a>  </li>
+                
+                <li class="menu-item     menu-item-has-children " ><a href="/Contact/" title="联系我们" >联系我们</a> 
+                  <ul class="sub-menu">
+                    
+                  
+                    <li class="menu-item" ><a href="/Contact/" title="联系方式"    >联系方式</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/feedback/" title="客户反馈"    >客户反馈</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/global-branch/" title="分支机构"    >分支机构</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/join/" title="加入我们"    >加入我们</a></li>
+                    
+                  
+                  </ul>
+                   </li>
+                
+              </ul>
+            </div>
+          </nav>
+        </div>
+        <div class="toggle-box">
+          <div class="toggle-btn"> 
+            <span class="email-btn"> <i class="fa fa-envelope-o"></i> </span>
+            <span class="search-btn"> <i class="zmdi zmdi-search"></i> </span>
+            <div class="web_lan"> <span id="h_op_lanText"><img src="/_ui/assets/images/language_cn.jpg" height="17" /> CN</span> <i class="fa fa-angle-down"></i>
+              <div id="common_language">
+                <div class="inner">
+                  <div class="pos"> <span class="ico_arrow"></span>
+                    <div class="ly-inner">
+                      <ul>
+                        <li class="curr" data-lan="en"><a href="http://en.czamd.com/" target="_blank"  onclick="event.stopPropagation()||(event.cancelBubble = true);" >English</a></li>
+                        <li data-lan="ru"><a href="http://www.czamd.com/"  target="_blank"    onclick="event.stopPropagation()||(event.cancelBubble = true);" >中文版</a></li>
+                      </ul>
+                      <a href="#btn-global" class="btn-close"></a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="search-box display-flex-center">
+            <form method="GET" action="/plug/search.asp"   class="search-form">
+              <input type="text" placeholder="输入您所需要的关键字..."  class="input-text" name="key" value="">
+              <button type="submit" class="search-icon"> <i class="zmdi zmdi-search"></i> </button>
+              <input type="hidden" name="post_type">
+            </form>
+            <a href="#" class="nav-close"><i class="zmdi zmdi-close"></i></a> </div>
+        </div>
+      </div>
+      <div class="muen"> <span class="muenX"></span> <span class="muenY"></span> <span class="muenZ"></span> </div>
+    </div>
+  </div>
+
+  <!-- 手机版模板头部 -->
+  <div class="hidden-tablet-landscape-up header-mobile">
+    <div class="header-top-mobile">
+          <div class="container">
+            <div class="row">
+            <div class="col-5">
+              <div class="logo"> <a href="/"> <img src="/_ui/assets/images/logo-cn.svg?20190201" alt="亚玛顿 - 常州亚玛顿股份有限公司" class="Lwhite" ></a> </div>
+            </div>
+            <div class="col-7" style="display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;text-align: center;align-items: center;justify-content: flex-end;">
+              <span class="email-btn"><i class="fa fa-envelope-o"></i></span>
+              <span class="lang-btn"><a href="http://en.czamd.com" target="_blank" class="lang">EN</a></span>
+              <button class="hamburger hamburger--spin hidden-tablet-landscape-up" id="toggle-icon"> <span class="hamburger-box"> <span class="hamburger-inner"></span> </span> </button>
+              <div class="toggle-box">
+                  <div class="search-box display-flex-center">
+                    <form method="GET" action="/plug/search.asp"   class="search-form">
+                      <input type="text" placeholder="搜索关键字..."  class="input-text"  name="key" value="">
+                      <button type="submit" class="search-icon"> <i class="zmdi zmdi-search"></i> </button>
+                      <input type="hidden" name="post_type">
+                    </form>
+                    <a href="#" class="nav-close"><i class="zmdi zmdi-close"></i></a>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </div>
+    </div>
+    <div class="au-nav-mobile">
+      <nav class="menu-mobile">
+        <div>
+          <ul class="au-navbar-menu">
+            <li class="menu-item menu-home"><a href="/">网站首页</a></li>
+            
+            <li class="menu-item     menu-item-has-children " ><a href="/about/" title="关于我们" >关于我们</a>   <span class="arrow"><i></i></span>  
+                  <ul class="sub-menu">
+                    
+                  
+                    <li class="menu-item" ><a href="/about/#aboutus" title="公司简介" >公司简介</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/about/#philosophy" title="经营理念" >经营理念</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/development/" title="发展历程" >发展历程</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/honor/" title="企业荣誉" >企业荣誉</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="http://sys.czamd.com/" title="省重点实验室" >省重点实验室</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/kechixufazhan/" title="可持续发展" >可持续发展</a></li>
+                    
+                  
+                  </ul>
+                  
+            </li>
+            
+            <li class="menu-item     menu-item-has-children " ><a href="/products/" title="核心产品" >核心产品</a>   <span class="arrow"><i></i></span>  
+                  <ul class="sub-menu">
+                    
+                  
+                    <li class="menu-item" ><a href="/photovoltaic-glass/" title="超薄玻璃" >超薄玻璃</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/coated-glass/" title="新型镀膜玻璃" >新型镀膜玻璃</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/BIPV/" title="BIPV组件" >BIPV组件</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/photoelectric-glass/" title="光电玻璃" >光电玻璃</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/packaging-material/" title="全贴合" >全贴合</a></li>
+                    
+                  
+                  </ul>
+                  
+            </li>
+            
+            <li class="menu-item    " ><a href="/cases/" title="项目案例" >项目案例</a>   
+            </li>
+            
+            <li class="menu-item     menu-item-has-children " ><a href="/news/" title="新闻中心" >新闻中心</a>   <span class="arrow"><i></i></span>  
+                  <ul class="sub-menu">
+                    
+                  
+                    <li class="menu-item" ><a href="/company-news/" title="公司新闻" >公司新闻</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/industry-news/" title="活动剪影" >活动剪影</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/lvsefazhan/" title="绿色发展" >绿色发展</a></li>
+                    
+                  
+                  </ul>
+                  
+            </li>
+            
+            <li class="menu-item    " ><a href="https://002623.ir-online.com.cn/" title="投资者园地" >投资者园地</a>   
+            </li>
+            
+            <li class="menu-item     menu-item-has-children " ><a href="/Contact/" title="联系我们" >联系我们</a>   <span class="arrow"><i></i></span>  
+                  <ul class="sub-menu">
+                    
+                  
+                    <li class="menu-item" ><a href="/Contact/" title="联系方式" >联系方式</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/feedback/" title="客户反馈" >客户反馈</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/global-branch/" title="分支机构" >分支机构</a></li>
+                    
+                  
+                  
+                    <li class="menu-item" ><a href="/join/" title="加入我们" >加入我们</a></li>
+                    
+                  
+                  </ul>
+                  
+            </li>
+            
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div class="clear"></div>
+  </div>
+</header>
+<!--头部条结束--> 
+<!--头部条结束--> 
+<script>
+
+
+/*Hamburger Button*/
+$('.hamburger').on("click", function() {
+        $(this).toggleClass("is-active");
+        $('.au-nav-mobile').slideToggle(200, 'linear');
+    });
+
+// Navbar menu dropdown
+$('.au-navbar-menu li .arrow').on('click', function(e) {
+        $(this).siblings('.sub-menu').slideToggle(200, 'linear');
+        $(this).toggleClass('clicked');
+        e.stopPropagation();
+    });
+
+
+//语言选择
+$('.web_lan').on('click', function (e) {
+        e.preventDefault();
+        $('#common_language').toggleClass('active');
+});
+
+
+// 搜索框显示
+$('.nav-close').on('click', function (e) {
+        e.preventDefault();
+        $(this).parent().removeClass('active');
+});
+
+//搜索按钮
+$('.search-btn').on('click', function (e) {
+        e.preventDefault();
+        $(this).toggleClass('is-active');
+        // $('.nav-box').slideToggle(200, 'linear');
+        $('.search-box').toggleClass('active');
+});
+
+//邮箱按钮
+$('.email-btn').on('click', function (e) {
+  var tempwindow=window.open('_blank');
+  tempwindow.location='https://mail.21cn.net/' ;
+});
+
+</script>
+<!-- ############################# Intro Slider ############################# -->
+<style>
+
+.swiper-slide.swiper-slide-1 .text h4 {
+    font-size: 48px;
+}
+.swiper-slide.swiper-slide-1 .text p{
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: 17px;
+}
+
+@media (max-width: 768px){
+  .bannerWrap{ height: 350px;}
+  .swiper-slide.swiper-slide-1 .text h4{ font-size: 18px !important; line-height: 2; margin-bottom: 5px; text-align: center !important;}
+  .swiper-slide.swiper-slide-1 .text p{ font-size: 12px !important; padding:0 40px; margin: 0; letter-spacing: 5px; }
+}
+</style>
+<div class="bannerWrap">
+    <div class="index_banner">
+        <!-- Swiper -->
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide swiper-slide-1"
+                    style="background-image:url(/_ui/assets/img/fade-01.jpg?v=20220707)">
+                    <div class="homepage-carousel--slide-content--gradient" aria-hidden="true"></div>
+                    <div class="text" >
+                        <h4>拥抱太阳 追逐阳光</h4>
+                        <p>发展新能源造福全人类</p>
+                    </div>
+                </div>
+
+                <div class="swiper-slide swiper-slide-2"
+                style="background-image:url(/_ui/assets/img/fade00.jpg?v=202207071)">
+                <div class="homepage-carousel--slide-content--gradient" aria-hidden="true"></div>
+                <div class="text" style="display: none;">
+                    <h4>突破轻薄极限，创造性能佳话 <br>掌舵高品质，开启轻时代</h4>
+                </div>
+                </div>
+
+                
+ 
+
+                <div class="swiper-slide swiper-slide-3"
+                    style="background-image:url(/_ui/assets/img/fade3.jpg?v=20220707)">
+                    <div class="homepage-carousel--slide-content--gradient" aria-hidden="true"></div>
+                    <div class="text">
+                        <h4>剑指超大光电玻璃深加工 <br>
+                            稳步寻求新蓝海</h4>
+
+                    </div>
+                </div>
+
+
+                <div class="swiper-slide swiper-slide-4"
+                    style="background-image:url(/_ui/assets/img/fade4-1.jpg?v=20220707)">
+                    <div class="homepage-carousel--slide-content--gradient" aria-hidden="true"></div>
+                    <div class="text">
+                        <h4>充足的研发投入 • 雄厚的人才基础</h4>
+                        <p>强大的研发实力配合不断引进的先进研发设备确保了亚玛顿始终走在科技创新的前沿</p>
+                    </div>
+                </div>
+
+                
+            </div>
+            <!-- Add Pagination -->
+            <div id="fp-nav" class="swiper-pagination swiper-pagination-white"></div>
+            <!-- Add Arrows -->
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+        </div>
+    </div>
+</div>
+
+
+
+<section class="in_pro">
+    <div class="section-header wow fadeInUp ">
+        <h2 class="title">核心产品</h2>
+        <span class="line"><i></i></span>
+        <p class="subtitle">亚玛顿的产品已越来越受到国内外著名企业的青睐</p>
+    </div>
+    <div class="clearfix w_col list">
+        <div class="item item01  ">
+            <a href="/products/">
+                <div class="txt">
+                    <div class="des">
+                        <div class="des_inner">
+                            <b>核心产品</b>
+                            <p>亚玛顿的产品越来越受到国内外著名企业的青睐，在光伏玻璃研发基础上，采用超薄玻璃物理钢化技术创新开发了超薄双玻组件。之后凭借前瞻性发展战略进一步探索光电玻璃技术，成为国内少数能生产大尺寸超薄光电玻璃的企业。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="img">
+                    <span style="background-image: url(/_ui/assets/images/i_pro_0.jpg);"><img
+                            src="/_ui/assets/images/i_pro_0.jpg" /></span>
+                </div>
+            </a>
+        </div>
+        
+        <div class="item item02 ">
+             <a href="/photovoltaic-glass/">
+                <div class="txt">
+                    <div class="des">
+                        <div class="des_inner">
+                            <b>超薄玻璃</b>
+                            <p>亚玛顿是技术先进的超薄（厚度≤2mm）光伏钢化玻璃供应商，拥有先进的大面积超薄玻璃钢化技术和设备。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="img">
+                    <span><img src="/upfile/202503/2025033134926057.jpg" alt="超薄玻璃" /></span>
+                </div>
+            </a>
+         </div>
+         
+        <div class="item item02 ">
+             <a href="/BIPV/">
+                <div class="txt">
+                    <div class="des">
+                        <div class="des_inner">
+                            <b>BIPV组件</b>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="img">
+                    <span><img src="/upfile/202307/2023071837236073.jpg" alt="BIPV组件" /></span>
+                </div>
+            </a>
+         </div>
+         
+        <div class="item item02 ">
+             <a href="/photoelectric-glass/">
+                <div class="txt">
+                    <div class="des">
+                        <div class="des_inner">
+                            <b>光电玻璃</b>
+                            <p>亚玛顿在玻璃加工行业继续拓展，开发出适应电子产品需求的高品质盖板玻璃，显示器导光板等产品。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="img">
+                    <span><img src="/upfile/201903/2019032950452961.jpg" alt="光电玻璃" /></span>
+                </div>
+            </a>
+         </div>
+         
+        <div class="item item02 ">
+             <a href="/packaging-material/">
+                <div class="txt">
+                    <div class="des">
+                        <div class="des_inner">
+                            <b>全贴合</b>
+                            <p>亚玛顿拥有各种中型及大型尺寸贴合产线，可以实现Glass/film、Glass/Glass、Glass/Open cell等各种贴合，实现轻薄化、高清晰触控屏的贴合生产。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="img">
+                    <span><img src="/upfile/202012/2020120841691689.jpg" alt="全贴合" /></span>
+                </div>
+            </a>
+         </div>
+         
+        <div class="bg"></div>
+    </div>
+</section>
+
+<section class="about-area" >
+    <div class="container" >
+        <div class="section-header wow fadeInUp ">
+            <h2 class="title">关于亚玛顿</h2>
+            <span class="line"><i></i></span>
+            <p class="subtitle">始终专注于玻璃深加工领域的创新型科技企业</p>
+        </div>
+        <div class="row">
+            <div class="col-md-6 wow fadeInLeft " data-wow-delay="0.3s">
+                <img src="/_ui/assets/images/i_about.jpg" alt="" class="moc-img">
+            </div>
+            <div class="col-md-6  wow fadeInRight " data-wow-delay="0.6s">
+                <p class="text" style="text-indent: 2em; text-align: justify;">
+                    常州亚玛顿股份有限公司（简称“亚玛顿”）成立于2006年，是一家高新技术企业、江苏省创新型企业、福布斯最具潜力企业。2011年在深交所中小板上市。（股票代码：002623）</p>
+                <p class="text" style="text-indent: 2em; text-align: justify;">
+                    亚玛顿是技术主导型的制造企业，始终专注于光伏镀膜玻璃、超薄物理钢化玻璃和双玻组件的研发、生产和销售。凭借在前瞻领域的巨大研发投入，亚玛顿不断推陈出新，通过采用先进的大尺寸薄型热钢化技术，将钢化玻璃减薄至2mm及以下，搭载高性能减反射镀膜技术，配合独特的光伏组件设计理念，创新开发了超薄双玻组件，助力光伏行业进入更薄、更轻、更耐久的“轻量化”时代!
+                </p>
+                <div class="section-full-screen-more"><a href="/about/" target="_blank">了解更多</a></div>
+            </div>
+        </div>
+    </div>    
+</section>
+
+
+
+<section class="fact-counter">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 col-sm-6 col-xs-12">
+                <div class="single-item one">
+                    <article class="column wow fadeIn animated counted" data-wow-duration="0ms">
+                        <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="4500"
+                                id="myTargetElement"></span><span class="num2">万㎡</span></div>
+                        <div class="text">光伏玻璃年产能</div>
+                    </article>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6 col-xs-12">
+                <div class="single-item two">
+                    <article class="column wow fadeIn animated counted" data-wow-duration="0ms">
+                        <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="1.7"
+                                id="myTargetElement6">100</span><span class="num2">万片</span></div>
+                        <div class="text">光电玻璃年产能</div>
+                    </article>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6 col-xs-12">
+                <div class="single-item three">
+                    <article class="column wow fadeIn animated counted" data-wow-duration="0ms">
+                        <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="100"
+                                id="myTargetElement3">85</span><span class="num2">件</span></div>
+                        <div class="text">有效专利</div>
+                    </article>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6 col-xs-12">
+                <div class="single-item four">
+                    <article class="column wow fadeIn animated counted" data-wow-duration="0ms">
+                        <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="400000"
+                                id="myTargetElement4">400000</span><span class="num2">个</span></div>
+                        <div class="text">生产基地</div>
+                    </article>
+                </div>
+            </div>
+            <!--div class="col-md-2 col-sm-6 col-xs-12">
+                <div class="single-item">
+                    <article class="column wow fadeIn animated counted" data-wow-duration="0ms">
+                        <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="1500"
+                                id="myTargetElement5">1500</span><span class="num2">人</span></div>
+                        <div class="text">员工总人数</div>
+                    </article>
+                </div>
+            </!--div-->
+        </div>
+    </div>
+</section>
+
+
+<section class="news-area" >
+    <div class="container" >
+        <div class="section-header wow fadeInUp ">
+            <h2 class="title">新闻动态</h2>
+            <span class="line"><i></i></span>
+            <p class="subtitle">亚玛顿积极响应国家新能源政策，为社会带来更加清洁、安全的能源同时，也为客户带来更好的投资回报</p>
+        </div>
+        <div class="row">
+            
+            <div class="col-lg-4 col-md-6 col-12  wow fadeInUp" data-wow-delay="0.2s">
+                <a href="/company-news/695.html" title="温室气体排放核查声明">
+                    <div class="news-single">
+                        <div class="news-img">
+                            <div class="blog-date"> <span class="month">Jun
+                                </span> <span class="date"> 24</span> </div>
+                            <img src="/upfile/202506/2025062431366977.jpg"
+                                alt="">
+                        </div>
+                        <div class="news-content">
+                            <h4>温室气体排放核查声明</h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 col-12  wow fadeInUp" data-wow-delay="0.4s">
+                <a href="/company-news/694.html" title="碳足迹认证">
+                    <div class="news-single">
+                        <div class="news-img">
+                            <div class="blog-date"> <span class="month">Jun
+                                </span> <span class="date"> 20</span> </div>
+                            <img src="/upfile/202506/2025062052697361.png"
+                                alt="">
+                        </div>
+                        <div class="news-content">
+                            <h4>碳足迹认证</h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 col-12  wow fadeInUp" data-wow-delay="0.6s">
+                <a href="/company-news/693.html" title="2024年度社会责任报告">
+                    <div class="news-single">
+                        <div class="news-img">
+                            <div class="blog-date"> <span class="month">Jun
+                                </span> <span class="date"> 09</span> </div>
+                            <img src="/upfile/202506/2025060939554269.jpg"
+                                alt="">
+                        </div>
+                        <div class="news-content">
+                            <h4>2024年度社会责任报告</h4>
+                            <p>ESG报告.pdf</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            
+        </div>
+        <div class="section-full-screen-more"><a href="/news/" target="_blank">了解更多</a></div>
+    </div>
+</section>
+
+
+
+
+<section class="cases-area i-cases-area" >
+    <div class="container" >
+        <div class="section-header wow fadeInUp ">
+            <h2 class="title">项目案例</h2>
+            <span class="line"><i></i></span>
+            <p class="subtitle">以可持续发展为核心目标，促进节能减排，创造绿色生活环境</p>
+        </div>
+        <div class="row">
+            
+            <div class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-delay="0.2s">
+                <a href="/cases/640.html" title="亚玛顿-天道 美学光伏屋顶项目">
+                    <div class="cases-single">
+                        <div class="cases-img">
+                            <img src="/upfile/202302/2023020758653301.jpg"
+                                alt="">
+                        </div>
+                        <div class="cases-content">
+                            <h4>亚玛顿-天道 美学光伏屋顶项目</h4>
+                            <p>
+                                
+                                
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-delay="0.4s">
+                <a href="/cases/638.html" title="隆玛科技办公楼BIPV幕墙项目">
+                    <div class="cases-single">
+                        <div class="cases-img">
+                            <img src="/upfile/202302/2023020758393881.jpg"
+                                alt="">
+                        </div>
+                        <div class="cases-content">
+                            <h4>隆玛科技办公楼BIPV幕墙项目</h4>
+                            <p>
+                                
+                                
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            
+        </div>
+        <div class="section-full-screen-more"><a href="/cases/" target="_blank">了解更多</a></div>
+    </div>
+</section>
+
+
+<div class="main-wrap index-list">
+    <ul class="ovh clearfix">
+        <li class="li1">
+            <a href="/feedback/">
+                <div class="img">
+                    <img src="/_ui/assets/images/service_01.jpg">
+                </div>
+                <div class="bg"></div>
+                <dl>
+                    <dt class="pc"><span></span></dt>
+                    <dt class="phone"><span></span></dt>
+                    <dd>
+                        <label class="label1">
+                            <label class="label2">
+                                <h5>服务支持</h5>
+                                <p>专业人员现场指导操作使用过程中遇到的任何技术问题</p>
+                                <button>了解更多</button>
+                            </label>
+                        </label>
+                    </dd>
+                </dl>
+            </a>
+        </li>
+        <li class="li2">
+            <a href="/join/">
+                <div class="img">
+                    <img src="/_ui/assets/images/service_02.jpg">
+                </div>
+                <div class="bg"></div>
+                <dl>
+                    <dt class="pc"><span></span></dt>
+                    <dt class="phone"><span></span></dt>
+                    <dd>
+                        <label class="label1">
+                            <label class="label2">
+                                <h5>加入我们</h5>
+                                <p>秉承以人为本、人尽其才、承诺共赢的人才理念</p>
+                                <button>了解更多</button>
+                            </label>
+                        </label>
+                    </dd>
+                </dl>
+            </a>
+        </li>
+    </ul>
+</div>
+
+
+<!--底部开始-->
+<footer class="footer-section">
+ <div class="footer-top">
+ <div class="container">
+ <div class="row">
+ <div class="footer-column footer-column1 col-md-2 col-sm-6 col-xs-12">
+ <div class="link-widget">
+ <div class="help_top">
+ <h3>核心产品</h3>
+ <i class="fa fa-plus" aria-hidden="true"></i>
+ </div>
+ <ul class="list help_list clearfix">
+ 
+ <li ><a href="/photovoltaic-glass/">超薄玻璃</a></li>
+ 
+ <li ><a href="/coated-glass/">新型镀膜玻璃</a></li>
+ 
+ <li ><a href="/BIPV/">BIPV组件</a></li>
+ 
+ <li ><a href="/photoelectric-glass/">光电玻璃</a></li>
+ 
+ <li ><a href="/packaging-material/">全贴合</a></li>
+ 
+ </ul>
+ </div>
+ </div>
+ <div class="footer-column footer-column2 col-md-2 col-sm-6 col-xs-12">
+ <div class="link-widget">
+ <div class="help_top">
+ <h3>关于亚玛顿</h3>
+ <i class="fa fa-plus" aria-hidden="true"></i>
+ </div>
+ <ul class="list help_list clearfix">
+ 
+ <li ><a href="/about/#aboutus">公司简介</a></li>
+ 
+ <li ><a href="/about/#philosophy">经营理念</a></li>
+ 
+ <li ><a href="/development/">发展历程</a></li>
+ 
+ <li ><a href="/honor/">企业荣誉</a></li>
+ 
+ <li ><a href="http://sys.czamd.com/">省重点实验室</a></li>
+ 
+ <li ><a href="/kechixufazhan/">可持续发展</a></li>
+ 
+ </ul>
+ </div>
+ </div>
+ <div class="footer-column footer-column3 col-md-2 col-sm-6 col-xs-12">
+ <div class="link-widget">
+ <div class="help_top">
+ <h3>新闻中心</h3>
+ <i class="fa fa-plus" aria-hidden="true"></i>
+ </div>
+ <ul class="list help_list clearfix">
+ 
+ <li ><a href="/company-news/">公司新闻</a></li>
+ 
+ <li ><a href="/industry-news/">活动剪影</a></li>
+ 
+ <li ><a href="/lvsefazhan/">绿色发展</a></li>
+ 
+ </ul>
+ </div>
+ </div>
+ <div class="footer-column footer-column4 col-md-2 col-sm-6 col-xs-12">
+ <div class="link-widget">
+ <div class="help_top">
+ <h3>投资者园地</h3>
+ <i class="fa fa-plus" aria-hidden="true"></i>
+ </div>
+ <ul class="list help_list clearfix">
+ <li><a href="http://rs.p5w.net/c/002623.shtml" target="_blank">互动平台</a></li>
+ </ul>
+ </div>
+ </div>
+ <div class="footer-column footer-column5 col-md-2 col-sm-6 col-xs-12">
+ <div class="link-widget">
+ <div class="help_top">
+ <h3>联系我们</h3>
+ <i class="fa fa-plus" aria-hidden="true"></i>
+ </div>
+ <ul class="list help_list clearfix ">
+ <li><a >常州亚玛顿股份有限公司</a></li>
+ <li><a >地址：江苏省常州市天宁区青龙东路639号</a></li>
+ <li><a >电话：0519-88880015</a></li>
+ <li><a >传真：0519-88880017</a></li>
+ <li><a >邮箱：info@czamd.com</a></li>
+ </ul>
+ </div>
+ </div>
+ <div class="footer-column footer-column6 col-md-2 col-sm-6 col-xs-12">
+ <div class="erweima">
+ <img src="/_ui/assets/images/EWM.jpg" />
+ <span>扫一扫，关注微信</span>
+ </div>
+ <div class="bdsharebuttonbox">
+ <a href="#" class="bds_more" data-cmd="more"></a>
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+ <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+ <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+ </div>
+ </div> 
+ </div>
+ </div>
+ </div>
+
+
+ <div class="footer-bottom">
+ <div class="container">
+ <div class="copyright">Copyright © 2021 常州亚玛顿股份有限公司 All Rights Reserved &nbsp;<a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备13035854号-1</a>&nbsp; 苏公网安备 32040202000266号  技术支持:双喜<a href="https://www.czxixi.com/" target="_blank">常州网络公司</a>  <a href="https://www.czxixi.com/customer/mzsm.html" target="_blank">免责声明</a></div>
+ </div>
+ </div>
+
+</footer>
+
+
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.2/css/swiper.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.2/js/swiper.min.js"></script> -->
+
+<script src="/_ui/assets/vendor/wow/dist/wow.min.js"></script>
+<script>
+if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))){
+ new WOW().init();
+};
+</script>
+
+<script>
+ var swiper = new Swiper('.swiper-container', {
+ autoplay:{delay: 20000},
+ speed:3000,
+ spaceBetween: 30,
+ effect: 'fade',
+ loop: true,
+ pagination: {
+ el: '.swiper-pagination',
+ clickable: true,
+ renderBullet: function (index, className) {
+ return '<div class="' + className + '"><a><span></span></a></div>';
+ },
+ },
+ navigation: {
+ nextEl: '.swiper-button-next',
+ prevEl: '.swiper-button-prev',
+ },
+ });
+
+
+$(".help_top i").click(function(){
+ $(this).toggleClass('active');
+ $(this).parents('.link-widget').find('ul.list').slideToggle();
+});
+
+ //禁止鼠标右键
+ document.oncontextmenu = function(){
+ return false;
+ }
+ //禁止元素被选中
+ if (typeof(document.onselectstart) != 'undefined') { 
+ // IE chrome下禁止元素被选中 
+ document.onselectstart = function(){
+ return false;
+ }
+ } else {
+ // firefox下禁止元素被选中的变通办法 
+ document.write('<style type="text/css">body { -moz-user-select: none; }</style>'); 
+ }
+</script> 
+<script src="/_ui/assets/js/app.js?v=20220707"></script>
+<script src="/_ui/assets/public/js/countUp.min.js" type="text/javascript" ></script>
+<script type="text/javascript">
+    var options = {
+        useEasing: true,
+        useGrouping: true,
+        separator: ',',
+        decimal: '.',
+        prefix: '',
+        suffix: ''
+    };
+    var demo = new CountUp("myTargetElement", 0, 24000, 0, 2.5, options);
+    // var demo2 = new CountUp("myTargetElement2", 0, 1700, 0, 2.5, options);
+    var demo3 = new CountUp("myTargetElement3", 0, 245, 0, 2.5, options);
+    var demo4 = new CountUp("myTargetElement4", 0, 4, 0, 1.5, options);
+    // var demo5 = new CountUp("myTargetElement5", 0, 1500, 0, 1.5, options);
+    var demo6 = new CountUp("myTargetElement6", 0, 100, 0, 1.5, options);
+    $(window).scroll(function () {
+        if ($(window).scrollTop() >= 1000) {
+            demo.start();
+            // demo2.start();
+            demo3.start();
+            demo4.start();
+            // demo5.start();
+            demo6.start();
+        }
+    })
+
+    $("nav ul.menu-primary li.menu-home").addClass("curent-menu-item");
+</script>
+
+</body>
+</html>

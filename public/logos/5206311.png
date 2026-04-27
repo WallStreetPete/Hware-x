@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko">
+<head>
+<title>인덱스 페이지가 존재하지 않습니다.</title>
+	<meta http-equiv='Content-Type' content='text/html; charset=EUC-KR'>
+	<meta http-equiv='Cache-Control' content='no-cache'>
+	<meta http-equiv='Pragma' content='no-cache'>
+	<meta name='author' content='Inoweb'>
+	<link rel="stylesheet" href="http://inohosting.co.kr/error/css/style.css" type="text/css">
+</head>
+<body>
+<div id="wrapper">
+	<div id="mainContent"> 
+		<div class="t404">인덱스 페이지가 존재하지 않습니다.</div>
+		<div id="textContet">
+			<p class="help" style="margin-bottom:5px">인덱스 페이지가 존재하지 않습니다.<span class="spot">파일정보</span>를 확인해주세요 </p>
+			<p class="help2">기타 문의가 있으시면 이노웹(TEL:1688-7418)로 연락주세요. 감사합니다. </p>
+		</div>
+		<div id="bottomLogo"><a href="http://inoweb.co.kr" target="_blank">이노웹바로가기</a></div>
+	</div>
+</div>
+</body>
+</html>
